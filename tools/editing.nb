@@ -1,0 +1,25 @@
+®FC¯Editing Policies and Style Guide
+14 June 2020
+®FL¯
+We collect physical descriptions of building and monument exteriors, as well as of streets, squares, and other really existing outdoor locations. We consider covered passages and galleries, the fashionable public spaces of the first third of the century, outdoor locations for this purpose. We would also make an exception for the interiors of named restaurants or cafes.
+
+Paragraphs are marked by simple single new-line characters (\n or <enter>).
+
+Spaces before commas and periods are eliminated, but spaces before colons and semicolons are left in if present in the original.
+
+Roman-numeral centuries are given as “IVe”, “XIIe”, etc.
+
+Roman-numeral portions of sovereigns’ names may appear either as “IV”, “XIV”, etc., or as “IVe”, “XIVe”, etc., if given that way in the original. Francois I is Francois Ier if named that way in the original. 
+
+Several lines of white space should separate the end of one </match> and the start of the next <match> in all XML documents.
+
+In the date_added tag, the date appears as YYYYMMDD.
+
+An individual passage may carry more than one <place_name> tag. It should be added immediately below the first.
+
+
+We do not generally collect the distant history (pre-18th century) of existing monuments: we usually need not collect passages that recount the potentially hundreds of years of a monument or building’s history since its construction. We could make an exception here for a small number of monuments that no longer existed in the 19th century, but with reputations that continued to fascinate writers who could not actually see them. Here too, however, we try to concentrate on physical description.
+
+We often do not collect passages focused on the interior of monuments: we are primarily interested in what one saw when looking from outside.
+
+Break any of these rules rather than do something that seems manifestly counterintuitive or likely to limit the later usefulness of the XML document.

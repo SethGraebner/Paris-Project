@@ -1,0 +1,102 @@
+Identifier,Name,Alt_Name1,Alt_Name2
+,
+
+Nôtre-Dame
+
+Cit
+é
+Palais de Justice
+
+Morgue
+
+Conciergerie
+
+Quai de l'Horloge
+
+Louvre
+
+Jardin des Tuileries
+
+Palais des Tuileries
+
+Palais des Thermes
+Cluny
+Palais de Julien
+
+Saint-Germain-des-Pres
+
+Panthéon
+Église Sainte-Geneviève
+
+Palais-Royal
+
+Bourse
+
+Tour de Nesle
+
+Hôtel des Invalides
+
+Halles
+
+Tour Saint-Jacques
+
+Hôtel de Ville
+Place de la Grève
+
+Bastille
+Colonne de Juillet
+
+Arènes de Paris
+
+Boulevards
+
+	de la Madeleine
+
+	des Capucines
+
+	des Italiens
+
+	Montmartre
+
+	PoissonniŠre
+
+	de Bonne-Nouvelle
+
+	Saint-Denis
+
+	Saint-Martin
+
+	du Temple
+
+	des Filles-du-Calvaire
+
+	Beaumarchais
+
+
+rue Saint-Jacques
+
+rue Saint-Denis
+
+rue du Faubourg Saint-Honoré
+
+rue du Faubourg Saint-Antoine
+
+Champs-Elysées
+
+Place de la Concorde
+
+
+Place Vendôme
+
+Église de la Madeleine
+
+
+rue du Caire
+
+cour des Miracles
+
+Butte Montmartre
+
+Montfaucon
+voierie
+

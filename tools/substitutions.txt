@@ -1,0 +1,52 @@
+Substitution-Deletion List
+
+Headmatter: delete everything between “1e Gallica” and “utilisation.commerciale@bnf.fr.” inclusive.
+
+Delete excessive line stop characters.
+
+Delete underscore characters.
+
+lowercase characters+uppercase character —> lower case characters+space+uppercase chars.
+	(“parJulien” —> “par Julien”)
+
+
+
+
+*aicnt	*aient  [*=any letter or space]
+
+
+*cctte 	*cette	 [*=any letter or space]
+cct	cet
+celte	cette
+cst	est	 [full word only]
+cos	ces    [full word only]
+ct	et     [full word only]
+cu	eu	 [full word only]
+*cux 	*eux  [*= any letter or space]
+ccrtain*	certain*  [*=any letter or space]
+
+dù	dû
+enx	eux  [regardless of whether full word]
+
+ge 	ce	 [full word only]
+lcur*	leur*  [*=any letter or space]
+
+nc	ne [full word only]
+Panis	Paris
+plusicurs	plusieurs
+
+scra	sera	[full word only]
+scrai*	serai* [*=any letter or space]
+
+surle	sur le  [full word only]
+surla	sur la
+
+toutc	toute
+
+1à	là
+1e	le
+1a	la
+!a	la
+!e	le
+
+[*	1er
