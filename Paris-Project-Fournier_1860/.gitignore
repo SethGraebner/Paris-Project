@@ -1,0 +1,45 @@
+#samples
+# but do track lib.a, even though you're ignoring .a files above
+#!lib.a
+
+# only ignore the TODO file in the current directory, not subdir/TODO
+#/TODO
+
+# ignore all files in any directory named build
+#build/
+
+# ignore doc/notes.txt, but not doc/server/arch.txt
+#doc/*.txt
+
+# ignore all .pdf files in the doc/ directory and any of its subdirectories
+#doc/**/*.pdf
+
+
+# ignore all PDFs
+*.pdf
+
+#ignore certain directories in /tools
+tools/get_gallica_pdfs/
+tools/pdfminer.six-develop/
+tools/__pycache__/
+tools/PyGallica/
+tools/Pyllica/
+
+
+#ignore /test/ 
+test/
+
+#ignore /images/
+images/
+
+#ignore image files elsewhere
+*.jpg
+*.svc
+*.tif
+
+#ignore compressed files in these formats
+*.tar.gz
+*.zip
+*.7z
+
+

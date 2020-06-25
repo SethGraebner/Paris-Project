@@ -1,0 +1,55 @@
+Substitution-Deletion List
+
+Everything between “1e Gallica” and “utilisation.commerciale@bnf.fr.” inclusive
+
+excessive line stop characters.
+
+underscore characters
+space+lowercase characters+uppercase charater —> space+lower case characters+space+upperc.
+	(“ parJulien” —> “ par Julien”
+
+
+letter+enx —>letter+eux
+letter+ense	—> letter+euse also for -s
+
+
+
+aicnt	aient  including when partial word
+
+when full word: 
+cctte 	cette
+cct	cet
+celte	cette
+cst	est
+cos	ces
+ct	et
+cu	eu
+cux 	eux
+ccrtain	certain	plus wildcard
+
+
+
+dù	dû
+
+ge 	ce
+lcur	leur plus wildcard
+
+nc	ne
+Panis	Paris
+plusicurs	plusieurs
+
+scrai	serai
+scrais	serais
+scrait	serait
+surle	sur le
+surla	sur la
+
+toutc	toute
+
+1à	là
+1e	le
+1a	la
+!a	la
+!e	le
+
+[*	1er

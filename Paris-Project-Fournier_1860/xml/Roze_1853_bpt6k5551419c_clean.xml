@@ -1,0 +1,48 @@
+ <matches_and_snippets>
+ 
+   <match>
+    <uid>Roze_1853_bpt6k5551419c_1</uid>
+    <place_name>Halles</place_name>
+    <place_name>Cité</place_name>
+    <place_name>Hôtel-Dieu</place_name>
+    <pdf_page_number>12</pdf_page_number>
+    <file_name>Roze_1853_bpt6k5551419c_CL.txt</file_name>
+    <source_author>Roze, Henri</source_author>
+    <source_author>Roze, A.</source_author>
+    <source_title>Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles</source_title>
+    <source_date>1853</source_date>
+    <source_page_number>6</source_page_number>
+    <matching_term>Notre-Dame</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]
+Les 46,500 mètres de propriétés à exproprier actuellement, non compris le bâtiment des archives englobé près la place du Palais-de-Justice, ne se composent, sauf la rue de la Barillerie et quelques maisons sur les rues de Constantine et de la Cité que de masures de fort peu de valeur , comme construction et comme location. La valeur moyenne de l’ensemble de ces propriétés ne saurait donc dépasser, selon nous, 400 francs par mètre superficiel, constructions et terrains compensés, ce qui ferait supposer, pour les 46,500 mètres superficiels, une dépense totale d’expropriation de 18,600,000 francs, somme qui serait largement couverte par le produit de la vente des terrains libres de l’emplacement des anciennes Halles, que nous avons estimé, plus haut, à la somme de 22,500,000 francs.</snippet>
+</match>
+ 
+ 
+ 
+ 
+ 
+   <match>
+    <uid>Roze_1853_bpt6k5551419c_2</uid>
+    <place_name>Cité</place_name>
+    <place_name>Notre-Dame</place_name>
+    <place_name>Palais de Justice</place_name>
+    <place_name>Sainte-Chapelle</place_name>
+    <pdf_page_number>13</pdf_page_number>
+    <file_name>Roze_1853_bpt6k5551419c_CL.txt</file_name>
+    <source_author>Roze, Henri</source_author>
+    <source_author>Roze, A.</source_author>
+    <source_title>Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles</source_title>
+    <source_date>1853</source_date>
+    <source_page_number>9</source_page_number>
+    <matching_term>Notre-Dame</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]
+ces monuments [Notre-Dame, le Palais-de-Justice et la Sainte-Chapelle] ainsi démasqués sur tous les points, des masures et des rues irrégulières qui les avoisinent, feront de la Cité un des plus utiles et des plus magnifiques quartiers de Paris.
+</snippet>
+</match>
+ 
+ 
+</matches_and_snippets>

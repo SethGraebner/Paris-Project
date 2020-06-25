@@ -1,0 +1,20 @@
+8 June 2020
+Current Best Advice on Hand-Cleaning XML 
+
+1. Immediately on starting work on a new file, assign it a new name: the old name in .xml, but ending in “_clean.xml”. Put a copy of this file in the “textbase/xml/xml_clean” directory on Box, so that I’ll know you’re working on it and therefore won’t upload any other versions that would confuse us all. You’ll remove or replace this placeholder version later.
+
+2. Insert some white space into the file to make it easier to read. Search for </match> and replace it with </match> plus a few <return> or <newline> characters—possibly represented as \n, probably best copied and pasted from the file itself. This will put a few lines of white space between the end of each retrieved passage and the start of the next.
+
+3. Read through the whole xml file, and decide if there is anything worth keeping. If not, put the file in textbase/xml/done, delete the “_clean.xml” placeholder version from textbase/xml/xml_clean, and go on to the next file.
+
+4. For the passages you decide to keep, fill in as much of the missing data as you can, between the relevant XML tags—we need the data for <source_title>, <source_author> (if available), <source_date> and <place_name> (from the standardized list, HDW Paris Project/tools/place_index.csv). Also, your name or initials, and the date: YYYY/MM/DD, so that if the dates ever alphabetize, they will do so in chronological order.
+
+5. Finally, something I forgot to mention today: add a tag with a unique identifier number. This will be a line saying <uid>[base filename including bpt6k number]_x</uid>  where x is a number you assign in order, starting with 1 for the first match in the XML that you decide to keep. This means that every passage we keep will have a number that identifies it uniquely.
+
+6. Decide where the passages should begin and end. 
+
+7. Do your cleanup on the text. Delete all newline characters, except for where they mark paragraph breaks. This should simplify formatting any paragraph breaks that the passage contains.
+
+8. Save the text at several points as you work.
+
+9. When done with a file, upload it to xml/xml_clean, replacing the placeholder file. Move the original to xml/done.
