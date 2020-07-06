@@ -1,3 +1,4 @@
+<matches_and_snippets>
   <match>
     <uid>LaGournerie_1854_bpt6k6394057f_01</uid>
     <place_name>Panthéon</place_name>
@@ -984,19 +985,20 @@ A l'époque de 1789, la plupart des bâtiments manquaient encore de toits, et, �
 
 
   <match>
-    <uid></uid>
-    <place_name></place_name>
+    <uid>LaGournerie_1854_bpt6k6394057f_42</uid>
+    <place_name>Tuileries</place_name>
     <pdf_page_number>409</pdf_page_number>
     <file_name>LaGournerie_1854_bpt6k6394057f_CL.txt</file_name>
     <source_author>La Gournerie, Eugène de</source_author>
     <source_title>Histoire de Paris et de ses monuments</source_title>
     <source_date>1854</source_date>
-    <source_page_number></source_page_number>
+    <source_page_number>370-1</source_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name>SG</cleaner_name>
-    <date_added></date_added>
-    <snippet>! voici l'idéal de l'art à côté de sa vérité vulgaire! voici le saint François de Giotto, le Couronnement de la Vierge du bienheureux de Fiesole, la Salutation angélique de Frère Barthélemi, la Joconde de Léonard, la Charité d'André del Sarte, le Mariage de sainte Catherine du Corrège, le Silence d'Annibal Carrache; et plus loin, la sainte Cécile du Dominiquin, la Circé du Guerchin, le saint François du Guide, le saint Pierre de Lanfranc, la Pythonisse de Salvator, le Christ du Tintoret, le Christ du Titien, et des saintes familles sans nombre, des vierges du Titien, du Pérugin, de Sassoferrato, de Jacques Palma, du Parmesan, du Guide, de Vinci, du Véronèse, et, parmi tous, la Belle jardinière de Raphaël. Ce que la Vénus de Milo est pour l’art païen, la Belle jœrdinière l'est pour l'art chrétien : ce n’est plus seulement la gracieuse séduction de l’art, c’est son inspiration céleste; ce n’est plusseulement l'expression de la beauté, c'est encore la transparence de la vertu. Tel est le Louvre! on dirait la voie triomphale de l'art ; vous l'y suivrez sous toutes ses transformations. et 2 PR 370 rm HISTOIRE DE PARIS chacune d'elles y sera marquée par des chefs-d'œuvre. Le palais lui-même compte à bon droit parmi les monuments les plus célèbres. Nulle part au monde la royauté du sceptre ne s'est montrée plus prodigue envers la royauté du génie. LES TUILERIES Catherine de Médicis venait de quitter les Tournelles, et, se trouvant bientôt étouffée dans l'étroit espace du Louvre,  elle appelle Philibert Delorme, l'un des plus merveilleux génies de la Renaissance, et lui demande un palais des champs avee bassins,  volières, profonds ombrages, où elle puisse retrouver l'air avec la Hberté. Phi- libertse met aussitôt à l'œuvre et édifie hors des remparts, sur l'emplacement d'anciennes tuileries, une gracieuse villa semi-italienne, semi-gauloise,  où les hautes toitures et les pavillons saillants du nord s’allient aux terrasses suspendues, aux galeries à jour et aux coupoles de Fltalie. I serait difficile aujourd'hui de retrouver la pensée primitive de l'artiste parmi les altérations et les additions que le goût suspect des âges suivants à fait subir à son
-œuvre ; mais les dimensions du moins en sont encore visibles. Ainsi toute la partie de l'édifice qui est divisée en deux ordonnances superposées, ionique et corin- ET DE SES MONUMENTS. 371 thienne, appartient plus ou moins complétement au x siècle; celle au contraire qui n'a qu’une seule et colossale ordonnance, c’est-à-dire les deux corps de logis et les deux pavillons qui terminent le palais, sont de lourdes superfétations du xvn*. Figurez-vous maintenant, à la place du dôme quadrangulaire des Tuileries actuelles, une élégante coupole flanquée de tourelles, et sous laquelle se développe un escalier circulaire. À droite et à gauche de cette coupole s'étendent,  sur la façade du jardin, deux terrasses en arcades, au fond desquelles apparaissent les bâtiments percés de hautes fenêtres dont les baies ouvragées p</snippet>
+    <date_added>20200706</date_added>
+    <snippet>Catherine de Médicis venait de quitter les Tournelles, et, se trouvant bientôt étouffée dans l'étroit espace du Louvre,  elle appelle Philibert Delorme, l'un des plus merveilleux génies de la Renaissance, et lui demande un palais des champs avee bassins,  volières, profonds ombrages, où elle puisse retrouver l'air avec la Hberté. Philibert se met aussitôt à l'œuvre et édifie hors des remparts, sur l'emplacement d'anciennes tuileries, une gracieuse villa semi-italienne, semi-gauloise, où les hautes toitures et les pavillons saillants du nord s’allient aux terrasses suspendues, aux galeries à jour et aux coupoles de l'ltalie. 
+Il serait difficile aujourd'hui de retrouver la pensée primitive de l'artiste parmi les altérations et les additions que le goût suspect des âges suivants à fait subir à son œuvre ; mais les dimensions du moins en sont encore visibles. Ainsi toute la partie de l'édifice qui est divisée en deux ordonnances superposées, ionique et corinthienne, appartient plus ou moins complétement au XVIe siècle; celle au contraire qui n'a qu’une seule et colossale ordonnance, c’est-à-dire les deux corps de logis et les deux pavillons qui terminent le palais, sont de lourdes superfétations du XVIIe. 
+Figurez-vous maintenant, à la place du dôme quadrangulaire des Tuileries actuelles, une élégante coupole flanquée de tourelles, et sous laquelle se développe un escalier circulaire. À droite et à gauche de cette coupole s'étendent, sur la façade du jardin, deux terrasses en arcades, au fond desquelles apparaissent les bâtiments percés de hautes fenêtres dont les baies ouvragées pénètrent la toiture, et se dessinent en festons blancs sur le bleu foncé des ardoises. Enfin, deux pavillons habilement combinés pour ne point écraser de leur masse la coupole centrale, et dont les gracieux détails semblent trahir la main de Jean Bullant, l’un des contemporains de Philibert Delorme, complètent heureusement cet harmonieux ensemble.</snippet>
   </match>
 
 
