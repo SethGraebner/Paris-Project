@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
  <matches_and_snippets>
  
    <match>
@@ -7,11 +13,11 @@
     <place_name>Hôtel-Dieu</place_name>
     <pdf_page_number>12</pdf_page_number>
     <file_name>Roze_1853_bpt6k5551419c_CL.txt</file_name>
-    <source_author>Roze, Henri</source_author>
-    <source_author>Roze, A.</source_author>
-    <source_title>Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles</source_title>
-    <source_date>1853</source_date>
-    <source_page_number>6</source_page_number>
+    <docAuthor>Roze, Henri</docAuthor>
+    <docAuthor>Roze, A.</docAuthor>
+    <docTitle>Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles</docTitle>
+    <docDate>1853</docDate>
+    <doc_page_number>6</doc_page_number>
     <matching_term>Notre-Dame</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>
@@ -31,18 +37,19 @@ Les 46,500 mètres de propriétés à exproprier actuellement, non compris le b�
     <place_name>Sainte-Chapelle</place_name>
     <pdf_page_number>13</pdf_page_number>
     <file_name>Roze_1853_bpt6k5551419c_CL.txt</file_name>
-    <source_author>Roze, Henri</source_author>
-    <source_author>Roze, A.</source_author>
-    <source_title>Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles</source_title>
-    <source_date>1853</source_date>
-    <source_page_number>9</source_page_number>
+    <docAuthor>Roze, Henri</docAuthor>
+    <docAuthor>Roze, A.</docAuthor>
+    <docTitle>Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles</docTitle>
+    <docDate>1853</docDate>
+    <doc_page_number>9</doc_page_number>
     <matching_term>Notre-Dame</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>
     <snippet>[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]
-ces monuments [Notre-Dame, le Palais-de-Justice et la Sainte-Chapelle] ainsi démasqués sur tous les points, des masures et des rues irrégulières qui les avoisinent, feront de la Cité un des plus utiles et des plus magnifiques quartiers de Paris.
-</snippet>
+ces monuments [Notre-Dame, le Palais-de-Justice et la Sainte-Chapelle] ainsi démasqués sur tous les points, des masures et des rues irrégulières qui les avoisinent, feront de la Cité un des plus utiles et des plus magnifiques quartiers de Paris.</snippet>
 </match>
- 
- 
 </matches_and_snippets>
+
+ 
+ 
+ 

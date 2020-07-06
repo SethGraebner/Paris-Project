@@ -4,10 +4,10 @@
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Pont-Neuf</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -31,10 +31,10 @@
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Saint-Sulpice</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -58,10 +58,10 @@
     <place_name></place_name>
     <pdf_page_number>94</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Sainte-Geneviève</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -82,10 +82,10 @@
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Auxerrois</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -111,10 +111,10 @@
     <place_name></place_name>
     <pdf_page_number>11</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -134,10 +134,10 @@
     <place_name></place_name>
     <pdf_page_number>13</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -149,17 +149,17 @@
 Û the ver noblement vers sa hauteur monumentale, etnon rester accroupie devant la majestueuse du palais des rois de France. façade Le monument n'a que quarante-cinq pieds de hauteur sur soixante de largeur. Son épaisseur est de vingt-cinq pieds et demi. Il se compose de quaire arcades, dont deux transversales. La masse est en pierre de liais. À chacune des principales façades il y a quatre colonnes d'ordre corinthien avec piédestaux de bronze. L’entablement en res- saut porte et pèse sur ces colonnes. 
 #4
 ë 
-|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il ÿ a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants </snippet>
+|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il y a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants </snippet>
   </match>
   <match>
     <uid></uid>
     <place_name></place_name>
     <pdf_page_number>17</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -171,10 +171,10 @@
     <place_name></place_name>
     <pdf_page_number>20</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -189,10 +189,10 @@
     <place_name></place_name>
     <pdf_page_number>87</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -213,10 +213,10 @@
     <place_name></place_name>
     <pdf_page_number>88</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -235,10 +235,10 @@
     <place_name></place_name>
     <pdf_page_number>90</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -263,10 +263,10 @@
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Louvre</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -290,10 +290,10 @@
     <place_name></place_name>
     <pdf_page_number>1</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Carrousel</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -304,10 +304,10 @@
     <place_name></place_name>
     <pdf_page_number>11</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Carrousel</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -327,10 +327,10 @@
     <place_name></place_name>
     <pdf_page_number>13</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Carrousel</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -342,17 +342,17 @@
 Û the ver noblement vers sa hauteur monumentale, etnon rester accroupie devant la majestueuse du palais des rois de France. façade Le monument n'a que quarante-cinq pieds de hauteur sur soixante de largeur. Son épaisseur est de vingt-cinq pieds et demi. Il se compose de quaire arcades, dont deux transversales. La masse est en pierre de liais. À chacune des principales façades il y a quatre colonnes d'ordre corinthien avec piédestaux de bronze. L’entablement en res- saut porte et pèse sur ces colonnes. 
 #4
 ë 
-|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il ÿ a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants nus et ailés. Ces sculptures d'ornement appartiennent à M. Boichot (8). Le bas-relief du plus haut de la grande voûte représente la victoire couronnant Napoléon. Il est de M</snippet>
+|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il y a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants nus et ailés. Ces sculptures d'ornement appartiennent à M. Boichot (8). Le bas-relief du plus haut de la grande voûte représente la victoire couronnant Napoléon. Il est de M</snippet>
   </match>
   <match>
     <uid></uid>
     <place_name></place_name>
     <pdf_page_number>19</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Carrousel</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -366,10 +366,10 @@
     <place_name></place_name>
     <pdf_page_number>78</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Carrousel</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -383,10 +383,10 @@
     <place_name></place_name>
     <pdf_page_number>91</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Carrousel</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -408,10 +408,10 @@
     <place_name></place_name>
     <pdf_page_number>2</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -422,10 +422,10 @@
     <place_name></place_name>
     <pdf_page_number>9</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -447,10 +447,10 @@
     <place_name></place_name>
     <pdf_page_number>11</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -470,10 +470,10 @@
     <place_name></place_name>
     <pdf_page_number>13</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -485,17 +485,17 @@
 Û the ver noblement vers sa hauteur monumentale, etnon rester accroupie devant la majestueuse du palais des rois de France. façade Le monument n'a que quarante-cinq pieds de hauteur sur soixante de largeur. Son épaisseur est de vingt-cinq pieds et demi. Il se compose de quaire arcades, dont deux transversales. La masse est en pierre de liais. À chacune des principales façades il y a quatre colonnes d'ordre corinthien avec piédestaux de bronze. L’entablement en res- saut porte et pèse sur ces colonnes. 
 #4
 ë 
-|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il ÿ a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants nus et ailés. Ces</snippet>
+|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il y a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants nus et ailés. Ces</snippet>
   </match>
   <match>
     <uid></uid>
     <place_name></place_name>
     <pdf_page_number>19</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -509,10 +509,10 @@
     <place_name></place_name>
     <pdf_page_number>20</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -527,10 +527,10 @@
     <place_name></place_name>
     <pdf_page_number>22</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -546,10 +546,10 @@
     <place_name></place_name>
     <pdf_page_number>25</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -564,10 +564,10 @@
     <place_name></place_name>
     <pdf_page_number>29</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -581,10 +581,10 @@
     <place_name></place_name>
     <pdf_page_number>52</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -601,10 +601,10 @@
     <place_name></place_name>
     <pdf_page_number>58</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -619,10 +619,10 @@
     <place_name></place_name>
     <pdf_page_number>65</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -638,10 +638,10 @@
     <place_name></place_name>
     <pdf_page_number>77</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -656,10 +656,10 @@
     <place_name></place_name>
     <pdf_page_number>78</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -673,10 +673,10 @@
     <place_name></place_name>
     <pdf_page_number>83</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -689,10 +689,10 @@
     <place_name></place_name>
     <pdf_page_number>87</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -713,10 +713,10 @@
     <place_name></place_name>
     <pdf_page_number>91</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -736,10 +736,10 @@
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -764,10 +764,10 @@
     <place_name></place_name>
     <pdf_page_number>12</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Rivoli</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -780,17 +780,17 @@
 Û the ver noblement vers sa hauteur monumentale, etnon rester accroupie devant la majestueuse du palais des rois de France. façade Le monument n'a que quarante-cinq pieds de hauteur sur soixante de largeur. Son épaisseur est de vingt-cinq pieds et demi. Il se compose de quaire arcades, dont deux transversales. La masse est en pierre de liais. À chacune des principales façades il y a quatre colonnes d'ordre corinthien avec piédestaux de bronze. L’entablement en res- saut porte et pèse sur ces colonnes. 
 #4
 ë 
-|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il ÿ a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées </snippet>
+|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il y a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées </snippet>
   </match>
   <match>
     <uid></uid>
     <place_name></place_name>
     <pdf_page_number>27</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Rivoli</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -805,10 +805,10 @@
     <place_name></place_name>
     <pdf_page_number>33</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Rivoli</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -824,10 +824,10 @@
     <place_name></place_name>
     <pdf_page_number>82</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Rivoli</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -842,10 +842,10 @@
     <place_name></place_name>
     <pdf_page_number>90</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Bastille</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -868,10 +868,10 @@
     <place_name></place_name>
     <pdf_page_number>20</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Tournelles</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -886,10 +886,10 @@
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>rue Saint-Denis</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -915,10 +915,10 @@
     <place_name></place_name>
     <pdf_page_number>2</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Champs- Elysées</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -929,10 +929,10 @@
     <place_name></place_name>
     <pdf_page_number>78</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Champs-Elysées</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -947,10 +947,10 @@
     <place_name></place_name>
     <pdf_page_number>2</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>place Louis XV</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -961,10 +961,10 @@
     <place_name></place_name>
     <pdf_page_number>66</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>place Louis XV</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -979,10 +979,10 @@
     <place_name></place_name>
     <pdf_page_number>67</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>place Louis XV</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -995,10 +995,10 @@
     <place_name></place_name>
     <pdf_page_number>75</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>obélisque</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1017,10 +1017,10 @@
     <place_name></place_name>
     <pdf_page_number>76</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>obélisque</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1036,10 +1036,10 @@
     <place_name></place_name>
     <pdf_page_number>78</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>place Louis XV</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1053,10 +1053,10 @@
     <place_name></place_name>
     <pdf_page_number>96</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>place Louis XV</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1087,10 +1087,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>2</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Etoile</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1101,10 +1101,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>13</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Triomphe</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1116,17 +1116,17 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
 Û the ver noblement vers sa hauteur monumentale, etnon rester accroupie devant la majestueuse du palais des rois de France. façade Le monument n'a que quarante-cinq pieds de hauteur sur soixante de largeur. Son épaisseur est de vingt-cinq pieds et demi. Il se compose de quaire arcades, dont deux transversales. La masse est en pierre de liais. À chacune des principales façades il y a quatre colonnes d'ordre corinthien avec piédestaux de bronze. L’entablement en res- saut porte et pèse sur ces colonnes. 
 #4
 ë 
-|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il ÿ a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants nus et ailés. Ces sculptures d'ornement appartiennent à M. Boichot (8). Le bas-relief du plus haut de la grande voûte représente la victoire couronnant Napoléon</snippet>
+|‘ 3—&gt; 4 &lt;a On dit que ce chef-d'œuvre de MM. Percier et Fontaine a coûté un million quatre cent mille francs; le prix n’en serait pas trop élevé si l'exécution répondait un peu mieux à l'importance de sa destination. Il y a deux entrées, l'une par la place du Car- rousel, l’autre par la grille de la cour des Tuileries. Dans les tympans de l'arc de cette dernière entrée sont deux Renommées sculptées par M. Taunay (5). Dans les tympans de l’arc opposé sont deux autres Renommées faites par M. Dupas- quier (6). Dans ceux des arcs des autres six entrées se voient des trophées sculptés par divers artistes, au nombre desquels on compte M. Fortin (7). Immédiatement au-dessus des premiers cadres, se développent avec assez d'élégance sur les quatre façades du monument, des guirlandes soutenues par des enfants nus et ailés. Ces sculptures d'ornement appartiennent à M. Boichot (8). Le bas-relief du plus haut de la grande voûte représente la victoire couronnant Napoléon</snippet>
   </match>
   <match>
     <uid></uid>
     <place_name></place_name>
     <pdf_page_number>77</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Triomphe</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1141,10 +1141,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>79</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Triomphe</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1157,10 +1157,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>98</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Etoile</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1171,7 +1171,7 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
 (72) Huyor, architecte, a exécuté lentement une petite partie des travaux de l'arc, commencé par MM. Chalgrin et Goust. Nous n’en savons pas davantage sur sun compte. 
 (73) GUILLAUME-ABEL BLOUET, architecte à Paris, pensionnaire du roi à Rome, né à Passy en 1795. Millouet a et remporté en 1821 le deuxième grand prix d'architecture, en 1826 le premier. De 1821 à 1825, il a obtenu 6 médailles, eta remporté le prix d'honneur, vers la fin de 1825.11 tient un atelier d'élèves. 474) Ru Dg, sculpteurà Paris. Il a remporté en {809 le mie 
 | 2 m—&gt; 89 
-«—« et le predeuxième grand prix au concours de l'Institut, mÿer en 1812. Ses productions-’ont placé au rang des bons artistes de la capitale. 
+«—« et le predeuxième grand prix au concours de l'Institut, myer en 1812. Ses productions-’ont placé au rang des bons artistes de la capitale. 
 (75) BERNARD-GABRIEL SEURRE, Statuaire à Paris, élève de M. Cartellier, né en 1795-11 remporta le grand prix de sculpture en 1818. M. Seurre a plusieurs ouvrages estimés. B: 
 (76) Sy Lv Es TRE-Josern BRUN, 1792, élève de Lemot. M. Brun a daille en 1810, le deuxième grand grand prix en 1817, et M. Brun ouvrages en assez grand nombre. statuaire, né à Paris en obtenu la première méprix en 1813, le premier a produit de fort bons 
 (77) CHARLES-RENÉ LAYTIÉ, statuaire, ancien pensionnaire du roi à Rome, né à Paris en 1782. Il a fait plusieurs bons ouvrages et remporté le second grand prix de sculpture en l'an 12, le premier grand prix en 1804, et une médaille d’or en 1824.
@@ -1186,10 +1186,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>99</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Étoile</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1216,10 +1216,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>88</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Vendôme</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1239,10 +1239,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>91</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Vendôme</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1260,10 +1260,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Vendôme</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>
@@ -1289,10 +1289,10 @@ $ - (39) FEUCHÈRE, sculpteur distingué à qui l’on doit plusieurs bons ouvra
     <place_name></place_name>
     <pdf_page_number>75</pdf_page_number>
     <file_name>Promenade_artistique_1838_bpt6k6378049k_CL.txt</file_name>
-    <source_author></source_author>
-    <source_title></source_title>
-    <source_date></source_date>
-    <source_page_number></source_page_number>
+    <docAuthor></docAuthor>
+    <docTitle></docTitle>
+    <docDate></docDate>
+    <doc_page_number></doc_page_number>
     <matching_term>Caire</matching_term>
     <cleaner_name></cleaner_name>
     <date_added></date_added>

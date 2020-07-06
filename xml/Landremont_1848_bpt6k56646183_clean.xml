@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
 <matches_and_snippets>
   <match>
     <uid>Landremont_1848_bpt6k56646183_1</uid>
@@ -5,10 +11,10 @@
     <place_name>Colonne de Juillet</place_name>
     <pdf_page_number>147</pdf_page_number>
     <file_name>Landremont_1848_bpt6k56646183_CL.txt</file_name>
-    <source_author>Landremont, F</source_author>
-    <source_title>Récit de la révolution à Paris</source_title>
-    <source_date>1848</source_date>
-    <source_page_number>145-6</source_page_number>
+    <docAuthor>Landremont, F</docAuthor>
+    <docTitle>Récit de la révolution à Paris</docTitle>
+    <docDate>1848</docDate>
+    <doc_page_number>145-6</doc_page_number>
     <matching_term>Tuileries</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>
@@ -17,7 +23,7 @@ Le trône du roi, descendu dans la rue, fut porté en triomphe par le peuple jus
 VOEUX DU PEUPLE. 
 Réforme pour tous. 
 - Amnistie générale; 
-—les ministres exceptés et mis en accusation. Droit de réunion consacré par une manifestation prochaine. Dissolution immédiate de la chambre et convocation des assemblées primaires. Garde urbaine aux ordres de la municipalité. Abolition des lois de septembre. Liberté de la parole, liberté de la presse, liberté de pétition, liberté d'association, liberté d'élection. Réforme électorale. Tout garde national est électeur et éligible. 
+—les ministres exceptés et mis en accusatiôn. Droit de réunion consacré par une manifestation prochaine. Dissolution immédiate de la chambre et convocation des assemblées primaires. Garde urbaine aux ordres de la municipalité. Abolition des lois de septembre. Liberté de la parole, liberté de la presse, liberté de pétition, liberté d'association, liberté d'élection. Réforme électorale. Tout garde national est électeur et éligible. 
 — Réforme parlementaire. Rétribution aux députés ; les fonctionnaires publics à leur poste. 
 —Réforme de la chambre des pairs. Pas plus de nomination royale que d'hérédité aristocratique. 
 — Réforme administrative, Garanties pour tous ies fonctionnaires et employés contre l'abus des faveurs et des influences.
@@ -39,10 +45,10 @@ Réforme pour tous.
     <place_name>Bastille</place_name>
     <pdf_page_number>132</pdf_page_number>
     <file_name>Landremont_1848_bpt6k56646183_CL.txt</file_name>
-    <source_author>Landremont, F</source_author>
-    <source_title>Récit de la révolution à Paris</source_title>
-    <source_date>1848</source_date>
-    <source_page_number>129-30</source_page_number>
+    <docAuthor>Landremont, F</docAuthor>
+    <docTitle>Récit de la révolution à Paris</docTitle>
+    <docDate>1848</docDate>
+    <doc_page_number>129-30</doc_page_number>
     <matching_term>Bastille</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>
@@ -58,10 +64,10 @@ Pendant la nuit, d'immenses préparatifs d'attaque avaient été faits par le pe
     <place_name>Champs-Elysées</place_name>
     <pdf_page_number>86</pdf_page_number>
     <file_name>Landremont_1848_bpt6k56646183_CL.txt</file_name>
-    <source_author>Landremont, F</source_author>
-    <source_title>Récit de la révolution à Paris</source_title>
-    <source_date>1848</source_date>
-    <source_page_number>82-4</source_page_number>
+    <docAuthor>Landremont, F</docAuthor>
+    <docTitle>Récit de la révolution à Paris</docTitle>
+    <docDate>1848</docDate>
+    <doc_page_number>82-4</doc_page_number>
     <matching_term>Concorde</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>

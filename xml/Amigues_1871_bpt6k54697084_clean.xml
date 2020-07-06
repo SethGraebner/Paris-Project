@@ -1,20 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
 <matches_and_snippets>
   <match>
     <uid>Amigues_1871_bpt6k54697084_CL_1</uid>
     <place_name>Place de la Concorde</place_name>
     <pdf_page_number>17</pdf_page_number>
     <file_name>Amigues_1871_bpt6k54697084_CL.txt</file_name>
-    <source_author>Jules Amigues</source_author>
-    <source_title>La question de la capitale</source_title>
-    <source_date>1871</source_date>
-    <source_page_number>12</source_page_number>
+    <docAuthoruthor>Jules Amigues</docAuthoruthor>
+    <docTitle>La question de la capitale</docTitleitle>
+    <docDate>1871</docDate>
+    <doc_page_number>12</doc_page_number>
     <matching_term>Concorde</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/06/09</date_added>
-    <snippet>En l’état de nos institutions et de nos habitudes, les individualités actives ou brouillonnes que sollicite l'appétit du pouvoir ou le désir de se produire, ne trouvant point, dans la vie politique de la province, un aliment qui leur suffise, se ruent de toutes parts vers Paris. Là, elles se bousculent et s'étouffent sous l’âpre aiguillon d'une concurrence effrénée. Accueillies, mais perdues, dans une immense population où pullulent les éléments de trouble et de désordre, elles sont surexcitées par la chaleur du milieu social et par la terrible séduction qu'exercent les trop nombreux exemples de fortunes politiques faites en un jour parles voies de l'émeute ou du scandale. 
-De ces contacts violents et de ces facilités malsaines naissent périodiquement les bouleversements politiques. Tous les quinze ou dix-huit ans, la tête de pont de la place de la Concorde est occupée et enlevée par quelques milliers d'hommes que mènent ou poussent une centaine d’intrigants ou de rhéteurs. «La Chambre cst envahie » selon la tradition sacramentelle et le gouvernement est changé, au nom du peuple français, par une poignée de Parisiens qui sont presque tous venus de la province. 
-Ce phénomène, tant de fois répété, implique et emporte avec lui la nécessité politique de décapitaliser Paris — quant à sa faculté d'initiative révolutionnaire
-— et de supprimer ainsi cette cause permanente de spasmes intermittents, que Fourier eût appelée « le centralisme passionne] ».</snippet>
+    <date_added>20200609</date_added>
+    <snippet>Tous les quinze ou dix-huit ans, la tête de pont de la place de la Concorde est occupée et enlevée par quelques milliers d'hommes que mènent ou poussent une centaine d’intrigants ou de rhéteurs. «La Chambre est envahie » selon la tradition sacramentelle et le gouvernement est changé, au nom du peuple français, par une poignée de Parisiens qui sont presque tous venus de la province. 
+Ce phénomène, tant de fois répété, implique et emporte avec lui la nécessité politique de décapitaliser Paris — quant à sa faculté d'initiative révolutionnaire— et de supprimer ainsi cette cause permanente de spasmes intermittents, que Fourier eût appelée « le centralisme passionne ».</snippet>
   </match>
 
 
