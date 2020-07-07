@@ -1,0 +1,12 @@
+
+Run 04_create_final_classifier.ipynb (until you see classifier test results you like?).  It creates saved_classifier.sav and classifier_dictionary.dict.
+
+You might start by just looking at 04_create_final_classifier.ipynb.  It contains the output print results which explain the accuracy of the classifier I used in the next step.
+
+ORIGINAL.classifier_dictionary.dict  ORIGINAL.saved_classifier.sav are copies of the classifier and dictionary I used in the next step.
+
+Next, run 05_apply_classifier_to_xml.ipynb.  It reads the classifier and dictionary from 04_create_final_classifier.ipynb and applies the classifier to the XML in Paris-Project-master/xml (but not in the subfolders).  It adds an attribute like classifier_result="good" to the snippets, and writes the XML to test_results_xml folder.
+
+You might look at 05_apply_classifier_to_xml.ipynb before trying to run it.  It contains two print outputs of interest: 1) a list of 14 unparsable XML files in Paris-Project-master/xml; 2) a file-by-file list of the number of snippets in each file and a number of the "good" snippets it identified (which, of course, includes bad snippets falsely identified as good).
+
+The classifier seems to have worked at least partly as expected.  It identified about 25% of snippets as "good".  Of course, most of those will in fact be bad.  And we have no indication of how many actually good snippets were not identified as such.
