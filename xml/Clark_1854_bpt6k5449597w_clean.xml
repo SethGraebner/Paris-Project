@@ -1,5 +1,8 @@
 <matches_and_snippets>
-  <match>
+  
+
+
+    <match>
     <uid></uid>
     <place_name></place_name>
     <pdf_page_number>40</pdf_page_number>
@@ -76,6 +79,10 @@
 Ê VENTILATION 
 À Lette a </snippet>
   </match>
+
+
+
+
   <match>
     <uid></uid>
     <place_name></place_name>
@@ -139,4 +146,6 @@
 Ë . =    . A    F4   118, 0, - PLAN DÜ REZ-DE-CHAUSSÉE,   m L Eu 
 É A im.se af. PLAN DU À°* ÉTAGE DU N° 4, TRANSFORMÉ EN TROIS APPARTEMENTS DE FAMILLE, PRPRINERIR CENTRE DES CHEMISS DE FRE DE NAPOLÉOS CHAIX ER c', RUE brnchuz 90. — LBI2, </snippet>
   </match>
+
+
 </matches_and_snippets>
