@@ -28,8 +28,6 @@
         <script src="js/rbush.min.js"></script>
         <script src="js/labelgun.min.js"></script>
         <script src="js/labels.js"></script>
-        <script src="js/proj4.js"></script>
-        <script src="js/proj4leaflet.js"></script>
         <script src="data/Seine_0.js"></script>
         <script src="data/tertiary_and_living_streets_1.js"></script>
         <script src="data/streets_tertiary_reprojected_2.js"></script>
@@ -41,15 +39,9 @@
         <script src="data/osm_roads_edited_reprojected_8.js"></script>
         <script src="data/coordinatesplacesparis_reprojected_9.js"></script>
         <script>
-        var crs = new L.Proj.CRS('EPSG:27571', '+proj=lcc +lat_1=49.5 +lat_0=49.5 +lon_0=0 +k_0=0.999877341 +x_0=600000 +y_0=1200000 +ellps=clrk80ign +pm=paris +towgs84=-168,-60,320,0,0,0,0 +units=m +no_defs', {
-            resolutions: [2800, 1400, 700, 350, 175, 84, 42, 21, 11.2, 5.6, 2.8, 1.4, 0.7, 0.35, 0.14, 0.07],
-        });
         var map = L.map('map', {
-            crs: crs,
-            continuousWorld: false,
-            worldCopyJump: false, 
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[48.827878572895344,2.198557947474568],[48.89293380978696,2.4516640749009193]]);
+        }).fitBounds([[48.82917647424915,2.2318656488225845],[48.88772825810069,2.459684582174117]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -724,8 +716,6 @@
         });
         bounds_group.addLayer(layer_coordinatesplacesparis_reprojected_9);
         map.addLayer(layer_coordinatesplacesparis_reprojected_9);
-        var baseMaps = {};
-        L.control.layers(baseMaps,{'<img src="legend/coordinatesplacesparis_reprojected_9.png" /> coordinates.places.paris_reprojected': layer_coordinatesplacesparis_reprojected_9,'<img src="legend/osm_roads_edited_reprojected_8.png" /> osm_roads_edited_reprojected': layer_osm_roads_edited_reprojected_8,'<img src="legend/streets_passages_reprojected_7.png" /> streets_passages_reprojected': layer_streets_passages_reprojected_7,'<img src="legend/streets_pedestrian_living_reprojected_6.png" /> streets_pedestrian_living_reprojected': layer_streets_pedestrian_living_reprojected_6,'<img src="legend/streets_primary_reprojected_5.png" /> streets_primary_reprojected': layer_streets_primary_reprojected_5,'<img src="legend/streets_residential_reprojected_4.png" /> streets_residential_reprojected': layer_streets_residential_reprojected_4,'<img src="legend/streets_secondary_reprojected_3.png" /> streets_secondary_reprojected': layer_streets_secondary_reprojected_3,'<img src="legend/streets_tertiary_reprojected_2.png" /> streets_tertiary_reprojected': layer_streets_tertiary_reprojected_2,'<img src="legend/tertiary_and_living_streets_1.png" /> tertiary_and_living_streets': layer_tertiary_and_living_streets_1,'<img src="legend/Seine_0.png" /> Seine': layer_Seine_0,}).addTo(map);
         setBounds();
         resetLabels([layer_coordinatesplacesparis_reprojected_9]);
         map.on("zoomend", function(){
