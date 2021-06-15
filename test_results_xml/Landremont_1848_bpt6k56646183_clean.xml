@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+<matches_and_snippets>
+  <match>
+    <uid>Landremont_1848_bpt6k56646183_1</uid>
+    <place_name>Bastille</place_name>
+    <place_name>Colonne de Juillet</place_name>
+    <pdf_page_number>147</pdf_page_number>
+    <file_name>Landremont_1848_bpt6k56646183_CL.txt</file_name>
+    <docAuthor>Landremont, F</docAuthor>
+    <docTitle>Récit de la révolution à Paris</docTitle>
+    <docDate>1848</docDate>
+    <doc_page_number>145-6</doc_page_number>
+    <matching_term>Tuileries</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>[l'auteur decrit les événements de février 1848]
+Le trône du roi, descendu dans la rue, fut porté en triomphe par le peuple jusqu'à la place de la Bastille et brûlé aux pieds de la colonne de juillet au milieu d'une allégrèsse qu’il serait difficile de décrire.  À deux heures, la victoire du peuple était complète; on lisait à plusieurs endroits l’affiche suivante : 
+VOEUX DU PEUPLE. 
+Réforme pour tous. 
+- Amnistie générale; 
+—les ministres exceptés et mis en accusatiôn. Droit de réunion consacré par une manifestation prochaine. Dissolution immédiate de la chambre et convocation des assemblées primaires. Garde urbaine aux ordres de la municipalité. Abolition des lois de septembre. Liberté de la parole, liberté de la presse, liberté de pétition, liberté d'association, liberté d'élection. Réforme électorale. Tout garde national est électeur et éligible. 
+— Réforme parlementaire. Rétribution aux députés ; les fonctionnaires publics à leur poste. 
+—Réforme de la chambre des pairs. Pas plus de nomination royale que d'hérédité aristocratique. 
+— Réforme administrative, Garanties pour tous ies fonctionnaires et employés contre l'abus des faveurs et des influences.
+—La propriété respectée, mais le droit au travail garanti. Le travail assuré au peuple. Union et association fraternelle entre les chefs d'industrie et les travailleurs. 
+— Égalité de droits par l'éducation donnée à tous : crèches, salles d'asile. Écoles rurales, écoles urbaines. Plus d'oppression et d'exploitation de l'enfance.
+— Liberté absolue des cultes. Indépendance absolue des consciences. Protection pour tous Les faibles, femmes et enfants. 
+— Paix et sainte-alliance entre tous les peuples. 
+— Abolition de la guerre, où le peuple sert de chair à canon.
+— Indépendance pour toutes les nationalités. 
+— La France gardienne des droits des peuples faibles. 
+— L'ORDRE FONDÉ SUR LA LIBERTÉ. FRATERNITÉ UNIVERSELLE ! !</snippet>
+  </match>
+
+<match>
+    <uid>Landremont_1848_bpt6k56646183_2</uid>
+    <place_name>Rue Saint-Denis</place_name>
+    <place_name>Grands Boulevards</place_name>
+    <place_name>Boulevard des Italiens</place_name>
+    <place_name>Bastille</place_name>
+    <pdf_page_number>132</pdf_page_number>
+    <file_name>Landremont_1848_bpt6k56646183_CL.txt</file_name>
+    <docAuthor>Landremont, F</docAuthor>
+    <docTitle>Récit de la révolution à Paris</docTitle>
+    <docDate>1848</docDate>
+    <doc_page_number>129-30</doc_page_number>
+    <matching_term>Bastille</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>[l'auteur décrit les événements de février 1848]
+Pendant la nuit, d'immenses préparatifs d'attaque avaient été faits par le peuple dans tous les principaux points de la ville. Toutes les rues, depuis le boulevard des Italiens jusqu'à la porte St.-Denis, étaient barrées par des barricades énormes, construites de pavés, de voitures renversées et de sommiers. Tous les arbres des boulevards avaient été coupés, toutes les colonnes renversées, tous les bancs descellés. À partir de la rue Saint-Denis surtout, les préparatifs étaient formidables. Toute la largeur du boulevard avait été fermée par une barrieade solide comme un rempart, une barricade plus haute et plus impénétrable encore. défendait l'entrée de la rue; d'autres barricades s’échelonnaient de distance en distance sur le boulevard jusqu'à la Bastille, et des deux côtés de la porte Saint-Denis jusqu’à la Chapelle et au bord de l’eau. Enfin, de nombreuses barricades fermaient l'entrée des rues adjacentes et donnaient à ce quartier populeux l'aspect d'une immense forteresse. Les troupes, qui avaient pris position avant le jour sur les boulevards et aûx abords des quartiers Saint-Denis et Saint-Martin,  assis- tèrent longtemps, l'arme au bras, aux préparatifs de défense du peuple. </snippet>
+  </match>
+
+
+  <match>
+    <uid>Landremont_1848_bpt6k56646183_3</uid>
+    <place_name>Bastille</place_name>
+    <place_name>Place de la Concorde</place_name>
+    <place_name>Champs-Elysées</place_name>
+    <pdf_page_number>86</pdf_page_number>
+    <file_name>Landremont_1848_bpt6k56646183_CL.txt</file_name>
+    <docAuthor>Landremont, F</docAuthor>
+    <docTitle>Récit de la révolution à Paris</docTitle>
+    <docDate>1848</docDate>
+    <doc_page_number>82-4</doc_page_number>
+    <matching_term>Concorde</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>[l'auteur décrit les événements de février 1848]
+À la place de la Bastille, une centaine de jeunes gens, complétement inoffensifs, se trouvaient réunis près de la Colonne de juillet, en chantant la Marseillaise, lorsqu'un grand nombre d'agents de police envahirent la place, tombèrent sur l’attroupement sans aucune sommation et frappèrent indignement les jeunes gens à coups de canne et de bâtons ferrés; plusieurs d'entre eux tombèrent brisés de coups et assommés comme des animaux. 
+Les mêmes actes de brutalité eurent lieu, peu de temps après, sur la place de la Concorde, La foule, repoussée des abords de la chambre des députés, et grossie de moment en moment, sillonnait la place et les aboutissants des Champs-Élysées en faisant retentir l'air des cris de Vive la Réforme, à bas Guizot, qui étaient devenus comme le signal de ralliement, le drapeau du mouvement. La foule était sans armes, calme jusque dans son enthousiasme, et se bornait à protester par la parole, lorsque les gardes municipaux, auxquels semblait seul confié le soin de maintenir l'ordre, se ruèrent tout à coup sur les groupes inoffensifs, les poussèrent avec leurs chevaux et les frappèrent à coup de sabre. On eût dit que l'autorité qui faisait mouvoir cette force publique, voulait à tout prix exaspérer le peuple et provoquer l'effusion du sang.
+Pressés de toutes parts par les gardes municipaux, un grand nombre de jeunes gens se jetérent vers les Champs-Élysées et se mirent en devoir de s'y retrancher pour se mettre à l'abri des coups des municipaux. Les barraques et les chaises qui se trouvaient sur la promenade, leur servirent à dresser des espêces de barricades. La troupe, qui était restée jusque-là l'arme au bras, recui l'ordre de détruire les barricades. Le peuple n'ayant pas d'armes ne pouvait pas résister longtemps, surtout dans un poste ouvert comme celui des Champs-Élysées. Les barricades furent enlevées ; mais les soldats, s'étant repliés peu d’instants aprèsvers leur première position, le peuple revint sur ses pas, repris les barricades et y mit le feu. Ge ne fut que vers le- soir que la troupe occupa définitive ment les Champs-Élysées. Un corps de garde, occupé par six hommes de la ligne, se trouvait en face du Panorama de la bataïlle d'Eylau; une cinquaniaine d'hommes du peuple, exaspérès par la conduite des gardes municipaux, assaillirent le poste et l’attaquérent à coup de pierres. Les soldats, brusquement aliaqués, n’eurent que TT EUR SSSR  — 85 — le temps de se réfugier dans l’intérieur et de fermer la grille. Un ouvrier passa à l'instant par dessus la grille, monta courageusement le
+long du mur ct grimpa sur le toit. D'autres le suivirent par la même voie et pénéirèrent bientôt par une des fenêtres du corps de garde. Soit qu'ils n'eussent pas le temps de faire usage de leurs armes, soit qu'ils ne voulussent pas recourir à cette extrémité, les soldats déposèrent leurs armes et le poste fut occupé par le peuple, qui essaya immédiatement d'y mettre le feu.</snippet>
+  </match>
+
+
+</matches_and_snippets>

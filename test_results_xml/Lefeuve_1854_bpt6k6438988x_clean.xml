@@ -1,0 +1,48 @@
+<matches_and_snippets>
+
+
+
+  <match>
+    <uid></uid>
+    <place_name>Montfaucon</place_name>
+    <pdf_page_number>16</pdf_page_number>
+    <file_name>Lefeuve_1854_bpt6k6438988x_CL.txt</file_name>
+    <source_author>Lefeuve, Alf.</source_author>
+    <source_title>Annuaire des environs de Paris: La Villette</source_title>
+    <source_date>1854</source_date>
+    <source_page_number></source_page_number>
+    <matching_term>Montfaucon</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>Montfaucon, nom terrible! était une butte située près de l’extrémité de Paris, Belleville, à côté de la butte sur le territoire de Saint-Chaumont. Le gibet de Montfaucon élait debout au sommet de la butte; de longues échelles, perpétuellement dressées sur la plate-forme, faisaient exhibition des suppliciés. A ces fourches patibulaires pendaient quelquefois cinquante ou soixante cadavres. C'était un lieu de supplice depuis le XIIIe siècle. Cet odieux emplacement a longtemps porté la peine des souvenirs qu'il réveille, en servant de voirie et en recevant les vidanges de Paris; aussi son nom seul représente-t-il, même encore aujourd'hui, pour les personnes qui ignorent les grands changements survenus depuis dix ans, l’idée d'un vaste réceptacle d’immondices de toute nature. Cependant La Villette n’a plus aucunement à se plaindre d’un aussi fâcheux voisinage, et cela, grâce à la sollicitude de l'administration; Montfaucon est débarrassé maintenant, par l’abattoir aux chevaux, de la voirie où se faisaient les opérations d'équarrissage; le bassin qui contenait les vidanges de Paris, remplacé par le dépotoir, est vidé et en partie comblé ; les terrains rendus libres, traversés par une belle voie, vont incessamment donner à Belleville un nouveau quartier qui remplacera, non sans avantage pour La Villette, le voisinage incommode qu’elle supportait et dont les inconvénients rejaillissaient injustement sur elle. </snippet>
+  </match>
+
+
+ <match>
+    <uid></uid>
+    <place_name>Montfaucon</place_name>
+    <place_name>voirie</place_name>
+    <pdf_page_number>25</pdf_page_number>
+    <file_name>Lefeuve_1854_bpt6k6438988x_CL.txt</file_name>
+    <source_author>Lefeuve, Alf.</source_author>
+    <source_title>Annuaire des environs de Paris: La Villette</source_title>
+    <source_date>1854</source_date>
+    <source_page_number>17-8</source_page_number>
+    <matching_term>Montfaucon</matching_term>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20200619</date_added>
+    <snippet>Nous aurions désiré nous étendre sur un sujet qui se rattache tant à la salubrité de Paris et à la richesse de nos campagnes; le temps et l’espace nous manquant, et n'osant d’ailleurs traiter une question si bien exposée et approfondie par M. Mille, ingénieur des ponts-et-chaussées (Mémoire sur le service des vidanges de la ville de Paris), nous nous contenterons de quelques mots, priant nos lecteurs, pour plus amples détails, d’aller visiter l'établissement curieux que nous signalons à leur attention.
+Le moyen âge avait fait du charnier de Montfaucon la voirie de la ville de Paris. L'encombrement des matières amena un état de lieux intolérable.
+L'infection, chassée par les vents régnants, descendait des lacs et des séchoirs, et s’abattait sur les quartiers du nord et du nord-est. On essaya, sous Louis XV, d'y porter remède en repoussant la voirie plus loin; l'extension de la population rendit encore les bassins insuffisants. Alors, cependant, l’industrie des engrais commença. Le procédé Bridel montra le bénéfice qu'on pouvait tirer des matières. La ville toucha un revenu qui s’éleva jusqu’au chiffre de 500,000 francs. Mais les plaintes arrivaient. On ne voulait pas encore courir les risques du libre écoule-
+ment. On eut foi dans la science qui proposait de tout refouler à 10 kilom. de Paris, et l’on autorisa le Dépotoir en 1845 ; le service commençale 1° août 1849.
+La solution mécanique a certainement réalisé tous les avantages de salubrité et d'économie qu’elle promettait. Aujourd’hui, à Paris, Montfaucon est oublié, et même à La Villette, il est peu d'usines moins inoffensives que le Dépotoir.
+Les voiries furent créées d'abord dans le seul intérêt de la salubrité. Le procédé de fabrication de poudrette fut une découverte. La poudrette, livrée aujourd’hui à 40 fr. le mètre cube, n’a guère de débouché que dans les départements de Seine, Seine-et-Oise et Seine-et-Marne, qui viennent la prendre à Bondy, et tandis qu’il y a de véritables montagnes d'engrais à Montfaucon et à Bondy, le centre de la France est dans un dénûment complet.
+La ville a fondé deux établissements : l’un à La Villette, l’autre à Bondy. Le propriétaire y à gagné, car les prix de vidange, qui étaient encore tout récemment de 9 fr., sont aujourd’hui à 7 fr.
+En 1850, M. Carlier, alors préfet de police, fit faire à la question de la désinfection un grand pas : il se confia dans la puissance des agents chimiques, prescrivit la désinfection des fosses, autorisa le versement des liquides dans les ruisseaux.</snippet>
+  </match>
+
+
+
+
+
+</matches_and_snippets>

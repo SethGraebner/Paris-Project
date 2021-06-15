@@ -1,0 +1,44 @@
+
+
+<matches_and_snippets>
+  <match>
+    <uid>Bonneville_1830_bpt6k5530903c_CL_1</uid>
+    <place_name>Bastille</place_name>
+    <pdf_page_number>6</pdf_page_number>
+    <file_name>Bonneville_1830_bpt6k5530903c_CL.txt</file_name>
+    <docAuthor>Bonneville, A. S. M.</docAuthor>
+    <docTitle>Essai sur quelques monuments nationaux et d'utilité publique</docTitle>
+    <docDate>1830</docDate>
+    <doc_page_number>1</doc_page_number>
+    <matching_term>Cité</matching_term>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20200624</date_added>
+    <snippet>Assuré du vœu de la Patrie, et sous les auspices du Roi qu'elle s’est donné, je viens présenter à voire la fraternelle adoption le projet d'un Édifice destiné à perpétuer la Mémoire des Héros qui se sont dévoués pour la Conquête et la Défense des Libertés publiques. Ce n'est point hors des murs de notre illustre Cité que j'ai choisi le lieu où devra s'élever ce Monument Historique, c'est dans le sein même de Paris, là où combattirent nos Pères pour s'affranchir de l'esclavage, là où furent ces odieuses tours, cette Bastille dont les murailles trop longtemps protectrices des crimes de la tyrannie, s’écroulèrent enfin sous l'indignation d'un Peuple parvenu à connaître ses droits, et voulant à tout prix en établir l'inviolabilité. Sur l'antre écrasé du despotisme doit se plaire la Liberté victorieuse ; les palmes qu'elle a cueillies brilleront d'un éclat plus majestueux sur le sol qui vit ses premiers combats, et que fertilisent les Cendres de ses Défenseurs. Que les Trophées élevés à d'autres époques restent à leur destination première ; n’arrachons rien aux souvenirs glorieux qu'ils nous laissent; mais il faut aussi que les Triomphes populaires obtiennent une part complète et spéciale d'admiration. Ce désir sera compris du Gouvernement, n'en doutons pas, et bientôt la reconnaissance nationale transcrira sur le bronze des noms devenus chers à la France et à tous les Peuples libres. </snippet>
+   </match>
+  
+  
+  
+  
+  
+  
+    <match>
+    <uid>Bonneville_1830_bpt6k5530903c_CL_2</uid>
+    <place_name>Place de l'Étoile</place_name>
+    <place_name>Panthéon</place_name>
+    <pdf_page_number>8</pdf_page_number>
+    <file_name>Bonneville_1830_bpt6k5530903c_CL.txt</file_name>
+    <docAuthor>Bonneville, A. S. M.</docAuthor>
+    <docTitle>Essai sur quelques monuments nationaux et d'utilité publique</docTitle>
+    <docDate>1830</docDate>
+    <doc_page_number>5-6</doc_page_number>
+    <matching_term>Sainte-Geneviève</matching_term>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20200624</date_added>
+    <snippet>Les arts, détournés de leur véritable but, ont servi trop souvent à flatter la vanité, les passions, la fausse gloire des prétendus grands hommes, à soutenir d’absurdes prétentions de célébrité, ou rappeler les douleurs, plutôt feintes que vraies, de quelques familles privilégiées; faut-il démontrer que depuis quinze ans ils n’ont servi qu’à l’'exhumation des êtres dont on voudrait oublier l'existence ? que les travaux demandés aux artistes les plus distingués ne devaient reproduire que des images, des noms ou des faits capables  d'attrister la patrie par des souvenirs pénibles et souvent injurieux? Peu de jours encore d’asservissement, et Paris aurait vu surgir sur un brillant piédestal les traits d’un roi fainéant, flétri par la mollesse et la débauche, sans doute pour rappeler à la France que la vie entière dece prince ne fut employée qu’à dissiper outrageusement les trésors de l'Etat. La peinture décorait les voûtes de Sainte-Geneviève, l'architecture relevait la Sorbonne et la Madeleine, tandis que l'Arc triomphal de la barrière de l'Étoile demeurait abandonné! Cet état de choses convient-il à notre situation actuelle ? Rendus comme nous à la liberté, les arts doivent partager l'élan de notre glorieuse révolution ; il faut qu’ils ne descendent plus à à la flatterie; il faut qu'un grand peuple ait aussi part à leurs inspirations : tel est aujourd'hui le vœu de la France, tel est le vœu du monarque citoyen qui marche à la tête de notre régénération politique. </snippet>
+   </match>
+  
+  
+  
+  
+  
+</matches_and_snippets>
