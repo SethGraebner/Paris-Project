@@ -3,14 +3,14 @@
 
 
   <match>
-    <uid></uid>
+    <uid>Lefeuve_1854_bpt6k6438988x_01</uid>
     <place_name>Montfaucon</place_name>
     <pdf_page_number>16</pdf_page_number>
     <file_name>Lefeuve_1854_bpt6k6438988x_CL.txt</file_name>
-    <source_author>Lefeuve, Alf.</source_author>
-    <source_title>Annuaire des environs de Paris: La Villette</source_title>
-    <source_date>1854</source_date>
-    <source_page_number></source_page_number>
+    <docAuthor>Lefeuve, Alf.</docAuthor>
+    <docTitle>Annuaire des environs de Paris: La Villette</docTitle>
+    <docDate>1854</docDate>
+    <doc_page_number>8</doc_page_number>
     <matching_term>Montfaucon</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>
@@ -19,15 +19,15 @@
 
 
  <match>
-    <uid></uid>
+   <uid>Lefeuve_1854_bpt6k6438988x_02</uid>
     <place_name>Montfaucon</place_name>
     <place_name>voirie</place_name>
     <pdf_page_number>25</pdf_page_number>
     <file_name>Lefeuve_1854_bpt6k6438988x_CL.txt</file_name>
-    <source_author>Lefeuve, Alf.</source_author>
-    <source_title>Annuaire des environs de Paris: La Villette</source_title>
-    <source_date>1854</source_date>
-    <source_page_number>17-8</source_page_number>
+    <docAuthor>Lefeuve, Alf.</docAuthor>
+    <docTitle>Annuaire des environs de Paris: La Villette</docTitle>
+    <docDate>1854</docDate>
+    <doc_page_number>17-8</doc_page_number>
     <matching_term>Montfaucon</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200619</date_added>
