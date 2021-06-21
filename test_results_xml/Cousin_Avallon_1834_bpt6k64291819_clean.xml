@@ -1,9 +1,7 @@
 <matches_and_snippets>
   
-
-
     <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_1</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_01</uid>
     <place_name>Notre-Dame</place_name>
     <pdf_page_number>22</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -13,7 +11,7 @@
     <doc_page_number>9</doc_page_number>
     <matching_term>Notre- Dame</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>07/15/2020</date_added>
+    <date_added>20200715</date_added>
     <snippet confirmed="yes">PONT-D'ARCOLE. Ce pont, situé entre la place de Grève et l'île Notre-Dame, a été fait à l'instar des ponts suspendus de la Tamise et ne fut livré au public qu'en 1829. Il est réservé uniquement aux piétons, moyennant le léger péage deg cinq centimes par personne. Ce pont fut d’abord appelé Pont de la Grève nom qu’il changea en 1830 contre celui d’Arcole, nom beaucoup plus sonore, et qui rappelait un glorieux souvenir. </snippet>
   </match>
 
@@ -45,7 +43,7 @@
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_2</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_02</uid>
     <place_name>Notre-Dame</place_name>
     <pdf_page_number>56</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -55,7 +53,7 @@
     <doc_page_number>38</doc_page_number>
     <matching_term>Notre-Dame</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/07/15</date_added>
+    <date_added>20200715</date_added>
     <snippet confirmed="yes">VENTES PAR AUTORITÉ DE JUSTICE. 
 Elles se faisaient autrefois au bas du pont Saint-Michel, du côté de la rue de la Barillerie; c'était  sur cette place que tous les matins on voyait le tableau de la misère publique. Ces ventes se font actuellement sur le terrain du Châtelet, près de la fontaine du Palmier, au bout du pont Notre-Dame; là, on voit tous les jours les marchands fripiers se disputer le dernier matelas et la dernière  chemise du malheureux. </snippet>
   </match>
@@ -85,7 +83,7 @@ Elles se faisaient autrefois au bas du pont Saint-Michel, du côté de la rue de
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_3</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_03</uid>
     <place_name>Palais de Justice</place_name>
     <pdf_page_number>42</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -95,7 +93,7 @@ Elles se faisaient autrefois au bas du pont Saint-Michel, du côté de la rue de
     <doc_page_number>26-27</doc_page_number>
     <matching_term>Palais-de-Justice</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/07/15</date_added>
+    <date_added>20200715</date_added>
     <snippet classifier_result="good" confirmed="yes">PALAIS-DE-JUSTICE.
 Ce  palais , qui date de la monarchie, fut , jusqu’à Philippe-le-Bel, la demeure de nos rois. La principale salle fut consumée par les flammes en 1618, et reconstruite de nouveau. Un autre incendie en 1776, détruisit toute la partie du palais qui s’étendait jusqu'à la Sainte-Chapelle. Louis XVI fit tout réparer en 1787. Plusieurs embellisse- mens ont eu lieu depuis la mort de ce prince. Le fameux tribunal révolutionnaire a siégé pendant dix-huit mois dans la grande chambre qu’occupait le parlement. C'est dans cette chambre que pendant dix-huit mois la foudre de la mort s’élançait indistinctement sur les innocents et ceux qui avaient le malheur de ne pas partager l'opinion de leurs bourreaux. En 1794, le conventionnel Danton comparut devant ce tribunal de sang qui lui devait sa création. Interrogé sur son nom et sa demeure, il répondit avec fermeté : « Ma demeure sera bientôt dans le néant; vous trouverez mon nom dans le Panthéon de l'histoire.» M. Hérault de Séchelles, ci-devant président au Parlement , répondit à la même question : « Je m'appelle Marie-Jean, noms peu saillants même parmi les saints ; je siégeais dans cette salle où j'étais détesté des parlementaires. » C’est sur la place du Palais-de-Justice que l’on expose les condamnés aux fers ou à la détention, nous en avons vu jusqu’à vingt à la fois; il en est peu qui annoncent le repentir : plusieurs même affectent de la gaité, insultent le public ; des filles, de dix-sept à dix-huit ans, condamnées, ne rougissent pas de tenir les propos les plus indécents ; ce qui prouve jusqu’à quel point la corruption du cœur peut porter un sexe qu'on voudrait chérir pour ses vertus. </snippet>
   </match>
@@ -124,7 +122,7 @@ Ce  palais , qui date de la monarchie, fut , jusqu’à Philippe-le-Bel, la deme
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_4</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_04</uid>
     <place_name>Hôtel de Cluny</place_name>
     <pdf_page_number>68</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -134,7 +132,7 @@ Ce  palais , qui date de la monarchie, fut , jusqu’à Philippe-le-Bel, la deme
     <doc_page_number>52</doc_page_number>
     <matching_term>Thermes</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/07/15</date_added>
+    <date_added>20200715</date_added>
     <snippet confirmed="yes">RUE DES MATHURINS-SAINT-JACQUES. 
 Cette rue, qui commence rue Saint-Jacques, et finit rue de La Harpe , se nommait autrefois rue du Palais des Thermes; elle prit ensuite le nom qu’elle porte aujourd'hui, du couvent des Mathurins, qui, avant la révolution, était situé dans cette rue. Au n° 14, on remarque l'hôtel Cluny, bâti en 1505 sur une partie des ruines de l'antique palais des Thermes par Jacques d’Amboise, abbé de Cluny. Cet hôtel appartient aujourd’hui à un libraire qui l'habite, et qui a su en tirer un bon parti, en le peuplant de plusieurs libraires, relieurs , etc.</snippet>
   </match>
@@ -184,7 +182,7 @@ Cette rue, qui commence rue Saint-Jacques, et finit rue de La Harpe , se nommait
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_5</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_05</uid>
     <place_name>Observatoire</place_name>
     <pdf_page_number>43</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -194,7 +192,7 @@ Cette rue, qui commence rue Saint-Jacques, et finit rue de La Harpe , se nommait
     <doc_page_number>27-28</doc_page_number>
     <matching_term>Observatoire</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/07/15</date_added>
+    <date_added>20200715</date_added>
     <snippet classifier_result="good" confirmed="yes">OBSERVATOIRE. 
 Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 1, à l’extrémité de la grande avenue du Luxembourg, est destiné aux observations astronomiques. Il a été construit de 1667 à 1672, par ordre de Colbert, sous la conduite de Perrault, à qui l’on doit la belle colonnade du Louvre. Une pièce de cet édifice est nommée la salle des secrets, parce qu'en appliquant la bouche à la reinure d’un pilastre et parlant tout bas, la personne placée au pilastre opposé , entend ce qu'on dit, tandis que les personnes qui sont au milieu n’entendent rien. On descend dans les caves par un escalier à vis de 360 marches , laissant à la place du noyau un vide qui correspond depuis le fond des souterrains jusqu’à la dernière voûte qui couvre cet édifice. Ces souterrains servent à plusieurs expériences météorologiques, et forment une espèce de labyrinthe où il serait très dangereux de pénétrer sans guide. On voit à cet Observatoire un télescope de vingt-deux pieds de longueur. </snippet>
   </match>
@@ -222,7 +220,7 @@ Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_6</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_06</uid>
     <place_name>Panthéon</place_name>
     <pdf_page_number>46</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -232,7 +230,7 @@ Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 
     <doc_page_number>31-32</doc_page_number>
     <matching_term>Sainte-Geneviève</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/07/15</date_added>
+    <date_added>20200715</date_added>
     <snippet confirmed="yes">On voyait autrefois dans cette église le tombeau de Clovis, qui, six cents ans après sa mort, avait été rétabli par M. de La Rochefoucauld , abbé de Sainte-Geneviève. Ce même tombeau fut porté au Muséum des monuments français. Tout le monde a connu la châsse de sainte Geneviève. On la découvrait pour des cas extraordinaires , comme maladie du roi , ou pour faire cesser la pluie , et dans des temps de sécheresse, pour avoir de l’eau, etc. Vers la fin du mois de mai de l’an 1603 , une longue sécheresse détermina les Parisiens à faire descendre la châsse de sainte Geneviève pour avoir de la pluie; on choisit fort à propos la veille du jour où la lune, changeant de quartier, devait produire un changement dans la température , afin que le miracle s’opérât plus sûrement. Cependant, ni la châsse de la patronne de Paris , ni la lune ne furent propices aux vœux des Parisiens; la pluie si désirée n’arriva point, le temps demeura sec et sans apparence d’eau. Dans le même temps, les chanoines de Sainte-Geneviève, pour suppléer à ce miracle, tâchèrent d’en opérer un autre. « On suborna , dit l'historien l'Etoile, un pauvre diable, condamné aux galères , lequel étant enchaîné comme les autres ; on lui ôta les fers des pieds, à la charge qu'il disait partout (comme il fit), qu’en invoquant madame sainte Geneviève, ils lui étaient tombés des pieds; mais la fourberie découverte par sa propre confession , tourna en risée de ce qu'on voulait faire un miracle d'une chose qui est toute ordinaire et naturelle, et à laquelle Madame sainte Geneviève n'avait pas pensé. » Cette châsse de sainte Geneviève était enrichie de diamants et de pierres précieuses. Tous les jours, du matin au soir, de bonnes gens venaient invoquer sainte Geneviève; ils payaient un petit cierge de deux ou quatre sous qu'ils faisaient brûler contre la grille de la chapelle où était la châsse. Des profanes, en 1793, ont brûlé la châsse de sainte Geneviève sur la place de Grève. Ils eurent l'attention de mettre de côté les diamants avec lesquels on pouvait acheter des biens nationaux pour plusieurs millions. En 1804, un prédicateur, à Saint-Etienne-du-Mont, voulut persuader que cette châsse avait été soustraite des mains des profanes, et que bientôt on la reverrait. Effectivement , le clergé de Saint-Etienne-du-Mont retrouva cette châsse et  les reliques de sainte Geneviève, qu'il fit renfermer dans une espèce de tombeau, où journellement les dévots et les dévotes vont faire brûler de petits cierges et toucher du linge, mais toujours en payant, car le clergé ne fait point de crédit, et vend les graces d'en haut en bonne monnaie sonnante, pour la |plus grande gloire de Dieu, de la Vierge et de sainte Geneviève. </snippet>
   </match>
 
@@ -299,7 +297,7 @@ Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_7</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_07</uid>
     <place_name>Panthéon</place_name>
     <pdf_page_number>72</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -309,7 +307,7 @@ Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 
     <doc_page_number>56</doc_page_number>
     <matching_term>Panthéon</matching_term>
     <cleaner_name>SL</cleaner_name>
-    <date_added>2020/07/15</date_added>
+    <date_added>20200715</date_added>
     <snippet confirmed="yes">PLACE DE SAINTE-GENEVIÈVE, Ou du Panthéon. 
 C'est sur cette place qu'est située la faculté de Droit, bâtiment construit eu 1770, par Souflot, composé d’un vaste amphithéâtre, de salles et de logements. Il y a environ trois mille à trois mille cinq cents étudiants , tant de Paris que des départements , qui viennent y apprendre à subtiliser les lois, étendre la procédure, et dépouiller les propriétaires, la veuve et l’orphelin, à rendre problématique la vérité, dénaturer les faits et obscurcir les notions simples du bon sens et de la raison. </snippet>
   </match>

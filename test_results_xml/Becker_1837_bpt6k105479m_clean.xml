@@ -918,11 +918,7 @@
     <matching_term>Louvre</matching_term>
     <cleaner_name>CS</cleaner_name>
     <date_added>20200218</date_added>
-    <snippet classifier_result="good" confirmed="yes"> Depuis que Meudon était devenu maison royale,
-      ce lieu était favorisé de quelques priviléges, qui consistaient en une foire royale, fixée au
-      1er dejuin. Meudon est surtout renommé pour le blanc qu'on y fabrique, et pour les belles
-      pierres qu’on appelait à polir ou à layer. C'est de ses carrières qu’on a tiré celles qui
-      forment la cimaise du grand fronton de la façade du Louvre. </snippet>
+    <snippet classifier_result="good"> Depuis que Meudon était devenu maison royale, ce lieu était favorisé de quelques priviléges, qui consistaient en une foire royale, fixée au 1er dejuin. Meudon est surtout renommé pour le blanc qu'on y fabrique, et pour les belles pierres qu’on appelait à polir ou à layer. C'est de ses carrières qu’on a tiré celles qui forment la cimaise du grand fronton de la façade du Louvre.</snippet>
   </match>
   
   
@@ -1229,14 +1225,7 @@
     <matching_term>Champs-Elysées</matching_term>
     <cleaner_name>CS</cleaner_name>
     <date_added>20210222</date_added>
-    <snippet classifier_result="good" confirmed="yes"> Le rond-point des Champs-Elysées était
-      célèbre sous l'Empire, par les salons de Mars et de Flore. Ces deux établissemens sont à
-      peine connus maintenant; ils ont été détrônés par Dourlens et le Rennelagh.Le milieu du
-      rond-point devait, sons la Restauration, être décoré de la statue équestre de Louis XV. Les
-      assises étaient faites, aïnsi que le piédestal, le cheval même était fondu. Puis, la
-      révolution de juillet passa par là, én allant à Rambouillet, et tout disparut. Lé cheval est
-      maintenant celui sur lequel on a enfourché le Louis XIV de bronze qui oscupe la place
-      d'honneur du palais de Versailles.</snippet>
+    <snippet classifier_result="good" confirmed="yes">Le rond-point des Champs-Elysées était célèbre sous l'Empire, par les salons de Mars et de Flore. Ces deux établissemens sont à peine connus maintenant; ils ont été détrônés par Dourlens et le Rennelagh. Le milieu du rond-point devait, sons la Restauration, être décoré de la statue équestre de Louis XV. Les assises étaient faites, aïnsi que le piédestal, le cheval même était fondu. Puis, la révolution de juillet passa par là, én allant à Rambouillet, et tout disparut. Lé cheval est maintenant celui sur lequel on a enfourché le Louis XIV de bronze qui occupe la place d'honneur du palais de Versailles.</snippet>
   </match>
   
   
@@ -1689,11 +1678,7 @@
     <matching_term>Invalides</matching_term>
     <cleaner_name>CS</cleaner_name>
     <date_added>20210222</date_added>
-    <snippet classifier_result="good" confirmed="yes"> En suivant la route de Vaugirard, on passe
-      devant l'Hôtel des Invalides, et l’on jouit de la vue de la belle façade de son église,
-      couronnée de son beau dôme doré. Ce portail est encore de Mansard. Il a 30 toises de large
-      sur 50 d’élévation jusqu’au sommet du dôme. On retrouve là, dans cétte ordonnance, la main,
-      le bon goût et le savoir profond des artistes de cette époque. </snippet>
+    <snippet classifier_result="good" confirmed="yes">En suivant la route de Vaugirard, on passe devant l'Hôtel des Invalides, et l’on jouit de la vue de la belle façade de son église, couronnée de son beau dôme doré. Ce portail est encore de Mansard. Il a 30 toises de large sur 50 d’élévation jusqu’au sommet du dôme. On retrouve là, dans cétte ordonnance, la main, le bon goût et le savoir profond des artistes de cette époque.</snippet>
   </match>
   
   
