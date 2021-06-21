@@ -99,7 +99,7 @@
     <cleaner_name>SG</cleaner_name>
     <date_added>20200711</date_added>
     <snippet classifier_result="good" confirmed="yes">En 1161, l'évêque Maurice de Sully réunit les deux églises. Les voûtes sombres de Saint-Etienne, l'autel au pied duquel Frédégonde, la Clytemnestre mérovingienne, vint réclamer le droit d'asile, tombèrent à la fois, et firent place à la basilique actuelle, qui devint jour par jour et pour ainsi dire pierre à pierre, un des plus beaux et des plus complets échantillons de l’art gothique. 
-'Église de Notre-Dame ne fut complétement terminée que sous Charles VII, qui affecta à son achèvement l'impôt de la régale. Le bâtiment mesure 126 mètres 68 cent. de longueur, 48 mètres 07 cent. de largeur, el 33 mètres 77 cent. de hauteur. Les tours sont hautes de 68 mètres. On y monte par une porte latérale située à gauche du grand portail, et de leur sommet on jouit du panorama complet de Paris. Il n'en coûte que 10 centimt par personne.</snippet>
+L'Église de Notre-Dame ne fut complétement terminée que sous Charles VII, qui affecta à son achèvement l'impôt de la régale. Le bâtiment mesure 126 mètres 68 cent. de longueur, 48 mètres 07 cent. de largeur, el 33 mètres 77 cent. de hauteur. Les tours sont hautes de 68 mètres. On y monte par une porte latérale située à gauche du grand portail, et de leur sommet on jouit du panorama complet de Paris. Il n'en coûte que 10 centimt par personne.</snippet>
   </match>
   <match>
     <uid/>
@@ -2514,7 +2514,7 @@ $S Loil:s d’un genre si divers que l’on trouve réunies ans uns -rème encei
     <matching_term>Tuileries</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200711</date_added>
-    <snippet classifier_result="good" corfirmed="yes">Le Jardin des Tuileries n'offre guère l'aspect d’un véritable jardin; on n'y trouve ni accidents pittoresques, ni riantes perspectives, ni vastes pelouses. Ce n'est, à vrai dire, qu’une immense promenade sablée et plantée, vous y trouverez des massifs de marrouniers où vous pourrez rèver tout à votre aise, à deux pas de la foule qui se presse dans les grandes allées; vous verrez dans les bassins de marbre frétiller des légions de poissons de la Chine, qui font l'admiration des bourgeois attroupés sur la rive. Du haut de la terrasse du bord de l'eau, vous jouirez du plus charmant coup d'œil; dans l'allée des orangers, cette promenade favorite des jeunes gens qui viennent sourire à des amours écloses l'hiver sous les lustres, vous assisterez à la grande exhibition des demoiselles à marier tenues en laisse par leurs mères, Vous admirerez ce peuple de héros, de dieux, de déesses, de néréides, qui sont nés sous le souffle de l'inspiration des artistes. Vous verrez les pelits garçons et les petites filles sauter à la corde, jouer au cerceau ou au ballon, et si vous ne trouvez pas, par un beau soleil, à passer une heure agréable dans ce Jardin des Tuileries, c’est que vous êtes malade où misanthrope.</snippet>
+    <snippet classifier_result="good" confirmed="yes">Le Jardin des Tuileries n'offre guère l'aspect d’un véritable jardin; on n'y trouve ni accidents pittoresques, ni riantes perspectives, ni vastes pelouses. Ce n'est, à vrai dire, qu’une immense promenade sablée et plantée, vous y trouverez des massifs de marrouniers où vous pourrez rèver tout à votre aise, à deux pas de la foule qui se presse dans les grandes allées; vous verrez dans les bassins de marbre frétiller des légions de poissons de la Chine, qui font l'admiration des bourgeois attroupés sur la rive. Du haut de la terrasse du bord de l'eau, vous jouirez du plus charmant coup d'œil; dans l'allée des orangers, cette promenade favorite des jeunes gens qui viennent sourire à des amours écloses l'hiver sous les lustres, vous assisterez à la grande exhibition des demoiselles à marier tenues en laisse par leurs mères, Vous admirerez ce peuple de héros, de dieux, de déesses, de néréides, qui sont nés sous le souffle de l'inspiration des artistes. Vous verrez les pelits garçons et les petites filles sauter à la corde, jouer au cerceau ou au ballon, et si vous ne trouvez pas, par un beau soleil, à passer une heure agréable dans ce Jardin des Tuileries, c’est que vous êtes malade où misanthrope.</snippet>
   </match>
   <match>
     <uid/>
@@ -4351,7 +4351,7 @@ y &gt;S0 hommes et 800 chevaux.
     <matching_term>Bastille</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200711</date_added>
-    <snippet classifier_result="good"> En butte à une exécration qui grossissait de siècle en siècle, la Bastille tomba au premier coup du tocsin de la révolution française.
+    <snippet classifier_result="good" confirmed="yes"> En butte à une exécration qui grossissait de siècle en siècle, la Bastille tomba au premier coup du tocsin de la révolution française.
 Aujourd'hui, la Colonne de Juillet domine cette place vaste et belle. Elle étale au soleil les lettres d’or qui font rayonner tout le long de son füt les noms des victimes. Au sommet, le Génie de la Liberté semble planer et prendre son vol, les bras étendus vers l'horizon; à l'intéricur, un escalier à vis conduit jusqu'à la balustrade dont elle est couronnée.</snippet>
   </match>
   <match>
@@ -5029,7 +5029,7 @@ A droite est le Bazar de l'Industrie française, qui contient deux étages de bo
   
   <match>
     <uid>Guide_1855_bpt6k134268q_22</uid>
-    <place_name>Boulevard Bonne-Nouvelle</place_name>
+    <place_name>Boulevard de Bonne-Nouvelle</place_name>
     <place_name>Boulevard Saint-Denis</place_name>
     <place_name>Porte Saint-Denis</place_name>
     <pdf_page_number>31</pdf_page_number>

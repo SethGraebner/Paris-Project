@@ -2,7 +2,7 @@
 
 <matches_and_snippets>
   <match>
-    <uid>Bonneville_1830_bpt6k5530903c_CL_1</uid>
+    <uid>Bonneville_1830_bpt6k5530903c_01</uid>
     <place_name>Bastille</place_name>
     <pdf_page_number>6</pdf_page_number>
     <file_name>Bonneville_1830_bpt6k5530903c_CL.txt</file_name>
@@ -22,7 +22,7 @@
   
   
     <match>
-    <uid>Bonneville_1830_bpt6k5530903c_CL_2</uid>
+    <uid>Bonneville_1830_bpt6k5530903c_02</uid>
     <place_name>Place de l'Étoile</place_name>
     <place_name>Panthéon</place_name>
     <pdf_page_number>8</pdf_page_number>
