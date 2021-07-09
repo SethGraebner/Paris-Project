@@ -192,18 +192,18 @@ y ;
 
 
   <match>
-    <uid>Cramouzaud_1855_bpt6k65447250_CL_1<uid/>
-    <place_name>Cité<place_name/>
+    <uid>Cramouzaud_1855_bpt6k65447250_01</uid>
+    <place_name>Île de la Cité</place_name>
     <pdf_page_number>57</pdf_page_number>
     <file_name>Cramouzaud_1855_bpt6k65447250_CL.txt</file_name>
-    <docAuthor>Eugène Cramouzaud<docAuthor/>
-    <docTitle>Études sur la transformation du XIIe arrondissement<docTitle/>
-    <docDate>1855<docDate/>
-    <doc_page_number>41-42<doc_page_number/>
+    <docAuthor>Cramouzaud, Eugène</docAuthor>
+    <docTitle>Études sur la transformation du XIIe arrondissement</docTitle>
+    <docDate>1855</docDate>
+    <doc_page_number>41-42</doc_page_number>
     <matching_term>Cité</matching_term>
-    <cleaner_name>SL<cleaner_name/>
-    <date_added>2020/07/13<date_added/>
-    <snippet classifier_result="good" confirmed="yes">Entre les deux rives de la Seine, la Cité était comme un fouillis inextricable, qui semblait devoir, malgré les ponts, les tenir éloignées. Une population infime naissait, souffrait, mourait, depuis des siècles, dans cet affreux quartier, sans sortir d’une atmosphère putride. Les rues étroites et fangeuses ont disparu, remplacées par les rues d’Arcole et de Constantine, qui ont tout à la fois assaini la Cité et rendu plus faciles les communications entre les deux rives, que les anciens quartiers tenaient forcément séparées quelques années auparavant. Les quartiers Sainte-Avoie, des Lombards et des Marchés, renfermant une population d'ouvriers, d'artisans, demeuraient depuis longtemps étrangers à toute espèce d’améliorations, tandis que le luxe, la richesse, inondaient certaines parties de la ville qui n'’offraient au commencement de ce siècle que des terrains en friche. Cette inégalité choquante attira toute l'attention du comte de Rambuteau, qui créa, comme par enchantement, la belle voie qui rattache ces quartiers au centre d’approvisionnement de la capitale, et à laquelle la reconnaissance publique a donné le nom de l'administrateur qui en avait conçu le projet et surveillé l'exécution. Le nombre des rues ou parties de rues ouvertes depuis 1830 jusqu’en 1848 s'élève à cent douze, savoir : sur la rive droite, quatre-vingt-neuf, et sur la rive gauche, vingt-trois. </snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20200713</date_added>
+    <snippet classifier_result="good" confirmed="yes">Entre les deux rives de la Seine, la Cité était comme un fouillis inextricable, qui semblait devoir, malgré les ponts, les tenir éloignées. Une population infime naissait, souffrait, mourait, depuis des siècles, dans cet affreux quartier, sans sortir d’une atmosphère putride. Les rues étroites et fangeuses ont disparu, remplacées par les rues d’Arcole et de Constantine, qui ont tout à la fois assaini la Cité et rendu plus faciles les communications entre les deux rives, que les anciens quartiers tenaient forcément séparées quelques années auparavant.</snippet>
   </match>
 
 
@@ -230,18 +230,20 @@ y ;
 
 
   <match>
-    <uid>Cramouzaud_1855_bpt6k65447250_CL_2<uid/>
-    <place_name>Cité<place_name/>
+    <uid>Cramouzaud_1855_bpt6k65447250_02</uid>
+    <place_name>Île de la Cité</place_name>
     <pdf_page_number>64</pdf_page_number>
     <file_name>Cramouzaud_1855_bpt6k65447250_CL.txt</file_name>
-    <docAuthor>Eugène Cramouzaud<docAuthor/>
-    <docTitle>Études sur la transformation du XIIe arrondissement<docTitle/>
-    <docDate>1855<docDate/>
-    <doc_page_number>48-49<doc_page_number/>
+    <docAuthor>Cramouzaud, Eugène</docAuthor>
+    <docTitle>Études sur la transformation du XIIe arrondissement</docTitle>
+    <docDate>1855</docDate>
+    <doc_page_number>48-49</doc_page_number>
     <matching_term>Cité</matching_term>
-    <cleaner_name>SL<cleaner_name/>
-    <date_added>2020/07/13<date_added/>
-    <snippet>Aussi, lorsque le commerce et l’industrie  du vieux Paris s’établirent sur le plateau de la rive droite, qui présentait les plus grandes commodités, imposèrent-ils à tous les intérêts qui devaient avoir des rapports avec eux la nécessité de se fixer sur cette rive. Pour vivre de la vie industrielle de la cité nouvelle, il fallait être à sa’ portée; et alors que la rive gauche n’é- tait   liée à la droite que par de méchants ponts, alors que la Cité et son fouillis de rues inextricables rendaient la traversée encore plus difficile , se fixer sur la rive gauche c’é- tait, de parti pris, se mettre dans l'impossibilité de s’associer au mouvement de l’industrie et du commerce. La rive gauche ne pouvait donc être occupée d’abord que par une population dont la vie devait être étrangère aux affaires ; et c’est justement là ce qui est arrivé. Les communautés religieuses, les établissements scientifiques, que le bruit de la ville eût gênés, passèrent la rivière. Il se fit deux villes dans la ville : sur la rive droite, la ville de l’industrie, du commerce et de la politique , la ville des intérêts matériels et de l’activité physique ; sur la rive gauche, la ville de la retraite, de la méditation, de la prière et de la science, la ville de l’activité intellectuelle et morale. </snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20200713</date_added>
+    <snippet confirmed="yes">Aussi, lorsque le commerce et l’industrie  du vieux Paris s’établirent sur le plateau de la rive droite, qui présentait les plus grandes commodités, imposèrent-ils à tous les intérêts qui devaient avoir des rapports avec eux la nécessité de se fixer sur cette rive. 
+Pour vivre de la vie industrielle de la cité nouvelle, il fallait être à sa portée; et alors que la rive gauche n’était liée à la droite que par de méchants ponts, alors que la Cité et son fouillis de rues inextricables rendaient la traversée encore plus difficile, se fixer sur la rive gauche c’était, de parti pris, se mettre dans l'impossibilité de s’associer au mouvement de l’industrie et du commerce. La rive gauche ne pouvait donc être occupée d’abord que par une population dont la vie devait être étrangère aux affaires ; et c’est justement là ce qui est arrivé. 
+Les communautés religieuses, les établissements scientifiques, que le bruit de la ville eût gênés, passèrent la rivière. Il se fit deux villes dans la ville : sur la rive droite, la ville de l’industrie, du commerce et de la politique , la ville des intérêts matériels et de l’activité physique ; sur la rive gauche, la ville de la retraite, de la méditation, de la prière et de la science, la ville de l’activité intellectuelle et morale.</snippet>
   </match>
 
 
@@ -919,21 +921,18 @@ y ;
 «Du 16 septembre 1807 au 4° janvier 1</snippet>
   </match>
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Cramouzaud_1855_bpt6k65447250_03</uid>
+    <place_name>Tour de Nesle</place_name>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Cramouzaud_1855_bpt6k65447250_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <docAuthor>Cramouzaud, Eugène</docAuthor>
+    <docTitle>Études sur la transformation du XIIe arrondissement</docTitle>
+    <docDate>1855</docDate>
+    <doc_page_number>14-15</doc_page_number>
     <matching_term>Nesle</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="good">a rue Saint-Denis en face de limpasse des Peintres, et la rue Saint-Martin 
-à l'angle de la rue du Grenier-Saint-Lazare. À partir de ce point, l'inclinaison sur la droite devenait de plus en plus sensible jusqu’à la rue des Francs-Bourgeois, où l'enceinte coupait la rue Vieille-du-Temple; elle se repliait alors vers la Seine en passant dans la rue Saint-Antoine à la hauteur de la fontaine de Birague; de là sa direction était normale à la ri- vière, où elle se terminait par la tour de Billy. Sur la rive gauche, l'enceinte commençait entre le pont de la Tournelle et la rue des Fossés-Saint-Bernard. Elle A4 = montait par la rue des Fossés-Saint-Victor jusqu’à la rue Descartes, près de laquelle on en voit encore des vestiges; de là elle gagnaït la rue Saint-Hyacinthe par la place de l'Estrapade, et puis, s’inclinant vers la place Saint-Michel, elle descendait vers la Seine, où elle se terminait à l’extrémité orientale du quai Malaquais, par la tour connue plus tard sous le nom de tour de Nesle. Mais tout l'emplacement circonscrit par ces fortifications
-était loin d’être couvert d'habitations. Le nombre des rues y était bien inférieur à celui qui se trouve aujourd’hui sur l’espace compris dans cette enceinte. Si l’on jette les yeux sur un plan du Paris de cette époque, le vide qui est à l’intérieur des fortifications semble
-être avec la partie occupée par des constructions à peu près dans le même rapport où la partie inoccupée et la partie bâtie se trouvent dans l’intérieur des fortifications du ; Paris de nos jours. En dehors de l'enceinte, le mouvement semble se prononcer en faveur de la rive gauche : les établissements religieux y occupent déjà de larges places. Mais, malheureusement, ces places sont, par leur destination même, condamnées à n’être jamais occupées autrement. Les habitations et l’activité se multiplieront sur la rive droite: les jardins des maisons religieuses resteront pendant des siècles toujours les mêmes espaces enlevés à la population active, et isolés par de longs murs du reste de la ville. De Philippe-Auguste à Philippe-le-Bel, les progrès de la ville marchent rapidement. Philippe-Auguste jette les fondations du Louvre, bâtit six églises, cinq couvents, cinq colléges. crée les halles et fait poser les premiers pavés qu'il y ait eu à Paris. Saint Louis bâtit la Sainte-Chapelle; il fonde quatre égli- — ses, les Quinze-Vingts, 46 — huit couvents, six colléges et la Sorbonne, qui fut le berceau de l'Université. Il renforce les priviléges donnés par son prédécesseur aux bourgeois de Paris, par l’organisation des corps des métiers et des corporations. En 1278, Philippe HI autorise la confrérie des chirurà Jean Pitard, chirurgien giens, dont l’idée mère appartient de Saint-Louis. Sous Philippe-le-Bel, qui fonda six colléges, un couvent, un hôpital, une chapelle, le Paris de Philippe-Auguste avait prodigieusement grandi. D’après les rôles des taxes de 1292 et 1313, il y avait dans les trois quartiers, de la Cité, d’outre Grand-Pont, et d</snippet>
+    <cleaner_name>SG</cleaner_name>
+    <date_added>20210616</date_added>
+    <snippet classifier_result="good" confirmed="yes">Sur la rive gauche, l'enceinte commençait entre le pont de la Tournelle et la rue des Fossés-Saint-Bernard. Elle montait par la rue des Fossés-Saint-Victor jusqu’à la rue Descartes, près de laquelle on en voit encore des vestiges; de là elle gagnaït la rue Saint-Hyacinthe par la place de l'Estrapade, et puis, s’inclinant vers la place Saint-Michel, elle descendait vers la Seine, où elle se terminait à l’extrémité orientale du quai Malaquais, par la tour connue plus tard sous le nom de tour de Nesle.</snippet>
   </match>
   <match>
     <uid/>

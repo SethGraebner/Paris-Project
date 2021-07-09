@@ -1,9 +1,7 @@
 <matches_and_snippets>
   
-
-
     <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_1</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_01</uid>
     <place_name>Notre-Dame</place_name>
     <pdf_page_number>22</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -45,7 +43,7 @@
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_2</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_02</uid>
     <place_name>Notre-Dame</place_name>
     <pdf_page_number>56</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -85,7 +83,7 @@ Elles se faisaient autrefois au bas du pont Saint-Michel, du côté de la rue de
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_3</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_03</uid>
     <place_name>Palais de Justice</place_name>
     <pdf_page_number>42</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -124,7 +122,7 @@ Ce  palais , qui date de la monarchie, fut , jusqu’à Philippe-le-Bel, la deme
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_4</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_04</uid>
     <place_name>Hôtel de Cluny</place_name>
     <pdf_page_number>68</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -184,7 +182,7 @@ Cette rue, qui commence rue Saint-Jacques, et finit rue de La Harpe , se nommait
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_5</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_05</uid>
     <place_name>Observatoire</place_name>
     <pdf_page_number>43</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -222,7 +220,7 @@ Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_6</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_06</uid>
     <place_name>Panthéon</place_name>
     <pdf_page_number>46</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>
@@ -299,7 +297,7 @@ Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 
 
 
   <match>
-    <uid>Cousin_Avallon_1834_bpt6k64291819_CL_7</uid>
+    <uid>Cousin_Avallon_1834_bpt6k64291819_07</uid>
     <place_name>Panthéon</place_name>
     <pdf_page_number>72</pdf_page_number>
     <file_name>Cousin_Avallon_1834_bpt6k64291819_CL.txt</file_name>

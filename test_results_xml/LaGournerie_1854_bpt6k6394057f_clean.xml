@@ -205,7 +205,7 @@ Les noms des rues furent d'abord empruntés aux impressions de crainte et de dé
     <docAuthor>La Gournerie, Eugène de</docAuthor>
     <docTitle>Histoire de Paris et de ses monuments</docTitle>
     <docDate>1854</docDate>
-    <doc_page_number></doc_page_number>
+    <doc_page_number>236</doc_page_number>
     <matching_term>Auxerrois</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200613</date_added>
@@ -223,7 +223,7 @@ Les noms des rues furent d'abord empruntés aux impressions de crainte et de dé
 
 
   <match>
-    <uid>LaGournerie_1854_bpt6k6394057f_08</uid>
+    <uid>LaGournerie_1854_bpt6k6394057f_60</uid>
     <place_name>Palais de Justice</place_name>
     <pdf_page_number>331</pdf_page_number>
     <file_name>LaGournerie_1854_bpt6k6394057f_CL.txt</file_name>
@@ -1725,7 +1725,7 @@ Que restait-il alors de l'œuvre de Philibert? les galeries du rez-de-chaussée 
     <matching_term>Tuileries</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200708</date_added>
-    <snippet classifier_result="good" confirmed="yes">Nous avons émis le regret, en parlant des Tuileries, que la fable et l'histoire ancienne y fussent seules représentées. Ce mème reproche eût pu également s'appliquer au Luxembourg, il y a quinze ans. Les Apollon, les Mercure, les Vénus, les Gladiateurs y offraient en effet partout à l'œil leurs nudités inconvenantes et grotesques; mais aujourd'hui, un nouveau et patriotique système d'ornementation s'attache noblement à reproduire, dans ce jardin créé par une reine de France, les traits de la plupart des femmes célèbres de notre histoire : Sainte Geneviève, sainte Clotilde, Blanche de Castille, Marguerite de Provence, Jeanne d'Arc, Jeanne Hachette, Anne de Bretagne, Marie de Médicis, etc. Quelques-unes de ces statues sont déjà postes. Nous avons parlé de la galerie de Rubens. Depuis qu'elle est vide des tableaux de ce grand maître, elle s’est promptement remplie des ouvrages les plus remarquables de nos peintres vivants. La collection qui en a été faite occupe les galeries supérieures des deux ailes du palais. Chaque dimanche, la foule s'y presse devant l'Élisabeth et le Joas de Delaroche, le Boëce et la Jeanne d'Arc de Schnetz, la Charlotte Corday d’Ary Scheffer, le Pierre le Grand de Steuben, le saint Pierre d'Ingres, le Marius de Cogniet, les Femmes d'Alger de Delacroix, les batailles d'Horace Vernet, les intérieurs de Granet, les animaux de Brascassat,  ete. , etc. </snippet>
+    <snippet classifier_result="good" confirmed="yes">Nous avons émis le regret, en parlant des Tuileries, que la fable et l'histoire ancienne y fussent seules représentées. Ce mème reproche eût pu également s'appliquer au Luxembourg, il y a quinze ans. Les Apollon, les Mercure, les Vénus, les Gladiateurs y offraient en effet partout à l'œil leurs nudités inconvenantes et grotesques; mais aujourd'hui, un nouveau et patriotique système d'ornementation s'attache noblement à reproduire, dans ce jardin créé par une reine de France, les traits de la plupart des femmes célèbres de notre histoire : Sainte Geneviève, sainte Clotilde, Blanche de Castille, Marguerite de Provence, Jeanne d'Arc, Jeanne Hachette, Anne de Bretagne, Marie de Médicis, etc. Quelques-unes de ces statues sont déjà postes. Nous avons parlé de la galerie de Rubens. Depuis qu'elle est vide des tableaux de ce grand maître, elle s’est promptement remplie des ouvrages les plus remarquables de nos peintres vivants. La collection qui en a été faite occupe les galeries supérieures des deux ailes du palais. Chaque dimanche, la foule s'y presse devant l'Élisabeth et le Joas de Delaroche, le Boëce et la Jeanne d'Arc de Schnetz, la Charlotte Corday d’Ary Scheffer, le Pierre le Grand de Steuben, le saint Pierre d'Ingres, le Marius de Cogniet, les Femmes d'Alger de Delacroix, les batailles d'Horace Vernet, les intérieurs de Granet, les animaux de Brascassat, etc., etc. </snippet>
   </match>
   
   
@@ -3557,7 +3557,7 @@ $; 73 affamés ne craindront mème pas de venir chercher leur pâture. Nous ne p
     <docAuthor>La Gournerie, Eugène de</docAuthor>
     <docTitle>Histoire de Paris et de ses monuments</docTitle>
     <docDate>1854</docDate>
-    <doc_page_number/>
+    <doc_page_number>171</doc_page_number>
     <matching_term>Étoile</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200708</date_added>
@@ -4043,10 +4043,10 @@ Deux fois, dans la suite, la chapelle devenant trop exiguë pour le nombre crois
     <matching_term>Invalides</matching_term>
     <cleaner_name>SG</cleaner_name>
     <date_added>20200708</date_added>
-    <snippet classifier_result="good" confirmed="yes">Cette majestueuse esplanade, cette ligne de fossés bordée de canons enlevés dans les combats et qui ne tonnent plus que pour annoncer les fêtes de la patrie, cette façade de 200 mètres, ces grandes statues de Louis XIV et de Napoléon, cette vasté cour entourée d’une double rangée d’arcades,  cette église toute de marbre et d'or dont la voûte disparait sous les plis flottants des drapeaux pris à l’ennemi, ce dôme doré enfin qui domine la ville entière, tout cet ensemble de richesse et de gloire exalte l'imagination et nourrit l'enthousiasme. 
+    <snippet classifier_result="good" confirmed="yes">Cette majestueuse esplanade, cette ligne de fossés bordée de canons enlevés dans les combats et qui ne tonnent plus que pour annoncer les fêtes de la patrie, cette façade de 200 mètres, ces grandes statues de Louis XIV et de Napoléon, cette vasté cour entourée d’une double rangée d’arcades, cette église toute de marbre et d'or dont la voûte disparait sous les plis flottants des drapeaux pris à l’ennemi, ce dôme doré enfin qui domine la ville entière, tout cet ensemble de richesse et de gloire exalte l'imagination et nourrit l'enthousiasme. 
 L'église des Invalides est formée de deux parties complétement distinctes : la nef et ses collatéraux, qui sont de l'architecture de Libéral Bruant; et le dôme, qui fut construit par Mansard et d'Orbay. Au point de jonction de ces deux parties s'élève le maitre-autel, couronné d’un baldaquin de bronze doré que soutiennent six colonnes torses. Du côté de la nef, l'ordonnance de l'église se compose, suivant l’invariable usage du xvu' siècle, d'arceaux décorés de pilastres. Au-dessus de ces arceaux règne une longue suite de tribunes. Cette nef a son entrée au nord; celle du dôme est au sud: elle s'annonce sur le boulevard par deux ordres de colonnes doriques et ioniques superposées, au-dessus desquelles s'élève un fronton aux armes de France. A droite et à gauche de ce portique sont les statues en marbre de Charlemagne et de saint Louis. 
 Le dôme des Invalides jouit depuis deux siècles d'une réputation méritée. Il n’est pas de provincial ni d’étranger, approchant de Paris, qui ne cherche à distinguer dans l’espace, au reflet du jour sur les lames dorées, cette coupole si grande par elle-même, et si grande surtout par les gloires qu'elle abrite. Élévation, dignité, force, tels sont les caractères dominants de son architecture. Moins élégante que la coupole de Sainte-Geneviève, elle a peut-être plus de majesté. [ . . . ]
-Sous le dôme on ne voyait naguère que les tombeaux de Vauban et de Turenne. Dans peu de jours on y verra, au centre d'une crypte imposante,  la tombe de Napoléon; elle sera accompagnée de statues de victoires et de bas reliefs héroïques; près d'elle chacun pourra contempler l'épée d'Austerhitz, le manteau du sacre, etc., etc. Et au-dessus de cette tombe l'œil continuera d'apercevoir les vieilles peintures de Lafosse, ces peintures qui survivent à tout et qui disent tout. Elles nous montrent la gloire des cieux s'ouvrant devant saint Louis, et Jésus-Christ entouré des anges et des saints. </snippet>
+Sous le dôme on ne voyait naguère que les tombeaux de Vauban et de Turenne. Dans peu de jours on y verra, au centre d'une crypte imposante,  la tombe de Napoléon; elle sera accompagnée de statues de victoires et de bas reliefs héroïques; près d'elle chacun pourra contempler l'épée d'Austerhitz, le manteau du sacre, etc., etc. Et au-dessus de cette tombe l'œil continuera d'apercevoir les vieilles peintures de Lafosse, ces peintures qui survivent à tout et qui disent tout. Elles nous montrent la gloire des cieux s'ouvrant devant saint Louis, et Jésus-Christ entouré des anges et des saints.</snippet>
   </match>
   <match>
     <uid/>
