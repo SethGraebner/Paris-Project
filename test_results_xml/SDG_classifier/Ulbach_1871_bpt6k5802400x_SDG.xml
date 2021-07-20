@@ -1,15 +1,17 @@
-<matches_and_snippets><match>
+<matches_and_snippets>
+
+   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>17</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">s ne visitons jamais. Quelquefois, quand tu rêverasà ton séjour dans Paris, il t'arrivera de remettre une 
 étincelle à ce flambeau éteint, et tu enverras un sou- venir de reconnaissance au cicerone prudent qui fut et qui restera un ami inconnu, la plus rare, la moins gènante espèce des amis. Tu as, ou tu auras, je n’en doute pas, ton portefeuille bien- garni, et parmi celles qui to tâteront le cœur à Paris, plus d’unc te trouvera noble et chevaleresque de porter une pareille armure. Tu as acheté, ou tu achètcras les meilleurs guides français, anglais, allemands; tous sont les meilleurs, je l'en avertis, car ils se copient tous entre eux; inais aucun ne te suffira; car tous te diront ce qu'il faut voir dans Paris, et aucun ne t'avertira de ce qu'il faut éviter. C'estce guide de la coulisse, de l'envers, du sous- sol, de l'arrière-boutique, de l'arrière-bureau, de l'arrière-alcôve que j'ai entrepris pour toi. On te fera gravir tous les sommets; on te fera voir Paris du haut des tours de Notre-Dame, des 4 GUIDE SENTIMENTAL DE L'ÉTRANGER SE 
 " buttes Chaumont, du Père La Chaise, du ballon cap- tif; mais on ne te montrera jamais le Parisien et la Parisienne qui sont le piége et le charme, le parfum ou la peste, l'âme bonne ou mauvaise, la vie de ces cara- paces de picrre ou de marbre que l'on te fera admirer. Tu veux te plonger dans un océan, et tu crois avoir {ous les apparcils de sauvetage! Mais connaistu les eaux obscures, sous les eaux qui miroitent au soleil? Tous les caoutchoucs brevetés qui te maintiendront à la surface, empêcheront-ils un requin de te happer aux cuisses? unc picuvre de s’enlaccr à toi et de t'étoufler? des algues perfides de se noucr
@@ -18,18 +20,20 @@
 'aris a beaucoup d'églises; maïs nulle part tu ne reconnailrais, sans mon guide, les temples élevés au seul Dicu que les expositions universelles fassent adorer: le dieu Tec!
 ‘Truc est le dicu moderne. ave fait des miracles Lane ee 7 1 ee AN ne 4 dans l'industrie, dans l'art, dans la science, dans la coquetteric. Touver le Truc dans ses œuvres, l'hon</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">s que désaltérants, commence le Paris, extérieurement tranquille, le Marais, le calme, la routine monotone. Aux Folies- Dramatiques s'éteint l'avant-dernier sourire. Le dernier meurt au Troisième Théâtre Français, cette urne vide de la cendre évaporée de Déjazct. 4 Le reste, jusqu’à la Bastille, appartient à la curio- sité sociale ou historique; mais le touriste n'est plus un fläneur, c’est un chercheur; il est sur 78 GUIDE SENTIMENTAL DE L'ÉTRANGER l'avenue des grands ateliers et de la grande nécropole, du faubourg Saïint-Antoine et du Père-La-Chaise. La colonne de Juillet est lacolonne d'Hercule. Au delà, iln'ya plus que les bêtes du Jardin des Plantes.
 ## Les quais ont leurs grands”’panoramas; mais ils exigent une âme sérieuse, une réverie sévère. Ce 
 ñ’est plus le Paris de la gaieté, de l'ironie, du plaisir, de l'amour, ni même du travail, C'est le Paris des tristesses éternelles; depuis l'Hôtel-de-Ville dont on répare les ruines, la Morgue entrevue, l'Hôtel-Dicu qu'on voit trop, Notre-Dame qu'on devrait mieux voir, le tribunal de commerce où l’on déclare les faillites, les deux thédtresen face où on les fait, le Palais de justice où l'on juge, la Concicrgerie où l'on expic, la Préfecture de police qui se rajeunit sans s'embellir jusqu'au Louvre très-grave, les Tuileries très-mornes et l'institut très-laid, Pourtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
@@ -40,52 +44,58 @@
 à quoi bon te Îles Si tu as encore les jambes agiles, monte au sommet D des tours de Notre-Dame. L'endroit est excellent pour jeter son spleen et son corps dans l'espace, et pour embrasser Paris, Ne va pas admirer la marmite des Invalides, même sous le prétexte d'admirer le tombeau de Napoléon! Cette soupière énorme, ce grand néant te laisseraient le cœur à jeun. Mais si, après avoir respiré l'esprit, la fleur, beauté; si, comme l'arome, l'essence de Paris, tu veux, en vrai philosophe, connaître l'envers de cette Hamlet, ct sans avoir à tuer ton beau-père et ta mère, tu veux mettre ton doïgt dans le crâne du pauvre Yorick, ne va pas aux 80 GUIDE SENTIMENTAL DE L'ÉTRANGER cimetières; ils sont trop meublés d'immortels; prends le boulevard d'Italie, va droit à la butte aux Cailles.
 #*x Là, dans un quartier hideux, sur une éminence qui se coupe à pic, tu trouveras la dernière, l’indéracinable</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>177</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">p maigre? trop päle ou trop rouge? Est-ce parce qu'elle ne sait pas donner de la mélancolie à son regard, ou parce qu’elle le réveille maladroitement? Ce qui est certain, c’est qu'elle n'a pas reçu l'offre d'un déjeuner. Alors, baissant la tête, la poitrine haletante de colère ct d'appétit, elle entre dans une brasserie, mange à belles dents de la choucroûte, des saucisses de Franefort, et boit de la bière avec fureur, comme elle - boiraït le sang des infâmes qui ne l'ont pas invitée. Quatre HEURES. — C'est le moment où la Fourui piétine. Prévoyante, économe, elle songe au diner; elle guette la sortie de la Bourse; elle sait la hausse; elle évite les baïssiers; elle aime les gens sérieux; elle plaitaux fonctionnaires. Elle accepte volontiers un tour de promenade au Bois; mais elle ramène toujours au centre celui qui tend à s'égarer vers la circonférence.
 "Six neu REs. — Entends-tu L’Ifrroxpezce pe Moxr MARTRE? On l'appelle aussi l'absintheuse. Elle descend la rue des Mariyrs ou là rue Notre-Dame-de Lorette, longe le faubourg Montmartre et bat de l'aile sur le boulevard. C’est la péripatéticienne de l'amour. Elle marche, elle marche, mais elle fait aussi à propos des stations aux cafés complaisants. ré, 
 « 2 164 UT em nn eme une GUIDE SENTIMENTAL ee TR, DE L'ÉTRANGER Ella tutoie les garçons; lesinterroge sur lesnouveaux habitués, sur les anciens qu’elle oublierait sans cela, et, malgré son surnom, prudente sur les apéritifs, craignant de creuser le gouffre qu'elle n'est pas sûre de remplir, elle mouille sa lèvre, sourit aux passants et attend. Huir HEURES. — Dapuixé commence sa fuite, com- me si elle était poursuivie. Elle est habillée pour la ville et pourle bal public, au choix. Ne lui propose pas à diner, elle te jetterait un cure-dent au nez, comme si tu l'insultais. Elle acceptera fièrement le café, bien qu'elle soità jeun; elle ne te permettra que plus tard de lui faire prendre de la pâtisserie. Toujours prète à te quitter, te reprochant de la retenir, elle a du courage et. de la force d’âme, parce qu'elle grignotte et se défend de manger. C'est la plus coûteuse des mendiantes; elle ne demande rien ! Dix neures. — LA cuauve-souris, après quelques
 ébats entre les arbres et les tables de café, tombe sur une chaise et attend le bien-aimé. Elle aime l'ombre; la lumière l'éblouit. Ce n'est pas sa faute si elle n’est plus jeune, et si elle est laide. Elle se console à peine, par la pensée d'une clientèle qui lui reste fidèle. C'est pour elle que les jeunes gens, intimidés par le soleil, s’enhardissent dès que le gaz est allumé; c’est en son honneur que MM. les militaires ont obtenu la permission de onze heures. . Mixuir. — L’ARAIGNÉE vu soi a tendu ses toiles; elle obstrue les passages, les boulevards, les portes des : restaurants. {1 faut la tuer ou la nourrir. C’est la PARIS-AMOUR 163 Vénus farouche, attachée à sa proie. Malheur à celui qui la rencontre devant Peters ou le Helder1 Deux HEURES. — LA Su PPLIANTE traine sa douleur sur l’asphalte. Elle avou</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>190</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">L'ÉTRANGER seulement plus habile. Il sait vendre; le second reste toute sa vie incapable d'acheter; mais l'un et l'autre ont perdu l'indépendance de la gaieté et de l'esprit, du moins pendant l'exercice de leurs fonctions diplomatiques. Neur HEURES. — Tout est ouvert; les boutiquiers sont sous les armes. Du haut en bas de l'échelle, l’agitationcommence. Depuis le cabinet doré du banquier jusqu’à l'échoppe, le client, surtout l'étranger (cette perle des clients) est attendu. Va, mon hôte! Les sourires reluisent; les bouches sont graissées; les piéges ont leurs amorces. Va! On parle de toi chez l'épicier, chez le boucher, chez le boulanger. Tu ne sais pas ce que tu brûles de bougie chaque soir; ce que tu tritures de viande; ce que tu perds de pain; ce que tu consommes et ce que tu con- sumes? On le sait, on le discute, on le blâme, dans cette bourse aux cancans qui se tient vers neuf heures. a+ Dix neures. — On dirait qu’il se fait un grand si- lence dans Paris ;quedes vieilles tours de Notre-Dame aux tours nouvelles du Trocadero, un immense chut! glisse, s’allonge et prépare l'entrée solennelle du monsieur correct, tiré à quatre boutonnière close par un 
 épingles, à la ruban rouge, ou à la PARIS boutonnière . QUI TRAVAILLE 477 béante de la soif du ruban, qui se dirige vers un ministère ou vers son administration. Faut-il le classer parmi les travailleurs, celui-là? Peut-être! Il travaille, il pince, il irrite la patience du public. D'ailleurs, il a presque toujours une petite industrie, ou un art, ou un caprice en dchors de son bureau; il est collectionneur, vaudevilliste, amateur, tourneur en ivoire, dessinateur; il ne borne ses ongles, à la lecture des journaux, 
 à cette flà- pas toujours son activité à la taille minutieuse de nerie à travers les bureaux qui prend [a moitié de sa journée. x 
 # Ox2E HEURES, — Voilà le singe! s'écrie l’ouvrier farceur dans l'atelier. Voilà le patron! dit-on dans les ministères. :  J'ignore quelle exclamation familière poussent les employés de l'Élysée quand ils voient entrer M. le Président de la République dans les bureaux, ce qui doit arriver quelquelois. Si je découvre l'argot spécial à cette sphère un peu excentrique, je t'en ferai part; mais sois certain qu'il existe. Done, à onze heures, lemaitre fait partout son entrée. C'est l'heure des comparutions, des ordres, des enquêtes, des conférences qui décident les pro- 178 GUIDE SENTIMENTAL DE L'ÉTRANGER . grammes, qui tranchent les débats, qui résolvent les questions. Dans l'usine, le contre-maitre les magasins, les commis chez ministères, le sous-chef chez le reau chez le chef de division, chez le maitre ; dans le patron; dans les chef, le chef de buce dernier chez le secrétaire général, celui-ci chez le ministre. Tel est le va-et-vient, le bruit de cette heure culminante, c'est l'orage des sonnettes et la tempête de bureaux. des garçons Mini, c'est le signal du repos sur toute la ligne. Paris travailleur mange. Depuis le déjeuner que fait le clerc d’huissier avec un </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>241</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ment son image à ce monde terrestre. C'est l'heure où elle travaille à l'Œuvre du tabernacle et à l'Œuvre du vestiaire. Elle achève les ornements d'église brodés par sa femme de cliambre, ctelle met le dernier point aux layettes qu'elle fait coudre en ville.
 Étendue sur une chaise longue, elle attend l'inspi- ration, ses jolis doigts unis autour d'une aiguille plantée dans son ouvrage, le coude appuyé contre une table, ayant près d'elle un grand panier qui semble ne se vider jamais, tant on y compte toujours le même nombre de brassières, de petits bonnets pour les pauvres. On frappe discrètement à la porte, et l’on annonce madame de Pinchères, une jolie femme de quarante ans, robuste, rose, qui porte la foi, l'espérance et la charité, en breloques suspendues à un bracelet, La duchesse se soulève légèrement, laissant glisser jusqu’à terre ses ciseaux d'acier, mal placés sur les genoux. PARIS DÉVOT 
 | 997 
@@ -96,52 +106,58 @@
 £blouie, fasçinée. LA de ne pas se renverser, étourdie, DUCHESSE, avec un regard languissant, Vous êtes bien heureuse de l'avoir entendu ; moi, qui depuis trois mois suis tout à fait seule ici, jo sens que j'aurais pleuré. MADAME DE PINCHÈRES. 
 À propos, et M, le Duc? LA Il est DUCHESSE. toujours là-bas; il a pris, d'ailleurs, un congé pour aller à Frohsdorff; le comte de Chambord ne peut se passer de lui. MADAME DE PINCHÈRES. Et vous ?.… 1er. La porte s'ouvre ; on annonce M, l'abbé Servais, Ila quarante-cinq ans, mais, par un heureux pri- vilége, ses cheveux sont tout blancs et lui donnent Y'air d’un abbé poudré, Ses sourcils sont noirs; l’œil est vif</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>248</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ut. L'ABBÉ Je suis chargé, SERVAIS. madame la duchesse, de vous rappeler que l'assemblée générale de la perpétuelle enfance a lieu dans huit jours. LA DUCHESSE,. Oh! je n'ai girde d'y manquer. Ma femme de chambre, car j'étais trop souffrante pour sortir, a dévalisé nos magasins à l'intention de nos chers petits pauvres; j'espère bien que cette année ils seront plus nombreux que l'année dernière. L'ABBÉ SERYAIS. N'en doutez pas. Votre famille s'augmente; Dieu la bénit, LA DUCHESSE, joignant les mains, Que Dieu est bon d’avoir institué la pauvreté! Sans elle, il n’y aurait pas de charité, 234 GUIDE SENTIMENTAL MADAME DE DE L'ÉTRANGER PINCHÈRES, riant, Il resterait toujours les pauvres d'esprit à aimer, L'ABBÉ SERVAIS, un peu sévèrement, Madame la duchesse a raison... C'est précisément ce que me répétait ce matin mademoiselle Élise de. Vieux-Bois, en se félicitant de s'être soustraite aux dures lois du mariage, pour se consacrer aux indi- gents.. La sainte demoiselle avait fait un vœu à Notre-Dame-des-Victoires. Elle vient d'apprendre qu'il a été exaucé. MADAME DE PINCHÈRES. Quel vœu? Était-ce celui de vieillir vite? LA DUCHESSE. Ah! chère amie, vous êtes en veine de malice ce matin. MADAME DE PINCHÈRES. Je me repose de l'amour divin qui m'avait vraiment fatiguée. L'ABBÉ SERVAIS. Vous savez que mademoiselle de Vicux-Bois atten- dait un héritage de son oncle maternel, héritage.
 | LA DUCHESSE. Oui; eh bien? un gros PARIS DÉVOT L'ABBÉ 9235. SERYAIS. L'héritage lui est échu.
 ‘MADAME DE PINCHÈRES. Et cela ne lui donne pas envie de se marier? Elle n’a que cinquante ans. L'ABBÉ SERVAIS, de plus en plus grave. Nous devons dire cinquante messes pour le repos de l'oncle... 2*« La porte s'ouvre : on annonce Monseigneur l'évêque de X... et M, le marquis d'Aubressel; l'abbé se lève brusquement, avec une nuance de dépit; la duchesse rougit légèrement ; madame de Pinchères sourit. Monseigneur est de taille moyenne, replet, propret. Sa figure est douce, agréable à voir. Les yeux ont de l'onction; la bouche rose et charnue se creuse aisément en petite gouttière, pour laisser couler le miel d'une parole tendre. Le marquis est grand, maigre; tout est pointu en lui. Les yeux, le nez, la bouche, les doigts ont de quoi piquer. L'évêque est un vieil ami de la duchesse, Il a été son directeur, avant l’épiscopat: il l'a mariée; il protége le mari, et le fait avancer, au loin. Il ébauche 9236 GUIDE SENTIMENTAL DE L'ÉTRANGER dès le seuil, un petit salut du doigt qui ressemble vaguement à une bénédiction; il glisse jusqu'à la duchesse qui se lève et veut rester debout, mais qu'il oblige à se rasscoir, en lui disant:
 — Je n'ai pas voulu tarder à vous annoncer la bonne nouvelle. J'ai vu le ministre des affaires étrangères. Tout va bien. Puis le prélat s'assied, contre la chaise longue, pour permettre au marquis de saluer la duchesse, et quand celui-ci se relève, monseigneur dit :
 — Excusez-moi de vous avoir amené ce philosophe, ce sceptique. Nous nous étions engagés dans une causcrie s</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>284</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ter. C'est ainsi que l'Académie française, à l'heure où j'écris, préparant un vocabulaire de l'usage, se demande si, pour définir certaine misère, elle ne devra pas admettre ce terme énergique, passé dans les mœurs : faire le trolloir. Il y a gros à parier que la locution sera consacrée par l’aréopage. Une histoire, une généalogie du langage parisien est impossible. C'est l'esprit inconnu, universel, qui souffle un jour sur un mot, l'anime, l'éclaire, le soulève, le fait tourbillonner, jusqu'à ce qu'il aille s'abattre sur d'autres mots vieillis, comme sur un tas de feuilles mortes, Il arrive cependant qu’un homme .de génie se mêle au génie de tout le monde et mette aussi en circulation un terme que chacun s’approprie et qui devient une monnaie courante. Fay A ion tn 9270 GUIDE SENTIMENTAL DE L'ÉTRANGER
 ——+ Sait-on, par exemple, que Victor Hugoa inventé le mot fulgurant, qui dit bien ce que nul mot n’exprimait? Se rappelle-t-on que, dans le tableau de Paris à vol d'oiseau, l'auteur de Notre-Dame de Paris a appliqué pour la première fois le mot artére à la description des rues? Depuis, non-seulement ce mot est devenu usuel; mais il a passé dans le langage technique, ofliciel, et dans tous les rapports sur des questions de routes, de canaux ou de cheminsde fer, on lit que telle voie est l’artére principale de la circulation et de la vie. Victor Hugo a signé bien d’autres expressions. Quelque jour on fera son lexique; ce ne sera pas le moindre hommage dû à son génie. Un air vif de gaicté jaillit presque toujours du langage parisien. Rarement l'expression est lugubre; on pourrait presque dire que jamais elle n'est obscène; car les gaillardises parisiennes s’affublent toujours elles-mêmes d’un voile plaisant, grotesque, qui permet de hasarder les allusions les plus audacieuses devant les orcilles les plus chastes. Je ne te promets pas, mon hôte, un manuel com- plet de la conversation, Je te l'ai dit, le mot d'aujourd'hui ne sera pas celui de demain. Mais il y a, au-dessus de la langue ondoyante et diverse de l'esprit PARIS QUI PARLE 9271 parisien, uneatmosphère quiimprègne les mots, qui aide à les reconnaitre, à les deviner, à les pressentir, quand on l'a respirée. C'est cette atmosphère-là que je veux surtout te faire connaître. Il est bien rare qu’un Parisien familier réponde simplement oui, comme un Allemand qui ne dit que Fu! quand on lui fait une proposition agréable; le plus souvent il te frappera dans la main en te disant : Cela me va comme un gant! ou bien: Cela me bolte, cela me chausse. La man et le pied étant les grandes coquetteries du Parisien, il est tout naturel qu’il pense au triomphe de ce qu'il a de mieux en lui, quand on lui offre un plaisir. Les termes de négation sont plus nombreux; l'ironie. s’y mêle invariablement, et selon que le non doit être accentué, le Parisien, qui refuse, te dira: Tu l'en ferais mourir! Tu ne voudrais pas!
 À quelle heure te couche-t-on? Veux-lu la croix d'honneur? Ou enfin : Tu veux me la faire à l'oseille, L'hist</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>329</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Notre-Dame</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">epuis Stanislas, roi détrôné de Pologne, jusqu'au prince Napoléon, le château de Meudon est un observatoire. On y voit filer les étoiles à la place des rois. Tu peux donc, mon hôte, l'instruire encore, en visitant Meudon, et lo bois qui l'entoure est le théâtre, ou la coulisse, des plus riantes idylles do la jeunesse parisienne de la rive gauche. Do temps en temps, on entend à travers les arbres et par-dessus LES ENVIRONS DE PARIS ... 9315 les rires aigrelets des étudiants ou des étudiantes passer un large orago do gaieté, C'est la voix do Rabelais qui mugit vers Paris, en se moquant de tous les hôtes qu'il a vus passer et en rappelant Paris 
 à cetto ironio salutaire qui fait sa forco et sa gloiro, es Do Meudon, par des rues qui sont des sentiers do jardin, tu peux aller à Bellovuo. Hyal, mon hôte, un monument qui consacro uno des rébellions do la vapeur, une des plus horribles catastrophes dont Paris ait gardé lo souvenir, celle du 8 mai 1842, On a dédié uno chapelle propitiatoire à Notre-Dame des flammes, 1 y a loin do cette appellation terriblo aux surnoms champêtres do la litanio do la Vicrge. Lo lys est devenu une salamandre. Notre-Dame des flammes, patronne des incendies! Sont-co les pompiers seulement, ou alternativement les pompiers et les incendiaires, qui doivent l'invoquer ? Madame de Pompadour a laissé quelques souvenirs consacrés aux arbres do Bellevue, Madame Rolland les a rendus plus sévères. C'est à Bellevue qu'une tradi- . tion plus que suspecte prétendait avoir trouvé la trace d'une tanneric de peau humaine. I n'y a plus que les historiens, chargés de faire peur aux enfants, qui frappent encore sur co tambour debasque en peauhumaino; on a voulu dernièrement 816 GUIDE SRNTINENTAL DE L'ÉTRANGER moltre des grelots à l'instrument, ot persuader quo
 ©: Ja République, avant peu, deviendrait une tannerio générale; mais c'était un bruit que certains tanneurs, jaloux do tanner les gens, par voie de monopole, s'appliquaient à faire courir, T'indiquerai-jo encore Rambouillet ? Cest lo point oxtrèmo du grand horizon que l'œil de l'âme ajouto
@@ -151,18 +167,20 @@
 +
 + *# . Lo château de Compiègne, bâti par Louis XV su</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Morgue</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">, défendu par des lions du Sahara, moins altérés que désaltérants, commence le Paris, extérieurement tranquille, le Marais, le calme, la routine monotone. Aux Folies- Dramatiques s'éteint l'avant-dernier sourire. Le dernier meurt au Troisième Théâtre Français, cette urne vide de la cendre évaporée de Déjazct. 4 Le reste, jusqu’à la Bastille, appartient à la curio- sité sociale ou historique; mais le touriste n'est plus un fläneur, c’est un chercheur; il est sur 78 GUIDE SENTIMENTAL DE L'ÉTRANGER l'avenue des grands ateliers et de la grande nécropole, du faubourg Saïint-Antoine et du Père-La-Chaise. La colonne de Juillet est lacolonne d'Hercule. Au delà, iln'ya plus que les bêtes du Jardin des Plantes.
 ## Les quais ont leurs grands”’panoramas; mais ils exigent une âme sérieuse, une réverie sévère. Ce 
 ñ’est plus le Paris de la gaieté, de l'ironie, du plaisir, de l'amour, ni même du travail, C'est le Paris des tristesses éternelles; depuis l'Hôtel-de-Ville dont on répare les ruines, la Morgue entrevue, l'Hôtel-Dicu qu'on voit trop, Notre-Dame qu'on devrait mieux voir, le tribunal de commerce où l’on déclare les faillites, les deux thédtresen face où on les fait, le Palais de justice où l'on juge, la Concicrgerie où l'on expic, la Préfecture de police qui se rajeunit sans s'embellir jusqu'au Louvre très-grave, les Tuileries très-mornes et l'institut très-laid, Pourtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
@@ -173,33 +191,37 @@
 à quoi bon te Îles Si tu as encore les jambes agiles, monte au sommet D des tours de Notre-Dame. L'endroit est excellent pour jeter son spleen et son corps dans l'espace, et pour embrasser Paris, Ne va pas admirer la marmite des Invalides, même sous le prétexte d'admirer le tombeau de Napoléon! Cette soupière énorme, ce grand néant te laisseraient le cœur à jeun. Mais si, après avoir respiré l'esprit, la fleur, beauté; si, comme l'arome, l'essence de Paris, tu veux, en vrai philosophe, connaître l'envers de cette Hamlet, ct sans avoir à tuer ton beau-père et ta mère, tu veux mettre ton doïgt dans le crâne du pauvre Yorick, ne va pas aux 80 GUIDE SENTIMENTAL DE L'ÉTRANGER cimetières; ils sont trop meublés d'immortels; prends le boulevard d'Italie, va droit à la butte aux Cailles.
 #*x Là, dans un quartier hideux, sur une éminence qui se cou</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>120</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Morgue</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">tique. Je veux te donner une boussole. Tu as les deux pôles; cherche ta route. Faut-il feuilleter pour toi les revues? ff en est de vénérables : la Revue des Deux Mondes ; de   406 GUIDE SENTIMENTAL . DE L'ÉTRANGER vaillantes et d'utiles comme la Hevue politique et littéraire; de modestes comme la Revue scientifique ; de nouvelles comme qui cherchent à faire leurs preuves, la Revue de France; mais, sans médire, sans calomnier, sans dénigrer, je peux bien convenir qe l'esprit particulier de Paris s'épanche plus facilement dans les journaux que dans les revues. Il faut à l’impatience de son cerveau un plus rapide que la revue mensuelle, ou hchdomadaire, instrument bimensuelle Auras-tu la chance d’une séance à l’Académie? Te sera-t-il donné de contempler nos immortels couronnant la vertu de quelques vicilles scrvantes, ot la littérature de quelques jeunes dames? Tu ne viens pas à Paris pour y tâter de l'ennui, 
 Évite done les ahords de l'Institut. C'est un édifice malsain, posé comme la Morgue, au bord du fleuve, pour recucillir les noyés de la philosophie, de la politique, de l'éloquence. On y parle de l’immortalité, comme les chartreux parlent entre eux de la mort. Aussi n'est-on pas surpris d'apprendre, de temps en temps, que des académiciens se sont tués, au propre, après s'être tués, au figuré, par leur élection mème! Pour ne parler que des suicides du siècle, M. Émile Augier, l'ennemi des romantiques, s’est jeté à la Seine PARIS PENSEUR 407 cn 1829, plutôt que de voir triompher l'école nouvelle, Prévost-Paradol ne s’est pas pardonné de s'étre rallié à l'Empire, et M. Beulé, secrétaire perpétuel de l'Académie des beaux-arts, un ancien ministre de l'ordre moral, dégoûté de la morale, s'est planté un poignard dans le cœur pour y fixer quelque chose, Voilà les œuvres les plus dramatiques des acadé- miciens. Ne va pas regarder ces immortels aspirant incessamimnent à la mort. En dehors des cours de la Sorbonne, du Collège de France dont je parlerai tout à l'heure, Paris possède un petit établissement libre de conférences. Le soir, les jours de pluie, on peut se réfugier pendant une heure dans cet abri décent; des journalistes y parlent, absolument comme s’ils écrivaient, racontant la pièce nouvelle, le livre à Cette critique en chainbre veau; elle ne le fatigue pas ni le temps de s'endormir, des rêves trop brillants. Plusicurs fois on a rèvé soirées d'enscignement sensation. ne porte pas au cernon plus, et l’on n'a ni la peur d'emporter pour les familles des littéraire, fanilier; mais, soit que le public manque aux conférenciers, soit que les conférencièrs manquent au public, l'œuvre est restée languissante; le phonographe en est 108 GUIDE SENTIMENTAL DE L'ÉTRANGER aujourd'hui le plus réel attrait; encore a-t-on bien soin de no faire fonctionner l'appareil que quand les orateurs ordinaires de l'établissement ne parlent pas, de façon à empècher cet instrument sensible de recucillir ce qui ne vaut pas la peine d'être gardé. Malgré la médiocrité des chose</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>269</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Morgue</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">nt; mais le inédecin! pour quelques visites, pour deux lignes griffonnées, lui donner de l'argent! Allons donc! l'amitié suffit, et s’il ne veut pas de l'amitié, l'oubli, la haine. Les médecins sont vengés par la garde-malade. Lis les admirables scènes d'Henry Monnier, et tu sauras jusqu'où cette créature sans sexe, sans entrailles, sans famille, peut pousser limpitoy able vigilance de ses intéréts. On a substitué des religieuses aux monstres soidisant féminins qui arrangeaïent le dernier oreiller du mourant, et qui souvent le lui mettaient, comme Othello veillant Desdémone, sur la bouche, au lieu de le lui mettre sous la tête. PARIS FUNÈBRE 
 | 935: Je ne médirai pas du dévouement des bonnes sœurs. Je ne veux constater que leurs distractions assez fréquentes, l'obligation pour elles de s'isoler, à certaines heures, dans la méditation et dans le chapelet, les conditions de leur concours, plus accessi- 
 “ # ble aux gens aisés qu'aux pauvres. Je ne te parlerai pas de l'hôpital, ni de la Morgue, ce sont les sous-sols du drame parisien, et cette fois, malgré ma bonne volonté, malgré Paris et sa gaieté, je serais forcément lugubre. Or, nous avons conclu un pacte, n’est-ce pas, mon hôte? c'est de garder, toi et moi, notre belle humeur. Aussi, quand nous faisons une libation à la mort, laissons autour de la coupe les fleurs dont Paris l’entoure. Buvons la rose avec le vin funéraire et gardons nos larmes! C’est la liqueur précieuse dont on ne s’'enivre qu’en famille, ou tout seul. XVIII . PARIS-BUDGET Nous avons, mon hôte, parcouru à peu près tous les cercles de ce délicieux enfer parisien qui donne le nom de Paradis aux plus mauvaises places de ses plus mauvais théâlres. Je n'ai pas été un guide de la force de Virgile; tu n'es pas, Dieu merci, un promeneur atrabilaire comme Dante, et les Béatrice que nous avons entrevues t'ont laissé leur adresse. Nous nous quitterons donc sans amertume et sans lyrisme. Il me reste à te renseigner sur deux choses, sur le budget d’un Parisien et sur l’argot de Paris. Nous résumerons ensuite nos impressions et nous nous séparerons sans que fu t'écries comme le vieil Alighieri à la fin de l'Enfer: «En sortant nous revimes les étoiles! » Le 
@@ -208,71 +230,80 @@
 * ds cesseras de voir les étoiles en plein midi. 237 Quelle clef d'or ou d'argent faut-il pour entrer à toute heure dans ce monde enchanté ? pour y vivre et pour y demeurer? Je t'ai montré Paris-Misère; tu sais donc que la pauvreté ici comme ailleurs exerce ses droits. Et pourtant, deux millions d'êtres, dont la vingtième partie tout au plus possède un revenu qui les mette à l'abri de toute inquiétude, vivent gais, contents, actifs, travaillantà leur joie passagère et à la joie immortelle du monde. Comment cela est-il possible? ” C'est qu’à Paris on vit à tout prix, et, sans faire de paradoxes, je puis assurer qu'il est souvent plus facile d'y" vivre avec rien qu'avec six mille livres de rente. 
 | s%x Paris est la productif, L</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>34</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Panthéon</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">er est grave, tranquille, habité par dos commerçants, des boursiers, des 
 écrivains et, un-peu plus haut, sur la pento, par des artistes. Tu poux venir À, si tu aimes à respirer lo vent de l'esprit, Jo no parlo pas des boulevards qui conduisent à Ja Bastille; j'en dirais du bien fort inutilement. Veux-tu, noblo 
 étranger, dormir près du Paris qui étudio? Passo la Soino; cherche hardiment sur les boulevards Saint-Germain et Saint-Michel. Comme l'a dit Amédée Pommicr: Dans ces paisibles latitudes, IL est encor des solitudes; Séjour des vieilles habitudes; Pays des modestes foyers, De Do Et Do l'humblo pension bourgcoiso, l'existenco villageoiso do la mode si courtoise ne point hausser les loyers! 20 GUIDE SENTIMENTAL be a DE L'ÉTRANGER en 
 — Tu no seras pas trop luxueusement meublé, mais non plus très-fortement écorché, et tes hôtes, on to montrant les fenêtres, te feront remarquer qu'ils to donnent, gratis, l'aire embaumé du Luxem- bourg, ainsi quo la vue de l'aurore, sur lo dômo - du Panthéon. Si tu as un deuil, uns douleur hautaine, uno grande amertume à conserver, lo dédain de la jeunesso et de La vio; si tu es, à mon hôte, un petit aristocrato et un grand dévot, comme jo t'aimo pour toi, et non pour moi, je vais t'indiquer lo climat de ton tempérament. Franchis le Pont-Royal, va chercher, dans co qui reste du faubourg Saint-Germain, de grandes cham- bres solitaires; endors-toi, parmi les ombres! Tu trouveras do l'eau bénito à ton chevet. Les cloches des couvents voisins t'éveilleront picusement, et tu pourras, ainsi, combiner la tentation de l'enfer parisien, pendant la journée, avec la volupté do faire ton salut, à huis clos, tous les soirs. Le jardin Mabille et les pères do la Miséricorde: quel rève cet quelle hygiène, Ô mon hôto! 3 11 PARIS La Franco est le QUI MANGE Parnasso de la cuisine, et Paris est le sommet du Parnasse. Dans tous Îles pays du monde, on confectionne des plats dignes d'être chantés; Mais les Muses . culinaires ne sont munies en cortége qu'à Paris. Si Jupiter, pour continuer la comparaison, rovenait jamais prendre la suite des affaires des dieux modernes, dont le règne est très-menacé, il ne trouverait qu'à Paris un chef pour lui rendre lo secret perdu de Tl'ambroisio, et des chimistes pour lui préparer le nectar. Un Français, qui honore la magistrature de la cour de cassation par son livre de gastronomie, et qui fut de l'intimité de la moins matérielle des Pari- siennes, de madame Récamnier, Brillat-Savarin, ce "RE 22 GUIDE SENTIMENTAL DE L'ÉTRANGER Montesquieu de la table, a dit que l'hommo d'esprit seul sait manger, Souviens-toi, mon hôte, do cette maxime, et conduis-toi le plus spirituellement que tu pourras dans Paris-Cuisino. Jo vais l'indiquer lo moyen d'éviter la soltise, c'est-à-diro lo moyen d'éviter la gargoto. 
 ++ Alexandre Dumas père, qui fut la vorvo la plus Fécondo, la plus pétillante, la plus française, la plus parisienno de cetto génération, après avoir écrit tous les drames que tu connais et tous les romans </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>50</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Odéon</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad"> satisfait. Ne t'inquiète donc jamais, d voyageur! Quelque division que tu donnes à ton existence dans Paris, tu trouveras, à toute heure du jour ou de la nuit, un foyer qui chauffe pour toi, et un sourire qu 36 GUIDE SENTIMENTAL DE L'ÉTRANGER veille pour jeter la pastille d'un parfum brasier de ton diner. dans ce Je suis assez licureux, pour joindre à ces rensei- guements un tableau, en vers, des douze mois de 4% L'ANNÉE GASTRONOMIQUE. Par le bœuf, en janvier, commencez l'holocauste! La trufte, en février, attendrit les amours. .… moe acte, dans l'acte du festin ; le voici : 
 #44 récité au 4 4 di un aquarium, ce dernier mot du progrès. il est probable que ce morceau de vers inédit sera - RAT Français, jaloux de dépasser le premicr, nous doit ae la poudre aux yeux de Balsamo, le sccond Théâtre- h l'année gastronomique.
 | Je dois cette poésie à un restaurateur... des belles-lettres, qué désire garder l'anonyme. Son non te sera révélé plus tard; car l'auteur prépare une tragédie pour l'Odéon, intitulée : Le Banquet d'Apicius. [l'espère que la pièce sera reçue avec acclamation par M. Duquesnel, après lecture approbative de M. Lapommeraye, à cause d'un grand aquarium qui doit remplir le 3° acte. Après les chiens de la Jeunesse de Louis XIV, le perroquet et les chats des Danicheff, les diamants et PARIS QUI MANGE .37 En mars, toute marés arrive par la poste.. Avril n'a rien, mais vit de l'espoir des beaux jours. s'Lo joli mois de mai, c'est l'aurore friande Des tendres pigeonneaux, des tendres petils pois. En juin, toute volaille à nous se recommande, En juillet, le veau pleure et se sent aux abois. s'Août, c'est le désert, c'est la soif inutile, Septembre a le gibier encor rare et chétif, Octobre est le grand mois de cuisine subtile Où le mouton rêveur rend le berger pensif. s'+ : Novembre est le retour de l'été, pour les âmes Qui savent que l'on pense ainsi qu'on se nourrit; Et décembre, aux trépieds, va redoubler les flammes, Pour le ventre divin, ce vase de l'esprit! FOREST me 2 2 ane   [II PARIS QUI BOIT Boire sans soif, a dit Beaumarchais, c’est ce qui nous distingue des bêtes. Beaumarchais ajoutait un autre privilége, dont je parlerai plus tard. Un français seul pouvait poser cet axiome, ct boit surtout pour causer, pour rire, et à peine pour boire. Paris est cependant la ville du monde où l'on boit le plus de choses variées, ordinaires et extraordinaires, depuis l'eau des fontaines, comme au. temps de Daphnis et de Chloé, jusqu'à l'eau des larmes. La statistique compte à peu près 25, 00 débits . de boïssons dans Paris, sans compter les confessionnaux, où les pleurs se débitent, assure-t--on, 
 à PTT à un Français do Paris, qui sait bien qu'à Paris on PARIS QUI BOIT 30 Selon l'habitude de nos Parlements, qui sont presque toujours des sociétés de dénigrement contre l'esprit, l'honneur et les mœurs du peuple français, on a voté une loi répressive de l'ivresse, pour faire croire au monde que ces 25, 00 débits étaient des
 étables où l'alcool transfor</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>163</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Odéon</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad"> QUI S’ANUSE 449 en entrant dans les coulisses; souhaite de devenir myope; tiens ton cœur, et peut-être ton nez. M, Veuillot, qui se connait en mauvaises odeurs, nous a précédés l'un et l'autro dans ces vilains endroits. Îla consigné le résultat de ses observations dans un livro qu'on ne lit guère, mais que j'ai lu, et voici ce qu'il dit des nymphes, abritées par les portants des décors: 
 « Des cagneuses, des mafilues, des pansues, des voûtées, des asseuses, impudentes et gauches, ne sachant ni marcher, ni so tenir. O effroyable déformation de la grue déplumée, Ô grouillement formi. “dable d'où s'échappent des odeurs de soupentel » N'atiribue pas ces silhouettes méchantes à do la rancune. M. Veuillot n'a rien à reprocher aux comé diens. 
 ++ Quels théâtres te rccommanderai-je? Tu les con- nais tous par leurs noms. Après le Théâtre-Français, qui garde le premier rang, qui s’est peut-être élevé par son respect pour les rhaîtres, et par le soin qu'il met à accueillir les modernes, après l'Odéon qui reçoit la subvention de second Théâtre-Français, tu sais que le rire franc et français, sans réticence, sans bégueulcrie, le rire salutaire, éclate toujours au théâtre du Palais-Royal. Il est plus intermittent au théâtre des Variétés; 150 GUIDE SENTINENTAL DE L'ÉTRANGER il s'y mêlo des airs d'opéretto qui l'agacent et lo troublent. Le théïtre du Vaudeville est le seul théâtre où le Yaudeville ait le moins de chance de ressusciter, La comédie de mœurs s’y épanouit, Le Gymnase vivote de son passé et en meurt aussi. La Renaissance, les Boufles, les Folies-Dramati- ques sont des débits d'opérettes, gaillardises et do voix aigrelettes. d'œillades, de La Porte-Saint-Martin so souvient, do temps en temps, qu'elle fut le théâtre légendaire du drame; l'Ambigu, son voisin, voudrait s'en sivenir; lo Théâtre-Historiquo n'a pas encore d'histoire, et la Gaité, le Châtelet se vouent à la fécrie, sans qu'aucune baguette de féo leur rende le prestige et la fortune d'autrefois. Aimes-tu les pantomimes? les Cirques, l'Hippodrome ont des Talmas à quatre pattes de premier ordre et des acrobates d'un style qui n’a pas besoin d'interprètes. IL est encore d'autres endroits moins salubres, offerts aux amateurs de spectacles. Mais, comme on ne sait jamais s'ils sont ouverts pour cause d'imprudence, ou fermés pour cause de faillite, je m'abs- tiens de t'en parler, 
 #74 . S'il arrive que ton humeur, ou ta digestion, te prédispose à certains plaisirs légers, moins séden- PARIS QUI S'ANUSE 451 taires, moins attachants que lo plaisir de l'Opéra, du dramo ou de la comédie, tu as la ressourco des cafés-concerts. No rougis pas, mon hôte; M. Veuillot a passé encore par là, et no s’est pas fait absoudre du Pape pour cette curiosité, Je l'ai dit que l'on chantait à Paris pour avoir des prétextes do boire; tu peux prétexter la soif pour écouter ce qui so chante dans nos Alcazars et nos Eldorados. Ne crains ni les chansons politiques, ni les élégies. La police a proscrit des tréteaux tout co qui p</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>165</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Odéon</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">n ne sait jamais s'ils sont ouverts pour cause d'imprudence, ou fermés pour cause de faillite, je m'abs- tiens de t'en parler, 
 #74 . S'il arrive que ton humeur, ou ta digestion, te prédispose à certains plaisirs légers, moins séden- PARIS QUI S'ANUSE 451 taires, moins attachants que lo plaisir de l'Opéra, du dramo ou de la comédie, tu as la ressourco des cafés-concerts. No rougis pas, mon hôte; M. Veuillot a passé encore par là, et no s’est pas fait absoudre du Pape pour cette curiosité, Je l'ai dit que l'on chantait à Paris pour avoir des prétextes do boire; tu peux prétexter la soif pour écouter ce qui so chante dans nos Alcazars et nos Eldorados. Ne crains ni les chansons politiques, ni les élégies. La police a proscrit des tréteaux tout co qui pouvait les faire estimer. On a essayé, dans un temps d’anarchie et de désordre moral, de déclamer du Racine et du Corneille devant les buveurs de chopes ; mais cette tentative causa trop de bruit; le public applaudissait avec fureur, et l'Odéon n'avait plus de raison d'être. Corneille a été mis en fourrière, Racine a été in- terdit.
 | La chanson déluréo, grivoise, quelquefois réaliste
@@ -284,18 +315,20 @@
 émouvaient des écoles de bon ton, et qui la mère d'Évangéline, l'évangélisatrice de l'oncle Tom. Depuis quelques années, la valso est un peu détrônée par le patin, et les skatings font tort aux bals traditionnels. IL paraît que pour l'étranger le profit est pareil. Ce que les danseuses montraient en levant le pied, elles le laissent voir en glissant et en tombant par terre. Lo palinago ne laisse rien à regretter.
 | Pardonne-moi de ne pas pousser plus loin la nomencleture. Tu ne viens pas à Paris pour étudier lé bal Valentino, ni les bals de l'ancienne barrière, la Reine Blanche, l'Élysée Montmartre, qu'il ne faut pas confondre avec l'Élysée du Président, çar on s'y amuse beaucoup plus. Je n'ai pas à te prescrire le respect prudent qui est dû aux nymphes de ces bosquets et aux Anacharsis qui sont de leur intimité. La familiarité est aussi dangereuse que les querelles. Abstiens-toi et LL PARIS QUI S'ANUSE 15 tiens-toil No te laisso émouvoir, si lu traverses ces enfers maquillés en paradis, ni par le sourire entrovu, ni par le cri de détresse entendu. Laisse assommer Ja beauté sans défense. Elle n'est qu'une a</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>43</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Jardin des Plantes</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad"> la Madeleino, on voit passer quelquelois des fantômes du régime déchu. Comine ils ne font pas eux-mêmes la pâtée pour les républicains, on peut y manger sans répugnance et sans craînte, qe sr PARIS QUI 
 + 
 + MANGE 29 
@@ -305,18 +338,20 @@
 ‘taliens, après un tête-ä-tête entre une grande dame PARIS 
 ° QUI MANGE 3! poser une raic brutale sur le front troublé de la nymphe qui va s'échapper du nuage! Mettre ce. peigne sur le dessert! Quel peigne? Lo peigne banal, universel, le peigne de l'établissement; quand la plus vertueuse des Parisiennes a dans sa poche tout l'attirail de toilette, facile à porter, même en voyage à Cythère! Quelle aberration! quelle balourdise! quel assommoir! Voilà où en est le réalisme des fantaisistes. J'ai prononcé le mot a</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Jardin des Plantes</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">, ce Parisien fieffé, vécut si longtemps. Pourquoi aucune inscription ne rappelle-t-elle la maison de ce romancier gaulois, qui écrivait souvent comme Vadé, mais qui Molière? Arrète-toi à l’'Ambigu. voyait parfois comme as Paris, pour un fläneur ordinaire, finit là. Au delà du vaste désert du Château-d’'Fau, défendu par des lions du Sahara, moins altérés que désaltérants, commence le Paris, extérieurement tranquille, le Marais, le calme, la routine monotone. Aux Folies- Dramatiques s'éteint l'avant-dernier sourire. Le dernier meurt au Troisième Théâtre Français, cette urne vide de la cendre évaporée de Déjazct. 4 Le reste, jusqu’à la Bastille, appartient à la curio- sité sociale ou historique; mais le touriste n'est plus un fläneur, c’est un chercheur; il est sur 78 GUIDE SENTIMENTAL DE L'ÉTRANGER l'avenue des grands ateliers et de la grande nécropole, du faubourg Saïint-Antoine et du Père-La-Chaise. La colonne de Juillet est lacolonne d'Hercule. Au delà, iln'ya plus que les bêtes du Jardin des Plantes.
 ## Les quais ont leurs grands”’panoramas; mais ils exigent une âme sérieuse, une réverie sévère. Ce 
 ñ’est plus le Paris de la gaieté, de l'ironie, du plaisir, de l'amour, ni même du travail, C'est le Paris des tristesses éternelles; depuis l'Hôtel-de-Ville dont on répare les ruines, la Morgue entrevue, l'Hôtel-Dicu qu'on voit trop, Notre-Dame qu'on devrait mieux voir, le tribunal de commerce où l’on déclare les faillites, les deux thédtresen face où on les fait, le Palais de justice où l'on juge, la Concicrgerie où l'on expic, la Préfecture de police qui se rajeunit sans s'embellir jusqu'au Louvre très-grave, les Tuileries très-mornes et l'institut très-laid, Pourtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
@@ -326,18 +361,20 @@
 | 
 à quoi bon te Îles Si tu as encore les jambes agiles, monte au sommet D des tours de Notre-Dame. L'endroit est excellent pour jeter son spleen et son corps dans l'espace, et pour embrasser Paris, Ne va pas admirer la marmite des Invalides, même sous le prétexte d'admirer le tombeau de Napoléon! Cette soupière énorme, ce grand néant te laisseraient le cœur à jeun. Mais si, après avoir respiré l'esprit, la fleur, beauté; si, comme l'arome, l'essence de Paris, tu veux, en vrai philosophe, connaître l'envers de cette Hamlet, ct sans avoir à tuer ton bea</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Louvre</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">4 Le reste, jusqu’à la Bastille, appartient à la curio- sité sociale ou historique; mais le touriste n'est plus un fläneur, c’est un chercheur; il est sur 78 GUIDE SENTIMENTAL DE L'ÉTRANGER l'avenue des grands ateliers et de la grande nécropole, du faubourg Saïint-Antoine et du Père-La-Chaise. La colonne de Juillet est lacolonne d'Hercule. Au delà, iln'ya plus que les bêtes du Jardin des Plantes.
 ## Les quais ont leurs grands”’panoramas; mais ils exigent une âme sérieuse, une réverie sévère. Ce 
 ñ’est plus le Paris de la gaieté, de l'ironie, du plaisir, de l'amour, ni même du travail, C'est le Paris des tristesses éternelles; depuis l'Hôtel-de-Ville dont on répare les ruines, la Morgue entrevue, l'Hôtel-Dicu qu'on voit trop, Notre-Dame qu'on devrait mieux voir, le tribunal de commerce où l’on déclare les faillites, les deux thédtresen face où on les fait, le Palais de justice où l'on juge, la Concicrgerie où l'on expic, la Préfecture de police qui se rajeunit sans s'embellir jusqu'au Louvre très-grave, les Tuileries très-mornes et l'institut très-laid, Pourtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
@@ -349,35 +386,39 @@
 #*x Là, dans un quartier hideux, sur une éminence qui se coupe à pic, tu trouveras la dernière, l’indéracinable verrue, la léproserie de Paris, des espaces
 énormes, des cloaques sans nom, bordés de masures chancelantes ! Vas-y le jour, c’est horrible! Vas-y la nuit, c’est prodigieux. La lune répandra devant toi un désert asphaltite; tu sentiras l'odeur d’une pourriture</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>123</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Louvre</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">it invincible ment attiré vers le quartier de la Sorbonne et du Collége de France, non pas tant pour entendre les maitres qui parlaient à la jeunesse (car il n’y avait nas toujours de la place pour le public étranger aux 
 écoles), que pour voir défiler les étudiants, au refour de ces communions intellectuelles, On les regardait passer comme on voit passer maintenant des pclotons do volontaires C'était la légion de l'avenir qui allait s’armer aux cours de Michelet et de Quinct pour aîler combattre dans les journaux, dans des revues. dans des conférences, le bon com. bat de la liberté et de la pensée, Comme il y a longtemps de cela! PARIS PENSEUR 109 Aujourd'hui, on fait des boulevards magnifiques pour conduire aux amphithéâtres; on a planté des squares devant les vieilles. maisons de la science rajeunie; tout le monde peut aller en voiture dans ces avenues qui étaient autrefois des rucs étroites; mais il ne viendra jamais à l’idée d’un voyageur de sortir du Grand-Hlôtel, de l'hôtel du Louvre, pour aller écouter ce qu'on dit là-bas, de l'autre côté de l’eau, dans ces chaires, si longtemps muettes ou seulement susurrantes, sous l’Empire. Michelet, rappelant un jour, dans un article sur le Collége do France, ces années de fièvre, écrivait avec enthousiasme:
 « Ce qui serait beau à dire, si on pouvait le retrouver, c’est combien la foule enseignée nous enscignait à son tour, réagissait à son insu; com- bien ce grand auditoire de tout peuple et de tout Age, Français, étrangers, vicux, jeunes, étudiants, professeurs, dames, influaient puissamment sur nous! » Aujourd'hui, l'électricité n’est plus aussi puissante dans ces régions refroidies par système. Les étudiants travaillent pourtant avec autant de volonté qu’autre- fois, mais avec une volonté plus taciturne, et avec moins de solidarité. Ils ne se donnent plus en spectacle; ils ont des occasions plus rares d'ovations, de félicitations ; mais je crois aussi qu’il n’arriverait plus, même à un professeur d'hindoustani, ce qui est resté légendaire dans le quartier de la Sorbonne. Peut-être ne sais-tu pas cette histoire, fort con 1 410 GUIDE SENTIMENTAL DE L'ÉTRANGER nue en France? Je la cite, pour ne rien te ménager, et aussi pour finir, sur un air moins morose, e chapitre qui s’est assombri en parlant de la pensée, grave au fond, du Paris toujours en si belle humeur. C'était, il y 9... supposons vingt ans. Un professeur de langue indoue n'avait jamais un scul audi- teur à son cours; il venait consciencicusement à l'heure dite et au jour prescrit, montait en chaire, puis saluant la salle vide, souriant avec mélancolie
 à l’amphithéâtre désert, il redescendait, partait, remettant toujours à la fois prochaine l'ouverture d'un cours toujours à faire et jamais commencé. Un jour ïl pleuvait; ce solitaire consciencieux avait pris une voiture pour arriver à son heure. fl monte en chaire. O surprise! un auditeur décent, souriant, bien disposé, était là au premier rang. Le professeur se sent inspiré ; il a un arriéré d'</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>272</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Louvre</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">eau de la Méduse n’est pas morte.
 À tous les degrés de l'échelle sociale, on trouve des gens, gantés ou non gantés, cravatés ou débraillés, qui, sans commettre d'action trop vile, se nourrissent, se logent et vivent aux dépens de ceux qui les écoutent. 
 € 
@@ -391,18 +432,20 @@
 — C'est impossible; je suis invité pour vingt-trois mois. Te 4+ 260 Se Dee eee eme EG open fn Éman D ef ce F ot . Ex ee mes -- ER D Len . TS GUIDE SENTIMENTAL DE L'ÉTRANGER Pa Il faut convenir que ce moyen n’est pas absolu- ment à la portée de tout le monde, et je le crois fort usé; mais je cite cette histoire, presque légendaire, pour te montrer qu'à Paris, si l'esprit ne mène pas toujours à la fortune, il peut aider merveilleusement à s'en passer.
 | Ce qui est inusable dans le caractère parisien, c'est sa philosophie. Ponsard, qui n’a pas considérablement enrichi l'anthologie française, a laissé un vers typique. Un de ses héros, dans un moment de d</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>92</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Tuileries</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">Bastille, appartient à la curio- sité sociale ou historique; mais le touriste n'est plus un fläneur, c’est un chercheur; il est sur 78 GUIDE SENTIMENTAL DE L'ÉTRANGER l'avenue des grands ateliers et de la grande nécropole, du faubourg Saïint-Antoine et du Père-La-Chaise. La colonne de Juillet est lacolonne d'Hercule. Au delà, iln'ya plus que les bêtes du Jardin des Plantes.
 ## Les quais ont leurs grands”’panoramas; mais ils exigent une âme sérieuse, une réverie sévère. Ce 
 ñ’est plus le Paris de la gaieté, de l'ironie, du plaisir, de l'amour, ni même du travail, C'est le Paris des tristesses éternelles; depuis l'Hôtel-de-Ville dont on répare les ruines, la Morgue entrevue, l'Hôtel-Dicu qu'on voit trop, Notre-Dame qu'on devrait mieux voir, le tribunal de commerce où l’on déclare les faillites, les deux thédtresen face où on les fait, le Palais de justice où l'on juge, la Concicrgerie où l'on expic, la Préfecture de police qui se rajeunit sans s'embellir jusqu'au Louvre très-grave, les Tuileries très-mornes et l'institut très-laid, Pourtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
@@ -414,18 +457,20 @@
 #*x Là, dans un quartier hideux, sur une éminence qui se coupe à pic, tu trouveras la dernière, l’indéracinable verrue, la léproserie de Paris, des espaces
 énormes, des cloaques sans nom, bordés de masures chancelantes ! Vas-y le jour, c’est horrible! Vas-y la nuit, c’est prodigieux. La lune répandra devant toi un désert asphaltite; tu sentiras l'odeur d’une pourriture immense, l'exhalaison d'u</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>232</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Tuileries</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad"> médecin, appelé à constater le décès, écrivit grave- ment dans son procès-verbal:
 « Le corps du jeuno homme était étendu sur le sol. » L'assassin voulut jouir do sa plaisanterie, C'était un forçat évadé qui fut reconnu par la police; il paya do sa tête, non pas seulement le meurtre, mais aussi, mais surtout les moustaches faites à sa victime, s'. Je n'ai pas la prétention de te donner la nomen- clature do toutes les façons de voler, multipliées et dénommées par le génie parisien. Tu n'entreprends pas un voyage do statistique; il te suffit de savoir ce .. que tu dois éviter. : No te laisse donc jamais sédüire par le proscrit qui 
 "t'offre à vendre un bijou de famille. - 43 . gts GUIDE SENTINENTAL DE L'ÉTRANGER Dans les dernières années de l'Empire, on présentait volontiers des morceaux do verre taillés commo des diamants conquis dans le palais d'été do Pékin. La police correctionnelle a fait cesser cetto expédition
@@ -433,35 +478,40 @@
 &amp; #&amp; La police de Paris a un génie égal à celui des voleurs parisiens. Elle connaît autant do tours, elle a les mêmes finesses, le même tact, la même habitude des physionomies, et, grâce au concours que lui prêtela presse, depuis le crime de Troppmann, elle PARIS-CRININEL gala est supérieure, dans bien des cas, au gibier qu'elle poursuit. Lo courage, l'audace, uno probité fièro, ardente, qui flaire les piéges, qui s’indigno des séductions, qui humo d’'instinct les parfums suspects do l'improbité, donnent aux agents de la sûreté uno netteté, une précision de vue admirables. La vicille théorie des voleurs au service do la policeest absolument passée de modo, au grand profit de la morale. Il restait toujours un arridre-goût do flibustier dans le gredin rallié, et Vidocq lui-même finit par avoir, pour son propro compte, des démêlés avec la justico. C'était d'ailleurs un mauvais exemple à donner aux coquins quo celui de la trahison. Il vaut mieux laisser la victoire du crimo tout entière aux honnêtes gens que de la partager avec des filous convertis, ou des faussaires en état do grâco. Rien n'est supérieur au bien, ot, de toutes les façons do refréner le mal, la meilleure est encore de lui montrer que la vertu a
 ” autant d'esprit, et l'honnêteté autant de finesse que : le crime et l'improbité. ste de sais que les grands r</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>322</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Tuileries</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad"> 1812. La tragédie allait commencer, et le canon frappait les trois coups, sur le grand théâtre de la Russie. Un jour, dit M. Vatout, un vainqueur brutal se coucha tout habillé dans le lit de Napoléon, à Saint Cloud, heureux, dans son orgucil de déchirer avec ses éperons les draperies impériales. Une meute de chiens qui le suivait partout occupait et dévastait le boudoirde l'impératrice; et leslivres de la bibliothèque jetés pêle-mêle sur les parquets, attestaient respect pour la civilisation. son 308 GUIDE SENTIMENTAL DE L'ÉTRANGER La promièro étapo de la Restauration fut à Saint- Cloud, la dernière aussi, Louis XVII y coucha, en regrettant Versailles; Charles X s’y retira en 1830, sans so douter, le pauvre homme, qu'il allait partir do à pour Holyrood. Je no sais, mon hôte, à quel parti tu appartiens; mais tu es un hommo do ton temps et fu peux rire de co mot innocait et effroyablo de Charles X, qui, quelques jours avant d'aller jouer son dernier whist à Saint-Cloud, ayant reçu aux Tuileries les pairs de Franco et les députés, disait en parlant des députés plébéiens mêlés aux'ultras do l'aristocratie: 
 — [l'yaici bien du meli-melo; mais jo ne parlo pas à tout lo monde! Louis-Philippe adora Saint-Cloud, et y fit quelques enlaidissements qui étaient sa manie. Lui aussi prit cette route-à pour partir en exil. Ce n'est pas à Saint-Cloud que Napoléon IL a fait atteler sa dernière voiture; mais l’histoire anecdo- tique raconte qu'il y fut pris un jour d'une syncope très-alarmante. Les circonstances qui la précédèrent faillirent amener un autre divorce impérial; mais tout s’arrangea, hélas! et la guerre d'Allemagne fut la galanterio promise, pour effacer le souvenir cette syncope, préjudiciable au bonheur conjugal. de Tu le vois, mon hôte, Saint-Cloud fut une hôtel- -à LE
 # LES ENYIRONS DE PARIS ru 309 re lerie particulièrement tragique aux souverains fran 
 çais. L'incondio des Allemands a complété par un - bouquet d'artifico. épouvantable lo spectaclo des catastrophes princières, Puisse-t-il dans son ouragan avoir emporté, commo des fantômes, les légendes funestes qui avoisinaient Paris! Lo château do Fontainebleau a des souvenirs presque aussi dramatiques. À travers des cavalcades et des fêtes, on voit do temps en temps un spectre apparaître, et Christine de Suèdo a laissé la traco du sang do Monaldeschi dans la galerio des Corts, comme pour paraplicr lo registre do l'hospitalité, après les reines et les rois qui étaient venus, oxilés ou fugitifs, s'asscoie à l'ombro de la forêt. La forèt de Fontainchleau, voilà, mon hôte, la grande attraction, quand on t'aura montré la salle où Pie VIT fut captif, la salle où son geôlier abdiqua, et les assiettes quo Louis-Philippe fit conserver, pour satisfairo son goût des musées, qui no créa pas toujours, ni partout, les musées du goût. Un brave homme, mort il y a deux ans, mais que les artistes honorent d’un culte reconnaissant, s'était fait, par amour des grands arbres, l'appariteur et lo cicérone de la forèt de Font</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>93</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Palais-Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ir, de l'amour, ni même du travail, C'est le Paris des tristesses éternelles; depuis l'Hôtel-de-Ville dont on répare les ruines, la Morgue entrevue, l'Hôtel-Dicu qu'on voit trop, Notre-Dame qu'on devrait mieux voir, le tribunal de commerce où l’on déclare les faillites, les deux thédtresen face où on les fait, le Palais de justice où l'on juge, la Concicrgerie où l'on expic, la Préfecture de police qui se rajeunit sans s'embellir jusqu'au Louvre très-grave, les Tuileries très-mornes et l'institut très-laid, Pourtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
 + 
 * 
@@ -471,35 +521,39 @@
 #*x Là, dans un quartier hideux, sur une éminence qui se coupe à pic, tu trouveras la dernière, l’indéracinable verrue, la léproserie de Paris, des espaces
 énormes, des cloaques sans nom, bordés de masures chancelantes ! Vas-y le jour, c’est horrible! Vas-y la nuit, c’est prodigieux. La lune répandra devant toi un désert asphaltite; tu sentiras l'odeur d’une pourriture immense, l'exhalaison d'un cadavre géant, celui d’un frère du Paris vivant, qui tous les soirs va mourir là. La silhouette fantasque du sombre Bicètre, la Bièvre étroite et jaune avec ses vieux moulins à {an te rappelleront seuls la vie sur ce fumier gigantesque. Tu le vois, le spectacle varie. Il y en a pour tous les goûts et pour tous les dégoûts. Paris est varié etcomplet comme Shakespeare. Voilà pourquoi on ne peut pas plus se passer de l’admirer et de l'aimer que finir jamais de le connaitre. Combien de Parisiens qui inangent des pâtés de caïlles aux </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>163</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Palais-Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">n et l'autro dans ces vilains endroits. Îla consigné le résultat de ses observations dans un livro qu'on ne lit guère, mais que j'ai lu, et voici ce qu'il dit des nymphes, abritées par les portants des décors: 
 « Des cagneuses, des mafilues, des pansues, des voûtées, des asseuses, impudentes et gauches, ne sachant ni marcher, ni so tenir. O effroyable déformation de la grue déplumée, Ô grouillement formi. “dable d'où s'échappent des odeurs de soupentel » N'atiribue pas ces silhouettes méchantes à do la rancune. M. Veuillot n'a rien à reprocher aux comé diens. 
 ++ Quels théâtres te rccommanderai-je? Tu les con- nais tous par leurs noms. Après le Théâtre-Français, qui garde le premier rang, qui s’est peut-être élevé par son respect pour les rhaîtres, et par le soin qu'il met à accueillir les modernes, après l'Odéon qui reçoit la subvention de second Théâtre-Français, tu sais que le rire franc et français, sans réticence, sans bégueulcrie, le rire salutaire, éclate toujours au théâtre du Palais-Royal. Il est plus intermittent au théâtre des Variétés; 150 GUIDE SENTINENTAL DE L'ÉTRANGER il s'y mêlo des airs d'opéretto qui l'agacent et lo troublent. Le théïtre du Vaudeville est le seul théâtre où le Yaudeville ait le moins de chance de ressusciter, La comédie de mœurs s’y épanouit, Le Gymnase vivote de son passé et en meurt aussi. La Renaissance, les Boufles, les Folies-Dramati- ques sont des débits d'opérettes, gaillardises et do voix aigrelettes. d'œillades, de La Porte-Saint-Martin so souvient, do temps en temps, qu'elle fut le théâtre légendaire du drame; l'Ambigu, son voisin, voudrait s'en sivenir; lo Théâtre-Historiquo n'a pas encore d'histoire, et la Gaité, le Châtelet se vouent à la fécrie, sans qu'aucune baguette de féo leur rende le prestige et la fortune d'autrefois. Aimes-tu les pantomimes? les Cirques, l'Hippodrome ont des Talmas à quatre pattes de premier ordre et des acrobates d'un style qui n’a pas besoin d'interprètes. IL est encore d'autres endroits moins salubres, offerts aux amateurs de spectacles. Mais, comme on ne sait jamais s'ils sont ouverts pour cause d'imprudence, ou fermés pour cause de faillite, je m'abs- tiens de t'en parler, 
 #74 . S'il arrive que ton humeur, ou ta digestion, te prédispose à certains plaisirs légers, moins séden- PARIS QUI S'ANUSE 451 taires, moins attachants que lo plaisir de l'Opéra, du dramo ou de la comédie, tu as la ressourco des cafés-concerts. No rougis pas, mon hôte; M. Veuillot a passé encore par là, et no s’est pas fait absoudre du Pape pour cette curiosité, Je l'ai dit que l'on chantait à Paris pour avoir des prétextes do boire; tu peux prétexter la soif pour écouter ce qui so chante dans nos Alcazars et nos Eldorados. Ne crains ni les chansons politiques, ni les élégies. La police a proscrit des tréteaux tout co qui pouvait les faire estimer. On a essayé, dans un temps d’anarchie et de désordre moral, de déclamer du Racine et du Corneille devant les buveurs de chopes ; mais cette tentative causa trop d</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">t pénitence et n'écrit plus que pour faire aimer les jésuites. C'est encore ue excitation mauvaises seulement devenu beaucoup moins éloquent. 4 Paul Féval cst 
 # Déplions lo plan do Paris, pour chercher la région où tu peux choisir ton hôtel ou ta maison ucubléc. {7 PARIS-HOTEL pe em 
 … ee De la Seine au boulevard Montmartre, +: -ntons le feu courir sous les doigts. Voici là feririsise, la cuvo d'Augusto Barbier. Tout y fermente, y bout, y déborde, lo bieu, le mal, la débauche, les grands cafés, les grandes églises, les grandes inmaisons do travail, 
@@ -510,89 +564,101 @@ $
 + Le neuvièmo arrondissement, dont lo centro est marqué par Notre-dame-de-Lorette, n'est pas à dédaigner. PARIS-HOTEL 49 Lo vieux préjugé sur la gaieté légèro circulait autrefois est bien passé do modo. qui y Tout au plus, sur les hauteurs, au delà do cetto
 égliso, pimpante commo uno sallo do concert, en- tend-on encore, do temps en temps, un rire qui chatouille l'écho de la nouvelle Athènes endormie; mais do la ruo de la Chaussée-d'Antin au faubourg Poissonniè</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>43</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad"> civilisation. Quelques personnes s'imaginent qu'il entretient ainsi une société, annexe de la Société des gens de lettres. Ne partage pas ce préjugé: parmi ces pauvres, il n'y a pas même un académicien. . Brébant maintenir Veux-tu Demander la table où est un prix Montyon; ce qui l'autorise à ses prix. faire une excursion dans le quartier latin? : le cabinet où George Sand a diné souvent; Sainte-Beuve a fait gras le vendredi saint? Cours chez Magny, rue Contrescarpe. Quand tu sauras la signification du mot escarpe, dans l'argot parisien, tu te croiras à l'abri des écor- lite 8 sl 4 un hé chures, dans ce licu d'asile. Chez Durand, place de la Madeleino, on voit passer quelquelois des fantômes du régime déchu. Comine ils ne font pas eux-mêmes la pâtée pour les républicains, on peut y manger sans répugnance et sans craînte, qe sr PARIS QUI 
 + 
 + MANGE 29 
 + La Noël, passage des Princes, te servira sous Îles voûtes d’un Alhambra; c'est sa plus grande originalité. . Champeaux, place de la Bourse, offre en tout temps l'illusion de la verdure aux spéculateurs en illusions, qui ont leur officine dans le palais en face. J'aurais d'autres noms encore à citer; mais à quoi bon? Je te laisse la chance de quelques découvertes. Je l'ai indiqué les phares, en té rappelant que les phares sont presque {oujours eux-mêmes des écucils illuminés, J'aurais voulu ajouter à ce livre une carte du Tendre, pour Paris. Les restaurants eussent été placés auprès du village de Petits-Soins, et dans un coit j'aurais indiqué d'un trait les endroits mystérieux, comme ranger, celui où Chateaubriand allait chanter Bél'Arc-en-Ciel, dit Temple derrière le Jardin des Plantes. de l'Adultére, Faut-il te prémunir contre les traits et les attraits 30 GUIDE SENTIMENTAL DE L'ÉTRANGER du cabinet particulier? Je ne veux m'en occuper, dans ce chapitre, qu’au point de vuc de la cuisine. . Qui que tu sois, quelle qu'elle soit, ne discute pas le menu devant elle; tu démasquerais tes batte- ries, etce serait absolument comme si tu marchandais avec le serpent le fruit défendu. Cucille et laisse cueillir; le garçon su Mit à l'indiquer les branches, ct, sois tranquille, tous Îles fruits scront en or. Discrétion sublime, complicité charmante, magnétisme ajouté aux cffluves naturelles, tu trouveras tout dans le garçon qui ‘uvre et surtout qui ferme les compartiments des petites maisons (cellulaires du xix° siècle. A ce propos, je veux réfuter une hérésie capable de déshonorcr Paris. M. Émile Zola, ce fantaisiste par excellence, qui veut faire croire aux êtres à deux picds qu'ils mar. chent à quatre pattes, ayant 
 à décrire une scène de cabinet particulier, selon son procédé ordinaire, raconte que, dans un boudoir du boulevard des est une infâme calomnie. Ne sois pas dupe, Ô mon hôte, de cette ignorance d’un fantaisiste. Un garçon du boulevard des Italiens offrant un peigne! Pro- ER PRES et un jeune gandin, Île garçon du restaurant, en recevant le prix de l'addition, dit à la grande dame, . légèrement ébouri</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>88</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">tude, d'être parisien. pas Sur ce boulevard élégant, tu fläneras, comme un personnage de tragédie dans un portique, avant lo palais. L’autel, le sanctuaire, le foyer de Paris est plus loin.
 | Entre la Madeleine, qui est le temple de la gloire repentie, et l'Opéra, qui est l’église du second empire, rien ‘ne parle du passé, rien n'inquiète sur l'avenir. C'est le Paris égoïste et présent, neuf, banal, officiel. C'est dans ces parages qu'on a placé le grand bureau des meilleurs cigares, le. Jockey-Club, le Grand-flôtel, toutes les choses de la vie en dehors, de la vie mondaine. Le Vaudeville, théâtre de genre, etle pavillon de Hanovre où étincelle l’argenterie de Christofle, marquent la frontière où finit le grand luxe, la grande morgue, la grande vanité, où commence le luxe économique. De la Chaussée d’Antin au boulevard Poissonnière, 
 ‘tu es dans les tirés du vrai gibier parisien. Regarde, aspire, renifle l'esprit qui passe; absorbe les échos s 74 GUIDE SENTIMENTAL DE L'ÉTRANGER de la Bourse ; fais-toi une opinion littéraire, finan- cière, politique, au moins pour la durée deton séjour. Sur trois passants, l'un est un journaliste, l’autre un artiste, le troisième est peut-être un 
 écrivain célèbre ou un boursier. De temps en temps, on voit des hommes jeunes, affairés, traverser la chaussée comme des voleurs Balzac avait tort. Les décavés se sentent moins qui fuient ou qui s'apprennent à fuir; ce sont des commis d'agent de change, des employés de commerce qui, dans leurs courses obligées, font un détour pour passer par là, essayant d’entraincr un peu de la lumière, du bruit intelligent, de la fanfare d'idées de ce milieu vibrant, à travers lequel ils passent, comme autrefois les chevaux libres de Franconi qui sautaient à travers un feu d'artifice, Balzac prétendait que le préfet de police devait interdire aux pauvres de passer par À; il redoutait l'envie et les haines qu’engendre l'envie. pauvres, dans ce milieu indulgent, où toute richesse estacquise par le travail, l'industrie; à moins que la richesse ne soit un trompe-l'œil qui ne trompe personne. Les gens las de la vie coudoient par là tant de volontés actives qu’ils reprennent courage. . C'est le boulevard où l'on sait le plus vite les nouvelles vraies, où l’on exploite le mieux les nouvelles fausses. La petite Bourse s’y tient le soir. La police l'y traque sans succès, ne voulant pas suppor- ter un encombrement d'illusions. PARIS 
 À PIED - 175 La légèreté de l'esprit, la vivacité de l’à-propos, est symbolisée par le théâtre des Variétés; comme le boulevard plus bourgeois qui suit a son expression dans le Gymnase. Les cafés, meilleurs (non sous le rapport de la consommation, mais sous celui des consommateurs) sont groupés sur un côté. Les cafés politiques se nomment Mazarin, Madr id et Garen; le café de Suède est un café de coteries, de petits cercles, dont chaque table est le centre. C'est là le domaine des journalistes. Ces cafés, qui avoisinent la rue Montmartre et qui sont tournés vers la Bour</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>177</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">n? Y va-t-elle? On la voit passer, nonchalante et fière sur le boulevard, dans les passages, lasse du souper de la nuit, aspirant l1 brise PARIS-AMOUR 463 d'un déjeuner que tu lui offriras peut-être, peu inquiète, sachant bien qu'elle n’est pas d'âge à mourir de faim! : DEux HEURES. 
 — Voici LA REINE Cuoccroute; celle- n'a pas de chance. Est-ce parce qu'elle est trop grasse, ou trop maigre? trop päle ou trop rouge? Est-ce parce qu'elle ne sait pas donner de la mélancolie à son regard, ou parce qu’elle le réveille maladroitement? Ce qui est certain, c’est qu'elle n'a pas reçu l'offre d'un déjeuner. Alors, baissant la tête, la poitrine haletante de colère ct d'appétit, elle entre dans une brasserie, mange à belles dents de la choucroûte, des saucisses de Franefort, et boit de la bière avec fureur, comme elle - boiraït le sang des infâmes qui ne l'ont pas invitée. Quatre HEURES. — C'est le moment où la Fourui piétine. Prévoyante, économe, elle songe au diner; elle guette la sortie de la Bourse; elle sait la hausse; elle évite les baïssiers; elle aime les gens sérieux; elle plaitaux fonctionnaires. Elle accepte volontiers un tour de promenade au Bois; mais elle ramène toujours au centre celui qui tend à s'égarer vers la circonférence.
 "Six neu REs. — Entends-tu L’Ifrroxpezce pe Moxr MARTRE? On l'appelle aussi l'absintheuse. Elle descend la rue des Mariyrs ou là rue Notre-Dame-de Lorette, longe le faubourg Montmartre et bat de l'aile sur le boulevard. C’est la péripatéticienne de l'amour. Elle marche, elle marche, mais elle fait aussi à propos des stations aux cafés complaisants. ré, 
 « 2 164 UT em nn eme une GUIDE SENTIMENTAL ee TR, DE L'ÉTRANGER Ella tutoie les garçons; lesinterroge sur lesnouveaux habitués, sur les anciens qu’elle oublierait sans cela, et, malgré son surnom, prudente sur les apéritifs, craignant de creuser le gouffre qu'elle n'est pas sûre de remplir, elle mouille sa lèvre, sourit aux passants et attend. Huir HEURES. — Dapuixé commence sa fuite, com- me si elle était poursuivie. Elle est habillée pour la ville et pourle bal public, au choix. Ne lui propose pas à diner, elle te jetterait un cure-dent au nez, comme si tu l'insultais. Elle acceptera fièrement le café, bien qu'elle soità jeun; elle ne te permettra que plus tard de lui faire prendre de la pâtisserie. Toujours prète à te quitter, te reprochant de la retenir, elle a du courage et. de la force d’âme, parce qu'elle grignotte et se défend de manger. C'est la plus coûteuse des mendiantes; elle ne demande rien ! Dix neures. — LA cuauve-souris, après quelques
 ébats entre les arbres et les tables de café, tombe sur une chaise et attend le bien-aimé. Elle aime l'ombre; la lumière l'éblouit. Ce n'est pas sa faute si elle n’est plus jeune, et si elle est laide. Elle se console à peine, par la pensée d'une clientèle qui lui reste fidèle. C'est pour elle que les jeunes gens, intimidés par le soleil, s’enhardissent dès que le gaz est allumé; c’est en son honneur que MM. les militaires ont</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>192</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">questions. Dans l'usine, le contre-maitre les magasins, les commis chez ministères, le sous-chef chez le reau chez le chef de division, chez le maitre ; dans le patron; dans les chef, le chef de buce dernier chez le secrétaire général, celui-ci chez le ministre. Tel est le va-et-vient, le bruit de cette heure culminante, c'est l'orage des sonnettes et la tempête de bureaux. des garçons Mini, c'est le signal du repos sur toute la ligne. Paris travailleur mange. Depuis le déjeuner que fait le clerc d’huissier avec un morceau de petit salé sur le coin d'une table
 ‘ noircie à l'encre, jusqu’au plantureux repas du maitre qui a ses habitudes de restaurant, en passant par l'ordinaire à trente-cinq centimes servi chez le marchand de vin à l’ouvrier, sans oublier la cuisse de poulet dans un journal et la bouteille dans une armoire de l'employé de bureau, midi est l'heure de l'activité de l'estomac et de la fainéantise de l'esprit.
 ‘ De UNE HEURE A QUATRE HEURES. commence le grand travail de la Bourse, la fièvre de la rue Vi- PARIS QUI TRAVAILLE vienne, de la ruc Richelieu. On brasse,  419 les affaires: on spécule sur les rhumatismes de M. de Bismarck, sur les dépèches venues de Londres ou de Saint Pétersbourg; les pigeons voyageurs tournoient dans les airs et matérialisent dans ce siècle positiviste la vieille métaphore des pigeons de la Bourse. Paris est dehors, le Paris des courses, des commis- sionnaires. Toutes les voitures des grands magasins encombrent la voie. . A ce propos, si, au licu d’un guide rapide, sentimental, qui ne peut qu'effleurer les questions, je
 * voulais te mettre à même d'approfondir la moralité du commerce parisien dans ses manifestations Îles plus spectaculeuses, j'aurais beaucoup de choses à dire sur ces trois ou quatre grands bazars qui accaparent la publicité, allèchent la coquetterie et tuent les petites maisons, rendent la confiance impossible, et leurrent les budgets des ménages par des bons marchés fallaciceux ? , Sans doute, il est commode de trouver tout dans la mème maison ; mais ce fout reste un à peu près, ctles magasins de nouveautés qui vendent des livres moins cher que chez les libraires, des parapluies pour rien, des meubles pour le prix d’un joujou, et qui donnent des joujous par-dessus le marché, ces docks de la toilette qui rivalisent avec le vieux temple, vulgarisent un luxe détestable, corrompent le goût, empèchent les efforts des petits marchands, enrayent les progrès des industries qui travaillaient pour une clientèle choisie, couvrent nos femmes de chiffons 180 GUIDE SENTIMENTAR DE L'ÉTRANGER prompts à s’érailler et emplissent nos appartements de bibelots de pacotille qui font ressembler certains salons à des expositions de loteries de bienfaisance. Il est vrai qu’en vendant une robe toute faité pour quinze francs, les magasins vous offrent les frian- dises d'un buffet, le plaisir grave d’un cabinet de lecture, un billard pour les maris qui attendent leurs femmes, des boudoirs pour les femmes qui n'attendent p</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>198</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">en gardant pour la luno les préparatifs et la liquidation du festin. 
 À quarre u Eures, l'aiguille recommence son tour sur lo cadran. Jo no prétends ni à uno nomenclature complète, ni à un tableau suffisamment coloré du Paris qui travaille, N'oublie pas, mon hôte, que j'esquisse pour toi un guide sommairo. Jo veux, non pas rassasier ta curiosité, mais l'éveiller, Il mo faudrait dix volumes pour uno étudo approfondie, et un dictionnaire plus gros quo le Bottin, pour uno simplo énumération.
 "do t'ai mis à l'oreille ce cadran qui no so remonte jamais et dont lo tic tac joyeux a une cadence musicale. Amuse-toi de l'entendro; amuse-toi d'en analyser chaque pièce, et souvicns-toi quo dédaigner lo Paris qui travaille, c'est méconnaitre la doublure do mêmo étoffe du Paris qui s'amuse. AU PARIS-FINANCE Tu n'attends pas do moi, mon hôto, une dissertation sur l'escompte, le change, lo report, le déport, et les autres manœuvres de la diplomatie financière. Mais j'ai parlé trop souvent déjà de la Bourse, en te faisant la topographie du Paris vivant et du
@@ -602,18 +668,20 @@ $
 — Tiens! je n'y avais jamais pensé! reprit le baron Midas, fort surpris et au fond un peu scandalisé de l'observation. 186 GUIDE SENTIMENTAL DE L'ÉTRANGER [ls pensent à s'enrichir, à fairo monter ou descen- Aro lo cours des valeurs; ils ont des jeux féroces; mais ils no songent jamais, ces financiers, à léguer par un bientait, par uno fondation, leur mémoire
 À la reconnaissanco des générations, C'est qu'ils ont tous, plus où moins, l'art des spéculations, </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>202</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">as, de s'entendre appeler M. lo directeur, de présider un conseil d'administration, surpasse pour lui toutos les autres joics humaines. Pendant la période do succès qui no manque jamais 
 à l'œuvre la plus folle d'un Parisien, le financicr pour riro s'étale avec une ingénuité sans parcille; galerie de tableaux, dorures sur ses grilles, son chiffre jusque sur l’asphalte, sa loge, mêmo aux Français, et son journal financier, à lui tout seul, voilà lo moindre do ses rôves. :
 | Les banquiers venus du dehors ne se laissent jamais 188 GUIDE SENTIMENTAL DE L'ÉTRANGER entrainer par cetto oxubéranco; aussi n'a-t-on jamais 
@@ -625,18 +693,21 @@ $
 À quel signe reconnait-on lo financier maraudeur? Comment le distingue-t-on du financier breveté, assis? Je srais embarrassé pour te donner une photographie précise; mais je puis au moins to donner un conseil. Repoussoe la main do l'homme de bourse qui l'offre à déjeuner. . Le plus terrible harpon, c'est la fourchette. Les financiers n'ont pas donné pour rien un nom à une
 ‘sauce; mais</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>43</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Temple</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ez Durand, place de la Madeleino, on voit passer quelquelois des fantômes du régime déchu. Comine ils ne font pas eux-mêmes la pâtée pour les républicains, on peut y manger sans répugnance et sans craînte, qe sr PARIS QUI 
 + 
 + MANGE 29 
@@ -646,18 +717,20 @@ $
 ‘taliens, après un tête-ä-tête entre une grande dame PARIS 
 ° QUI MANGE 3! poser une raic brutale sur le front troublé de la nymphe qui va s'échapper du nuage! Mettre ce. peigne sur le dessert! Quel peigne? Lo peigne banal, universel, le peigne de l'établissement; quand la plus vertueuse des Parisiennes a dans sa poche tout l'attirail de toilette, facile à porter, même en voyage à Cythère! Quelle aberration! quelle balourdise! quel assommoir! Voilà où en est le réalisme des fanta</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>220</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Temple</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">de pauvres ménages n'ayant pas acheté de pièces de mariage, et ayant fait bénir une pièce de cifiq francs, la mettent en gage pour # fr, 50 et l'entretiennent pendant des années au mont-de-piété, au taux de 42 ou 14 pour 400 d'intérêt, plutôt que de la laisser vendre! Combien de foisun directeur compatissant n’a-t-il pas dégagé lui-même un objet qu'une pauvre femme
 était exposée à payer dix fois plus que sa valeur, sans parvenjr jamais à le retirer? 
 %, % 
@@ -669,40 +742,38 @@ $
 à Paris, PARIS-MISÈRE : 
 | 207 Prends garde à ce lieu commun, souvent vrai, bien souvent faux, que le vice, la paresse, l'ivrognerie sont seuls à engendrer la pauvreté. La vie.de Paris est faite de hasards, et dans ses engrenages multiples, aveugles, il y a bien des écrasements sans imprudence ! On a souvent ri de l'homme qui commence par vous demander un louis et qui ensuite finit par accepter cinquante centimes. Hélas! Qu'est-ce que prouve ce rabais subit et prodigieux? C'est que, par amour-propre, lo malheureux voulait paraître avoir besoin du superflu, et qu'il n'osait pas demander le strict nécessaire. ILest si dur d’avouer qu'on a faim! Cela paraît si bête et si invraisemblable; on aime micux laisser croire qu'on ne peut se passer d’un bon cigare. Cependant, je t'abuscrais cruellement, si je t'amenais à croire que Paris est exclusivement la capitale des misères pudiques. Si tu te méfics, pour pouvoir mieux les secourir, de ceux qui ne t'âvouent pas leur détresse, méfietoi, pour te bien garder de les encourager, de ceux qui te l'avouent trop facilement. Ferme ta porteà ceux qui t'apportent d</snippet>
   </match>
+
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Ulbach_1871_bpt6k5802400x_CL_01</uid>
+    <place_name>Rue de Rivoli</place_name>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
+    <doc_page_number>17</doc_page_number>
     <matching_term>Rivoli</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad"> bout, y déborde, lo bieu, le mal, la débauche, les grands cafés, les grandes églises, les grandes inmaisons do travail, 
-À gauche, la place ‘de la Concorde; au nord, les boulevards, de la Madeleine à la porto Saint-Denis; à l'est, le boulevard do Sébastopol; au sud, la Seine; telles sont les limites do ce quadrilatère magique, à la lois terrible et amusant. Quiconque veut monter un jour, uno heure, sur la locomotive, pour entendre do plus près la chaudière et voir do plus loin lo chemin et les rails, doit so loger dans co milieu, chauffé à touto vapeur, La Bourse, où l'on tripote; la place Vendôme, où l'on spéculo; les boulovards, où tout Paris illustre, banal, so promène et s’agito et met lo feu dans les veines du colosso ; voilà, pour l'observateur l'at- mosphère à respirer, Dans co Paris central, tu trouveras des appartements, depuis cinq mille francs par mois jusqu'à soixanto francs, en passant par une série de deux ou trois cents francs, Garde-toi, comme de l'ennui, de la rue do Rivoli; on y trouve trop d'étrangers, et pas assez do Parisiens. Ces arcades continues ne semblent-clles pas le péristyle allongé d’un seul et unique hôtel? 18 GUIDE SENTINENTAL DE L'ÉTRANGER Au delà do la place do la Concorde, en montant vers la barrière do l'Étoile, il s'est créé, à droite et. 
-à gauche, touto uno ville qui se prétend la fleur do
-'aris, et qui n'en est quo lo galon. C'est la folie Iaussmann qui a mis en fricho la folie Beaujon. là, dans des maisons préfentiouses d'aspect, ot piteusement meublées, on regardo’par les fenêtres le Juxo qui passo; c'est lo Paris dos Anglais, co n'est pas lo Paris des Parisiens. Du Parc Monceaux à l'avenue d'Antin, on so croirait à Pelgrave-Square, avec la huto distinction cn moius, quo les Anglais n'exportent jamais. Des hôtels do dames célèbres s’y accotent à des Poarding houses; la spéculation a fumé lo sol. Morny y a fait sa moisson; depuis, on n'a cessé do glanor, et l'étranger est compris parmi les récoltes. Lo Parisien va so promener par là; il n’y logo pas. Toi, qui viens pour connaitre Paris et les Parisiens, no va pas y loger.
-$ 
-+ Le neuvièmo arrondissement, dont lo centro est marqué par Notre-dame-de-Lorette, n'est pas à dédaigner. PARIS-HOTEL 49 Lo vieux préjugé sur la gaieté légèro circulait autrefois est bien passé do modo. qui y Tout au plus, sur les hauteurs, au delà do cetto
-égliso, pimpante commo uno sallo do concert, en- tend-on encore, do temps en temps, un rire qui chatouille l'écho de la nouvelle Athènes endormie; mais do la ruo de la Chaussée-d'Antin au faubourg Poissonniètv, lo quartier est grave, tranquille, habité par dos commerçants, des boursiers, des 
-écrivains et, un-peu plus haut, sur la pento, par des artistes. Tu poux venir À, si tu aimes à respirer lo vent de l'esprit, Jo no parlo pas des boulevards qui conduisent à Ja Bastille; j'en dirais du bien fort inutilement. Veux-tu, noblo 
-étranger, dormir près du Paris qui étudio? Passo la Soino; cherche hardiment sur les boulevards Saint-Germain</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
+    <snippet confirmed="yes">Garde-toi, comme de l'ennui, de la rue de Rivoli; on y trouve trop d'étrangers, et pas assez do Parisiens. Ces arcades continues ne semblent-elles pas le péristyle allongé d'un seul et unique hôtel? </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>33</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bastille</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">houses; la spéculation a fumé lo sol. Morny y a fait sa moisson; depuis, on n'a cessé do glanor, et l'étranger est compris parmi les récoltes. Lo Parisien va so promener par là; il n’y logo pas. Toi, qui viens pour connaitre Paris et les Parisiens, no va pas y loger.
 $ 
 + Le neuvièmo arrondissement, dont lo centro est marqué par Notre-dame-de-Lorette, n'est pas à dédaigner. PARIS-HOTEL 49 Lo vieux préjugé sur la gaieté légèro circulait autrefois est bien passé do modo. qui y Tout au plus, sur les hauteurs, au delà do cetto
@@ -711,18 +782,21 @@ $
 étranger, dormir près du Paris qui étudio? Passo la Soino; cherche hardiment sur les boulevards Saint-Germain et Saint-Michel. Comme l'a dit Amédée Pommicr: Dans ces paisibles latitudes, IL est encor des solitudes; Séjour des vieilles habitudes; Pays des modestes foyers, De Do Et Do l'humblo pension bourgcoiso, l'existenco villageoiso do la mode si courtoise ne point hausser les loyers! 20 GUIDE SENTIMENTAL be a DE L'ÉTRANGER en 
 — Tu no seras pas trop luxueusement meublé, mais non plus très-fortement écorché, et tes hôtes, on to montrant les fenêtres, te feront remarquer qu'ils to donnent, gratis, l'aire embaumé du Luxem- bourg, ainsi quo la vue de l'aurore, sur lo dômo - du Panthéon. Si tu as un deuil, uns douleur hautaine, uno grande amertume à conserver, lo dédain de la jeunesso et de La vio; si tu es, à mon hôte, un petit aristocrato et un grand dévot, comme jo t'aimo pour toi, et non pour moi, je vais t'indiquer lo climat de ton tempérament. Franchis le Pont-Royal, va chercher, dans co qui reste du faubourg Saint-Germain, de grandes cham- bres solitaires; endors-toi, parmi les ombres! Tu trouveras do l'eau bénito à ton chevet. Les cloches des couvents voisins t'éveilleront picusement, et tu pourras, ainsi, combiner la tentation de l'enfer parisien, pendant la journée, avec la volupté do faire ton salut, à huis clos, tous les soirs. Le jardin Mabille et les pères do la Miséricorde: quel rève cet quelle hygiène, Ô mon hôto! 3 11 PARIS La Franco est le QUI MANGE Parnasso de la cuisine, et Paris est le sommet du Parnasse. Dans tous Îles pays du monde, on confectionne des plats dignes d'être chantés; Mais les Muses . culinaires ne sont munies en cortége qu'à Paris. Si Jupiter, pour continuer la comparaison, rovenait jamais prendre la suite des affaires des dieux modernes, dont le règne est très-menacé, il ne trouverait qu'à Paris un chef pour lui rendre lo secret perdu de Tl'ambroisio, et des chimistes pour </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>91</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Bastille</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">Porte-Saiïnt-Martin restauré, LU PARIS 
 À PIED 71 mais gardant ses souvenirs. C'est là que la Révolution française a fait la répétition de sa première émeute, lj jour du renvoi de Necker; c’est À que les grandes premières représentations de la révolution romantique ont été données. Salue et passe. Cherche à côté une petite porte; c'est là que Paul de Kock, ce Parisien fieffé, vécut si longtemps. Pourquoi aucune inscription ne rappelle-t-elle la maison de ce romancier gaulois, qui écrivait souvent comme Vadé, mais qui Molière? Arrète-toi à l’'Ambigu. voyait parfois comme as Paris, pour un fläneur ordinaire, finit là. Au delà du vaste désert du Château-d’'Fau, défendu par des lions du Sahara, moins altérés que désaltérants, commence le Paris, extérieurement tranquille, le Marais, le calme, la routine monotone. Aux Folies- Dramatiques s'éteint l'avant-dernier sourire. Le dernier meurt au Troisième Théâtre Français, cette urne vide de la cendre évaporée de Déjazct. 4 Le reste, jusqu’à la Bastille, appartient à la curio- sité sociale ou historique; mais le touriste n'est plus un fläneur, c’est un chercheur; il est sur 78 GUIDE SENTIMENTAL DE L'ÉTRANGER l'avenue des grands ateliers et de la grande nécropole, du faubourg Saïint-Antoine et du Père-La-Chaise. La colonne de Juillet est lacolonne d'Hercule. Au delà, iln'ya plus que les bêtes du Jardin des Plantes.
 ## Les quais ont leurs grands”’panoramas; mais ils exigent une âme sérieuse, une réverie sévère. Ce 
@@ -733,18 +807,20 @@ $
 | 
 à quoi bon te Îles Si tu as encore les jambes agiles, monte au sommet D des tours de Notre-Dame. L'endroit est excellent pour jeter son spleen et son corps dans l'espace, et pour embrasse</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>44</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>boulevard des Italiens</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">hapitre, qu’au point de vuc de la cuisine. . Qui que tu sois, quelle qu'elle soit, ne discute pas le menu devant elle; tu démasquerais tes batte- ries, etce serait absolument comme si tu marchandais avec le serpent le fruit défendu. Cucille et laisse cueillir; le garçon su Mit à l'indiquer les branches, ct, sois tranquille, tous Îles fruits scront en or. Discrétion sublime, complicité charmante, magnétisme ajouté aux cffluves naturelles, tu trouveras tout dans le garçon qui ‘uvre et surtout qui ferme les compartiments des petites maisons (cellulaires du xix° siècle. A ce propos, je veux réfuter une hérésie capable de déshonorcr Paris. M. Émile Zola, ce fantaisiste par excellence, qui veut faire croire aux êtres à deux picds qu'ils mar. chent à quatre pattes, ayant 
 à décrire une scène de cabinet particulier, selon son procédé ordinaire, raconte que, dans un boudoir du boulevard des est une infâme calomnie. Ne sois pas dupe, Ô mon hôte, de cette ignorance d’un fantaisiste. Un garçon du boulevard des Italiens offrant un peigne! Pro- ER PRES et un jeune gandin, Île garçon du restaurant, en recevant le prix de l'addition, dit à la grande dame, . légèrement ébouriffée:
 — Si madame veut le peigne? J'en atteste le cabinet en. onyx du café Riche et tous les nids capitonnés des restaurants! Ce peigne Tige 
@@ -752,18 +828,20 @@ $
 ° QUI MANGE 3! poser une raic brutale sur le front troublé de la nymphe qui va s'échapper du nuage! Mettre ce. peigne sur le dessert! Quel peigne? Lo peigne banal, universel, le peigne de l'établissement; quand la plus vertueuse des Parisiennes a dans sa poche tout l'attirail de toilette, facile à porter, même en voyage à Cythère! Quelle aberration! quelle balourdise! quel assommoir! Voilà où en est le réalisme des fantaisistes. J'ai prononcé le mot addition; ne va pas l'aviser de demander la carte ou la note. Dans un temps où le nombre fait la loi, où le chiffre est souverain, ou tout le monde additionne, le post-scriptum, la liquidation d’un rève de deux heures, rêve pantagruélique ou rêve d'amour, doit s'appeler l'addition. Paie donc Faddition ; mais, en recevant la monnaie, compte-la, mon hôte, sans y prendre garde sans avoir l'air de la compter; mais compte-la sérieusement. Car (ous les jours on s'aperçoit qu’en prenant seulement les grosses pièces, et en repoussant, par un geste superbe, l'assiette vers le garçon, on laisse, sous la feuille qui porte le total de la dépense, un superflu de la monnaie blanche, qui doit humilier plus tard la délicatesse du garçon, ct rendre les comptes de la journée assez inexacts. Veux-tu l'adresse des cuisines spéciales, des res- Log 3è GUIDE ee etais de men SENTIMENTAI une ee : Dr DE L'ÉTRANGER taurants étrangers? Tu ne viens pas à Paris pour y
 ‘retrouver la patrie; maïs, cependant, si tu as un quart d'heure de nostalgie, tu sauras que, rue Rougee mont, on trouve un café restaurant austro-hongrais; qu'au passage des Panoramas, on macaronise à l'italienne; qu'autour de la Mad</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>boulevard Montmartre</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">t, du tronc inconnu, trouver, dans d'un uno par un visiteur resté Flaire done les meubles, avant d'y déposer tes eravates! de n'ose accuser Paul Féval d'avoir donné lo goût de ces cachettes do chair humaines mais la vérité m'oblige à déclarer que, dans un roman profane do ce saint homme (les Amours de Paris, je crois), un sauvage, un vrai sauvage, casqué de plumes, cnterrait sous uno lamo do parquet do sa chambre meublée un individu qu'il avait-tué et sralpé, On sait que l'influence des romanciers est consi- dérable sur les mœurs, à ce que disent les moralistes; il n’est donc pas invraisemblable do supposer que la . leçon de Paul Féval n'a pas été perdue. Aujourd'hui, ce romancier fait pénitence et n'écrit plus que pour faire aimer les jésuites. C'est encore ue excitation mauvaises seulement devenu beaucoup moins éloquent. 4 Paul Féval cst 
 # Déplions lo plan do Paris, pour chercher la région où tu peux choisir ton hôtel ou ta maison ucubléc. {7 PARIS-HOTEL pe em 
 … ee De la Seine au boulevard Montmartre, +: -ntons le feu courir sous les doigts. Voici là feririsise, la cuvo d'Augusto Barbier. Tout y fermente, y bout, y déborde, lo bieu, le mal, la débauche, les grands cafés, les grandes églises, les grandes inmaisons do travail, 
@@ -771,92 +849,96 @@ $
 à gauche, touto uno ville qui se prétend la fleur do
 'aris, et qui n'en est quo lo galon. C'est la folie Iaussmann qui a mis en fricho la folie Beaujon. là, dans des maisons préfentiouses d'aspect, ot piteusement meublées, on regardo’par les fenêtres le Juxo qui passo; c'est lo Paris dos Anglais, co n'est pas lo Paris des Parisiens. Du Parc Monceaux à l'avenue d'Antin, on so croirait à Pelgrave-Square, avec la huto distinction cn moius, quo les Anglais n'exportent jamais. Des hôtels do dames célèbres s’y accotent à des Poarding houses; la spéculation a fumé lo sol. Morny y a fait sa mo</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>87</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>boulevard Poissonnière</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">air élégant et banal des magasins des autres capitales; les enseignes sont, cà et Îà, en anglais, en russe; les cafés sont américains, napolitains; un ne se vante, sous cette latitude, d'être parisien. pas Sur ce boulevard élégant, tu fläneras, comme un personnage de tragédie dans un portique, avant lo palais. L’autel, le sanctuaire, le foyer de Paris est plus loin.
 | Entre la Madeleine, qui est le temple de la gloire repentie, et l'Opéra, qui est l’église du second empire, rien ‘ne parle du passé, rien n'inquiète sur l'avenir. C'est le Paris égoïste et présent, neuf, banal, officiel. C'est dans ces parages qu'on a placé le grand bureau des meilleurs cigares, le. Jockey-Club, le Grand-flôtel, toutes les choses de la vie en dehors, de la vie mondaine. Le Vaudeville, théâtre de genre, etle pavillon de Hanovre où étincelle l’argenterie de Christofle, marquent la frontière où finit le grand luxe, la grande morgue, la grande vanité, où commence le luxe économique. De la Chaussée d’Antin au boulevard Poissonnière, 
 ‘tu es dans les tirés du vrai gibier parisien. Regarde, aspire, renifle l'esprit qui passe; absorbe les échos s 74 GUIDE SENTIMENTAL DE L'ÉTRANGER de la Bourse ; fais-toi une opinion littéraire, finan- cière, politique, au moins pour la durée deton séjour. Sur trois passants, l'un est un journaliste, l’autre un artiste, le troisième est peut-être un 
 écrivain célèbre ou un boursier. De temps en temps, on voit des hommes jeunes, affairés, traverser la chaussée comme des voleurs Balzac avait tort. Les décavés se sentent moins qui fuient ou qui s'apprennent à fuir; ce sont des commis d'agent de change, des employés de commerce qui, dans leurs courses obligées, font un détour pour passer par là, essayant d’entraincr un peu de la lumière, du bruit intelligent, de la fanfare d'idées de ce milieu vibrant, à travers lequel ils passent, comme autrefois les chevaux libres de Franconi qui sautaient à travers un feu d'artifice, Balzac prétendait que le préfet de police devait interdire aux pauvres de passer par À; il redoutait l'envie et les haines qu’engendre l'envie. pauvres, dans ce milieu indulgent, où toute richesse estacquise par le travail, l'industrie; à moins que la richesse ne soit un trompe-l'œil qui ne trompe personne. Les gens las de la vie coudoient par là tant de volontés actives qu’ils reprennent courage. . C'est le boulevard où l'on sait le plus vite les nouvelles vraies, où l’on exploite le mieux les nouvelles fausses. La petite Bourse s’y tient le soir. La police l'y traque sans succès, ne voulant pas suppor- ter un encombrement d'illusions. PARIS 
 À PIED - 175 La légèreté de l'esprit, la vivacité de l’à-propos, est symbolisée par le théâtre des Variétés; comme le boulevard plus bourgeois qui suit a son expression dans le Gymnase. Les cafés, meilleurs (non sous le rapport de la consommation, mais sous celui des consommateurs) sont groupés sur un côté. Les cafés politiques se nomment Mazarin, Madr id et Garen; le café de Suède est un café de coteries, de </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>52</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Beaumarchais</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ra reçue avec acclamation par M. Duquesnel, après lecture approbative de M. Lapommeraye, à cause d'un grand aquarium qui doit remplir le 3° acte. Après les chiens de la Jeunesse de Louis XIV, le perroquet et les chats des Danicheff, les diamants et PARIS QUI MANGE .37 En mars, toute marés arrive par la poste.. Avril n'a rien, mais vit de l'espoir des beaux jours. s'Lo joli mois de mai, c'est l'aurore friande Des tendres pigeonneaux, des tendres petils pois. En juin, toute volaille à nous se recommande, En juillet, le veau pleure et se sent aux abois. s'Août, c'est le désert, c'est la soif inutile, Septembre a le gibier encor rare et chétif, Octobre est le grand mois de cuisine subtile Où le mouton rêveur rend le berger pensif. s'+ : Novembre est le retour de l'été, pour les âmes Qui savent que l'on pense ainsi qu'on se nourrit; Et décembre, aux trépieds, va redoubler les flammes, Pour le ventre divin, ce vase de l'esprit! FOREST me 2 2 ane   [II PARIS QUI BOIT Boire sans soif, a dit Beaumarchais, c’est ce qui nous distingue des bêtes. Beaumarchais ajoutait un autre privilége, dont je parlerai plus tard. Un français seul pouvait poser cet axiome, ct boit surtout pour causer, pour rire, et à peine pour boire. Paris est cependant la ville du monde où l'on boit le plus de choses variées, ordinaires et extraordinaires, depuis l'eau des fontaines, comme au. temps de Daphnis et de Chloé, jusqu'à l'eau des larmes. La statistique compte à peu près 25, 00 débits . de boïssons dans Paris, sans compter les confessionnaux, où les pleurs se débitent, assure-t--on, 
 à PTT à un Français do Paris, qui sait bien qu'à Paris on PARIS QUI BOIT 30 Selon l'habitude de nos Parlements, qui sont presque toujours des sociétés de dénigrement contre l'esprit, l'honneur et les mœurs du peuple français, on a voté une loi répressive de l'ivresse, pour faire croire au monde que ces 25, 00 débits étaient des
 étables où l'alcool transformait, comme Circé, les
 électeurs français en compagnons d'Ulysse. Mais, de toutes nos lois, celle contre l'ivresse est la moins appliquée; les délinquants sont si rares, qu'on soupçonne souvent la police de les inventer. Paris est, en cffet, la ville du monde où l'on rencontre le moins d'ivrognes. Un pochard, titubant sur ses jambes, ou vociférant un évohé, provoque un altroupement, etil est bien rare qu'il ne dénonce pas la cause spéciale de son ébriété, en criant: Vive l'Empereur! Mais, à part ces hoquets séditieux et ces dégorgements de mélancolie, les buveurs parisiens perdent rarement l'équilibre, Ils battent des entrechats plutôt que de trébucher; ce n’est pas aux jambes que la griserie les prend; c'est au cerveau et à l'imagi- nation. Paris ne s'enivre pas; il s'enfièvre; quand la fièvre est un peu trop forte, le buveur se fige lui- même, se raidit et devient comique, à force de dignité,
 ‘ : On ne ramasse donc presque jamais personne sous la table des cafés. Quand, de loin en loin, la police trouve un lhoinime couché sur le trottoir, c’est que 40 GU</snippet>
   </match>
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Ulbach_1871_bpt6k5802400x_CL_02</uid>
+    <place_name>Opéra-Comique</place_name>
     <pdf_page_number>46</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
+    <doc_page_number>32</doc_page_number>
     <matching_term>Opéra- Comique</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad">mais, en recevant la monnaie, compte-la, mon hôte, sans y prendre garde sans avoir l'air de la compter; mais compte-la sérieusement. Car (ous les jours on s'aperçoit qu’en prenant seulement les grosses pièces, et en repoussant, par un geste superbe, l'assiette vers le garçon, on laisse, sous la feuille qui porte le total de la dépense, un superflu de la monnaie blanche, qui doit humilier plus tard la délicatesse du garçon, ct rendre les comptes de la journée assez inexacts. Veux-tu l'adresse des cuisines spéciales, des res- Log 3è GUIDE ee etais de men SENTIMENTAI une ee : Dr DE L'ÉTRANGER taurants étrangers? Tu ne viens pas à Paris pour y
-‘retrouver la patrie; maïs, cependant, si tu as un quart d'heure de nostalgie, tu sauras que, rue Rougee mont, on trouve un café restaurant austro-hongrais; qu'au passage des Panoramas, on macaronise à l'italienne; qu'autour de la Madeleine, on peut chpr- cher ou éviter, à son choix, des restaurants quasi- anglais; que dans un coin de la place de l'Opéra- Comique, se cache un restaurant russe; mais à quoi bon? Faut-il te mettre en garde contre les spécialités qui étaient la coquetterie des viveurs d'il y a quarante ans? Tesignaler le pied de mouton qu'on vend
-à la Halle, les tripes à la mode de Caen dela rue Montorgucil, le filet-4laire, la carpe au bleu du café Durand, la sauce du café Riche, la bouillabaisse de la Maison-d'Or, les urtle-soup de Noël, la caille au gratin de Bonnefoy, la côte bordelaise de Beaurain, etc., etc.? Ce sont la des affectations, des prétentions, des minauderies, quelquefois des grimaces de Paris. 
-À Paris, on mange à tout prix; même depuis l'augmentation du beurre. Défie-toi, en général, du prix fixe. Le meilleur marché est le plus chier, même sans compter la note du pharmacien qu’il exige. Pour cinq francs, seul, tu peux goûter d’une chose PARIS QUI MANGE 
-| 
-” 33 dans un restaurant à prix variables. Pour cinq francs, tu as un mauvais diner, dont tu laisses la moitié, sinon les trois quarts, sur ton assiette, dans un restaurant à cinq francs. Tu comprends bien que sur ce chapitre je ne puis nomnicr personne. Si par inexactitude de ton banquier, en retard   pour l'envoi des fonds; si, par dépravation, par goût, par curiosité, par mortification, tu veux descendre aux restaurants à deux francs, à trente-cinq sous, à trente sous, à vingt-six sous; c’est bien! va sur le radeau de la Méduse; tu trouveras ton nègre à manger ; mais n'attends pas que je te jette de gaicté de cœur à cet abime. Cependant, comme il faut être juste, même envers l'enfer, ne crois pas à la légende atroce des œils de bouillon, faits dans l'eau chaude par un spécialiste 
-“qu te prior qui crache de l'huile dans la soupière. La preuve que cette sotte histoire est une médisance passée de mode ou une calomnie, c’est qu’on: ne trouve plus un seul œil dans les bouillons de cette catégorie. Les borgnes sont devenus aveugles. Et le bouillon Duval? Je te l'ai dit, c'est l'omnibus, à cette différence près que, par l'exiguïté des parts, e</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
+    <snippet confirmed="yes">Dans un coin de la place de l'Opéra-Comique, se cache un restaurant russe.</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>160</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Opéra-Comique</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ci la formule : La musique n'exisle pas, c'est un bruit qu'on fait courir. Mais ce bruit fermenté complète les vibrations do l'atmosphère. Paris, d'ailleurs, est lo Conservatoire de Ja femmo, et la femme no péut pas se passer do la musique. Gest la religion do ses nerfs. Voilà pourquoi, mon hôte, nous avons un bel Opéra sur lo fronton duquel on a écrit : Académie de must. que, bien qu'on ne trouve à l'intéricur ni académi- cien, nirien d'académique, et pourquoi on a écrit aussi, sur un des côtés: Poésie lyrique, en assimilant par hyperbole le tapage rythmé des musiciens aux strophes de Lamartine et de Victor Hugo. Si l'on pouvait canaliser la musique, comme on a canalisé le gaz ou l’eau, on aurait dans Paris, à tous les coins de rue, dans toutes les maisons, à tous les 
 étages, des robinets mélodieux pour servir aux passants et aux locataires leur ration quotidienne de bruit. A Paris, on boit, on mange, on fume, on prie, on patine, on vit, j'allais dire on meurt en musique. L'Opéra, l'Opéra-Comique, les ftaliens, le Théâtre: Lyrique, les églises, les Bouffes, la Renaissance, le PARIS QUE S'AMUSE H47 théâtre des Variétés, les calés-concerts, les casinos, les skatings... Partout la musique. Ilest vrai que si elle fait lo bonheur des Parisiens, la musique, surtout la musique grave, no fait pas la fortune de ceux qui l'exploitent. Sans son escalier, l'Opéra serait en perte. L'Opéra- Comique vit de privations; le Théâtre-Lyrique, mort hier d'inanition, essaye de ressusciter aujourd'hui, pour mourir demain. Lo Théâtre-ftalien se tord, comme Laocoon, dans des difficultés qui l'étreignent, ct si les bouisbouis, les cabarets à musique font des 
 "rcceltes, c'est malgré la niusique, c'est parce qu'elle est d'un goût douteux et qu'on y chante faux. Tu iras donc à l'Opéra, même si tu as déjà vu l'escalier, qu'on peut revoir deux fois. Co n’est pas toujours par l'Opéra que les étrangers commencent, et l'on sait que des souverains, ou leurs fils, emploient souvent la diplomatie À retenir des pfaces au théâtre des Variétés, pour leur arrivéeà Pari: Faut-il te prévenir des trucs, des piég :, des exploitations qui attendent l'amateur étranger ‘« bureau de location, devant les marches du théâtre, i« l'angle des rues voisines? Je n’ai qu'un conseil à t&amp;« donner: défie-toi des billets qu'on t'offre à prix rédu't, même
 à prix égal, mêmeà prix supérieur. Ne to |‘#sse pas intimider par la menace d’une salle remplié :n'ac- 148 GUIDE SENTINENTAL DE L'ÉTRANGER cepto pas d'être toléré comme un superflu. Tu es le nécessaire des directeurs de théâtres; seulement, ils ne veulent pas en convenir. Sois aimable avec l'ouvreuse, Ouvrir est la plus douce fonction humaine! Il y a toujours un peu d'espoir à espérer d'une porte qui s'ouvre. C'est un
 élargissement de l'horizon, si petit qu'il soit, une percée sur l'inconnu. Souris done à l'ouvreuse! C'est peut-être une gloireévanouie, uno beauté repentie, une mère de famille, chère aux muses! Ne lui reluse pas ton paletot! Ne la fais pas rougir d</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>46</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Panorama</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">, ou tout le monde additionne, le post-scriptum, la liquidation d’un rève de deux heures, rêve pantagruélique ou rêve d'amour, doit s'appeler l'addition. Paie donc Faddition ; mais, en recevant la monnaie, compte-la, mon hôte, sans y prendre garde sans avoir l'air de la compter; mais compte-la sérieusement. Car (ous les jours on s'aperçoit qu’en prenant seulement les grosses pièces, et en repoussant, par un geste superbe, l'assiette vers le garçon, on laisse, sous la feuille qui porte le total de la dépense, un superflu de la monnaie blanche, qui doit humilier plus tard la délicatesse du garçon, ct rendre les comptes de la journée assez inexacts. Veux-tu l'adresse des cuisines spéciales, des res- Log 3è GUIDE ee etais de men SENTIMENTAI une ee : Dr DE L'ÉTRANGER taurants étrangers? Tu ne viens pas à Paris pour y
 ‘retrouver la patrie; maïs, cependant, si tu as un quart d'heure de nostalgie, tu sauras que, rue Rougee mont, on trouve un café restaurant austro-hongrais; qu'au passage des Panoramas, on macaronise à l'italienne; qu'autour de la Madeleine, on peut chpr- cher ou éviter, à son choix, des restaurants quasi- anglais; que dans un coin de la place de l'Opéra- Comique, se cache un restaurant russe; mais à quoi bon? Faut-il te mettre en garde contre les spécialités qui étaient la coquetterie des viveurs d'il y a quarante ans? Tesignaler le pied de mouton qu'on vend
 à la Halle, les tripes à la mode de Caen dela rue Montorgucil, le filet-4laire, la carpe au bleu du café Durand, la sauce du café Riche, la bouillabaisse de la Maison-d'Or, les urtle-soup de Noël, la caille au gratin de Bonnefoy, la côte bordelaise de Beaurain, etc., etc.? Ce sont la des affectations, des prétentions, des minauderies, quelquefois des grimaces de Paris. 
@@ -865,18 +947,20 @@ $
 ” 33 dans un restaurant à prix variables. Pour cinq francs, tu as un mauvais diner, dont tu laisses la moitié, sinon les trois quarts, sur ton assiette, dans un restaurant à cinq francs. Tu comprends bien que sur ce chapitre je ne puis nomnicr personne. Si par inexactitude de ton banquier, en retard   pour l'envoi des fonds; si, par dépravation, par goût, par curiosité, par mortification, tu veux descendre aux restaurants à deux francs, à trente-cinq sous, à trente sous, à vingt-six sous; c’est bien! va sur le radeau de la Méduse; tu trouveras ton nègre à manger ; mais n'attends pas que je te jette de gaicté de cœur à cet abime. Cependant, comme il faut être juste, même envers l'enfer, ne crois pas à la légende atroce des œils de bouillon, faits dans l'eau chaude par un spécialiste 
 “qu te prior qui crache de l'huile dans la soupière. La preuve que cette sotte histoire est une médisance passée de mode ou une calomnie, c’est qu’on: ne trouve plus un seul œil dan</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>46</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">mais, en recevant la monnaie, compte-la, mon hôte, sans y prendre garde sans avoir l'air de la compter; mais compte-la sérieusement. Car (ous les jours on s'aperçoit qu’en prenant seulement les grosses pièces, et en repoussant, par un geste superbe, l'assiette vers le garçon, on laisse, sous la feuille qui porte le total de la dépense, un superflu de la monnaie blanche, qui doit humilier plus tard la délicatesse du garçon, ct rendre les comptes de la journée assez inexacts. Veux-tu l'adresse des cuisines spéciales, des res- Log 3è GUIDE ee etais de men SENTIMENTAI une ee : Dr DE L'ÉTRANGER taurants étrangers? Tu ne viens pas à Paris pour y
 ‘retrouver la patrie; maïs, cependant, si tu as un quart d'heure de nostalgie, tu sauras que, rue Rougee mont, on trouve un café restaurant austro-hongrais; qu'au passage des Panoramas, on macaronise à l'italienne; qu'autour de la Madeleine, on peut chpr- cher ou éviter, à son choix, des restaurants quasi- anglais; que dans un coin de la place de l'Opéra- Comique, se cache un restaurant russe; mais à quoi bon? Faut-il te mettre en garde contre les spécialités qui étaient la coquetterie des viveurs d'il y a quarante ans? Tesignaler le pied de mouton qu'on vend
 à la Halle, les tripes à la mode de Caen dela rue Montorgucil, le filet-4laire, la carpe au bleu du café Durand, la sauce du café Riche, la bouillabaisse de la Maison-d'Or, les urtle-soup de Noël, la caille au gratin de Bonnefoy, la côte bordelaise de Beaurain, etc., etc.? Ce sont la des affectations, des prétentions, des minauderies, quelquefois des grimaces de Paris. 
@@ -885,56 +969,57 @@ $
 ” 33 dans un restaurant à prix variables. Pour cinq francs, tu as un mauvais diner, dont tu laisses la moitié, sinon les trois quarts, sur ton assiette, dans un restaurant à cinq francs. Tu comprends bien que sur ce chapitre je ne puis nomnicr personne. Si par inexactitude de ton banquier, en retard   pour l'envoi des fonds; si, par dépravation, par goût, par curiosité, par mortification, tu veux descendre aux restaurants à deux francs, à trente-cinq sous, à trente sous, à vingt-six sous; c’est bien! va sur le radeau de la Méduse; tu trouveras ton nègre à manger ; mais n'attends pas que je te jette de gaicté de cœur à cet abime. Cependant, comme il faut être juste, même envers l'enfer, ne crois pas à la légende atroce des œils de bouillon, faits dans l'eau chaude par un spécialiste 
 “qu te prior qui crache de l'huile dans la soupière. La preuve que cette sotte histoire est une médisance passée de mode ou une calomnie, c’est qu’on: ne trouve plus un seul œil dans les bouillons de cette catégorie. Les borgnes sont devenus aveugles. Et le bouillon Duval? Je te l'ai dit, c'est l'omnibus, à cette différence près que, par l'exiguïté des</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>87</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">té, au moins viagère, plus garanti que celui de l'In- PERS délicieux comme sa poésie. Dans quels quartiers flâne-t-on de préférence? On flâäne partout; mais le boulevard est l'académie des flâneurs. mi tant M. Louis Veuillot, qui fait des vers, les trouve PARIS 
 À PIED 73 simple habitué du boulevard, et a pris l'habitude de le reconnaitre depuis si longtemps, qu'il le croit et se croit volontiers centenaire. De la Madeleine à la chaussée d’Antin, c’est le Paris cosmopolite international. Les Parisiens sont mélés aux étrangers. Les magasins eux-mêmes ont l'air élégant et banal des magasins des autres capitales; les enseignes sont, cà et Îà, en anglais, en russe; les cafés sont américains, napolitains; un ne se vante, sous cette latitude, d'être parisien. pas Sur ce boulevard élégant, tu fläneras, comme un personnage de tragédie dans un portique, avant lo palais. L’autel, le sanctuaire, le foyer de Paris est plus loin.
 | Entre la Madeleine, qui est le temple de la gloire repentie, et l'Opéra, qui est l’église du second empire, rien ‘ne parle du passé, rien n'inquiète sur l'avenir. C'est le Paris égoïste et présent, neuf, banal, officiel. C'est dans ces parages qu'on a placé le grand bureau des meilleurs cigares, le. Jockey-Club, le Grand-flôtel, toutes les choses de la vie en dehors, de la vie mondaine. Le Vaudeville, théâtre de genre, etle pavillon de Hanovre où étincelle l’argenterie de Christofle, marquent la frontière où finit le grand luxe, la grande morgue, la grande vanité, où commence le luxe économique. De la Chaussée d’Antin au boulevard Poissonnière, 
 ‘tu es dans les tirés du vrai gibier parisien. Regarde, aspire, renifle l'esprit qui passe; absorbe les échos s 74 GUIDE SENTIMENTAL DE L'ÉTRANGER de la Bourse ; fais-toi une opinion littéraire, finan- cière, politique, au moins pour la durée deton séjour. Sur trois passants, l'un est un journaliste, l’autre un artiste, le troisième est peut-être un 
 écrivain célèbre ou un boursier. De temps en temps, on voit des hommes jeunes, affairés, traverser la chaussée comme des voleurs Balzac avait tort. Les décavés se sentent moins qui fuient ou qui s'apprennent à fuir; ce sont des commis d'agent de change, des employés de commerce qui, dans leurs courses obligées, font un détour pour passer par là, essayant d’entraincr un peu de la lumière, du bruit intelligent, de la fanfare d'idées de ce milieu vibrant, à travers lequel ils passent, comme autrefois les chevaux libres de Franconi qui sautaient à travers un feu d'artifice, Balzac prétendait que le préfet de police devait interdire aux pauvres de passer par À; il redoutait l'envie et les haines qu’engendre l'envie. pauvres, dans ce milieu indulgent, où toute richesse estacquise par le travail, l'industrie; à moins que la richesse ne soit un trompe-l'œil qui ne trompe personne. Les gens las de la vie coudoient par là tant de volontés actives qu’ils reprennent courage. . C'est le boulevard où l'on sait le plus vite les nouvelles vraies, où l’on exploite</snippet>
   </match>
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Ulbach_1871_bpt6k5802400x_CL_03</uid>
+    <place_name>Opéra</place_name>
     <pdf_page_number>160</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
+    <doc_page_number>147</doc_page_number>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad">exception pour le grand comédien de son règne. Îl voulait ôter son masque devant lui; et, après avoir dit adieu 
-à Talma, il sortit du théâtre de ce monde, pour aller mourir à Sainte-Hélène.
-+ 
-&amp; 
-€ Aimes-tu la musique? Paris l'en servira à toute heure, sous toutes les latitudes et de toute qualité. Co n’est pas que Paris soit musicien. La musique 146 GUIDE SENTIMENTAL DE L'ÉTRANGER lui plait comme assaisonnement; il no l'aime pas pour elle seule. I lui faut, dans le meilleur opéra, autre chose quo des symphonies et des mélodies, pour qu'il s'amuso, La pièce, l'intriguo lui est nécessairo. La véritable opinion du Parisien sur la musique, je vais to la confierà l'oreille; voici la formule : La musique n'exisle pas, c'est un bruit qu'on fait courir. Mais ce bruit fermenté complète les vibrations do l'atmosphère. Paris, d'ailleurs, est lo Conservatoire de Ja femmo, et la femme no péut pas se passer do la musique. Gest la religion do ses nerfs. Voilà pourquoi, mon hôte, nous avons un bel Opéra sur lo fronton duquel on a écrit : Académie de must. que, bien qu'on ne trouve à l'intéricur ni académi- cien, nirien d'académique, et pourquoi on a écrit aussi, sur un des côtés: Poésie lyrique, en assimilant par hyperbole le tapage rythmé des musiciens aux strophes de Lamartine et de Victor Hugo. Si l'on pouvait canaliser la musique, comme on a canalisé le gaz ou l’eau, on aurait dans Paris, à tous les coins de rue, dans toutes les maisons, à tous les 
-étages, des robinets mélodieux pour servir aux passants et aux locataires leur ration quotidienne de bruit. A Paris, on boit, on mange, on fume, on prie, on patine, on vit, j'allais dire on meurt en musique. L'Opéra, l'Opéra-Comique, les ftaliens, le Théâtre: Lyrique, les églises, les Bouffes, la Renaissance, le PARIS QUE S'AMUSE H47 théâtre des Variétés, les calés-concerts, les casinos, les skatings... Partout la musique. Ilest vrai que si elle fait lo bonheur des Parisiens, la musique, surtout la musique grave, no fait pas la fortune de ceux qui l'exploitent. Sans son escalier, l'Opéra serait en perte. L'Opéra- Comique vit de privations; le Théâtre-Lyrique, mort hier d'inanition, essaye de ressusciter aujourd'hui, pour mourir demain. Lo Théâtre-ftalien se tord, comme Laocoon, dans des difficultés qui l'étreignent, ct si les bouisbouis, les cabarets à musique font des 
-"rcceltes, c'est malgré la niusique, c'est parce qu'elle est d'un goût douteux et qu'on y chante faux. Tu iras donc à l'Opéra, même si tu as déjà vu l'escalier, qu'on peut revoir deux fois. Co n’est pas toujours par l'Opéra que les étrangers commencent, et l'on sait que des souverains, ou leurs fils, emploient souvent la diplomatie À retenir des pfaces au théâtre des Variétés, pour leur arrivéeà Pari: Faut-il te prévenir des trucs, des piég :, des exploitations qui attendent l'amateur étranger ‘« bureau de location, devant les marches du théâtre, i« l'angle des rues voisines? Je n’ai qu'un conseil à t&amp;« donner: défie-toi des billets qu'on t'offre à</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
+    <snippet confirmed="yes">Tu iras donc à l'Opéra, même si tu as déjà vu l'escalier, qu'on peut revoir deux fois. Ce n’est pas toujours par l'Opéra que les étrangers commencent, et l'on sait que des souverains, ou leurs fils, emploient souvent la diplomatie à retenir des places au théâtre des Variétés pour leur arrivée à Paris. Faut-il te prévenir des trucs, des pièges :, des exploitations qui attendent l'amateur étranger ‘« bureau de location, devant les marches du théâtre, à l'angle des rues voisines? Je n’ai qu'un conseil à te donner: défie-toi des billets qu'on t'offre à prix réduit, même à prix égal, même à prix supérieur. 
+</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>165</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">les Boufles, les Folies-Dramati- ques sont des débits d'opérettes, gaillardises et do voix aigrelettes. d'œillades, de La Porte-Saint-Martin so souvient, do temps en temps, qu'elle fut le théâtre légendaire du drame; l'Ambigu, son voisin, voudrait s'en sivenir; lo Théâtre-Historiquo n'a pas encore d'histoire, et la Gaité, le Châtelet se vouent à la fécrie, sans qu'aucune baguette de féo leur rende le prestige et la fortune d'autrefois. Aimes-tu les pantomimes? les Cirques, l'Hippodrome ont des Talmas à quatre pattes de premier ordre et des acrobates d'un style qui n’a pas besoin d'interprètes. IL est encore d'autres endroits moins salubres, offerts aux amateurs de spectacles. Mais, comme on ne sait jamais s'ils sont ouverts pour cause d'imprudence, ou fermés pour cause de faillite, je m'abs- tiens de t'en parler, 
 #74 . S'il arrive que ton humeur, ou ta digestion, te prédispose à certains plaisirs légers, moins séden- PARIS QUI S'ANUSE 451 taires, moins attachants que lo plaisir de l'Opéra, du dramo ou de la comédie, tu as la ressourco des cafés-concerts. No rougis pas, mon hôte; M. Veuillot a passé encore par là, et no s’est pas fait absoudre du Pape pour cette curiosité, Je l'ai dit que l'on chantait à Paris pour avoir des prétextes do boire; tu peux prétexter la soif pour écouter ce qui so chante dans nos Alcazars et nos Eldorados. Ne crains ni les chansons politiques, ni les élégies. La police a proscrit des tréteaux tout co qui pouvait les faire estimer. On a essayé, dans un temps d’anarchie et de désordre moral, de déclamer du Racine et du Corneille devant les buveurs de chopes ; mais cette tentative causa trop de bruit; le public applaudissait avec fureur, et l'Odéon n'avait plus de raison d'être. Corneille a été mis en fourrière, Racine a été in- terdit.
 | La chanson déluréo, grivoise, quelquefois réaliste
@@ -946,18 +1031,20 @@ $
 émouvaient des écoles de bon ton, et qui la mère d'Évangéline, l'évangélisatrice de l'oncle Tom. Depuis quelques années, la valso est un peu détrônée par le patin, et les skatings font tort aux bals traditionnels. IL paraît que pour l'étranger le profit est pareil. Ce que les danseuses montraient en levant le pied, elles le laissent voir en glissant et en tombant par terre. Lo palinago ne laisse rien à regretter.
 | Pardonne</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Concorde</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">aint homme (les Amours de Paris, je crois), un sauvage, un vrai sauvage, casqué de plumes, cnterrait sous uno lamo do parquet do sa chambre meublée un individu qu'il avait-tué et sralpé, On sait que l'influence des romanciers est consi- dérable sur les mœurs, à ce que disent les moralistes; il n’est donc pas invraisemblable do supposer que la . leçon de Paul Féval n'a pas été perdue. Aujourd'hui, ce romancier fait pénitence et n'écrit plus que pour faire aimer les jésuites. C'est encore ue excitation mauvaises seulement devenu beaucoup moins éloquent. 4 Paul Féval cst 
 # Déplions lo plan do Paris, pour chercher la région où tu peux choisir ton hôtel ou ta maison ucubléc. {7 PARIS-HOTEL pe em 
 … ee De la Seine au boulevard Montmartre, +: -ntons le feu courir sous les doigts. Voici là feririsise, la cuvo d'Augusto Barbier. Tout y fermente, y bout, y déborde, lo bieu, le mal, la débauche, les grands cafés, les grandes églises, les grandes inmaisons do travail, 
@@ -967,39 +1054,38 @@ $
 $ 
 + Le neuvièmo arrondissement, dont lo centro est mar</snippet>
   </match>
+
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Ulbach_1871_bpt6k5802400x_CL_04</uid>
+    <place_name>Place de la Concorde</place_name>
+    <place_name>Place de l'Étoile</place_name>
     <pdf_page_number>32</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
+    <doc_page_number>18</doc_page_number>
     <matching_term>Étoile</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad"> sud, la Seine; telles sont les limites do ce quadrilatère magique, à la lois terrible et amusant. Quiconque veut monter un jour, uno heure, sur la locomotive, pour entendre do plus près la chaudière et voir do plus loin lo chemin et les rails, doit so loger dans co milieu, chauffé à touto vapeur, La Bourse, où l'on tripote; la place Vendôme, où l'on spéculo; les boulovards, où tout Paris illustre, banal, so promène et s’agito et met lo feu dans les veines du colosso ; voilà, pour l'observateur l'at- mosphère à respirer, Dans co Paris central, tu trouveras des appartements, depuis cinq mille francs par mois jusqu'à soixanto francs, en passant par une série de deux ou trois cents francs, Garde-toi, comme de l'ennui, de la rue do Rivoli; on y trouve trop d'étrangers, et pas assez do Parisiens. Ces arcades continues ne semblent-clles pas le péristyle allongé d’un seul et unique hôtel? 18 GUIDE SENTINENTAL DE L'ÉTRANGER Au delà do la place do la Concorde, en montant vers la barrière do l'Étoile, il s'est créé, à droite et. 
-à gauche, touto uno ville qui se prétend la fleur do
-'aris, et qui n'en est quo lo galon. C'est la folie Iaussmann qui a mis en fricho la folie Beaujon. là, dans des maisons préfentiouses d'aspect, ot piteusement meublées, on regardo’par les fenêtres le Juxo qui passo; c'est lo Paris dos Anglais, co n'est pas lo Paris des Parisiens. Du Parc Monceaux à l'avenue d'Antin, on so croirait à Pelgrave-Square, avec la huto distinction cn moius, quo les Anglais n'exportent jamais. Des hôtels do dames célèbres s’y accotent à des Poarding houses; la spéculation a fumé lo sol. Morny y a fait sa moisson; depuis, on n'a cessé do glanor, et l'étranger est compris parmi les récoltes. Lo Parisien va so promener par là; il n’y logo pas. Toi, qui viens pour connaitre Paris et les Parisiens, no va pas y loger.
-$ 
-+ Le neuvièmo arrondissement, dont lo centro est marqué par Notre-dame-de-Lorette, n'est pas à dédaigner. PARIS-HOTEL 49 Lo vieux préjugé sur la gaieté légèro circulait autrefois est bien passé do modo. qui y Tout au plus, sur les hauteurs, au delà do cetto
-égliso, pimpante commo uno sallo do concert, en- tend-on encore, do temps en temps, un rire qui chatouille l'écho de la nouvelle Athènes endormie; mais do la ruo de la Chaussée-d'Antin au faubourg Poissonniètv, lo quartier est grave, tranquille, habité par dos commerçants, des boursiers, des 
-écrivains et, un-peu plus haut, sur la pento, par des artistes. Tu poux venir À, si tu aimes à respirer lo vent de l'esprit, Jo no parlo pas des boulevards qui conduisent à Ja Bastille; j'en dirais du bien fort inutilement. Veux-tu, noblo 
-étranger, dormir près du Paris qui étudio? Passo la Soino; cherche hardiment sur les boulevards Saint-Germain et Saint-Michel. Comme l'a dit Amédée Pommicr: Dans ces paisibles latitudes, IL est encor des solitudes; Séjour des vieilles habitudes; Pays des modestes foyers, De Do Et Do l'humblo pension bourgcoiso, l'existenco villageoiso do la mode si courtoise ne point h</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
+    <snippet confirmed="yes">Au delà de la place do la Concorde, en montant vers la barrière do l'Étoile, il s'est créé, à droite et à gauche, tout une ville qui se prétend la fleur de Paris, et qui n'en est que le galon. C'est la folie Haussmann qui a mis en friche la folie Beaujon. Là, dans des maisons prétentieuses d'aspect, et piteusement meublées, on regarde par les fenêtres le luxe qui passe; c'est le Paris des Anglais, ce n'est pas lo Paris des Parisiens. Du Parc Monceaux à l'avenue d'Antin, on so croirait à Belgrave-Square, avec la haute distinction en moins, que les Anglais n'exportent jamais. Des hôtels de dames célèbres s’y accotent à des Boarding houses ; la spéculation a fumé le sol. Morny y a fait sa moisson; depuis, on n'a cessé de glaner, et l'étranger est compris parmi les récoltes. </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Vendôme</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ur faire aimer les jésuites. C'est encore ue excitation mauvaises seulement devenu beaucoup moins éloquent. 4 Paul Féval cst 
 # Déplions lo plan do Paris, pour chercher la région où tu peux choisir ton hôtel ou ta maison ucubléc. {7 PARIS-HOTEL pe em 
 … ee De la Seine au boulevard Montmartre, +: -ntons le feu courir sous les doigts. Voici là feririsise, la cuvo d'Augusto Barbier. Tout y fermente, y bout, y déborde, lo bieu, le mal, la débauche, les grands cafés, les grandes églises, les grandes inmaisons do travail, 
@@ -1008,38 +1094,39 @@ $
 'aris, et qui n'en est quo lo galon. C'est la folie Iaussmann qui a mis en fricho la folie Beaujon. là, dans des maisons préfentiouses d'aspect, ot piteusement meublées, on regardo’par les fenêtres le Juxo qui passo; c'est lo Paris dos Anglais, co n'est pas lo Paris des Parisiens. Du Parc Monceaux à l'avenue d'Antin, on so croirait à Pelgrave-Square, avec la huto distinction cn moius, quo les Anglais n'exportent jamais. Des hôtels do dames célèbres s’y accotent à des Poarding houses; la spéculation a fumé lo sol. Morny y a fait sa moisson; depuis, on n'a cessé do glanor, et l'étranger est compris parmi les récoltes. Lo Parisien va so promener par là; il n’y logo pas. Toi, qui viens pour connaitre Paris et les Parisiens, no va pas y loger.
 $ 
 + Le neuvièmo arrondissement, dont lo centro est marqué par Notre-dame-de-Lorette, n'est pas à dédaigner. PARIS-HOTEL 49 Lo vieux préjugé sur la gaieté légèro circulait autrefois est bien passé do modo. qui y Tout au plus, sur les hauteurs, au delà do cetto
-égliso, pimpante commo uno sallo do concert, en- tend-on encore, do temps en temps, un rire qui chatouille l'écho de la nouvelle Athènes endormie; mais do la ruo de la Chaussée-d'Antin au faubourg Poissonniètv, lo quartier est grave, tranquil</snippet>
+égliso, pimpante commo uno salle do concert, en- tend-on encore, do temps en temps, un rire qui chatouille l'écho de la nouvelle Athènes endormie; mais do la ruo de la Chaussée-d'Antin au faubourg Poissonniètv, lo quartier est grave, tranquil</snippet>
   </match>
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Ulbach_1871_bpt6k5802400x_CL_05</uid>
+    <place_name>Place Vendôme</place_name>
     <pdf_page_number>152</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
+    <doc_page_number>138</doc_page_number>
     <matching_term>Vendôme</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad">ophytes; sont-ils en effet jamais certains d’être arrivés? Le personnage imposant, gourmé, presque brutal, sera le fonctionnaire qui tient le milieu de la hiérarchie; celui qui ’éconduira férocement, est certai- nement le dernier de l'échelle, qui sait? le garçon de bureau. Paris qui a l’inconvénient du fonctionnarisme, en a le correctif dans sa gaicté, dans son ironie et dans sa connaissance de tous les hoinmes en place. Il rit de ceux qui le font poser et se venge de leur solennité par les souvenirs de l'estaminet où il a vu la fumée de leur cigare, avant la fumée de leurs thuriféraires. La seule vertu ou la seule superstition qu'il soit impossible de donner à Paris, c'est celle du respect - 438 GUIDE SENTIMENTAL DE L'ÉTRANGER pour l'habit brodé, qu'il aime comme détail pittoresque, dont il se moque comme fétiche. Souviens-toi que le Français, amoureux de la pompe et du décor, n’a cependant de fanatisme que pour les héros en débraillé. | C'est une hérésie d'avoir mis sur la colonne Vendôme un Napoléon habillé comme Talma, pour rappeler le souvenir de l’homme à la redingote grise. M. Thiers a été populaire, après Lafayette, parce qu’il restait un bourgeois dans son costume et dans son allure, et qu'il ressemblait même un peu à Joseph Prudhomme. Le jour où celui qui fut Napoléon IE, et qui n’était alors que le prince Louis Bonaparte, imagina un costume militaire de président de la République avec un chapeau à la Henri IV etun.panache de marchand de coco, on se moqua de lui. Il fit le 2 Décembre pour faire taire les rieurs; cette fois il réussit.
-* k°x Je t'ai mis en défiance du Paris officiel qui officie. Je n'ai pas de conseils à te donner pour les soirées du Paris officiel qui s'amuse. Des bals quelconques, où les femmes ne risquent aucune toilette neuve, où les hommes chamarrent leurs vieux habits, où la LI République sert des sorbets dans des tasses marquées au chiffre de Louis-Philippe et avec des cuillères timbrées d’une aigle impériale: un luxe qui ne cesse 139 
-+ PARIS. OFFICIEL d'être banal- que pour devenir prétentieux; l'ennui d'une foule implacable, qui vient pour être vue et- qui ne voit personne; le sentiment d’un isolement profond dans un désert touffu d'égoïsme, la seule vanité d'entendre son nom écorché avec éclat par un huissier qui semble vous dénoncer plutôt qu'il ne vous annonce; voilà, mon hôte, ce qui t'attend dans 
-"une soirée officielle. Iras-tu Sénat ou Rarement gramme -dompteur 
-à Versailles ? Assisteras-tu à une séance du de la Chambre des députés? Méfie-toi! la représentation donne ce que le propromettait. L’Anglais qui voulait voir le mangé par ses lions serait continuellement déçu à Versailles; on s'y montre les dents, on s’y mord, mais on ne s’y dévore jamais. C’est agaçant de provocalions, et insipide d'innocence. Les fauves y sont des baudruches gonflées, et pour les peloter une pelote d'épingles suffit aux gladiateurs habiles. Ne te dérange donc pas. Si tu veux évoquer la France parlementaire, va voir le Palais-Bourb</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
+    <snippet confirmed="yes">C'est une hérésie d'avoir mis sur la colonne Vendôme un Napoléon habillé comme Talma, pour rappeler le souvenir de l’homme à la redingote grise. </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>31</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>la Madeleine</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">ois), un sauvage, un vrai sauvage, casqué de plumes, cnterrait sous uno lamo do parquet do sa chambre meublée un individu qu'il avait-tué et sralpé, On sait que l'influence des romanciers est consi- dérable sur les mœurs, à ce que disent les moralistes; il n’est donc pas invraisemblable do supposer que la . leçon de Paul Féval n'a pas été perdue. Aujourd'hui, ce romancier fait pénitence et n'écrit plus que pour faire aimer les jésuites. C'est encore ue excitation mauvaises seulement devenu beaucoup moins éloquent. 4 Paul Féval cst 
 # Déplions lo plan do Paris, pour chercher la région où tu peux choisir ton hôtel ou ta maison ucubléc. {7 PARIS-HOTEL pe em 
 … ee De la Seine au boulevard Montmartre, +: -ntons le feu courir sous les doigts. Voici là feririsise, la cuvo d'Augusto Barbier. Tout y fermente, y bout, y déborde, lo bieu, le mal, la débauche, les grands cafés, les grandes églises, les grandes inmaisons do travail, 
@@ -1049,18 +1136,20 @@ $
 $ 
 + Le neuvièmo arrondissement, dont lo centro est marqué par Notre-dame-de-Lorette, n'est pas à</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>46</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>la Madeleine</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">iquidation d’un rève de deux heures, rêve pantagruélique ou rêve d'amour, doit s'appeler l'addition. Paie donc Faddition ; mais, en recevant la monnaie, compte-la, mon hôte, sans y prendre garde sans avoir l'air de la compter; mais compte-la sérieusement. Car (ous les jours on s'aperçoit qu’en prenant seulement les grosses pièces, et en repoussant, par un geste superbe, l'assiette vers le garçon, on laisse, sous la feuille qui porte le total de la dépense, un superflu de la monnaie blanche, qui doit humilier plus tard la délicatesse du garçon, ct rendre les comptes de la journée assez inexacts. Veux-tu l'adresse des cuisines spéciales, des res- Log 3è GUIDE ee etais de men SENTIMENTAI une ee : Dr DE L'ÉTRANGER taurants étrangers? Tu ne viens pas à Paris pour y
 ‘retrouver la patrie; maïs, cependant, si tu as un quart d'heure de nostalgie, tu sauras que, rue Rougee mont, on trouve un café restaurant austro-hongrais; qu'au passage des Panoramas, on macaronise à l'italienne; qu'autour de la Madeleine, on peut chpr- cher ou éviter, à son choix, des restaurants quasi- anglais; que dans un coin de la place de l'Opéra- Comique, se cache un restaurant russe; mais à quoi bon? Faut-il te mettre en garde contre les spécialités qui étaient la coquetterie des viveurs d'il y a quarante ans? Tesignaler le pied de mouton qu'on vend
 à la Halle, les tripes à la mode de Caen dela rue Montorgucil, le filet-4laire, la carpe au bleu du café Durand, la sauce du café Riche, la bouillabaisse de la Maison-d'Or, les urtle-soup de Noël, la caille au gratin de Bonnefoy, la côte bordelaise de Beaurain, etc., etc.? Ce sont la des affectations, des prétentions, des minauderies, quelquefois des grimaces de Paris. 
@@ -1069,37 +1158,36 @@ $
 ” 33 dans un restaurant à prix variables. Pour cinq francs, tu as un mauvais diner, dont tu laisses la moitié, sinon les trois quarts, sur ton assiette, dans un restaurant à cinq francs. Tu comprends bien que sur ce chapitre je ne puis nomnicr personne. Si par inexactitude de ton banquier, en retard   pour l'envoi des fonds; si, par dépravation, par goût, par curiosité, par mortification, tu veux descendre aux restaurants à deux francs, à trente-cinq sous, à trente sous, à vingt-six sous; c’est bien! va sur le radeau de la Méduse; tu trouveras ton nègre à manger ; mais n'attends pas que je te jette de gaicté de cœur à cet abime. Cependant, comme il faut être juste, même envers l'enfer, ne crois pas à la légende atroce des œils de bouillon, faits dans l'eau chaude par un spécialiste 
 “qu te prior qui crache de l'huile dans la soupière. La preuve que cette sotte histoire est une médisance passée de mode ou une calomnie, c’est qu’on: ne trouve plus un seul œil dans les bouillons de cette catégorie. Les borgnes sont deve</snippet>
   </match>
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Ulbach_1871_bpt6k5802400x_CL_06</uid>
+    <place_name>Boulevard de la Madeleine</place_name>
     <pdf_page_number>87</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
+    <doc_page_number>73</doc_page_number>
     <matching_term>la Madeleine</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad">ements S'amuser 
-‘Que chaque rue offre et varie. Tels sont les vrais commandements De toute bonne flânerie. Fe Comme tu le vois, mon liôte, ce n’est pas de la poésie de premier ordre; mais les commandements de l'Église ne sont pas en meilleur style, et pour- stitut! Qui reconnaîtrait, dans la rue, des académiciens comme MM. Rousset, Caro, Bdissier, Marmier, Saint- René Taïllandier et quelques autres, parmi les quarante? Mais un Parisien reconnait tout de suite un peu qques mn Ra es Le mot Académie n’est pas trop fort; car je crois que le boulevard donne un privilége d’immortalité, au moins viagère, plus garanti que celui de l'In- PERS délicieux comme sa poésie. Dans quels quartiers flâne-t-on de préférence? On flâäne partout; mais le boulevard est l'académie des flâneurs. mi tant M. Louis Veuillot, qui fait des vers, les trouve PARIS 
-À PIED 73 simple habitué du boulevard, et a pris l'habitude de le reconnaitre depuis si longtemps, qu'il le croit et se croit volontiers centenaire. De la Madeleine à la chaussée d’Antin, c’est le Paris cosmopolite international. Les Parisiens sont mélés aux étrangers. Les magasins eux-mêmes ont l'air élégant et banal des magasins des autres capitales; les enseignes sont, cà et Îà, en anglais, en russe; les cafés sont américains, napolitains; un ne se vante, sous cette latitude, d'être parisien. pas Sur ce boulevard élégant, tu fläneras, comme un personnage de tragédie dans un portique, avant lo palais. L’autel, le sanctuaire, le foyer de Paris est plus loin.
-| Entre la Madeleine, qui est le temple de la gloire repentie, et l'Opéra, qui est l’église du second empire, rien ‘ne parle du passé, rien n'inquiète sur l'avenir. C'est le Paris égoïste et présent, neuf, banal, officiel. C'est dans ces parages qu'on a placé le grand bureau des meilleurs cigares, le. Jockey-Club, le Grand-flôtel, toutes les choses de la vie en dehors, de la vie mondaine. Le Vaudeville, théâtre de genre, etle pavillon de Hanovre où étincelle l’argenterie de Christofle, marquent la frontière où finit le grand luxe, la grande morgue, la grande vanité, où commence le luxe économique. De la Chaussée d’Antin au boulevard Poissonnière, 
-‘tu es dans les tirés du vrai gibier parisien. Regarde, aspire, renifle l'esprit qui passe; absorbe les échos s 74 GUIDE SENTIMENTAL DE L'ÉTRANGER de la Bourse ; fais-toi une opinion littéraire, finan- cière, politique, au moins pour la durée deton séjour. Sur trois passants, l'un est un journaliste, l’autre un artiste, le troisième est peut-être un 
-écrivain célèbre ou un boursier. De temps en temps, on voit des hommes jeunes, affairés, traverser la chaussée comme des voleurs Balzac avait tort. Les décavés se sentent moins qui fuient ou qui s'apprennent à fuir; ce sont des commis d'agent de change, des employés de commerce qui, dans leurs courses obligées, font un détour pour passer par là, essayant d’entraincr un peu de la lumière, du bruit intelligent, de la fanfare d'idées de ce milieu vibrant, à travers lequel ils passent,</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
+    <snippet confirmed="yes">De la Madeleine à la chaussée d’Antin, c'est le Paris cosmopolite international. Les Parisiens sont mêlés aux étrangers. Les magasins eux-mêmes ont l'air élégant et banal des magasins des autres capitales ; les enseignes sont, çà et là, en anglais, en russe; les cafés sont américains, napolitains; pas un ne se vante, sous cette latitude, d'être parisien. Sur ce boulevard élégant, tu flâneras, comme un personnage de tragédie dans un portique, avant le palais. L'autel, le sanctuaire, le foyer de Paris est plus loin. Entre la Madeleine, qui est le temple de la gloire repentie, et l'Opéra, qui est l’église du second empire, rien ne parle du passé, rien n'inquiète sur l'avenir. C'est le Paris égoïste et présent, neuf, banal, officiel. C'est dans ces parages qu'on a placé le grand bureau des meilleurs cigares, le Jockey-Club, le Grand-Hôtel, toutes les choses de la vie en dehors, de la vie mondaine. Le Vaudeville, théâtre de genre, ce pavillon de Hanovre où étincelle l’argenterie de Christofle, marquent la frontière où finit le grand luxe, la grande morgue, la grande vanité, où commence le luxe économique. </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>18</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Chaumont</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">dans Paris, il t'arrivera de remettre une 
 étincelle à ce flambeau éteint, et tu enverras un sou- venir de reconnaissance au cicerone prudent qui fut et qui restera un ami inconnu, la plus rare, la moins gènante espèce des amis. Tu as, ou tu auras, je n’en doute pas, ton portefeuille bien- garni, et parmi celles qui to tâteront le cœur à Paris, plus d’unc te trouvera noble et chevaleresque de porter une pareille armure. Tu as acheté, ou tu achètcras les meilleurs guides français, anglais, allemands; tous sont les meilleurs, je l'en avertis, car ils se copient tous entre eux; inais aucun ne te suffira; car tous te diront ce qu'il faut voir dans Paris, et aucun ne t'avertira de ce qu'il faut éviter. C'estce guide de la coulisse, de l'envers, du sous- sol, de l'arrière-boutique, de l'arrière-bureau, de l'arrière-alcôve que j'ai entrepris pour toi. On te fera gravir tous les sommets; on te fera voir Paris du haut des tours de Notre-Dame, des 4 GUIDE SENTIMENTAL DE L'ÉTRANGER SE 
 " buttes Chaumont, du Père La Chaise, du ballon cap- tif; mais on ne te montrera jamais le Parisien et la Parisienne qui sont le piége et le charme, le parfum ou la peste, l'âme bonne ou mauvaise, la vie de ces cara- paces de picrre ou de marbre que l'on te fera admirer. Tu veux te plonger dans un océan, et tu crois avoir {ous les apparcils de sauvetage! Mais connaistu les eaux obscures, sous les eaux qui miroitent au soleil? Tous les caoutchoucs brevetés qui te maintiendront à la surface, empêcheront-ils un requin de te happer aux cuisses? unc picuvre de s’enlaccr à toi et de t'étoufler? des algues perfides de se noucr
@@ -1109,34 +1197,39 @@ $
 ‘Truc est le dicu moderne. ave fait des miracles Lane ee 7 1 ee AN ne 4 dans l'industrie, dans l'art, dans la science, dans la coquetteric. Touver le Truc dans ses œuvres, l'honorer 
 À dans sa gloire, s’en méfier dans ses prêtres cet surto</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>185</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Chaumont</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">des dames qu’Alexandre Dumas a écrit ses merveilleuses épopées, que les théâtres allument tousles soirs leurs rampes, et parmi les journaux populaires, les mieux écrits sont les mieux achetés. . Mais quand on te dira que cette capitale de l'esprit est un bas-bleu, une diablesse tournant la broche où rôtissent les damnés de l'ambition, uné courtisanes | réponds sans crainte qu’elle est aussi l'ouvrière par excellence. Si le travail est une prière, il n’y a pas de cité plus religieuse, ni de religion plus aimable. Je t'ai donné le cadran de l'amour; voici, en face, l'horloge du travail. IL est Qu ATRE HEURES pu mesdames les balayeuses . MATIN. Les balayeurs ct commencent la toilette de Paris. On les nomme, dans un certain argot, les lanciers de M. le préfet. Il serait plus juste de les appeler les coiffeurs de la ville; ils la peignent, lui lissent la chevelure, lui font la raie.
 | Les bâlayeurs étaient, il y a quelques années, toute une colonic allemande, établie aux environsdes buttes Chaumont; la guerre les a balayés, et la corporation qui s’est refaite n’admet guère que des Alsaciens. Lève-toi de bonne heure, un jour, Ô mon liôte, pour assister à ce premier coup de peigne de la grande ville, Tu scras ravi de la vigoureuse allure de ces 472 GUIDE SENTIMENTAL DE L'ÉTRANGER pauvres gens. Le balayeur est vieux, la balayeuse est laide; mais l'un et l’autre, mari et femme, ou sim- plement associés, sont solidement vêtus. Pas de hail- ons! 
 Îls ont la coquetterie perfectionné les ustensiles. coups de balais ! du métier; ils ont Quels balais! et quels IL est passé ce temps où Balzac décrivait l'opiniä- treté des portiers s ’acharnant sur l'âme du ruisseau noir et fétide. n'ya plus de ruisseaux que madame de Staël puisse regretter; les portiers sont dispensés de balayer; la ville, moyennant une redevance, se charge de la besogne, et les fonctionnaires enrégimentés par l’autorité liquident tous les matins ce que les chiffonniers ont jugé indigne de leurs archives. Le balayage de Paris est une de ses gloires. Les Parisiennes le savent bien, même les plus élégantes, qui d'ordinaire ne savent pas grand'chose; aussi, ayant à nommer la queue de leurs robes, n'ontelles pas ‘trouvé de plus joli nom à lui donner que celui de batäyeuse. Touchant hommage dans lequel on pourrait peut-être trouver çà et là un vague accent . de piété filiale. Combien de celles qui rétissent le balai, ont un balai maternel dans leurs souvenirs d'enfance| at. Cixo neures sonnent. Là-bas, dans les faubourgs, les cloches tintent, Voici les matines du labeur. Les PARTS QUI TRAVAILLE 473 portes des usines ne s’ouvrent pas encore; maïs on sent qu'à l’intérieur le fourneau bâille, la vapeur va commencer ses soupirs. La diane réveille les casernes, et comme il faut que toute aurore dans Paris aît un parfum d'idéal, les premiers fonctionnaires, ceux qui se mettent à la besogne en même temps que les balayeurs, sont les employés de la poste. Avant cinq heures du matin on a déjà recueilli les confidenc</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>257</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Chaumont</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">n devenant té 212 GUIDE SENTINENTAL DE L'ÉTRANGER prètre, je n'ai point cessé d'être homme, et qu'en avançant dans la hiérarchie, je dois avanceren indulgence et en justico. Avant do lancer lo feu sur les cités condamnées, Dicu yy envoya deux anges qui tentèrent une suprèmo épreuve. fmitons ces divins messagers. Si l'on nous chasse, nous secouerons la poussière do nos pieds et nous partirons, non sans regarder en arrière et sans prier encore. Mais jusqu'ici, n'est-ce pas ? on no songe point à nous chasser. L'ABBÉ SERYAIS Nou, mais si nous demeurons, c'est au prix do tant d'humiliations! L'ÉVÈQUE 50 levant. Celui-à seul est humilié qui no sent point son cœur fort et sa conscience robuste. {Se tournant vers la duchesso:} Ma fille, continuez à être charitable et aimante; mes enfants, je’ vous bénis! &gt;» LE MARQUIS. Même moi? L'ÉVÈQUE, Vous surtout! XVII PARIS FUNÈBRE Ne te trouble pas, mon hôte! Tu visiteras lo Père Lachaise avec beaucoup plus d'empressement et do plaisir que les Buttes-Chaumont. Laisse-moi, en attendant le petit air de flûte que ton âme so jouera à ellemêmo dans ce grand jardin, to préparer à cette promenade sentimentale, mais non lugubre, et te ra- conter comment les Parisiens la font tous les jours, . ©n héros du cortége ou en invités. La mort, à Paris, a sa décence, sa tenue, sa coquet- terie, j'oserais presque dire sa mode, comme la mi- stre et le crime. On la cache, on l'habille, parfois on la maquille. C'est une représentation du jour, et, parmi les soupirs que l'on pousse à un beau convoi, combien ne s'en exhale-t-il pas pour plaindre le défunt, privé de la vue d’une si belle cérémonie? Voir passer son convoi, est, en effet, un de ces rêves que L Parisien fait souvent. 214 GUINE SENTINENTAL DE L'ÉTRANGER Lo jour du triomphe funéraire do M. Thiers, un homme du 46 maï pleurait en so mordant les ongles,
 — Vous lo regrettez? lui demanda un de sos amis. 
 — Non, je envie! l' Dans sa rago jalouse, lo malheureux homme d'État
@@ -1144,18 +1237,20 @@ $
 +". Paris, où l'esprit rayonno jusquo dans les heures sombres, a un ferment d'immortalité qui l'empêche d'accepter la mort,'autrementque comme une concession temporaire aux préjugés, à la routine; il semble à Paris, quand on est mort, quo ce ne soit pas pour longtemps. Quelque chose de vague, d'incertain, mais de lumineux, flotte au-dessus des cortéges et met une faible coloration d'aurore dans la nuit du deuil; aussi le deuil parisien devrait-il êtro violet et non tout à fait noir. s"+ J'ai dit que la mode s’en mélait. Depuis quelques années, les fleurs remplacent les galons. On prend moins de -panaches au magasin des pompes funèbres, et plus de bouquets aux mar- chands. 
 É Tu sais aussi qu'il est de tradition qu'un direc- . PARIS FUNÈBRE 245 teur d'enterrement public, qu'un conservateur ou un inspecteur do cimetièro soit toujours un vaudevilliste. On n'en a pas encore vu un seul qui ait poussé l'amour de la muse jusqu'à prétendre à l'Académie françaiso; mais c'est</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>93</pdf_page_number>
     <file_name>Ulbach_1871_bpt6k5802400x_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <doc_Author>Louis Ulbach</doc_Author>
+    <docTitle>Guide sentimental de l'étranger dans Paris par un Parisien</docTitle>
+    <doc_Date>1871</doc_Date>
     <doc_page_number/>
     <matching_term>Invalides</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210720</date_added>
     <snippet classifier_result="bad">rtant, au milieu de ce décor solennel, passe un grand souffle qui emporte les miasmes de Paris, le long du fleuve obscur, vers les hauteurs du Tro- cadero, et les brûle au soleil du génie français. Si tu veux te donner un jour de grande méditation; . vale long des quais. Ne t'arrète pas trop aux étalages des bouquinistes; ils sont rares, et les livres rares introuvables, y deviennent PARIS À PIED 79 oo 
 + 
 * 
@@ -1166,4 +1261,6 @@ $
 énormes, des cloaques sans nom, bordés de masures chancelantes ! Vas-y le jour, c’est horrible! Vas-y la nuit, c’est prodigieux. La lune répandra devant toi un désert asphaltite; tu sentiras l'odeur d’une pourriture immense, l'exhalaison d'un cadavre géant, celui d’un frère du Paris vivant, qui tous les soirs va mourir là. La silhouette fantasque du sombre Bicètre, la Bièvre étroite et jaune avec ses vieux moulins à {an te rappelleront seuls la vie sur ce fumier gigantesque. Tu le vois, le spectacle varie. Il y en a pour tous les goûts et pour tous les dégoûts. Paris est varié etcomplet comme Shakespeare. Voilà pourquoi on ne peut pas plus se passer de l’admirer et de l'aimer que finir jamais de le connaitre. Combien de Parisiens qui inangent des pâtés de caïlles aux truffes sans savoir qu’il existe une pareille bulle aux Cailles! VI PARIS-COSTUME Le grand art de s’habiller à Paris se résume dans cet axiome: être toujours prèt pour une partie de plaisir ou pour une affaire, pour une audience ou pour un rendez-vous, sans être jamais endimanché!
 Îl est bien évident que l'invitation spéciale, que le diner, la soirée, la visite d'apparat obligent à un achèvement dont on ne saurait se garantir, quand on a le temps; mais il faut toujours être assez correctement et assez simpl</snippet>
   </match>
+
+
 </matches_and_snippets>
