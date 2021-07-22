@@ -1,49 +1,59 @@
-<matches_and_snippets><match>
+<matches_and_snippets>
+
+
+    <match>
     <uid/>
     <place_name/>
     <pdf_page_number>148</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Odéon</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad"> Toute gloire étrangère excite mon courroux. Gardons-nous d’affermir le pouvoir de nos maîtres, Qu'on aime le monarque et qu’on craigne les prètres! Oui, je veux que ma bouche intimide les rois; Qu'’abattus à mes pieds et tremblans à ma voix; Ils déposent ici leur audace profane. Des décrets éternels le ministre et l'organe, J'établis mon pouvoir sur les maux des humains: Là, couvert des trésors amassés par leurs mains, Adoré par le peuple, à ses chefs redoutable, Je commande aux mortels sur un trône immuable. Les administrateurs du Théâtre Français, complétement incapables d'apprécier le mérite ou les défauts de mes innovations, renvoyèrent à l’Académie française la demande que je faisais d'adopter, du moins à titre d'essai, un ouvrage écrit dans un de ces nouveaux rythmes. La réponse de l’Académie ne me fut point défavorable, puisqu'elle laissait aux administrations théâtrales une entière liberté à cet égard. M. Picard m'offrit même de faire jouer un de mes polydrames C140) 
 % 
 à l'Odéon; mais la troupe, dont il devint peu après directeur, n'avait ni chœurs ni ballets. Mes raisons pour proposer l’usage des vers de quatorze et de seize syllabes étaient: D'abord que la rime y est plus éloignée que dans les vers de mesure moins longue, ce qui est un avantage dans le genre dramatique, où l’on cherche limitation de la nature; . 2° Qu'on peut renfermer dans quatorze et surtout dans seize syllabes une pensée complèxe contenue dans une seule ligne, et qui exigerait presque deux vers alexandrins; 3° Que le moule de ces vers étant à peu près vierge, on pourrait y fondre une foule de pensées qui n'avaient pas pu être exprimées en vers d’une manière satisfaisante; 4° Que plus le vers est court moins il est solennel, et que par conséquent les vers de quatorze et de seize syllabes seraient plus graves, plus majestueux que ceux de douze, dont nous nous servons indistinctement pour la comédie et la tragédie,  et quisont du moins les plus brefs dont on puisse faire usage même pour la comédie. Voltaire, dansses comédies en vers de dix syllabes, nous en a donné la preuve, car personne ne sera tenté de suivre son exemple. ; (141) Pour que le lecteur puisse juger l'effet des vers de seize syllabes, j'en citerai quelquesuns extraits de mon polydrame, intitulé la Mort de Henri IF”, dans lequel les agens jésuitiques de l'Espagne devaient figurer d’une manière assez comique. Le rôle de Ravaillac, fanatisé par les prêtres, tourmenté par des songes et des visions, aurait été éminemment tragique. On conçoit au reste qu’il n’y à rien de commun entre les vastes projets qui occupaient l'esprit de Henri-le-Grand et l’amourette sur laquelle Legouvé fait reposer sa froide composition. 
 + HENRI IV. Je pars, je vais braver la mort pour secouer le joug de Rome, Je renonce au titre de roi, s’il faut trembler devant un homme Qui de son siége fastueux, et des chrétiens guide vénal, Commande en maître aux souverains à genoux à son tribunal, Serait-ce là l'humilité dont il nous doit les s</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>57</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Louvre</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">er une certaine variété dans les constructions. Les architectes français s’attachent aussi exclusivement aux ordres grecs, que s'ils
 étaient d'invention française. Il en est de cela comme de la littérature. Tous les académiciens membres des jurys de lecture étant des classiques, pendant nombre d’années ils n’ont voulu laisser admettre aucune pièce de: 
 | vards. Il n’est guère de maisons dans Paris qui soient autre chose que des murs percés de trous pour les portes et fenêtres; à Londres, ontrouve un grand nombre d'habitations qui ont quelques ornemens d'architecture, et, malgré le désavantage qu'ont les Anglais de C49 romantique, c'est-à-dire où la règle des trois unités ne fût pas observée. D’un autre côté, le public voulait être initié aux beautés du genre romantique. Qu’on juge de l'embarras des auteurs placés entre deux exigences opposées! Paris l'emporte de beaucoup par lenombre et la beauté de ses monumens sur la capitale de l’Angleterre, où l’on ne trouve rien de comparable au Louvre, à la Bourse et à la place Louis XV, qu'on vient cependant de défigurer, en éntassant sur le pont douze statues colossales, sur d'énormes piédestaux informes. Il est inconcevable que M. le préfet du département de la Seine, ait laissé commettre une aussi étrange bévue, signalée simultanément par tous les journaux. Puisse cette faute, qui suppose une ignorance complète des règles de la perspective, avertir le gouvernement de l'incapacité de ses architectes, et l’engager à consulter un peu le goût du public, pour ne pas sanctionner les plans les plus ridicules. Celui du théâtre de l'Opéra, dans la rue Lepelletier, est bien de ce nombre, tant à
 ’égard de l'extérieur que de l’intérieur, où [ (60) ) plus de quatre cents personnes assises sur, es second et troisième bancs des loges de côté ne peuvent pas voir la scène! Tous les théàtres qu’on a construits depuis quelques années ont les mêmes défauts. Le théâtre de l'Opéra-comique,  rue Ventadour, est sous tous les rapports également au-dessous de la critique. M. le comte Chabrol de Volvic est l'inventeur de la peinture sur pierre de lave, et l’on vient de trouver aussi les moyens de peindre sur le fer. Cette double découverte coïncide parfaitement avec mes nouvelles conceptions en matière d'architecture. Dans l’ordre de la gloire,  l’ordre des grâces et le polygine (6), mes frises ont 6, , ro fois la hauteur ordinaire, et l’on peut y placer, soit en relief, soit en peinture sur pierre ou sur métal, des tableaux monumentaux d’une grandeur et d’une magnificence dont l’antiquité ni aucun peuple de l'univers ne nous offre l'exemple. Mais notre siècle verra-t-il adopter ces brillantes innovations? Le gouvernement, composé de personnes presque toutes étrangères au culte des beaux-arts, donne sa confiance à des maçons enrichis ou à des académiciens routiniers qui, soit (51) par incapacité et manque de goût, soit par jalousie et entêtement pour le genre classique, repoussent des conceptions superbes, quisuffiraient pour immort</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>28</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Carrousel</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">le mende mofemmes formes belles et bien conservées, ait fait adopter cet usageinfiniment trop pudique. D'ailleurs, on ne voit que peu de jeunes femmes à l'Opéra de Paris; de vieilles comtesses, de vieilles douairières envahissent les loges et l’amphithéâtre: les troisièmes et quatrièmes sont plei- nes de gens du bas peuple et de femmes encapuchonnées d’un vilain bonnet, tel que le portent les poissardes, leurs commères, et lissant. La statue d’un grand homme, vêtu an de cette manière, l'exposcrait à la risée de la postérité jusqu’à la dernière génération de l’espècchumaine. Qu’on enjuge par lesstatues de soldats qui sont sur l'arc de triomphe du Re er 
 | souvent tout ce beau monde entre avec des billets donnés ! I faut convenir que les Français, ni les Anglais, nila plupart des peuples de l'Europe n’ont aucun goût pour leur mise ; que le frac, la chemise et la cravate empesées et surtout lechapeaude feutre de la forme la plus bizarre, composent un costume ridicule et avi- "7 
 É 
@@ -52,18 +62,20 @@
 à leur donner un air gauche et une étrange tournure. Les Anglais auraient besoin que nous leur envoyassions annuellement une cargaison de | 
 (21) maîtres de danse et de musique, de coutu- rières et de modistes, et surtout de matelassiers, car les matelas des Anglais, ainsi que leurs paillasses piquées, sont tellement durs et peu élevés qu’on serait à peu près aussi bien couché par terre : un envoi de cuisiniers, de pâlissiers et de glaciers ne serait pas moins utile aux habitans d’Albion. La cuisine des Anglais est celle d’un peuple encore sauvage, leurs viandes rôties répandent le sang à grands flots; leurs légumes à moitié cuits dans l’eau et sur lesquels on jette un morceau de beurre, sont un mets dont l'invention pourrait être revendiquée par les Cosaques. Heureusement il est à Londres quelques restaurateurs Français dont les prix sont moins élevés que ceux de plusieurs de leurs confrères de Paris. Nos vins sont fort chers à Londres, même ceux que l’on y fabrique. Le pain et la viande ysont d’une qualité parfaite et approchant au même prix qu’à Pari</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>61</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Tuileries</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">dans leur architecture. Sous ce rapport, leurs maçons doivent être placés encore audessous des nôtres. Un homme pourrait bien faire cent lieues dans les rues de Londres sans trouver un banc pour se reposer, ni une porte pour se mettre à l’abri de la pluie ou de la neige. Cette inhospitalité prouve que, lé (53) malgré leurs momeries, les Anglais sont fort 
 égoïstes. Ils deviendront moins sauvages lorsque, comme à Paris, leurs maisons seront assez vastes pour contenir trente ou quarante familles. Les établissemens matériels ont par- tout une grande influence sur les mœurs et le caractère des peuples. Les squars de Londres sont des places dans le milieu desquelles se trouve un jardin entouré d’une haute grille en fer. Ce jardin, toujours fermé au public, est uniquement destiné aux habitans du quartier, qui ont chacun une clé pour jouir de cette promenade; mais ce prétendu jardin est presque toujours désert. Les orangers, les citronniers, les myrthes, les grenadiers, qui embellissent les Tuileries, sont des ornemens inconnus au peuple de Londres. À Paris, nous avons la vue des orangers des jardins royaux; il est vrai qu’on nous prive de leur parfum et qu'on a grand soin d’en cueillir les fleurs à mesure qu’elles s’épanouissent. Les Anglais, chez lesquels les mœurs sont aussi licencieuses qu’à Paris, sont cependant encore soumis à la gothique influence de leurs réformateurs Luther, Calvin et autres prédicateurs, plus austères que chastes, Les RARE Sun pe
 (54) es quakers, méthodistes, unitaires et toutes les religions qui se sont faufilées en Angle- terre sous le titre modeste de réforme, s'opposent à ce qu'on voie dans les places publi- ques des statues non drapées, quoique la statuaire sans nudités perde tous ses charmes. C’est peut-être aussi par un principe d’austérité religieuse que les fleurs sont si rares à Londres: on en trouve à Covent-Garden, qui représente notre Halle; mais il n’y a pas, comme à Paris, des bouquetières établies dans toutes les rues et dans tous les théâtres. On ne trouve à Londres ni décrotteurs, ni commissionnaires au coin des rues, ce qui est quelquefois embarrassant. Bien d’autres com- modités manquent aux Anglais : un étranger par exemple, doit être sur les épines lorsque chemin faisant « certain devoir pressant l’appelle en certain lieu. » Mais ce qui distingue particulièrement Paris de Londres, c’est le nombre et la magnificence de nos cafés, décorés de superbes glaces, et que les femmes du meilleur ton ne se font fréquenter. Le chocolat qu’on fait mauvais et mal broyé. Si de chocolat s'établissaient FF 
@@ -71,35 +83,40 @@
 à Londres, ils en 55 pourraient avec le temps faire succéder l’usage à celui du thé, qui n’est point aussi propice à l'esprit et au corps. Tandis qu’il y a plusieurs années que Londres, Saint-Pétersbourg, Bruxelles, sont
 éclairés par le gaz et pourvus de trottoirs,  ct que l'administration municipale de Paris se laisse honteusement devancer par d’autres villes, quine pr</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>160</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Tuileries</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">it donc environ 600 fr. par an d'économie par ménage. C’est au propriétaire de la maison qu’on paierait cet excédent, pour se trouver assuré matériellement contre l'incendie, contre le chaud et le froid, contre les voitures et les chevaux, contre la boue et la poussière, et généralement contre l’insalubrité, les maladies et les cruels accidens qui résultent de l’imperfection des villes actuelles. Si l’on observe combien ma nouvelle ma- (aa) nière de construire les villes y diminucra la mortalité; il faudra ajouter aux considérations qui précèdent l'avantage de vivre pour les uns et celui de vivre plus long-temps, et mieux portant pour les autres, qui, pour tous, est inappréciable (25). PROJET ET D'UTILISATION D'EMBELLISSEMENT POUR LA PLACE LOUIS XVI ET LES CHAMPS-ÉLYSÉES. Je propose d’abord la suppression des fossés ou jardins potagers qui déparent etrétrécissent la place Louis XVI. De belles fontaines, sans absorber autant de terrain, produiront un bien meilleur effet. Le jardin des Tuileries, n'étant défendu que par une terrasse le long du quai, et du côtéde larue de Rivoli que par une grille, les fossés, qui ne protègent que laterrasse donnant sur la place Louis XVI, sont d’une inutilité complète. Cette terrasse devra être ornée de statues et de vases de fleurs, et subir quelques changemen qui rendront la clôture des jardins de ce côlé aussi parfaite qu’elle l’est du côté du quai, de manière à encadrer la place Ca55 3 Louis XVI mieux qu’elle ne l’est actuellement, Abstraction faite des espaces et trottoirs réservés aux personnes à pied, la place sera pavée d’une manière nouvelle; la surface ex- térieure des pierres composant le payé sera la plane (actuellement ces pierres présentent surface d’un sphéroïde raboteux, humide et glissant), les côtés de ces pierres seront taillés de manière à s’unir étroitement au moyen d’un ciment indestructible, qui ne permettra pas à la glaise de s’infiltrer et de salir le pavé. Grâce à cette précaution l'on ne sera in- commodé ni par la boue, ni par la poussière. Un service spécial de propreté s’étendra de la barrière de l'Étoile à la terrasse des Tuileries. Se borner 
 à enfermer les Champs - Ély- sées dans une grille, comme semble l’annoncer le projet du conseil municipal, serait une conception inutile et mesquine. Les malfaiteurs qu'on éloignerait des ChampsÉlysées,  Se porteraient dans un tier de Paris, où ils ne seraient
 à craindre. Il serait également laisser subsister cette promenade de nudité où elle est, car on n’y même un banc pour se reposer, autre quarpas moins absurde de dans l'état trouve pas ni rien qui pe 
 (154) puisse justifier le titre de Champs - Élysées. Mon projet paraîtra peut-être trop vaste; mais son exécution contribucrait à la gloire de la France et offrirait des avantages matériels immédiats. On a calculé que, dans le quartier de la cité, sur dix enfans qui naissent à peine un seul atteint l’âge de virilité. Presque toute la partie centrale de Paris est aussi très-insalubre, et les génératio</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>164</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Tuileries</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">supportées par des colonnes ou pilastres, afin de ne pas gêner la circulation de la foule : d’ailleurs elles seraient assez éloignées les unes des autres pour que les Champs-Élysées fussent toujours une promenade. On pourrait, non loin de la Seine, 
 élever une montagne artificielle surmontée d’un belvédère, embellie par une cascade, des grottes, un châlet suisse, etc., etc.; on y placerait un observatoire public, moyennant une rétribution, et auquel se- (156 
 ) raient attachés des professeurs d'astronomie. Les maisons de plaisance seraient, autant que le genre d’architecture le permettrait, surmontées de terrasses ornées de vases de fleurs, de statues, de rotondes et de belvédères; elle seraient entourées de jardins an- glais, de fontaines, etc. Des candelabres, en partie dorés et rap- prochés les uns des autres, éclaireraient, par le gaz, la place de Louis XVI et toute l’ayenue des Champs-Élysées. Je voudrais qu’on élevât à l'entrée des Champs- Élysées deux édifices faisant face aux Tuileries et bordant la place Louis XVI, qui actuellement est mal encadrée (26). Il faudrait qu'ils fussent en harmonie avec le Garde-Meuble, mais d’une architecture plus légère. On pourrait, si l’on adoptait mes frises, y placer des tableaux monumentaux de 25 à 30 pieds de haut sur 60 à 80 de long, soit en pierre de lave peinte, soit en métal peint, soit en relief. Dansles constructions des Champs-Élysées, des emplacemens seraient réservés pour les cafés, les restaurans et le commerce de dé- tail, sans lequel un vivant. quartier n’est jamais ñ 
@@ -107,53 +124,58 @@
 égalant ou surpassant en hauteur celle de la colonne de la place Vendôme; mais d’une forme plus gracieuse,  et dont l’une supporterait la statue de la Religion et l’autre celle de la Clémence. Deux colonnes torses, en partie dorées, feraient un superbe effet. Je voudrais établir dans le voisinage de la grande porte des Tuileries, et de préférence TERRE 
 (158) dans le jardin, deux vastes rotondes vitrées, l’une contenant un double et magnifique escalier monumental, et l’autre une espèce de montagne russe, afin de descendre dans une superbe galerie souterraine qui auraient quelque ressemblance avec les temples que les Indous creusent</snippet>
   </match>
+
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Tissot_1830_bpt6k6464072j_CL_01</uid>
+    <place_name>Rue Vivienne</place_name>
+    <place_name>Bourse</place_name>
     <pdf_page_number>16</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
+    <doc_page_number>8</doc_page_number>
     <matching_term>Palais-Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="good">angers à cet heureux mouvement. Jamais un député de Paris n’a songé à proposer à la chambre quelques mesures pour l’assainissement de la ville, dont il était obligé de pro- téger les intérêts. On sait que le pavé de Paris, jadis établi, sans doute, par l’homme le plus inepte du royaume, est composé de pierres d'environ neuf pouces de côté, et d’une surface con- vexe, presque toujours couverte de glaise humide. C'est une espèce de supplice que de marcher sur cet amas de cailloux raboteux, et de glisser continuellement, au risque de tomber et d’être écrasé sous les voitures. Ou lon doit, comme en Angleterre, adopter l’usage de la mac-adamisation, qui offre cependant quelques inconvéniens,  ou Paris doit
-être pavé de pierres d’une surface plane, l
-|
-| unies par un ciment indissoluble. Ad Londres, comme dans le petit nombre de ceux qui existent à Paris, les trottoirs n’ont point une largeur suffisante ; unerue centrale, telle que la rue Vivienne, quiréunit la place de 
-|| (89 la Bourseau Palais-Royal,  devrait être moins 
-étroite, etila rue de la Bourse, à peine commencée, n’a également point une largeur proportionnée à l'étendue du monument qui lui fait face. Ici, comme dans mille autres bévues des directeurs de la grande-voirie, on remarque que les architectes du gouvernement n'entendent rien à la construction des villes. Paris est le purgatoire des gens qui n’ont pas entièrement perdu l’odorat. Les eaux fétides, échappées de toutes les maisons, croupissent dans les rues déjà infectées par le fumier de cinquante mille chevaux. Dès le matin, de vieilles portières viennent déposer dans la boue du ruisseau leur tribut de malpropreté; les murs même de toutes les mai- sons sont tapissés et corrodés par l'urine de toute la population plébéïenne. Mais quelle propreté règne à Londres ! avec quelle liberté l'on y respire un air pur, sans être obligé, comme à Paris, de détourner les yeux à cha- 
-és que pas, et de suspendre sa respiration, pour n'être pas incommodé par des miasmes pestilentiels et par la vue d’un vaste cloaque! Ll faudrait que les personnes qui composent la haute administration municipale, que C9) M. le préfet de police et les agens qui sont la salubrité dans chargés sous lui d'entretenir Paris, allassent étudier et admirer à Londres la propreté de cette immense cité, et qu'ils en ramenassent un certain nombre d'hommes dont les fonctions seraient d'établir à Paris les mêmes moyens de propreté et de salubrité qu’on emploie à Londres. Ne vaudrait-il pasmieux envoyer aussi des jeunes gens étudier cet art important, que de les entretenir à Rome, dont tous les monumens nous sont parfaitement connus? Au reste, loin de blà- mer les études qu’on fait faire à de jeunes ar Listes à Rome, je voudrais que les architectes, pour être autorisés à exercer leur art à Paris, fussent obligés de prouver qu'ils ont voyagé en Italie et en Angleterre. Quoique les maisons de Londres soient peu 
-élevées et non moins inégales que celles de Paris, où généralement on n’en trouve </snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
+    <snippet classifier_result="good" confirmed="yes">À Londres, comme dans le petit nombre de ceux qui existent à Paris, les trottoirs n’ont point une largeur suffisante ; une rue centrale, telle que la rue Vivienne, qui réunit la place de la Bourse au Palais-Royal , devrait être moins étroite, et la rue de la Bourse, à peine commencée, n’a également point une largeur proportionnée à l'étendue du monument qui lui fait face. </snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>35</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Palais-Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">, produirait un effet très-fâcheux pour l’homme insulté ou maltraité; aussi des prêtres, des hommes mariés viennent-ils journellement se plaindre aux commissaires de police de vols ou d’autres délits commis par desprostituées; et cela toujours infructucusement. Il est cependant sin- gulier que cette même police, qui a le pouvoir (27) de mettre hors de la loi les femmes publiques et de les faire incarcérer lorsqu'elles sont atteintes de certaines maladies ou en retard pour la visite du dispensaire,  lorsqu'elles ne sont pas rentrées à onze heures du soir, etc., prétende n’avoir pas le droit de les faire arrêter et juger administrativement,  lorsqu'il s’agit de vol ou d’attaque sur un honnête homme! Le privilége qu'ont de fait ces créatures d’insulter ies passans, demande de nouveaux et très-sévères réglemens du préfet de police, qui, depuis son installation, en a fait et mis en vigueur bien d’autres d’une exécution plus difficile. El est urgent de purger le boulevard de Coblentz et le Palais-Royal, non-seulement de ces harpies, mais encore de leurs dignes acolytes et de quelques êtres plus infâmes, qui, à ce qu’on m’assure, payaient, du temps de Napoléon,  la même rétribution que les femmes publiques, et qui continuent, à ce qu’il paraît, d'exercer leur commerce libre de tout impôt (5). Si l'amour désordonné des Anglais pour la licence, qu’ils nomment liberté, fait qu’on est fort exposé à Londres à être empoisonné par le redoutable virus vénérien, témoin ir- (28) récusable de la foi que mérite la pruderie anglaise, et qui est telle, que nombre de jeunes filles de dix à douze ans accostent les passans en plein jour; l'esprit de liberté se manifeste par l’aversion que les habitans de Londres ont pour les militaires, dont on ne voit guère qu’une compagnie pour la garde du roi. Partout ailleurs, l’ordre est maintenu par des of- ficiers civils, et l’on n’y connaît pas les gendarmes. Voilà une innovation qui trouvait à Paris bien des anglomanes. Je ne sais dans quel livre j'ai vu, ily a quelques années, une plaisanterie sur mon projet de langue universelle et d'union des peuples. L'auteur avançait, qu’en effet, pour se mettre d'accord, il fallait qu’ils pussent s'entendre. Ce jeu de mots n’est qu’une vérité; presque tous les peuples qui parlent la même langue forment un corps de nation et regar- dent comme étrangers ceux qui se servent d’un autre idiôme. En uniformantla langue, la religion, la constitution, les usages, les lois, les mœurs et les délassemens des peuples, on les habituera à se considérer comme membres de la même grande famille humaine et à coopérer tous aux nobles entreprises de la civilisation. (29) Les prêtres qui, par des vues d'intérêt personnel, s'opposent presque tous à la fusion d'opinions religieuses, bien désirable dans l'intérêt de la vérité et de l'humanité, perdent chaque jour l'influence que la restaura- tion a cru devoir leur rendre temporairement. Quant aux rois, aux empereurs et autres potentats, il faudra que successivement ils fl</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>64</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Palais- Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">ondres, Saint-Pétersbourg, Bruxelles, sont
 éclairés par le gaz et pourvus de trottoirs,  ct que l'administration municipale de Paris se laisse honteusement devancer par d’autres villes, quine prennent pasle titre emphatique de capitale des beaux-arts; S. A. R. Mgr. le duc d’Orléansa fait éclairer par legazlejardin du Palais Royal et la cour de ce palais. L'architecte, M. le baron Fontaine, a semblé pressentir une des conditions de ma nouvelle manière de construire les villes et les maisons, qui seront incombustibles par l'emploi du fer au lieu de bois,  ainsi que l'ont annoncé les journaux. Il a fait établir, s’il n’a inventé, des escaliers tournans de fonte dont les marches sont unies à un pivot central, dans l’intérieur duquel la fumée montera de la cuisine jusqu’au - dessus de la galerie, et chauffera les magasins faire un poële. comme pourrait le Il est fâcheux que la fécoration dé cette vaste galerie soit de mauvais goût. Il me semble aussi que l'architecture du jardin du 
 î Eee Palais- Royal d'ordre 
@@ -162,34 +184,38 @@
 âmes. Chaque casino aurait ses abonnés d’une du moins mutuelle; il faudrait convenance commencer par en élever un, malgré l’opposition que les directeurs de théâtres ne manqueraient pas d'y mettre, comme si le plaisir de la conversation, la lecture, ne devait pas k de de la danse et de la musique de (57) avoir aussi bien son temps que celui du spectacle. Malgré un jugement rendu en faveur de l'Opéra contre les petits théâtres, la per- ception qu’il s’arroge sur tout objet de curiosité, et même sur les singes danseurs. de corde et sur les animaux empaillés, me paraît déshonorante pour un 
 établissement royal, et récilement illégale, comme l’a déjà prouvé un arrêt du tribunal de Rennes, rendu dans la même espèce. Ce droit seigneurial de l'Opéra est de vingt pour cent de la recette brute d’un concert, et le droit des pauvres de vingt-cinq pour cent à prendre aussi sur la recette brute. Quant à la recette nette, ment de après le préléve- ces droits et de tous les frais, elle se monte quelquefois à moins que rien, témoin le concert du célèbre violoniste Bou- cher, exposé à voir saisir ses meubles pour avoir donné un concert à son b</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>157</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Palais- Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">e des rues:plus prges que nos boulevards. La partie centrale, de 24 à 30 pieds de largeur, est creusée à la profondeur de 12 à 15 pieds. Cette rue basse est destinée aux voitures, aux chevaux, au transport des fardeaux, etc. De chaque côté de cette rue basse sont les portes inférieures des maisons, les magasins de bois, de charbon, les remises, etc. Quant aux chevaux, on les éloigne des habitations, comme on le fait à Lon- (149) dres, pour s'épargner le bruit et l’odeur dé- sagréable et dangereuse qui résultent du voisinage des écuries. De chaque côté de la rue basse est une ba- lustrade à hauteur d’appui, et là, depuis le trottoir découvert, qui a 12 à 15 pieds de largeur et qui doit être planté d’arbres, on voit sans danger se croiser les rapides voitures à vapeur, les omnibus, les dames blanches et les équipages des princes, des nobles et des parvenus, Entre les maisons et ce trottoir il existe, à son niveau, une galerie vitrée de 15 à20 pieds de largeur, dans le genre de celle du Palais- Royal, mais mieux ornée. Des tuyaux de cha- leur, des poëles placés de distance en distance tempèrent, en hiver, la rigueur du froid. Des conduits de fraîcheur amènent, enété, l’air frais des passages souterrains et des jar- dins dans cette galerie, où des toiles teintes Bis. interceptent, quand on le veut,  les rayons trop ardens du soleil. On se servira de préférence de portes à coulisses, qui ne causent aucun bruit et tiennent moins de place que les portes battantes. Les maisons qui n’ont pas moins de quatre
 étages au-dessus du sol sont couvertes par &amp; 
 (150) des terrasses ornées d’arbustes, de fleurs et de statues, et offrent en toute saison un abri pour prendre de l'exercice et respirer un air pur. On n’emploie que la pierre, les métaux, la brique et desmatériaux incombustibles pour la construction de ces maisons. On pourra avoir pour monter et descendre des machines mues par la vapeur ou par des moyens mécaniques. Tous les appartemens d’une maison, eût-elle soixante locataires, seront chauffés simulta- nément par des calorifères à un degré réglé par lethermomètre. Les escaliers et vestibules seront aussi chauffés de cette manière, ainsi qu’on le voit à l’Académie royale de musique. Il y aura devant chaque maison un pont pour traverser la rue basse, Les galeries couvertes continueront leur cours, après s'être croisées, par dessus la rue basse au moyen de ponts en chaînes, en fil de fer ou autres. Il conviendra de varier la forme des mai- sons et d'employer, suivant les quartiers, différens ordres d’architecture, et même ceux qui, tels que l'architecture gothique, turque, pren chinoise, égyptienne, birmane, etc., ne sont point classiques. Les fontaines, les obélisques, les pyrami- Cuba D des, les salles de spectacle, de concert, de bal, les casino, les temples pour les diffé- rentes religions,  les musées, seront toujours assez éloignés des autres constructions pour produire le plus bel effet possible. Les loyers de la ville centrale seront néressairement chers, ma</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>170</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Palais-Royal</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">on projet
 à cet égard vient d’être réalisé; mais les candelabres, placés
 à 40 mètres les uns des autres,  sont quatre fois trop éloi- gnés pour produire un bel effet, et la lanterne quadrangulaire, qui n’est pas de bon goût, est beaucoup trop élevée. doit décorer sa capitale comme le directeur Un gouvernement d’un théâtre y attire le public par de beaux décors. Dans nos passages, les becs de gaz ne sont qu’à 10 ou 12 pieds de distance,  et la proximité des deux rangées double l’inten- sité de la lumière. Il faut que les propriétaires des maisons, et surtout de celles qui donnent sur la rue, se soumettent
@@ -209,19 +235,22 @@
 (163) s Se irainte par corps dans les cas non spécialisés. C’est une erreur grave que commeltent nos tribunaux de commerce; 
 % que de considérer la lettre de change comme formant, es- sentiellement et toujours,  un acte de commerce, et cette erreur est si palpable qu'il paraît superflu de la combattre. La leitre de change est le moyen le plus simple et le plus expéditif qui puisse s'offrir à tout particulier, même non négociant, de disposer des fonds qu'ila, ou qu'il croit avoir, dans une ville autre que celle qu’il habite. La Cour royale a bien senti cette vérité, lorsqu’à l’occasion d’une lettre de change de madame la du</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>16</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="good">estés
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
+    <snippet>estés
 étrangers à cet heureux mouvement. Jamais un député de Paris n’a songé à proposer à la chambre quelques mesures pour l’assainissement de la ville, dont il était obligé de pro- téger les intérêts. On sait que le pavé de Paris, jadis établi, sans doute, par l’homme le plus inepte du royaume, est composé de pierres d'environ neuf pouces de côté, et d’une surface con- vexe, presque toujours couverte de glaise humide. C'est une espèce de supplice que de marcher sur cet amas de cailloux raboteux, et de glisser continuellement, au risque de tomber et d’être écrasé sous les voitures. Ou lon doit, comme en Angleterre, adopter l’usage de la mac-adamisation, qui offre cependant quelques inconvéniens,  ou Paris doit
 être pavé de pierres d’une surface plane, l
 |
@@ -231,52 +260,61 @@
 és que pas, et de suspendre sa respiration, pour n'être pas incommodé par des miasmes pestilentiels et par la vue d’un vaste cloaque! Ll faudrait que les personnes qui composent la haute administration municipale, que C9) M. le préfet de police et les agens qui sont la salubrité dans chargés sous lui d'entretenir Paris, allassent étudier et admirer à Londres la propreté de cette immense cité, et qu'ils en ramenassent un certain nombre d'hommes dont les fonctions seraient d'établir à Paris les mêmes moyens de propreté et de salubrité qu’on emploie à Londres. Ne vaudrait-il pasmieux envoyer aussi des jeunes gens étudier cet art important, que de les entretenir à Rome, dont tous les monumens nous sont parfaitement connus? Au reste, loin de blà- mer les études qu’on fait faire à de jeunes ar Listes à Rome, je voudrais que les architectes, pour être autorisés à exercer leur art à Paris, fussent obligés de prouver qu'ils ont voyagé en Italie et en Angleterre. Quoique les maisons de Londres soient peu 
 élevées et non moins inégales que celles de Paris, où généralement </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>57</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Bourse</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">ne variété dans les constructions. Les architectes français s’attachent aussi exclusivement aux ordres grecs, que s'ils
 étaient d'invention française. Il en est de cela comme de la littérature. Tous les académiciens membres des jurys de lecture étant des classiques, pendant nombre d’années ils n’ont voulu laisser admettre aucune pièce de: 
 | vards. Il n’est guère de maisons dans Paris qui soient autre chose que des murs percés de trous pour les portes et fenêtres; à Londres, ontrouve un grand nombre d'habitations qui ont quelques ornemens d'architecture, et, malgré le désavantage qu'ont les Anglais de C49 romantique, c'est-à-dire où la règle des trois unités ne fût pas observée. D’un autre côté, le public voulait être initié aux beautés du genre romantique. Qu’on juge de l'embarras des auteurs placés entre deux exigences opposées! Paris l'emporte de beaucoup par lenombre et la beauté de ses monumens sur la capitale de l’Angleterre, où l’on ne trouve rien de comparable au Louvre, à la Bourse et à la place Louis XV, qu'on vient cependant de défigurer, en éntassant sur le pont douze statues colossales, sur d'énormes piédestaux informes. Il est inconcevable que M. le préfet du département de la Seine, ait laissé commettre une aussi étrange bévue, signalée simultanément par tous les journaux. Puisse cette faute, qui suppose une ignorance complète des règles de la perspective, avertir le gouvernement de l'incapacité de ses architectes, et l’engager à consulter un peu le goût du public, pour ne pas sanctionner les plans les plus ridicules. Celui du théâtre de l'Opéra, dans la rue Lepelletier, est bien de ce nombre, tant à
 ’égard de l'extérieur que de l’intérieur, où [ (60) ) plus de quatre cents personnes assises sur, es second et troisième bancs des loges de côté ne peuvent pas voir la scène! Tous les théàtres qu’on a construits depuis quelques années ont les mêmes défauts. Le théâtre de l'Opéra-comique,  rue Ventadour, est sous tous les rapports également au-dessous de la critique. M. le comte Chabrol de Volvic est l'inventeur de la peinture sur pierre de lave, et l’on vient de trouver aussi les moyens de peindre sur le fer. Cette double découverte coïncide parfaitement avec mes nouvelles conceptions en matière d'architecture. Dans l’ordre de la gloire,  l’ordre des grâces et le polygine (6), mes frises ont 6, , ro fois la hauteur ordinaire, et l’on peut y placer, soit en relief, soit en peinture sur pierre ou sur métal, des tableaux monumentaux d’une grandeur et d’une magnificence dont l’antiquité ni aucun peuple de l'univers ne nous offre l'exemple. Mais notre siècle verra-t-il adopter ces brillantes innovations? Le gouvernement, composé de personnes presque toutes étrangères au culte des beaux-arts, donne sa confiance à des maçons enrichis ou à des académiciens routiniers qui, soit (51) par incapacité et manque de goût, soit par jalousie et entêtement pour le genre classique, repoussent des conceptions superbes, quisuffiraient pour immortaliser lenom </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>160</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Rivoli</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">n qu’on paierait cet excédent, pour se trouver assuré matériellement contre l'incendie, contre le chaud et le froid, contre les voitures et les chevaux, contre la boue et la poussière, et généralement contre l’insalubrité, les maladies et les cruels accidens qui résultent de l’imperfection des villes actuelles. Si l’on observe combien ma nouvelle ma- (aa) nière de construire les villes y diminucra la mortalité; il faudra ajouter aux considérations qui précèdent l'avantage de vivre pour les uns et celui de vivre plus long-temps, et mieux portant pour les autres, qui, pour tous, est inappréciable (25). PROJET ET D'UTILISATION D'EMBELLISSEMENT POUR LA PLACE LOUIS XVI ET LES CHAMPS-ÉLYSÉES. Je propose d’abord la suppression des fossés ou jardins potagers qui déparent etrétrécissent la place Louis XVI. De belles fontaines, sans absorber autant de terrain, produiront un bien meilleur effet. Le jardin des Tuileries, n'étant défendu que par une terrasse le long du quai, et du côtéde larue de Rivoli que par une grille, les fossés, qui ne protègent que laterrasse donnant sur la place Louis XVI, sont d’une inutilité complète. Cette terrasse devra être ornée de statues et de vases de fleurs, et subir quelques changemen qui rendront la clôture des jardins de ce côlé aussi parfaite qu’elle l’est du côté du quai, de manière à encadrer la place Ca55 3 Louis XVI mieux qu’elle ne l’est actuellement, Abstraction faite des espaces et trottoirs réservés aux personnes à pied, la place sera pavée d’une manière nouvelle; la surface ex- térieure des pierres composant le payé sera la plane (actuellement ces pierres présentent surface d’un sphéroïde raboteux, humide et glissant), les côtés de ces pierres seront taillés de manière à s’unir étroitement au moyen d’un ciment indestructible, qui ne permettra pas à la glaise de s’infiltrer et de salir le pavé. Grâce à cette précaution l'on ne sera in- commodé ni par la boue, ni par la poussière. Un service spécial de propreté s’étendra de la barrière de l'Étoile à la terrasse des Tuileries. Se borner 
 à enfermer les Champs - Ély- sées dans une grille, comme semble l’annoncer le projet du conseil municipal, serait une conception inutile et mesquine. Les malfaiteurs qu'on éloignerait des ChampsÉlysées,  Se porteraient dans un tier de Paris, où ils ne seraient
 à craindre. Il serait également laisser subsister cette promenade de nudité où elle est, car on n’y même un banc pour se reposer, autre quarpas moins absurde de dans l'état trouve pas ni rien qui pe 
 (154) puisse justifier le titre de Champs - Élysées. Mon projet paraîtra peut-être trop vaste; mais son exécution contribucrait à la gloire de la France et offrirait des avantages matériels immédiats. On a calculé que, dans le quartier de la cité, sur dix enfans qui naissent à peine un seul atteint l’âge de virilité. Presque toute la partie centrale de Paris est aussi très-insalubre, et les générations sont décimées par la longue et coupable incurie du gouvernement et du conseil mun</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>54</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>porte Saint-Denis</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">e cette classe, sont d’une audace et d’une insolence insupportables. Il n’en est heureusement pas de même 
 à Londres, où l’homme comme il faut (the gentleman) jouit d’une certaine considération. Je conviens que les lois françaises, laissant aux juges une excessive latitude à l'égard de la durée de la peine à infliger,  leur jurispru- dence pourrait suppléer au silence de la loi Fa 
 (46) en faveur des personnes notables; mais cela n’a point lieu, et /e faux principe de l'égalité révolutionnaire, n'étant point authentiquement abrogé, et suppléé par une législation superordinative; toute personne qui parcourt à pied les rues de Paris est sans cesse exposée aux grossièretés d’un peuple qui passe pour le plus poli du monde ! La manière de distribuer à Londres les eaux qui servent au nettoiement de la voie publique, et qui peut être d’une grande ulilité en cas d'incendie, me paraît préférable
@@ -285,68 +323,81 @@
 à la couleur noirâtre de la pierre de taille quand elle a été long-temps exposée 
 à l'air, et surtout à la teinte sombre des ardoises dont les toits sont couverts. Les entrepreneurs de bâtimens ont aussi l'habitude de peindre les (48) k F volets et les jalousies en gris, au lieu d’employer la couleur verte, qui est plus agréable aux yeux et qui romprait la triste monotonie qu'offre l’aspect de Paris. L’usage des terrasses, couvertes en partie villon,  et ornées d’orangers par un vaste pa- et de vases de fleurs, remplacerait les toits av</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>58</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra-comique</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">a capitale de l’Angleterre, où l’on ne trouve rien de comparable au Louvre, à la Bourse et à la place Louis XV, qu'on vient cependant de défigurer, en éntassant sur le pont douze statues colossales, sur d'énormes piédestaux informes. Il est inconcevable que M. le préfet du département de la Seine, ait laissé commettre une aussi étrange bévue, signalée simultanément par tous les journaux. Puisse cette faute, qui suppose une ignorance complète des règles de la perspective, avertir le gouvernement de l'incapacité de ses architectes, et l’engager à consulter un peu le goût du public, pour ne pas sanctionner les plans les plus ridicules. Celui du théâtre de l'Opéra, dans la rue Lepelletier, est bien de ce nombre, tant à
 ’égard de l'extérieur que de l’intérieur, où [ (60) ) plus de quatre cents personnes assises sur, es second et troisième bancs des loges de côté ne peuvent pas voir la scène! Tous les théàtres qu’on a construits depuis quelques années ont les mêmes défauts. Le théâtre de l'Opéra-comique,  rue Ventadour, est sous tous les rapports également au-dessous de la critique. M. le comte Chabrol de Volvic est l'inventeur de la peinture sur pierre de lave, et l’on vient de trouver aussi les moyens de peindre sur le fer. Cette double découverte coïncide parfaitement avec mes nouvelles conceptions en matière d'architecture. Dans l’ordre de la gloire,  l’ordre des grâces et le polygine (6), mes frises ont 6, , ro fois la hauteur ordinaire, et l’on peut y placer, soit en relief, soit en peinture sur pierre ou sur métal, des tableaux monumentaux d’une grandeur et d’une magnificence dont l’antiquité ni aucun peuple de l'univers ne nous offre l'exemple. Mais notre siècle verra-t-il adopter ces brillantes innovations? Le gouvernement, composé de personnes presque toutes étrangères au culte des beaux-arts, donne sa confiance à des maçons enrichis ou à des académiciens routiniers qui, soit (51) par incapacité et manque de goût, soit par jalousie et entêtement pour le genre classique, repoussent des conceptions superbes, quisuffiraient pour immortaliser lenom d’une nation. Mesnouveaux'ordres d'architecture ont été. goûtés à Londres, particulièrement par deux célèbres architectes, M. Nash et M. Soahn; mais comme ces innovations ont plutôt un but d'agrément que d'utilité, il est douteux que les Anglais prennent l'initiative pour les adopter. C’est à Londres que j'ai proposé, il y a huit ans, l'établissement de quais flottans sur la Tamise, puisqu'il n’y a point encore: de quais dans cette capitale: les miens seraient de vastes bateaux fixés non loin du rivage, tels à peu près que les bains Vigier, mais plus élevés,  et offrant une surface plane, en partie couverte, pour la promenade et la facilité des communications
 (7). Le courant de la rivière serait un moleur
 économique ‘pour toute espèce de manufactures, moulins, imprimeries,, fabriques de couleurs, de chocolat, etc., à l'instar du ba- teau broyeur à Paris. Ces quais flottans, décorés de riches ornemens d'architectu</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>26</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="good"> pied, comme l’exigerait le soin de leur santé et de leur beauté; ensuite un cer- tain air prétentieux enlaidit leur physiononomie; car il ne faut pas se dissimuler que nos sentimens habituels, nos occupatio (18) nos pensées embellissent traits; ou défigurent nos le fait suivant ne fait que confirmer ce système. Je me trouvais au concert de mademoiselle ***; il n’était pas encore com- mencé, lorsque deux jeunes personnes de dix-huit à vingt ans, accompagnées de leur mère, se placèrent aux premières galeries. Je n'ai jamais vu de figures qui annonçassent mieux la stupidité que celle de ces deux demoiselles, dont les traits empâtés,  le visage bouffi et sans expression excilaient un murmure général. Eh bien, ces dames appartenaient à la première noblesse de France! J'appris ensuite qu’elles était d’une ignorance rare, et telle, qu'une de ces demoiselles, qui depuis nombre d’années étudiait inutilement la musique, ne savait pas même plier et cacheter une lettre! C'est dans la salle de l’Opéra italien
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
+    <snippet> pied, comme l’exigerait le soin de leur santé et de leur beauté; ensuite un cer- tain air prétentieux enlaidit leur physiononomie; car il ne faut pas se dissimuler que nos sentimens habituels, nos occupatio (18) nos pensées embellissent traits; ou défigurent nos le fait suivant ne fait que confirmer ce système. Je me trouvais au concert de mademoiselle ***; il n’était pas encore com- mencé, lorsque deux jeunes personnes de dix-huit à vingt ans, accompagnées de leur mère, se placèrent aux premières galeries. Je n'ai jamais vu de figures qui annonçassent mieux la stupidité que celle de ces deux demoiselles, dont les traits empâtés,  le visage bouffi et sans expression excilaient un murmure général. Eh bien, ces dames appartenaient à la première noblesse de France! J'appris ensuite qu’elles était d’une ignorance rare, et telle, qu'une de ces demoiselles, qui depuis nombre d’années étudiait inutilement la musique, ne savait pas même plier et cacheter une lettre! C'est dans la salle de l’Opéra italien
 (Kings Théâtre) de Londres qu'on voit une réunion admirable de jolies femmes, telle que Paris n’en a jamais offert. La salle du grand Opéra de Paris, comparée à celle de Londres, est sous ce rapport véritablement hideuse. À Londres on peut compter dans cette brillante réunion 4 à. 500 jeunes personnes de 16 à 25 ans, toutes parées, c’est-à-dire en (A0 3) cheveux et les épaules découvertes. les femmes s’empaquètent jusque sous ton, soit par une ridicule affectation destie, soit que le grand nombre de qui n’ont ni la peau blanche, ni des A Paris le mende mofemmes formes belles et bien conservées, ait fait adopter cet usageinfiniment trop pudique. D'ailleurs, on ne voit que peu de jeunes femmes à l'Opéra de Paris; de vieilles comtesses, de vieilles douairières envahissent les loges et l’amphithéâtre: les troisièmes et quatrièmes sont plei- nes de gens du bas peuple et de femmes encapuchonnées d’un vilain bonnet, tel que le portent les poissardes, leurs commères, et lissant. La statue d’un grand homme, vêtu an de cette manière, l'exposcrait à la risée de la postérité jusqu’à la dernière génération de l’espècchumaine. Qu’on enjuge par lesstatues de soldats qui sont sur l'arc de triomphe du Re er 
 | souvent tout ce beau monde entre avec des billets donnés ! I faut convenir que les Français, ni les Anglais, nila plupart des peuples de l'Europe n’ont aucun goût pour leur mise ; que le frac, la chemise et la cravate empesées et surtout lechapeaude feutre de la forme la plus bizarre, composent un costume ridicule et avi- "7 
 É 
 (20) Carrousel. Il faut que Napoléon n’ait euaucun goûtenmatière de beaux-arts, pour avoir, par ce monument, immortalisé un costume ignoble et grotesque, inventé par d’ineptes tailleurs Allemands. On doit également blâmer les modes que les femmes, en France, adoptentsi facilement pour les abandonner ensuite avec dédain: elles sont toutes également dépourvues de noblesse. Dans les siècles passés, les femmesavaientune mise plus favorable àla b</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>57</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">tage qu'ont les Anglais de C49 romantique, c'est-à-dire où la règle des trois unités ne fût pas observée. D’un autre côté, le public voulait être initié aux beautés du genre romantique. Qu’on juge de l'embarras des auteurs placés entre deux exigences opposées! Paris l'emporte de beaucoup par lenombre et la beauté de ses monumens sur la capitale de l’Angleterre, où l’on ne trouve rien de comparable au Louvre, à la Bourse et à la place Louis XV, qu'on vient cependant de défigurer, en éntassant sur le pont douze statues colossales, sur d'énormes piédestaux informes. Il est inconcevable que M. le préfet du département de la Seine, ait laissé commettre une aussi étrange bévue, signalée simultanément par tous les journaux. Puisse cette faute, qui suppose une ignorance complète des règles de la perspective, avertir le gouvernement de l'incapacité de ses architectes, et l’engager à consulter un peu le goût du public, pour ne pas sanctionner les plans les plus ridicules. Celui du théâtre de l'Opéra, dans la rue Lepelletier, est bien de ce nombre, tant à
 ’égard de l'extérieur que de l’intérieur, où [ (60) ) plus de quatre cents personnes assises sur, es second et troisième bancs des loges de côté ne peuvent pas voir la scène! Tous les théàtres qu’on a construits depuis quelques années ont les mêmes défauts. Le théâtre de l'Opéra-comique,  rue Ventadour, est sous tous les rapports également au-dessous de la critique. M. le comte Chabrol de Volvic est l'inventeur de la peinture sur pierre de lave, et l’on vient de trouver aussi les moyens de peindre sur le fer. Cette double découverte coïncide parfaitement avec mes nouvelles conceptions en matière d'architecture. Dans l’ordre de la gloire,  l’ordre des grâces et le polygine (6), mes frises ont 6, , ro fois la hauteur ordinaire, et l’on peut y placer, soit en relief, soit en peinture sur pierre ou sur métal, des tableaux monumentaux d’une grandeur et d’une magnificence dont l’antiquité ni aucun peuple de l'univers ne nous offre l'exemple. Mais notre siècle verra-t-il adopter ces brillantes innovations? Le gouvernement, composé de personnes presque toutes étrangères au culte des beaux-arts, donne sa confiance à des maçons enrichis ou à des académiciens routiniers qui, soit (51) par incapacité et manque de goût, soit par jalousie et entêtement pour le genre classique, repoussent des conceptions superbes, quisuffiraient pour immortaliser lenom d’une nation. Mesnouveaux'ordres d'architecture ont été. goûtés à Londres, particulièrement par deux célèbres architectes, M. Nash et M. Soahn; mais comme ces innovations ont plutôt un but d'agrément que d'utilité, il est douteux que les Anglais prennent l'initiative pour les adopter. C’est à Londres que j'ai proposé, il y a huit ans, l'établissement de quais flottans sur la Tamise, puisqu'il n’y a point encore: de quais dans cette capitale: les miens seraient de vastes bateaux fixés non loin du rivage, tels à peu près que les bains Vigier, mais plus élevés,  et offrant une </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>65</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">embellissemens et des améliorations,  car les rues qui entourent ce beau monument sont sales et infectes. C’est une chose singulière,  que ce soit pré- cisément chez la nation la plus sociable, chez les Français, qu’on ne trouvepoint de casino, tandis qu’il y en a dans presque toutes les villes d'Italie, d'Allemagne et même de la Suisse! Si l’on élevait à Paris, comme on le fera peut-être dans la suite, une vingtaine d’édifices élégans, contenant des salles de concert et de bal, ces lieux de réunion em- belliraient extrêmement la capitale, et ce ne serait guère qu’un casino pour quarante mille 
 âmes. Chaque casino aurait ses abonnés d’une du moins mutuelle; il faudrait convenance commencer par en élever un, malgré l’opposition que les directeurs de théâtres ne manqueraient pas d'y mettre, comme si le plaisir de la conversation, la lecture, ne devait pas k de de la danse et de la musique de (57) avoir aussi bien son temps que celui du spectacle. Malgré un jugement rendu en faveur de l'Opéra contre les petits théâtres, la per- ception qu’il s’arroge sur tout objet de curiosité, et même sur les singes danseurs. de corde et sur les animaux empaillés, me paraît déshonorante pour un 
 établissement royal, et récilement illégale, comme l’a déjà prouvé un arrêt du tribunal de Rennes, rendu dans la même espèce. Ce droit seigneurial de l'Opéra est de vingt pour cent de la recette brute d’un concert, et le droit des pauvres de vingt-cinq pour cent à prendre aussi sur la recette brute. Quant à la recette nette, ment de après le préléve- ces droits et de tous les frais, elle se monte quelquefois à moins que rien, témoin le concert du célèbre violoniste Bou- cher, exposé à voir saisir ses meubles pour avoir donné un concert à son bénéfice, c’est- 
@@ -356,33 +407,40 @@
 À Paris, nous n’avons pour ainsi dire pas de salle de concert; on paie 100 fr. pour celle de la rue de Cléry; quant aux salles des Menus-Plaisirs, qu’on obtient par une faveur spéciale dû directeur des beaux-arts, M. le vicomte de la Rochefoucauld ou de M. de la Ferté, quoique données gratuitement, elles nécessitent des dépenses multipliées, dont je pourrais offrir ici le détail le plus minutieux. Pourquoi des l'Opéra et l'administration hospices exigent-ils un droit beaucoup plus
 élevé sur les concerts que sur les représentations théâtrales? le nombre des amateurs n’est déjà que trop circonscrit. En</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>67</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">s Haydn, les Beethoven et les Weber. Les Français, qui pendant long-temps n’ont point voulu connaître d’autres ouvrages dramatiques que leurstragédies et comédies classiques, sont également exclusifs en matière de danse. La valse, qui s’était presque naturalisée chez eux, est maintenant repoussée comme immorale, tandis qu’elle est née chez les Al- lemands et les Suisses, où les mœurs étaient alors très-pures. Onne danse guère à Paris que la contredanse, qui n’offre aucuns développemens à la taille ni aux grâces. Rien n’est plus monotone,  tant sous le rapport de la danse que sous celui de la musique. La valse, la russe,  les différentes espèces d’allemandes bernoiïses, fribourgeoïises,  les danses an- glaises, espagnoles et italiennes rendraient,  par la variété des airs et des pas,  un bal infiniment plus gai et plus piquant que celui où l’on danse pendant toute une nuit sur la même mesure 274 et avec le même mouvement in- variable. Tout le monde sait qu’on ne danse pas aux bals de l'Opéra; on se borne à se promener (Go) dans Ja salle et dans le foyer,  ce qui n'est pas fort agréable pour les amateurs de la danse. Les femmes sont en dominos noirs, et mas- quées; autre désappointement pour les hommes qui désireraient voir de jolies figures et des tailles bien faites. On prétend que les femmes honnêtes n’oseraient pas se montrer sans masques; mais, depuis nombres d’an- nées, il n’y a dans ces réunions que des femmes galantes. En supposant qu’on ne dût pas renoncer entièrement à cet usage bizarre et suranné, le directeur de l'Opéra pourrait au moins essayer de donner quelques bals où tous les hommes,  ainsi que les femmes, seraient déguisés, et non point en dominos, et où l’on danserait sans masques. Ceci produirait un effet très-brillant et pittoresque, tandis que la vue d’un bal masqué de l’Opéra a quelque chose d’extrêmement lugubre (8). Des masques au costume des prêtres la transition est brusque; mais je ne me pique pas ici d'écrire méthodiquement. Ce costume, en Angleterre ni en France, n’a rien de no- ble ni d’imposant. Les ornemens dont les prêtres catholiques sont revêtus quand ils officient sont du plus nai be. mauvais goût, C6r) 
 à commencer par la calotte qui les distingue. Un accoutremeut si bizarre n’est point propre à inspirer le respect. Les religieuses, vêtues de noir avec une béguine de toile blanche empesée, auraientelles choisi cette étrange coiffure pour ne point attirer les regards profanes ? C’est une précaution superflue : je n’en ai jamais vu de jolies et dont la physionomie portât cette empreinte de douceur et de quiétude céleste qui devraient les caractériser. En Angleterre les couvens de femmes, non plus que les congrégations risés, d'hommes, ne sont et ce serait adopter une point auto- des innova- tions les plus utiles de la révolution, que de les prohiber, du moins pour toute femme qui n'aurait pas atteint sa trentième année. Tous les pays encombrés de couvens sont plongés dans l’abrutissement et la misère. Observons que </snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>87</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad"> l'ai fait observer quelque part, les songes sont undes moyens dont la Divinitéa voulu se servir pour nous montrer combien toutes ces sensations, cescraintes, ces espérances qui agi- tent notre vie on tpeu de durée et de réalité. Mon intention n’est point de faire ici la critique méthodique et raisonnée de la cons-. titution actuelle de la France, constitution que de nouvelles lois modifient, au reste, chaque année; ce serait un cadre assez vaste pour exiger un ouvrage spécial ; il me suffira de faire quelques remarques sur un petit nombre d’articles de la Charte. Je concois qu’en Angleterre, où presque toutes les familles riches passent la moitié de (79 ) l'année à la campagne, cette aristocratie nobiliaire et pécuniaire,  n’ait pas voulu faire le sacrifice de son goût pour la chasse,  pour ses chiens et pour ses chevaux, en faveur d’une représentation nationale non* interrompue. D'ailleurs, le séjour de Londres est dispendieux, et l’on économise à la campagne de quoi avoir loge à l'Opéra. En France l’intérêt personnel des députés, qui les rappelle dans leurs départemens,  et peut-être la crainte
 ‘qu'a pu avoir le roi législateur, qu’une représentation permanente, ne portât atteinte aux droits et même à l'existence de la royauté, ont également limité à six mois environ la durée de chaque session. Néanmoins, cette représentation intermittente est excessivement imparfaite, et ne laisse à ses membres que le rôle de correcteurs de quelques lois tracées à la hâte. La politesse française de- manderait du moins qu’en attribuant au peuple le droit de voter le budget, on publiât annuellement le détail de l'emploi des fonds du service précédent avec la copie des pièces justificatives,  puisqu’il est maintenant notoire que la cour des comptes n'offre qu’une garantie incomplète. J'ai publié, il y a quelques années, une bro- ( 80.) chure intitulée Trisection de la chambre des députés, imprimée chez Moreau, dont je n’ai pu retrouver aucun exemplaire, Elle renfermait un projet de représentation plus régulier et plus complet que celui que nous possédons ; je demandais alors que le nombre des députés fût porté à 5oo, et il l’a été, en effet, depuis lors. s
 * Je distinguais d’abord: 1° Les simples députés, chargés de représenter les intérêts et d’exposer les griefs de leurs départemens respectifs, sans cependant leur interdire les motions d’un intérêt général. C’est après l'exercice de ces fonctions qu'ils auraient été susceptibles d’être nommés à celles de représentans de la nation.
@@ -391,36 +449,43 @@ y royaume. 3° Le corps législatif, dont on ne pourrait
 être membre qu'après avoir fait une espèce (8) 
 + d'apprentissage, en résidant pen</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>142</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">L’assainissement successif de Paris nous promet une foule de jolies Parisiennes brillantes de fraîcheur et d’ingénuité..…. pour l’an 1840. La langue française est très-pauvre; elle ne se prête point aux inversions, elle est rarement imitative. On ne pourrait, sans être accusé de néologisme,  faire dériver d’un mot tous ceux dont on a besoin pour éviter une périphrase. A ces défauts irrémédiables, et à bien d’autres imperfections, ajoutez « ces syllabes infâmes dont on vient faire insulte à la pudeur des femmes. » Je ne sais si l’habitude des auteurs classiques français a trop d’empire sur moi, mais tous les efforts des romantiques, pour rendre notre poésie moins bornée dans ses moyens de peinture et d'expression,  me semblent paesque infructueux. On pourrait aisément,  ainsi que je l’ai proposé, former une langue Be..." (134) universelle, régulière, harmonieuse, imitative, philosophique,  et tellement riche, qu’elle serait, à l'égard de la langue française, ce qu’est l'orchestre de l'Opéra à la petite flûte criarde qui domine dans les pièces de Rossini. Il faudrait, pour réaliser ce projet appeler,
 à une réunion centrale en Europe, dessavans, des philosophes, des moralistes, des poètes, des musiciens, des philologues, etc., de toutes les parties du monde civilisé ; mais les sou- Al yerains nesavent réunirdes milliers d'hommes que pour les forcer à s’entrégorger. J'ai tenté, il y a douze ans, d'enrichir la poésie française, en proposant de nouveaux rythmes, et la littérature dramatique par un nouveau genre de spectacle intitulé poly- drame (plusieurs actions). Je voulais que dans un ouvrage, peut-être moins régulier, mais plus varié qu’un des chefs-d'œuvre de Racine; le poète eût la liberté de descendre jusqu’au ton de la comédie; que l'emploi de la prose ou des vers et de rythmes inusités fût entièrement facultatif et soumis aux règles du goût, qui veut qu’un personnage s'exprime d’une manière convenable à sa position so- ciale et à son caractère. , de l’opéra ennuic mortellement Le récitatif ke ra 
 “k pere rene
 (1195 
 ) le public, qui, en France, n’est point mélo- mane. L'accompagnement de quatre-vingts instrumens étouffe la voix des chanteurs, et les spectateursne comprennent rien à la pièce, qui éblouit leurs yeux et déchire souvent leurs oreilles. Le polydrame, imitation de la nature, n’eût point offert ces inconvéniens, puisque les tragédiens auraient parlé sans accompagnement; mais on n’y aurait pas remarqué la triste nudité du théâtre français. Une ouverture, des marches guerrières ou funèbres, des chœurs, des danses, des changemens à vue, des combats, des incendies, des songes, des visions, des apothéoses auraient charmé les sens et l'imagination des spectateurs, qui, lorsqu'ils savent lire, n’ont nul besoin d'aller au théâtre pour jouir des chefs-d'œuvre de Voltaire etde Corneille, énlaïdisparde jeunes premières d’un demi-siècle. A moins d’unir accidentellement le grand Opéra et les Français, aucun théâtre à Paris ne possédait la réunion d'</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>156</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">t, un et qui 
 était écrit en partie en prose sans hiatus, en partie en vers blancs de différentes mesures. C’est un usage qu'on pourrait fort bien introduire dans le drame et dans le mélodrame. L’enjagbement dont quelques auteurs abu- 4 sent est quelquefois nécessaire pour donner du naturel au dialogue : il est même indis- pensable quand il faut peindre le désordre et des mouvemens inattendus; mais il faut que le goût en dirige l'emploi. Il paraît qu'à Londres comme à Paris les théâtres sont en proie à l’avidité des intrigans ct des monopoleurs. Il est fâcheux pour la gloire nationale, pour les plaisirs du public 
 | 
@@ -431,18 +496,21 @@ y royaume. 3° Le corps législatif, dont on ne pourrait
 étages au-dessus du sol sont couvertes par &amp; 
 (150) des terrasses ornées d’arbustes, de fleurs et de statues,</snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>170</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Opéra</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">s pompes à mouvement de rolation, qui, entre autres avantages,  ont celui de ne faire aucun bruit.
 (4) Page 24. Ce théâtre a été*consumé dernièremtnt par un incendie.
 {5) Page 27. Le Palais-Royal,  que de nouveaux embellissemens rendent chaque jour plus digne de son nom, est enfin délivré de la présence des filles publiques.
@@ -458,18 +526,22 @@ y royaume. 3° Le corps législatif, dont on ne pourrait
 % que de considérer la lettre de change comme formant, es- sentiellement et toujours,  un acte de commerce, et cette erreur est si palpable qu'il paraît superflu de la combattre. La leitre de change est le moyen le plus simple et le plus expéditif qui puisse s'offrir à tout particulier, même non négociant, de disposer des fonds qu'ila, ou qu'il croit avoir, dans une ville autre que celle qu’il habite. La Cour royale a bien senti cette vérité, lorsqu’à l’occasion d’une lettre de change de madame la duchesse d’Aumont; elle s'est informée si cette lettre de change n’était qu’un acte isolé, où s’il y avait une continuité de pareils actes, formant une espèce de spéculation ou de circulation commer-, ciale.
 À Lorsque la contrainte par corps en matière commerciale aura été modifiée et sanctionnée légalement, même contre les non négocians,  il sera nécessaire de changer l'article du Code civil, qui s'oppose actuellement, mais de droit seulement, et non de fait; à l'exercice de cette contrainte. La jurisprudence du tribunal de commerce est encore vicieuse,  en ce que jamais il n’autorise le débiteur à fournir la preuve que,  dans sa lettre de change ou son acceptation, il y a supposition de date on de personnes,  ce qui réduirait, d’après le Code de commerce,  l'acte à une simple © promesse, n’entrainan</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>169</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>rue de la Paix</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">isser Paris s'étendre de tous côtés d’une manière mes- F quine et irrégulière. Il résulterait de grands avantages de ces brillantes constructions, qui contribueraient
 à attirer les étrangers à Paris. Le nouveau pavé dont je propose la formation, l’éclairage par le gaz, le service de propreté, seraient bientôt généralement adoptés dans la capitale du peuple le plus imitateur de la terre. FIN: 
 y
@@ -490,18 +562,21 @@ $
 (8) Page 60. Depuis que j'ai écrit ceci, S. À. R. Ma- dame, ‘duchesse de Berry, et, à son exemple, d’autres personnes de la cour, ont donné des bals déguisés et non masqués d'un effet magnifique. On pourrait aussi donner
 à l'Opéra des bals parés, qui attireraient la foule : pour s’en a été donné l'hiver dernier assurer, il suffit de citer celui qui sous les auspices de S. A. R, le duc de Chartres pour </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>15</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Vivienne</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="good">tration municipale et le gouvernement sont restés
 étrangers à cet heureux mouvement. Jamais un député de Paris n’a songé à proposer à la chambre quelques mesures pour l’assainissement de la ville, dont il était obligé de pro- téger les intérêts. On sait que le pavé de Paris, jadis établi, sans doute, par l’homme le plus inepte du royaume, est composé de pierres d'environ neuf pouces de côté, et d’une surface con- vexe, presque toujours couverte de glaise humide. C'est une espèce de supplice que de marcher sur cet amas de cailloux raboteux, et de glisser continuellement, au risque de tomber et d’être écrasé sous les voitures. Ou lon doit, comme en Angleterre, adopter l’usage de la mac-adamisation, qui offre cependant quelques inconvéniens,  ou Paris doit
 être pavé de pierres d’une surface plane, l
@@ -512,49 +587,60 @@ $
 és que pas, et de suspendre sa respiration, pour n'être pas incommodé par des miasmes pestilentiels et par la vue d’un vaste cloaque! Ll faudrait que les personnes qui composent la haute administration municipale, que C9) M. le préfet de police et les agens qui sont la salubrité dans chargés sous lui d'entretenir Paris, allassent étudier et admirer à Londres la propreté de cette immense cité, et qu'ils en ramenassent un certain nombre d'hommes dont les fonctions seraient d'établir à Paris les mêmes moyens de propreté et de salubrité qu’on emploie à Londres. Ne vaudrait-il pasmieux envoyer aussi des jeunes gens étudier cet art important, que de les entretenir à Rome, dont tous les monumens nous sont parfaitement connus? Au reste, loin de blà- mer les études qu’on fait faire à de jeunes ar Listes à Rome, je voudrais que les architectes, pour être autorisés à exercer leur art à Paris, fussent obligés de prouver qu'ils ont voyagé en Italie et en Angleterre. Quoique les maisons de Londres soient peu 
 élevées et non moins inég</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>57</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>place Louis XV</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad"> les constructions. Les architectes français s’attachent aussi exclusivement aux ordres grecs, que s'ils
 étaient d'invention française. Il en est de cela comme de la littérature. Tous les académiciens membres des jurys de lecture étant des classiques, pendant nombre d’années ils n’ont voulu laisser admettre aucune pièce de: 
 | vards. Il n’est guère de maisons dans Paris qui soient autre chose que des murs percés de trous pour les portes et fenêtres; à Londres, ontrouve un grand nombre d'habitations qui ont quelques ornemens d'architecture, et, malgré le désavantage qu'ont les Anglais de C49 romantique, c'est-à-dire où la règle des trois unités ne fût pas observée. D’un autre côté, le public voulait être initié aux beautés du genre romantique. Qu’on juge de l'embarras des auteurs placés entre deux exigences opposées! Paris l'emporte de beaucoup par lenombre et la beauté de ses monumens sur la capitale de l’Angleterre, où l’on ne trouve rien de comparable au Louvre, à la Bourse et à la place Louis XV, qu'on vient cependant de défigurer, en éntassant sur le pont douze statues colossales, sur d'énormes piédestaux informes. Il est inconcevable que M. le préfet du département de la Seine, ait laissé commettre une aussi étrange bévue, signalée simultanément par tous les journaux. Puisse cette faute, qui suppose une ignorance complète des règles de la perspective, avertir le gouvernement de l'incapacité de ses architectes, et l’engager à consulter un peu le goût du public, pour ne pas sanctionner les plans les plus ridicules. Celui du théâtre de l'Opéra, dans la rue Lepelletier, est bien de ce nombre, tant à
 ’égard de l'extérieur que de l’intérieur, où [ (60) ) plus de quatre cents personnes assises sur, es second et troisième bancs des loges de côté ne peuvent pas voir la scène! Tous les théàtres qu’on a construits depuis quelques années ont les mêmes défauts. Le théâtre de l'Opéra-comique,  rue Ventadour, est sous tous les rapports également au-dessous de la critique. M. le comte Chabrol de Volvic est l'inventeur de la peinture sur pierre de lave, et l’on vient de trouver aussi les moyens de peindre sur le fer. Cette double découverte coïncide parfaitement avec mes nouvelles conceptions en matière d'architecture. Dans l’ordre de la gloire,  l’ordre des grâces et le polygine (6), mes frises ont 6, , ro fois la hauteur ordinaire, et l’on peut y placer, soit en relief, soit en peinture sur pierre ou sur métal, des tableaux monumentaux d’une grandeur et d’une magnificence dont l’antiquité ni aucun peuple de l'univers ne nous offre l'exemple. Mais notre siècle verra-t-il adopter ces brillantes innovations? Le gouvernement, composé de personnes presque toutes étrangères au culte des beaux-arts, donne sa confiance à des maçons enrichis ou à des académiciens routiniers qui, soit (51) par incapacité et manque de goût, soit par jalousie et entêtement pour le genre classique, repoussent des conceptions superbes, quisuffiraient pour immortaliser lenom d’une nation. Mesnouvea</snippet>
   </match>
+
+
+
   <match>
-    <uid/>
-    <place_name/>
+    <uid>Tissot_1830_bpt6k6464072j_CL_02</uid>
+    <place_name>Jardin des Tuileries</place_name>
+    <place_name>Rue de Rivoli</place_name>
     <pdf_page_number>158</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
-    <doc_page_number/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
+    <doc_page_number>152</doc_page_number>
     <matching_term>obélisque</matching_term>
-    <cleaner_name/>
-    <date_added/>
-    <snippet classifier_result="bad">t respirer un air pur. On n’emploie que la pierre, les métaux, la brique et desmatériaux incombustibles pour la construction de ces maisons. On pourra avoir pour monter et descendre des machines mues par la vapeur ou par des moyens mécaniques. Tous les appartemens d’une maison, eût-elle soixante locataires, seront chauffés simulta- nément par des calorifères à un degré réglé par lethermomètre. Les escaliers et vestibules seront aussi chauffés de cette manière, ainsi qu’on le voit à l’Académie royale de musique. Il y aura devant chaque maison un pont pour traverser la rue basse, Les galeries couvertes continueront leur cours, après s'être croisées, par dessus la rue basse au moyen de ponts en chaînes, en fil de fer ou autres. Il conviendra de varier la forme des mai- sons et d'employer, suivant les quartiers, différens ordres d’architecture, et même ceux qui, tels que l'architecture gothique, turque, pren chinoise, égyptienne, birmane, etc., ne sont point classiques. Les fontaines, les obélisques, les pyrami- Cuba D des, les salles de spectacle, de concert, de bal, les casino, les temples pour les diffé- rentes religions,  les musées, seront toujours assez éloignés des autres constructions pour produire le plus bel effet possible. Les loyers de la ville centrale seront néressairement chers, mais il faut considérer quelles économies feront ceux qui l’habiteront. On peut estimer que chaque individu, n'ayant pas équipage, économisera par année 200 fr., qu’il aurait dépensés dé plus en habillemens, chaussure, voitures, etc., s’il avait vécu dans une ville comme Paris, où les cochers de fiacresemblent avoir faitavec l’ancienne police un pacte pour la conservation de la boue. Ce serait donc environ 600 fr. par an d'économie par ménage. C’est au propriétaire de la maison qu’on paierait cet excédent, pour se trouver assuré matériellement contre l'incendie, contre le chaud et le froid, contre les voitures et les chevaux, contre la boue et la poussière, et généralement contre l’insalubrité, les maladies et les cruels accidens qui résultent de l’imperfection des villes actuelles. Si l’on observe combien ma nouvelle ma- (aa) nière de construire les villes y diminucra la mortalité; il faudra ajouter aux considérations qui précèdent l'avantage de vivre pour les uns et celui de vivre plus long-temps, et mieux portant pour les autres, qui, pour tous, est inappréciable (25). PROJET ET D'UTILISATION D'EMBELLISSEMENT POUR LA PLACE LOUIS XVI ET LES CHAMPS-ÉLYSÉES. Je propose d’abord la suppression des fossés ou jardins potagers qui déparent etrétrécissent la place Louis XVI. De belles fontaines, sans absorber autant de terrain, produiront un bien meilleur effet. Le jardin des Tuileries, n'étant défendu que par une terrasse le long du quai, et du côtéde larue de Rivoli que par une grille, les fossés, qui ne protègent que laterrasse donnant sur la place Louis XVI, sont d’une inutilité complète. Cette terrasse devra être ornée de statues et de vases de fleurs, et subir quelque</snippet>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
+    <snippet confirmed="yes">Le jardin des Tuileries, n'étant défendu que par une terrasse le long du quai, et du côté de la rue de Rivoli que par une grille, les fossés, qui ne protègent que la terrasse donnant sur la place Louis XVI, sont  d’une inutilité complète. </snippet>
   </match>
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>164</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>place Louis XV</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">nes ou pilastres, afin de ne pas gêner la circulation de la foule : d’ailleurs elles seraient assez éloignées les unes des autres pour que les Champs-Élysées fussent toujours une promenade. On pourrait, non loin de la Seine, 
 élever une montagne artificielle surmontée d’un belvédère, embellie par une cascade, des grottes, un châlet suisse, etc., etc.; on y placerait un observatoire public, moyennant une rétribution, et auquel se- (156 
 ) raient attachés des professeurs d'astronomie. Les maisons de plaisance seraient, autant que le genre d’architecture le permettrait, surmontées de terrasses ornées de vases de fleurs, de statues, de rotondes et de belvédères; elle seraient entourées de jardins an- glais, de fontaines, etc. Des candelabres, en partie dorés et rap- prochés les uns des autres, éclaireraient, par le gaz, la place de Louis XVI et toute l’ayenue des Champs-Élysées. Je voudrais qu’on élevât à l'entrée des Champs- Élysées deux édifices faisant face aux Tuileries et bordant la place Louis XVI, qui actuellement est mal encadrée (26). Il faudrait qu'ils fussent en harmonie avec le Garde-Meuble, mais d’une architecture plus légère. On pourrait, si l’on adoptait mes frises, y placer des tableaux monumentaux de 25 à 30 pieds de haut sur 60 à 80 de long, soit en pierre de lave peinte, soit en métal peint, soit en relief. Dansles constructions des Champs-Élysées, des emplacemens seraient réservés pour les cafés, les restaurans et le commerce de dé- tail, sans lequel un vivant. quartier n’est jamais ñ 
@@ -562,36 +648,42 @@ $
 égalant ou surpassant en hauteur celle de la colonne de la place Vendôme; mais d’une forme plus gracieuse,  et dont l’une supporterait la statue de la Religion et l’autre celle de la Clémence. Deux colonnes torses, en partie dorées, feraient un superbe effet. Je voudrais établir dans le voisinage de la grande porte des Tuileries, et de préférence TERRE 
 (158) dans le jardin, deux vastes rotondes vitrées, l’une contenant un double et magnifique escalier monumental, et l’autre une espèce de montagne russe, afin de descendre dans une superbe galerie souterraine qui auraient quelque ressemblance avec les temples que les Indous creusent dans les montagnes. Cette ga</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>166</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>place Louis XV</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">mens que la place Louis X VI serait susceptible de recevoir,  je pense qu’on pourrait y ajouter deux colonnes monumentales,
 égalant ou surpassant en hauteur celle de la colonne de la place Vendôme; mais d’une forme plus gracieuse,  et dont l’une supporterait la statue de la Religion et l’autre celle de la Clémence. Deux colonnes torses, en partie dorées, feraient un superbe effet. Je voudrais établir dans le voisinage de la grande porte des Tuileries, et de préférence TERRE 
 (158) dans le jardin, deux vastes rotondes vitrées, l’une contenant un double et magnifique escalier monumental, et l’autre une espèce de montagne russe, afin de descendre dans une superbe galerie souterraine qui auraient quelque ressemblance avec les temples que les Indous creusent dans les montagnes. Cette galerie aurait 6o pieds de large, la partie centrale en aurait 28, et serait soutenue par une double rangée de colonnes massives telles qu’on en voit chez les Indous. Cette galerie souterraine traverserait la place Louis XVI comme celle de M. Brunel traverse la Tamise, mais elle serait d’un style bien plus noble, ornée de bas-reliefs, revêtue de pierre de lave peinte ou de métaux peints; elle conduirait aussi au casino, dont les salles seraient assez vastes pour sereir à l'exposition des produits de l'industrie (27). Il ya long-temps que j'ai formé le projet d’un édifice d’un genre neuf, mais très-simple, etdestiné aux concerts. Il s'agirait d’une sphère de 80 à 100 pieds de diamètre, dont une moitié serait enfoncée dans la terre et l’autre s’é- leverait au-dessus du sol, sans parler des par- ties accessoires qui conduiraient dans ce vaste globe, pourvu de loges et de gradins. L’or- C159) chestre serait placé dans la partie centrale la plus basse. Je crois que ce globe, tout resplendissant de l'éclat des lumières et réunissant une brillante société, offrirait un spectacle unique et que la musique devrait y faire le plus bel effet. Il est certain que le conseil municipal refuserait d'avancer 80 à r00 millions pour des constructions dans les Champs-Élysées ; mais si la ville accordait de grands avantages et une certaine somme pour couvrir les dépenses de pur embellissement à une société de capitalistes, ce projet serait peut-être réa- lisable. Il faudrait que cette société obtint la con: cession à perpétuité des terrains où s’éleveraient les constructions, l'exemption des contributions pendant un siècle, des licences pour l'entrée des fers étrangers destinés à ces
 édifices incombustibles et l’exemption pen- dant un nombre d’années des ‘droits d’octroi. La gloire d’une nation, et quelquefois sa conservation, dépendent en partie de la grandeur de sa capitale, et le gouvernement ne doit rien négliger pour étendre les limites ct la pofulation de Paris: or, il vaut infini- = 
 (166) ment mieux y procéder en faisant construire un quartier magnifique et digne du voisinage du séjour de nos rois que de laisser Paris s'étendre de tous côtés d’une manière mes- F quine et irrégulière. Il résultera</snippet>
   </match>
+
+
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>181</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>place Louis XV</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad"># l'assainissement de Paris, successivement reconstruit d manière moins dangereuse et moins désagréable pour ses habitans. Une partie de ce fonds serait consacrée à donner des secours et de larges indemnités aux personnes ou familles victimes d’accidens causés par la rapidité des voitures; des inspesteurs de la voie publique seraient chargés de modérer, en vertu de réglemens sévères, cette dangereuse vitesse, et l'administration du fonds mentionné prendrait fait et cause pour plaider contre les auteurs de funestes accidens,  qui ont l’impudeur,  après ay mutilé un homme 
 +4 sous les roues de leur char, de le réduire au désespoir par les longueurs, les inquiétudes et les frais d’un procès.
 (26) Page 156. La trop grande élévation du pont Louis XVI fait que, depuis le centre de la place,  on aper- 
@@ -620,18 +712,20 @@ $
 + 
 " Es de IV et aut</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>187</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>place Louis XV</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad"> le produità à des RSS d'utilité A publique.
 + Nécessité d’une loi contre les personnes qui usent 
 £
@@ -653,39 +747,45 @@ $
 à - U d : I C
 “ </snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>161</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Étoile</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad"> par une grille, les fossés, qui ne protègent que laterrasse donnant sur la place Louis XVI, sont d’une inutilité complète. Cette terrasse devra être ornée de statues et de vases de fleurs, et subir quelques changemen qui rendront la clôture des jardins de ce côlé aussi parfaite qu’elle l’est du côté du quai, de manière à encadrer la place Ca55 3 Louis XVI mieux qu’elle ne l’est actuellement, Abstraction faite des espaces et trottoirs réservés aux personnes à pied, la place sera pavée d’une manière nouvelle; la surface ex- térieure des pierres composant le payé sera la plane (actuellement ces pierres présentent surface d’un sphéroïde raboteux, humide et glissant), les côtés de ces pierres seront taillés de manière à s’unir étroitement au moyen d’un ciment indestructible, qui ne permettra pas à la glaise de s’infiltrer et de salir le pavé. Grâce à cette précaution l'on ne sera in- commodé ni par la boue, ni par la poussière. Un service spécial de propreté s’étendra de la barrière de l'Étoile à la terrasse des Tuileries. Se borner 
 à enfermer les Champs - Ély- sées dans une grille, comme semble l’annoncer le projet du conseil municipal, serait une conception inutile et mesquine. Les malfaiteurs qu'on éloignerait des ChampsÉlysées,  Se porteraient dans un tier de Paris, où ils ne seraient
 à craindre. Il serait également laisser subsister cette promenade de nudité où elle est, car on n’y même un banc pour se reposer, autre quarpas moins absurde de dans l'état trouve pas ni rien qui pe 
 (154) puisse justifier le titre de Champs - Élysées. Mon projet paraîtra peut-être trop vaste; mais son exécution contribucrait à la gloire de la France et offrirait des avantages matériels immédiats. On a calculé que, dans le quartier de la cité, sur dix enfans qui naissent à peine un seul atteint l’âge de virilité. Presque toute la partie centrale de Paris est aussi très-insalubre, et les générations sont décimées par la longue et coupable incurie du gouvernement et du conseil municipal. En attendant la reconstruction successive de tout le vieux Paris, l'humanité et l'intérêt véritable du gouvernement commandent d'attirer hors de ces repaires infects la plus grande partie possible de la population,  qui peut-être ne connaît pas l'influence morbifique de l'atmosphère pestilentielle où elle languit et meurt prématurément. Mon intention serait donc, non point de changer en une ville nouvelle les ChampsÉlysées ;mais, en continuant de les consacrer à la promenade, aux jeux et aux fêtes publiques, d'y élever, à des distances prédéterminées, une série de maisons de plaisance de l’archi- tecture la plus variée et la plus pittoresque. (265: ) Une double colonnade,  partant de l’entrée des Champs-Élysées et aboutissant à la barrièrede l'Étoile, aprèsavoir dessiné des circus, ou places circulaires,  garantirait les promeneurs et les gens de la campagne de l’ardeur du soleil, de la pluie et des intempéries des saisons. La partie supérieure de la galerie servirait
 également à la pro</snippet>
   </match>
+
+
   <match>
     <uid/>
     <place_name/>
     <pdf_page_number>165</pdf_page_number>
     <file_name>Tissot_1830_bpt6k6464072j_CL.txt</file_name>
-    <docAuthor/>
-    <docTitle/>
-    <docDate/>
+    <docAuthor>Amédée de Tissot</docAuthor>
+    <docTitle>Paris et Londres comparés</docTitle>
+    <docDate>1830</docDate>
     <doc_page_number/>
     <matching_term>Vendôme</matching_term>
-    <cleaner_name/>
-    <date_added/>
+    <cleaner_name>SL</cleaner_name>
+    <date_added>20210722</date_added>
     <snippet classifier_result="bad">t réservés pour les cafés, les restaurans et le commerce de dé- tail, sans lequel un vivant. quartier n’est jamais ñ 
 (157) Je crois que tout ce que j'ai proposé jus+ qu'ici ne paraîtrait pas inadmissible; mais voici une partie de mon plan qui rencontrey rait une forte opposition. Les deux superbes édifices que je viens de mentionner seraient /e casino de Paris, et ses salles devraient: pouvoir contenir cinq à six mille personnes. Il y aurait salle de concert, salle de bal, salle de banquet, salle de comédie, salons pour la lecture et la conversation. c’est un établissement qui manque tout à fait à Paris, tandis que de petites villes de l'Italie, de l'Allemagne et de la Suisse réu- nissent assez d'abonnés pour soutenir de pareils établissemens. F Sans entrer ici dans le détail de tous les embellissemens que la place Louis X VI serait susceptible de recevoir,  je pense qu’on pourrait y ajouter deux colonnes monumentales,
 égalant ou surpassant en hauteur celle de la colonne de la place Vendôme; mais d’une forme plus gracieuse,  et dont l’une supporterait la statue de la Religion et l’autre celle de la Clémence. Deux colonnes torses, en partie dorées, feraient un superbe effet. Je voudrais établir dans le voisinage de la grande porte des Tuileries, et de préférence TERRE 
 (158) dans le jardin, deux vastes rotondes vitrées, l’une contenant un double et magnifique escalier monumental, et l’autre une espèce de montagne russe, afin de descendre dans une superbe galerie souterraine qui auraient quelque ressemblance avec les temples que les Indous creusent dans les montagnes. Cette galerie aurait 6o pieds de large, la partie centrale en aurait 28, et serait soutenue par une double rangée de colonnes massives telles qu’on en voit chez les Indous. Cette galerie souterraine traverserait la place Louis XVI comme celle de M. Brunel traverse la Tamise, mais elle serait d’un style bien plus noble, ornée de bas-reliefs, revêtue de pierre de lave peinte ou de métaux peints; elle conduirait aussi au casino, dont les salles seraient assez vastes pour sereir à l'exposition des produits de l'industrie (27). Il ya long-temps que j'ai formé le projet d’un édifice d’un genre neuf, mais très-simple, etdestiné aux concerts. Il s'agirait d’une sphère de 80 à 100 pieds de diamètre, dont une moitié serait enfoncée dans la terre et l’autre s’é- leverait au-dessus du sol, sans parler des par- ties accessoires qui conduiraient dans ce vaste globe, pourvu de loges et de gradins. L’or- C159) chestre serait placé dans la partie centrale la plus basse. Je crois que ce globe, tout resplendissant de l'éclat des lumières et réunissant une brillante société, offrirait un spectacle unique et que la musique devrait y faire le plus bel effet. Il est certain que le conseil municipal refuserait d'avancer 80 à r00 millions pour des constructions dans les Champs-Élysées ; mais si la ville accordait de grands avantages et une certaine somme pour couvrir les dépenses de pur embellissement à une soci</snippet>
   </match>
+
+
 </matches_and_snippets>
