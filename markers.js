@@ -1,0 +1,10558 @@
+var markers = [
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 1,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_02",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "115-16",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Notre-Dame offre une masse imposante dont les détails sont à juste titre admirés des archéologues : elle a la forme d’une croix latine. Sa façade, large de 40 mètres, est flanquée de deux tours carrées, sentinelles vigilantes qui semblent veiller sur la ville. A l'intérieur, l'étranger doit admirer la beauté de l'abside, la délicatesse des rosaces et des sculptures, ainsi que les précieux vitraux qui ornent les ogives. \nDu haut des tours il pourra contempler le magnifique panorama de Paris.\nCet immense amas de maisons, dont le nombre s'élève à plus de 35,000, forme 1,250 rues, 120 ruelles, 125 impasses ou culs-de-sac, 138 passages, et 90 places publiques; on y compte 14, 00 boutiques, 800 hôtels garnis, 12 palais, 560 hôtels particuliers, 8 halles, 35 marchés, 100 fontaines et 600 bornes-fontaines; parmi les édifices qui s'élèvent cà et là du milieu des habitations, on remarque 80 théâtres, 12 prisons et 45 casernes. Sur les boulevards neufs, qui forment l'enceinte extérieure de Paris, on aperçoit 55 barrières (38 sur la rive droite, 17 sur la rive gauche), qui toutes sont construites sur un modèle différent, et dont plusieurs ne sont point achevées. Dans d'intérieur règne, depuis l’ancien fossé de la Bastille jusqu’au temple de la Madeleine, une suite de 19 boulevards qui, par leur largeur et l'élégance des habitations qui les bordent, font l’admiration des étrangers. Le fleuve, qui, traversant la ville de lorient à l'occident, la partage en deux portions inégales, est bordé par 36 quais et 18 ports, et traversé par 22 ponts, dont les plus remarquables sont le pont d’Austerlitz, le pont Neuf, admirablement restauré, le pont des Saints-Pères et le pont d’Iéna. A ce nombre il nous faudra bientôt ajouter le pont d’Alma. Tel est le tableau que le spectateur voit se\ndérouler devant lui."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 2,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "113-14",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "un des plus beaux spectacles que la fortune réserve au voyageur. C'est là, en effet, que s'élève l’église métropolitaine de Notre-Dame de Paris, dont le pape Alexandre III posa la première pierre, en 1161. Deux ans après, Maurice de Sully, évêque de Paris, en commença la construction, et c’est sous Philippe-Auguste que l'autel en fut consacré par un légat du saint-siége. Immense édifice qui ne pouvait être l'œuvre que de plusieurs siècles réunis, alors surtout que les fléaux, les guerres, la faiblesse du gouvernement, paralysaient ou ralentissaient tous les travaux. On suppose que le chevet de l'église était seul construit alors. En 1257, le portail méridional n’existait pas encore, quoique la construction en fût alors conmimencée par Jean de Chelles. Le portail septentrional ne fut bâti que vers 1312 avec les richesses enlevées aux Templiers, et au quinzième siècle Charles VII était encore obligé de donner des secours considérables pour achever cet édifice. Ainsi s’est élevé lentement cette magnifique cathédrale qui porte le cachet des divers âges de l'architecture ogivale, depuis la simplicité austère du début jusqu'à la riche ornementation de la fin; monument dont Victor Hugo a en quelque sorte exprimé toute la poésie dans son beau roman de Notre-Dame de Paris. On a réparé avec beaucoup de soin cette belle création gothique et l’en a tenté de lui à restituer son aspect du treizième siècle. La plupart des réparations y ont été faites avec une louable intelligence de l'architecture du temps passé."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 3,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Fournel_1865_bpt6k1018901_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "296-7",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Notre-Dame vit toujours: on l'a même restaurée avec un respect pieux, sur lequel nous ne sommes pas blasés, et que nous apprécions d'autant mieux. Mais que sont devenues les succursales dont elle était flanquée de toules parts, et qui faisaient à la basilique comme une couronne d'églises : sur le côté septentrional, Saint-Jean-le-Rond, où était son baptistère; à quelques pas, en face, Saint-Christophe, un édicule gothique délicatement construit; par derrière, Saint-Denis-du-Pas, qui remontait pour le moins au dixiéme siècle? On sait ce que la populace parisienne a fait du palais archiépiscopal et de ses chapelles. La petite église de la Madeleine, célèbre par la haute et puissante confrérie où les rois de France tenaient à se faire inscrire en première ligne, qui avait pour abhé l'évêque de Paris et pour doyen laïque le premier président du parlement, a été détruite sous la Révolution, comme cette humble Madeleine de la Ville-l’Évèque, qui a eu pour héritier le fastueux temple grec du boulevard. Le nom de Saint-Pierre aux-Bœufs n'est plus qu’un souvenir. Un autre édifice religieux de la Cité, la microscopique église de Sainte-Marine, subsiste encore aujourd’hui, métamorphosée en ateliers, dans l'impasse du même nom. Les Parisiens ne se doutent pas de la quantité de couvents et de chapelles, débris souvent précieux du grand art du moyen âge, qui ont été absorbés par des maisons particulières, et cachent leurs ogives déshonorées au fond d’un entrepôt de charbons ou d’une boutique d’épicier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 4,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Cousin_Avallon_1834_bpt6k64291819_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Cousin d'Avalon, Charles-Yves",
+            "docTitle": "Paris ancien et moderne",
+            "docDate": 1834.0,
+            "doc_page_number": "9",
+            "cleaner_name": "SL",
+            "date_added": "20200715",
+            "snippet": "PONT-D'ARCOLE. Ce pont, situé entre la place de Grève et l'île Notre-Dame, a été fait à l'instar des ponts suspendus de la Tamise et ne fut livré au public qu'en 1829. Il est réservé uniquement aux piétons, moyennant le léger péage de cinq centimes par personne. Ce pont fut d’abord appelé Pont de la Grève nom qu’il changea en 1830 contre celui d’Arcole, nom beaucoup plus sonore, et qui rappelait un glorieux souvenir."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 5,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "LaGournerie_1854_bpt6k6394057f_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "211-12",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Comment citer maintenant tous les épisodes de ce merveilleux poëme qui, embrassant à la fois la crèche de Bethléhem et l’église de Paris,  fait successivement passer sous nos yeux saint Jean-Baptiste, la Vierge, les Mages, sainte Geneviève, saint Germain, saint Marcel foulant aux pieds le dragon de la Bièvre; puis, au-dessus de l'ogive des voussures, vingt-sept statues colossales des rois de France depuis Childebert jusqu'à Philippe Auguste? \nQu'imaginer de plus imposant que cette longue suite de rois debout entre les colonnettes de la galerie et que dominait du haut de la galerie supérieure la statue de Marie, de la protectrice de la France? Malheureusement la Révolution à passé par R; elle a brisé, elle a détruit l'image de la reine des cieux, comme celles des rois de la terre. Mais la grande rose du moins brille encore de mille feux au soleil couchant, elle est toujours surmontée de ces gracieux promenoirs qui unissent les deux tours de leurs dentelles de festons reposant sur de sveltes colonnes; mais les deux grosses tours, si remarquables par leur parfaite symétrie, dominent toujours la ville de leur masse imposante d'où s'échappent par volées, aux jours solennels, les sons lugubres du bourdon, de cette pesante cloche, Emmanuelle-Louise-Thérèse, qui fut la filleule de Louis XIV."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 6,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "LaGournerie_1854_bpt6k6394057f_02",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "210-11",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Notre-Dame de Paris avait été précédée par Saint Germain-des-Prés, Saint-Denis et Sainte-Geneviève ; mais aucune de ces basiliques ne pouvait lui être comparée ni pour l'audace ni pour la richesse. Qu'on se figure un bâtiment large de 40 mètres, long de 130, avec des voûtes distantes du sol de 34 mètres et deux tours hautes de 68. Jamais depuis les grandes constructions des Romains on n'avait entrepris œuvre si imposante. Mais ce qui ne frappait pas moins dans cette masse gigantesque, c'était l’art avec lequel on était parvenu à dissimuler la nudité du mur, ici par des contreforts surmontés d’élégants pinacles, là par des galeries ouvragées, des statues, des roses étincelantes et des myriades de sculptures ne laissant pas une place vide dans le dessin des voussures et des portes. \nAu portail du milieu Jésus-Christ garde, pour ainsi dire, l'entrée du temple, entouré des Évangélistes qui ont publié sa loi, des Prophètes et des Sibylles qui l'ont prédite, teste David cum sibylla. Aux autres portes de la façade vous apercevez les Vertus et les Vices sous la forme tantôt poétique, tantôt grotesque, d'animaux divers; puis cette terrible scène du jugement dernier où se fait la séparation du bouc et de la brebis : \n         Inter oves locum prœsta, \n         Et ab hœdis me sequestra.\n         Dans l'épaisseur des pilastres s'élevaient jadis deux grandes statues de femmes, l'une représentant la Foi, l'autre la Religion. Parmi les décors de la porte gauche on remarque un zodiaque qui n’a que onze signes, le douzième est formé par la statue de la Vierge adossée au pilier central; les serrures composées d'enroulements en fonte de fer, dessinant des animaux et des arabesques, parurent si merveilleuses qu’on attribua ce chef-d'œuvre du serrurier Biscornet à la coopération du diable."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 7,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Guide_1855_bpt6k134268q_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "90-2",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "En 1161, l'évêque Maurice de Sully réunit les deux églises. Les voûtes sombres de Saint-Etienne, l'autel au pied duquel Frédégonde, la Clytemnestre mérovingienne, vint réclamer le droit d'asile, tombèrent à la fois, et firent place à la basilique actuelle, qui devint jour par jour et pour ainsi dire pierre à pierre, un des plus beaux et des plus complets échantillons de l’art gothique. \n         'Église de Notre-Dame ne fut complétement terminée que sous Charles VII, qui affecta à son achèvement l'impôt de la régale. Le bâtiment mesure 126 mètres 68 cent. de longueur, 48 mètres 07 cent. de largeur, el 33 mètres 77 cent. de hauteur. Les tours sont hautes de 68 mètres. On y monte par une porte latérale située à gauche du grand portail, et de leur sommet on jouit du panorama complet de Paris. Il n'en coûte que 10 centimt par personne."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 8,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "François_1857_bpt6k6439790m_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "27-28",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "Cathédrale de Paris, et, avec la cathédrale de Reims, le plus magnifique monument que l’art dit gothique ait légué à la France. La fondation de Notre-Dame remonte à Childebert; mais vers le milieu du XIIe siècle, en 1164, Maurice de Sully, évêque de Paris, entreprit de rebâtir la vieille église mérovingienne sur des proportions beaucoup plus vastes, et, secondé par la pieuse générosité des fidèles, il jetà les bases du majestueux édifice que nous admirons aujourd'hui. La première pierre de la nouvélle cathédrale fut posée en 1163 par le pape Alexandre III, alors réfugié en France dès l'année 1185, on y célébrait l'office divin. Le monument toutefois ne fut achevé qu'après plus de trois siècles de travaux. Rien n'est imposant comme l'aspect de cette immense basilique; c'est le type de la grace dans la sévérité, de la légèreté dans la force, de la variété dans l'unité. Ses rosaces, ses dentelures, ses colonnettes, ses capricieuses arabesques de pierre découpées sur la puissante silhouette de sa masse, lui communiquent un caractère indéfinissable d'élégance et de majesté, qui fait naitre dans l'âme comme une sorte de crainte mystérieuse et imprime un invincible et profond sentiment de respect. A ces signes on reconnait la sublime grandeur de l’art chrétien. La façade surtout, avec ses innombrables détails de statuaire, de sculpture, de ciselure; avec ses arcades, ses trèfles, ses bordures à jour, ses longues croisées à ogives; avec ses deux hautes tours noircies par le temps, est une des plus belles pages architecturales enfantées par le génie de l'homme. Quand surtout le bourdon de Notre-Dame s'ébranle, quand sa grande voix retentit, il semble que l'antique cathédrale se réveille, qu’elle s’anime, et qu’elle parle aux hommes ce male et puissant langage qui résonne à leurs oreilles comme l'écho affaibli d'un venu du ciel. Il faut lire, dans Victor Hugo, la description poétique, si animée et en même temps si vraie; qu'il  donne, dans sa Notre-Dame de Paris, de l'auguste et vénérable basilique. L'intérieur malheureusement ne répond pas à l’extérieur; une inspiration d’un goût douteux a fait revêtir ses murailles sacrées par le temps; de badigeons de toute les couleurs qui nous semblent peu s’harmoniser avec le style du monument, et la sévérité de son caractère architectonique. Notre-Dame vient d’être l'objet de restaurations extérieures qui font le plus grand honneur aux architectes sous la direction desquels elles se sont effectuées. Sa longueur dans œuvre est de 127 m., sa largeur, de 49, et sa hauteur de 34. Les tours, sous lesquelles on peut montrer en payant une légère rétribution au gardien, et d'où on découvre tout le panorama de Paris, ont 68 m. d'élévation. Les étrangers feront bien également de demander à visiter les richesses renfermées dans la sacristie."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 9,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Virmaître_1871_bpt6k5448441v_01",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "225-6",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Les fédérés fuirent de toutes parts. Alors des pompiers arrivèrent au pas de course, et après plusieurs heures de travail ils étaient maîtres du feu. \nL’Hôtel-Dieu et Notre-Dame furent incendiés en même temps. Le mercredi 23 mai, à trois heures du matin, un officier d'état-major, agent du Comité central, vint à l’Hôtel-Dieu avec quinze individus qui escortaient deux tonnes de pétrole. \nLes internes parvinrent à étouffer le feu et sauvèrent parmi les pensionnaires cent cinquante gardes nationaux et soldats de la Commune, qu'elle avait sacrifiés.\nLa foule du quartier, les femmes, les enfants suivaient les internes et les aidaient à éteindre le feu. Ils se rendirent ensemble à Notre-Dame, d'où sortait une noire colonne de fumée; ils entrèrent par la porte du clocher; le bedeau et le sonneur, malgré les menaces des fédérés, leur avaient donné les clefs. \nUn brasier brûlait à la hauteur du chœur; une fois éteint, un autre brasier fut découvert à là hauteur du maître-autel; un troisième brasier se trouvait à la hauteur de la chaire, les fédérés avaient amoncelé des charges de pupitres, des balustrades; cet immense bûcher allait presque sous le grand orgue et se joignait à un autre, dressé autour d’un grand Christ et d’une statue de la Vierge. Des papiers étaient à la base, le pétrole avait manqué sans doute, et le feu devait atteindre ce bûcher en continuant ses ravages.\nGrâce à de nombreux dévouements, le feu put être promptement éteint. Tous les troncs avaient été pillés et brisés; les tabernacles, les reliquaires défoncés: le lutrin de bronze était en mille pièces:  c'était une immense dévastation. \nLes boiseries du chœur furent préservées presque complétement; le chœur et les orgues ne furent pas atteints. \nLa basilique fat sauvée, grâce à l’ignorance des insurgés. S'ils avaient mis le feu à la forêt de charpentes huit fois séculaires qui étaient les tours, ne resterait aujourd'hui plus une pierre de cet admirable monument."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 10,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Roze_1853_bpt6k5551419c_2",
+            "file_name": "Roze_1853_bpt6k5551419c_clean.xml",
+            "docAuthor": null,
+            "docTitle": "Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles",
+            "docDate": 1853.0,
+            "doc_page_number": "9",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]\nces monuments [Notre-Dame, le Palais-de-Justice et la Sainte-Chapelle] ainsi démasqués sur tous les points, des masures et des rues irrégulières qui les avoisinent, feront de la Cité un des plus utiles et des plus magnifiques quartiers de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 11,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_11",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "305-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Il est certain encore que l’archidiacre s'était épris d’une passion singulière pour le portail symbolique de Notre-Dame, cette page de grimoire écrite en pierre par l'évêque Guillaume de Paris, lequel a sans doute été damné pour avoir attaché un si infernal frontispice au saint poëme que chante éternellement le resté de l'édifice. L'archidiacre Claude passait aussi pour avoir approfondi le colosse de Saint-Christophe, et cette longue statue énigmatique qui se dressait alors à l'entrée du parvis, et que le peuple appelait dans ses dérisions Monsieur Legris. Mais, ce que tout le monde avait pu remarquer, c'était les interminables heures qu'il employait souvent, assis sur le parapet du parvis, à contempler les sculptures du portail, examinant tantôt les vierges folles avec leurs lampes renversées; tantôt les, vierges sages avec leurs lampes droites; d’autres fois, calculant l'angle du regard de ce corbeau qui tient au portail de gauche et qui regarde dans l'église un point mystérieux où est certainement cachée la pierre philosophale, si elle n’est pas dans da cave de Nicolas Flamel. C'était, disons-le en passant, une destinée singulière pour l'église Notre-Dame à cette époque que d’être ainsi aimée à deux degrés différens, et avec tant de dévotion, par deux êtres aussi dissemblables que Claude et Quasimodo. Aimée par l'un, sorte de demi-homme instinctif et sauvage ; pour sa beauté, pour sa stature, pour les harmonies qui se dégagent de son magnifique ensemble ; aimée par l'autre, imagination savante et passionnée, pour sa signification,  pour son mythe, pour le sens qu'elle renferme , pour le symbole épars sous les sculptures de sa façade comme le premier texte sous le second dans un palimpseste, en un mot, pour l'énigme qu’elle propose éternellement à l'intelligence."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 12,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_10",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "295",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "À tel point que, pour ceux qui savent que Quasimodo a existé, Notre-Dame est aujourd’hui déserte, inanimée, morte. On sent qu’il y a quelque chose de disparu. Ce corps immense est vide; c’est un squelette; l'esprit l'a quitté, on en voit la place, et voilà tout. C'est . Comme un crâne où il y a encore des trous pour les yeux; mais plus de regard."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 13,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_9",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "260-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Cependant cette mer d'harmonie n’est point un chaos. Si grosse et si profonde qu’elle soit, elle n’a point perdu sa transparence: vous y voyez serpenter à part chaque groupe de notes qui s'échappe des sonneries; vous y pouvez suivre le dialogue, tour\nà tour grave et criard, de la crecelle et du bourdon; vous y voyez sauteler les octaves d'un clocher à l’autre; vous les regardez s’élancer ailées, légères et sifflantes, de la cloche d'argent, tomber cassées et boiteuses de la cloche de bois; vous admirez au milieu d'elles la riche gamme qui descend et remonte sans cesse les sept clochiers de Saint-Eustache; vous voyez courir tout au travers des notes claires et rapides qui font trois ou quatre zigzags lumineux, et s'évanouisse comme des éclairs. Là bas, c'est l’abbaye Saint-Martin, chanteuse aigre et fêlée; ici, la voix sinistre et bourrue de la Bastille; à l'autre bout, la grosse tour du Louvre, avec sa basse-taille. Le royal carillon du Palais jette sans relâche de tous côtés des trilles resplendissantes, sur lesquelles tombent à temps égaux les lourdes couppetées du beffroi de Notre-Dame, qui les font étinceler comme l’enclume sous le marteau. Par intervalles vous voyez passer des sons de toute forme qui viennent de la triple volée de Saint-Germain-des-Prés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 14,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_6",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "231",
+            "cleaner_name": "SEL",
+            "date_added": "20200617",
+            "snippet": "Devant Notre-Dame, au près, trois rues se dégorgeaient dans le vis, belle place à vieilles maisons. Sur le côté sud de cette place se penchait la façade ridée et rechignée de l'Hôtel-Dieu, et son toit qui semble couvert de pustules et de verrues. Puis, à droite, à gauche, à l'orient, à l'occident, dans cette enceinte si étroite pourtant de la Cité se dressaient les clochers de ses vingt-une églises, de toute date, de toute forme, de toute grandeur, depuis la basse et vermoulue campanule romane de Saint-Denis-du-Pas (carcer Glaucini) jusqu'aux fines aiguilles de Saint-Pierre-aux-Bœufs et de Saint-Landry. Derrière Notre-Dame se déroulaient, au nord, le cloître avec ses galeries gothiques; au sud, le palais demi-roman de l'évêque; au levant, la pointe déserte du Terrain."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 15,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_5",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "229",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "Maintenant sous quel aspect cet ensemble se présentait-il vu du haut des tours de Notre-Dame, en 1482? C'est ce que nous allons tâcher de dire. \nPour le spectateur qui arrivait essoufflé sur ce faite, c'était d'abord un éblouissement de de cheminées, de rues, de ponts, de place de flèches, de clochers. Tout vous prenait aux yeux à la fois, le pignon taillé, la toiture aiguë, la tourelle suspendue aux angles des murs, la pyramide de pierre du onzième siècle, l’obélisque d’ardoise du quinzième, la tour ronde et nue du donjon, la tour carrée et brodée de l'église, le grand, le petit, le massif, l'aérien. Le regard se perdait longtemps à toute profondeur dans ce labyrinthe, où il n’y avait rien qui n’eût son originalité, sa raison, son génie, sa beauté, rien qui ne vint de l'art, depuis la moindre maison à devanture peinte et sculptée, à charpente extérieure, à porte surbaissée, à étages en surplomb, jusqu'au royal Louvre, qui avait alors une colonnade de tours. Mais voici les principales masses qu’on distinguait lorsque l'œil commençait à se faire à ce tumulte d’édifices."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 16,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_4",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "226-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "Vus à vol d'oiseau, ces trois bourgs, la Cité, l'Université, la Ville, présentaient chacun à l'œil un tricot inextricable de rues bizarrement brouillées. Cependant, au premier aspect, on reconnaissait que ces trois fragmens de cité formaient un seul corps. On voyait tout de suite deux longues rues parallèles, sans rupture, sans perturbation, presque en ligne droite, qui traversaient à la fois les trois villes d’un bout à l’autre, du midi au nord, perpendiculairement à la Seine, les liaient, les mêlaient, infusaient, versaient, transvasaient sans relâche le peuple de l'une dans les murs de l’autre, de l’une dans les et des trois n’en faisaient qu'une. La première de ces deux rues allait de la porte Saint-Jacques à la porte Saint-Martin; elle s'appelait rue Saint-Jacques dans l'Université, rue de la Juiverie dans la Cité, rue Saint-Martin dans la Ville; elle passait l’eau deux fois sous le nom de Petit-Pont et de pont Notre-Dame. La seconde, qui s'appelait rue de la Harpe sur la rive gauche, rue de la Barillerie dans l'île, rue Saint-Denis sur la rive droite, pont Saint-Michel sur un bras de la Seine, Pont-au-Change sur l’autre, allait de la porte Saint-Michel dans l'Université à la porte Saint-Denis dans la Ville. Du reste, sous tant de noms divers, ce n'étaient toujours que deux rues, mais les deux rues mères, les deux rues génératrices, les deux artères de Paris. Toutes les autres veines de la triple ville venaient y puiser ou s'y dégorger."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 17,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_3",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "218-9",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "Nous venons d'essayer de réparer pour le lecteur cette admirable église de Notre-Dame de Paris. Nous avons indiqué sommairement la plupart des beautés qu’elle avait di quinzième siècle et qui lui manquent aujourd'hui; mais nous avons omis la principale, c’est la vue du Paris qu’on découvrait alors du haut de ses tours\nC'était en effet, quand, après avoir tâtonné long-temps dans la ténébreuse spirale qui perce perpendiculairement l’épaisse muraille des clochers, on débouchait enfin brusquement sur une des deux hautes plates-formes inondées de jour et d'air; c'était un beau tableau que celui qui se déroulait à la fois de toutes parts sous vos yeux; un spectacle sui generis, dont peuvent aisément se faire idée ceux de nos lecteurs qui ont eu le bonheur de voir une ville gothique, entière, complète, homogène, comme il en reste encore quelques-unes, Nuremberg en Bavière, Vittoria en Espagne; ou même de plus petits échantillons, pourvu qu'ils soient bien conservés, Vitré en que Nordhausen en Prusse."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 18,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_2",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "215-6",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "A n’envisager ici que l'architecture européenne chrétienne, cette sœur puînée grandes maçonneries de l’Orient, elle apparaît aux yeux comme une immense formation divisée en trois zônes bien tranchées qui se superposent : la zône romane, la zône gothique, la zône de la renaissance, que nous appellerions volontiers gréco-romaine. La couche romane, qui est la plus ancienne et la plus profonde, est occupée par le plein-cinitre, qui reparaît, porté parla colonne grecque, dans la couche moderne et supérieure de la renaissance. L’ogive est entre deux. Les édifices qui appartiennent exclusivement à l’une de ces trois couches sont parfaitement distincts, uns et complets. C'est l'abbaye de Jumièges, c'est la cathédrale de Reims, c’est Sainte-Croix d'Orléans. Mais les trois zônes se mêlent et s'amalgament parles bords, comme les couleurs dans le spectre solaire. De là les monumens complexes, les édifices de nuance et de transition. L'un est roman par les pieds, gothique au milieu, gréco-romain par la tête. C’est qu’on a mis six cents ans à le bâtir. Cette variété est rare. Le donjon d’Étampes en est un échantillon. Mais les monumens de deux formations sont fréquens. C’est Notre-Dame de Paris, édifice ogival, qui s'enfonce par ses premiers piliers dans cette zône romane où sont plongés le portail de Saint-Germain-des-Prés. C’est la charmante salle capitulaire demi-gothique de Bocherville, à laquelle la couche romane vient jusqu’à mi-corps. C’est la cathédrale de Rouen, qui serait entièrement gothique, si elle ne baignait par l'extrémité de sa flèche centrale dans la zône de la renaissance."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 19,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_101",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "209-13",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "Qu'il y a loin de là à l'époque où Robert Cenalis, comparant Notre-Dame de Paris à ce fameux temple de Diane à Ephèse, tant réclamé par les anciens païens,  qui a immortalisé Erostrate, trouvait la cathédrale gauloise « plus excellente en longueur, largeur, hauteur et structure!» \nNotre-Dame de Paris n'est point, du reste, ce qu’on peut appeler un monument complet, défini, classé. Ce n’est plus une église romane, ce n’est pas encore une église gothique. Cet édifice n’est pas un type. Notre-Dame de Paris n’a point, comme l'abbaye de Tournus, la grave et massive carrure, la ronde et large voûte, la nudité glaciale, la majestueuse simplicité des édifices qui ont le plein-cintre pour générateur. Elle n’est pas, comme la cathédrale de Bourges, le produit magnifique, léger, multiforme, touffu,  hérissé, efflorescent de l’ogive. Impossible, e la ranger dans cette antique famille d’églises sombres, mystérieuses, basses et comme écrasées par le plein-cintre; presque égyptiennes au plafond près; ou hiéroglyphiques, toutes sacerdotales, toutes symboliques; plus chargées, dans leurs ornemens, de losanges et de zigzags que de fleurs, de fleurs que d'animaux, d'animaux que d'hommes œuvre de l'architecte moins  que de l’évêque; première transformation de l'art, toute empreinte de discipline théocratique et militaire, qui prend racine dans le Bas-Empire et s’arrête à Guillaume-le-Conquérant. Impossible de placer notre cathédrale dans cette autre famille d’églises hautes, aériennes, riches de vitraux et de sculptures; aiguës de forme, hardies d’attitude; communales et bourgeoises comme symboles politiques; libres, capricieuses, effrénées, comme œuvres d'art; seconde transformation de l’architecture, non plus hiéroglyphique, immuable et sacerdotale, mais artiste, progressive et populaire, qui commence au retour des croisades et finit à Louis XI. Notre-Dame de Paris n’est pas de pure race romaine, comme les premières, ni de pure race arabe, comme les secondes. \nC'est un édifice de la transition. L’architecte saxon achevait de dresser les premiers piliers de la nef, lorsque l’ogive, qui arrivait de la croisade, est venue se poser en conquérante sur ces larges chapiteaux romans qui né devaient porter que des pleins cintres. L’ogive, maîtresse dès lors, a construit le reste de l’église. Cependant, inexpérimentée et timide à son début, elle s’évase, s’élargit, se contient, et n’ose s’élancer encore en flèches et en lancettes, comme elle l'a fait plus tard dans tant de merveilleuses cathédrales. On dirait qu’elle se ressent du voisinage des lourds piliers romans. \nD'ailleurs,  ces édifices de la transition du roman au gothique ne sont pas moins précieux à étudier que les types purs. Ils expriment une nuance de l’art, qui serait perdue sans eux. C’est la greffe de l'ogive sur le plein-cintre. Notre-Dame de Paris est, en particulier, un curieux échantillon de cette variété. Chaque face, chaque pierre du vénérable monument est une page non seulement de l’histoire du pays, mais encore de l’histoire de la science et de l'art. Ainsi, pour n’indiquer ici que les détails principaux, tandis que la petite Porte-Rouge atteint presque aux limites des délicatesses gothiques du quinzième siècle, les piliers de la nef, par leur volume et leur gravité, reculent jusqu'à l’abbaye carlovingienne de Saint-Germain-des Prés. On croirait qu'il six siècles entre cette porte. Il n'est pas jusqu'aux hermétiques qui ne trouvent dans les symboles du grand portail un abrégé satisfaisant de leur science dont l'église de Saint-Jacques-de-la-Boucherie était un hiéroglyphe si complet. Ainsi, l'abbaye romane, l'église philosophale, l'art gothique, l'art saxon, le lourd pilier rond, qui rappelle Grégoire VII, le symbolisme hermétique par lequel Nicolas Flamel préludait à Luther, l’unité papale, le schisme, Saint-Germain-des-Prés, Saint-Jacques-de-Boucherie; tout est fondu, combiné, amalgamé dans Notre-Dame. Cette église centrale et génératrice est parmi les vieilles églises de Paris une sorte de chimère; elle a la tête de l'une, les membres de celle-là, la croupe de l'autre, quelque chose de toutes."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 20,
+            "Name": "Notre-Dame",
+            "Latitude": 48.852966,
+            "Longitude": 2.349902,
+            "place_name": "Notre-Dame",
+            "uid": "Hugo_1831_1_bpt6k6497134z_1",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "204-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "Revenons à la façade de Notre-Dame, telle qu’elle nous apparaît encore à présent, quand nous allons pieusement admirer la grave et puissante cathédrale, qui terrifie, au dire de ses chroniqueurs: quæ mole sua terrorem incutit spectantibus. \nTrois choses importantes manquent aujourd’hui à cette façade: d'abord le degré de onze marches qui l'exhaussait jadis au dessus du sol; ensuite la série inférieure de statues qui occupait les niches des trois portails, et la série supérieure des vingt-huit plus anciens rois de France, qui garnissait la galerie du premier étage, à partir de Childebert jusqu’à Philippe Auguste, tenant en main « la pomme impériale. » \nLe degré, c’est le temps qui l’a fait disparaître en élevant d’un progrès irrésistible et lent le niveau du sol de la Cité; mais, tout en faisant dévorer une à une, par cette marée montante du pavé de Paris, les onze marches qui ajoutaient à la hauteur majestueuse de l'édifice, le temps a rendu à l'église plus peut-être qu’il ne lui a ôté, car c’est le temps qui a répandu sur la façade cette sombre couleur des siècles qui fait de la vieillesse des monumens l'âge de leur beauté. \nMais qui a jeté bas les deux rangs de statues? qui a laissé les niches vides? qui a taillé, au beau milieu du portail central, cette ogive neuve et bâtarde? qui a osé y encadrer cette fade et lourde porte de bois sculptée à la Louis XV, à côté des arabesques de Biscornette? Les hommes,  les architectes, les aristes de nos jours.\nEt, si nous entrons dans l'intérieur de l’édifice, qui a renversé ce colosse de saint Christophe, proverbial parmi les statues au même titre que la grand'salle du Palais parmi les halles, que la flèche de Strasbourg parmi les clochers? et ces myriades de statues qui peuplaient tous les entre-colonnemens de la nef et du chœur, à genoux, en pied, équestres, hommes, femmes, enfans, rois, évêques, gendarmes, en pierre, en marbre, en or, en argent, en cuivre, en cire même, qui les a brutalement balayées? Ce n’est pas le temps.\nEt qui a substitué au vieil autel gothique splendidement encombré de châsses et de reliquaires ce lourd sarcophage de marbre à tête d’anges et à nuages, lequel semble un échantillon dépareillé du Val-de-Grâce ou des Invalides? Qui a bêtement scellé ce lourd anachronisme de pierre dans le pavé carlovingien de Hercandus? N'est-ce pas Louis XIV accomplissant le vœu de Louis XIII?\nEt qui a mis de froides vitres blanches à la place de ces vitraux « hauts en-couleur » qui faisaient hésiter l'œil émerveillé de nos pères entre la rose du grand-portail et les ogives de l'abside? Et que dirait un sous-chantre du seizième siècle, envoyant le beau badigeonnage jaune dont nos vandales archevêques ont barbouillé leur cathédrale? il se souviendrait que c'était la couleur dont le bourreau brossait les édifices scélérés; il se rappellerait l'hôtel du Petit-Bourbon, tout englué de jaune aussi pour la trahison du connétable, « jaune après tout de si bonne trempe, dit Sauval, et si bien recommandé que plus d'un siècle n'a pu.encore lui faire perdre sa couleur; » il croirait que le lieu saint est devenu infâme, et s'enfuirait.\nEt si nous montons-sur la cathédrale, sans nous arrêter à mille barbaries de tout genre, qu’a-t-on fait de ce charmant petit clocher qui s'appuyait sur le point d’intersection de la croisée, et qui, non moins frêle et non moins hardi que sa voisine la flèche ( détruite aussi) de la Sainte-Chapelle, s'enfonçait dans le ciel plus avant que les tours, élancé, aigu, sonore, découpé à jour. Un architecte de bon goût (1787) l'a amputé, et a cru qu'il suffisait de masquer la plaie avec cette large emplâtre de plomb qui ressemble au couvercle d’une marmite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.349902,
+                48.852966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 21,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "113",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "C'est l’ancien berceau de Paris. La plupart des rues y sont étroites, boueuses et tortueuses; mais que l'étranger ne craigne pas de s'y aventurer. Après y avoir remarqué l’Hôtel-Dieu, fondé par saint Landry, il y jouira d’un des plus beaux spectacles que la fortune réserve au voyageur. C'est là, en effet, que s'élève l’église métropolitaine de Notre-Dame de Paris, dont le pape Alexandre III posa la première pierre, en 1161."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 22,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "61",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Dans là Cité, rue de la Juiverie, était le cabaret de la Pomme de pin compté déjà par Rabelais au nombre des « tabernes méritoires où cauponisoient joyeusement les escoliers de Lutèce. » Molière et Racine le visitaient."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 23,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Fournel_1865_bpt6k1018901_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "296-7",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Notre-Dame vit toujours: on l'a même restaurée avec un respect pieux, sur lequel nous ne sommes pas blasés, et que nous apprécions d'autant mieux. Mais que sont devenues les succursales dont elle était flanquée de toules parts, et qui faisaient à la basilique comme une couronne d'églises : sur le côté septentrional, Saint-Jean-le-Rond, où était son baptistère; à quelques pas, en face, Saint-Christophe, un édicule gothique délicatement construit; par derrière, Saint-Denis-du-Pas, qui remontait pour le moins au dixiéme siècle? On sait ce que la populace parisienne a fait du palais archiépiscopal et de ses chapelles. La petite église de la Madeleine, célèbre par la haute et puissante confrérie où les rois de France tenaient à se faire inscrire en première ligne, qui avait pour abhé l'évêque de Paris et pour doyen laïque le premier président du parlement, a été détruite sous la Révolution, comme cette humble Madeleine de la Ville-l’Évèque, qui a eu pour héritier le fastueux temple grec du boulevard. Le nom de Saint-Pierre aux-Bœufs n'est plus qu’un souvenir. Un autre édifice religieux de la Cité, la microscopique église de Sainte-Marine, subsiste encore aujourd’hui, métamorphosée en ateliers, dans l'impasse du même nom. Les Parisiens ne se doutent pas de la quantité de couvents et de chapelles, débris souvent précieux du grand art du moyen âge, qui ont été absorbés par des maisons particulières, et cachent leurs ogives déshonorées au fond d’un entrepôt de charbons ou d’une boutique d’épicier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 24,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "LaGournerie_1854_bpt6k6394057f_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "120",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "La construction du Pont-Neuf apporta de notables changements à la disposition des parties de la ville qu'il mettait en communication. Les îlots qui se trouvaient en aval de l’île de la Cité lui furent réunis, et ce fut sur leur emplacement que s’ouvrirent le terre-plein du Pont Neuf et la place Dauphine. Nous avons déjà parlé du quai de l'Horloge et du quai des Orfévres, qui servirent d’issues au nouveau pont des deux côtés de la Cité. La place des Trois-Maries fut en même temps agrandie sur la rive droite de la Seine, et, sur la rive gauche, uné nouvelle rue, large de dix mètres, fut tracée à travers les terrains des Augustins jusqu'aux murailles de la ville. Cette rue, ainsi que la place de la Cité, reçut le nom de Dauphine, comme expression de la joie populaire au moment de la naissance de Louis XIII. Les rues de Paris n'avaient encore rien perdu de l’antique exiguité de leurs proportions ; ajoutons qu'un grand nombre n'étaient pas pavées, ce qui en rendait fréquemment l'odeur infecte et le parcours difficile. Les nobles ne s’y montraient qu'à cheval, leurs femmes en croupe, les magistrats sur des mules, et ce n’était que dans quelques larges voies telles que la rue Saint-Honoré, la rue Saint-Antoine, la rue Saint-Denis, la rue de Tournon, la rue Dauphine que l’on commençait à rencontrer des carrosses."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 25,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "LaGournerie_1854_bpt6k6394057f_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "66",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Nous avons dit que la Cité était surtout habitée par les clercs et par les moines. Nons aurions dû ajouter qu’elle était aussi habitée par le roi. Chose singulière! lorsqu'on approche de la demeure royale, on est assourdi, non plus, il est vrai, parle bruit du marteau et du fer comme sur la rive droite de la Seine, mais par le retentissement non moins vulgaire du tranchant et du maillet. Le palais s'ouvre en effet sur la rue de la Barillerie, le grand atelier des barillers et des barils. On y trouve des barils de tous les bois que permettent les statuts du métier, c’està-dire de cœur de chêne, de poirier, d'érable et d'œillet (olivier). La rue de la Barillerie est étroite, comme toutes les rues de la capitale. Aussi à peine est-il donné d’apercevoir dans toute leur hauteur, lorsqu'on entre au palais, les tours dont saint Louis et Philippe le Bel ont agrandi la demeure royale."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 26,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "LaGournerie_1854_bpt6k6394057f_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et des ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "58-9",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Pour apprécier la population ancienne par comparaison avec la population actuelle, ce sont donc les vieux quartiers qu’il faut étudier, les petites rues de la Cité surtout et celles qui se croisent en tous sens autour de l'hôtel de ville. Quant au nombre des rues, il était de 310 seulement au XIVe siècle; sans compter, il est vrai, les rues sans chief ou impasses, assez nombreuses alors. Au XVIe siècle, il n'était encore que de 400; aujourd’hui il dépasse 1,000. Guillot de Paris a pris plaisir à mettre en vers les noms et la topographie des rues qui existaient de son temps. Son poëme se divise en trois sections: Outre-Petit-Pont, contenant 80 rues, Cité en contenant 36, et Outre-Grand Pont, 194. Ainsi la masse de la population, celle qui vit du commerce et des affaires, était dès lors répandue sur la rive droite de la Seine. La rive gauche était à peu près uniquement occupée par les écoliers, libraires, relieurs, enlumineurs,  etc.; la Cité, par les couvents, les églises et les industries qui en dépendent. La plupart des anciens noms de rues se sont perpétués jusqu’à nous, mais avec des variations de formes qui souvent ont fait perdre la trace de leur origine. Ainsi, par exemple, le quartier habité par les saulniers était traversé par les rues de la Saunerie et de l’Arbre-Sel, dont nous avons fait la Sonnerie et l'Arbre-Sec. La rue où l’on cuit les ouës est devenue la rue aux Ours; la rue de Thibault-aux-Dés, Theobaldi aleatoris, a été transformée en rue Thibautodé. Nous pourrions citer d’interminables exemples de ces altérations. Ici, c'est la rue aux Fers, dont le nom primitif était du Fuère, c'est-à-dire de la Paille; là, la rue Grénetat, désignée dans les rôles de Philippe le Bel par celui de Darne-Estat (dernière étape); plus loin, la rue du Grand-Hurleur, dont il serait assez difficile de trouver homonyme dans celle de Hue-Leu, Hugo Lupus, nom du digne bourgeois qui la baptisa. La rue du Grenier-Saint-Lazare avait été nommée par un bourgeois du nom de Guernier de Saint-Ladre; la rue de la Tâcherie était habitée, du temps de Philippe le Bel, par les attachéeurs ou fabricants d'agrafes. Enfin, au lieu où était jadis le pissot Saint-Martin, nous avons aujourd’hui la rue des Fontaines. \nLes noms des rues furent d'abord empruntés aux impressions de crainte et de dégoût qu’elles éveillaient : de là ces antiques appellations de Vide-Gousset, Tire-Chappe, Trou-Punais, etc. Il ne serait ni intéressant ni décent de les citer toutes. Lorsque la police eut rendu ces impressions moins vives, les rues prirent les noms des couvents ou églises et ceux des riches bourgeois du quartier."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 27,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_23",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "251-2",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Maintenant, si le dénombrement de tant d'édifices, quelque sommaire que nous l’ayons voulu faire, n’a pas pulvérisé, à mesure que \nnous la construisions, dans l'esprit du lecteur, l'image générale du vieux Paris, nous la résumerons en quelques mots. Au centre, l'île de la Cité, ressemblant par sa forme à une énorme tortue et faisant sortir ses ponts écaillés de tuiles, comme des pattes, de dessous sa  grise carapace de toits. À gauche, le trapèze monolithe, ferme, dense, hérissé, de l'Université; à droite, le vaste demi cercle de la Ville, beaucoup plus mêlé de jardins et de monumens. Les trois blocs, Cité, Université, Ville, marbrés de rues sans nombre. Tout au travers, la Seine, la « nourricière Seine » comme dit le P. Du Breul, obstruée d'îles, de ponts et de bateaux."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 28,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_22",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "245",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Le centre de la Ville était occupé par un monceau de maisons à peuple. C’étaient là en effet que se dégorgeaient les trois ponts de la Cité sur la rive droite, et les ponts font des maisons avant des palais. Cet amas d’habitations bourgeoises, pressées comme les alvéoles dans la ruche, avait sa beauté. Il en est des toits d’une capitale comme des vagues d’une mer, cela est grand."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 29,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_21",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "232",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Les futaies des jardins du roi qui couvraient la pointe occidentale de la Cité masquaient l’îlot du Passeur. Quant à l'eau, du haut des tours de Notre Damé on ne la voyait guère des deux côtés de la Cité: la Seine disparaissait sous les ponts, les ponts sous les maisons."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 30,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_20",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "229-30",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Mais voici les principales masses qu’on distinguait lorsque l'œil commençait à se faire à ce tumulte d’édifices. \nD'abord la Cité. L'île de la Cité, comme dit Sauval, qui, à travers son fatras, a quelquefois de ces bonnes fortunes de style, l'ile de la Cité est faite comme un grand navire enfoncé dans la vase et échoué au fil de l'eau vers le milieu de la Seine. Nous venons d'expliquer qu'au quinzième siècle ce navire était amarré aux deux rives du fleuve par cinq ponts. Cette forme de vaisseau avait aussi frappé les scribes héraldiques, car c’est de là, et non du des Normands, que vient, selon Favyn et Pasquier,  le navire qui blasonne le vieil écusson de Paris. Pour qui sait Je déchiffrer, le blason est une algèbre, le blason est une langue. L'histoire entière de la seconde moitié du moyen âge est écrite dans le blason, comme l’histoire de la première moitié dans le symbolisme des églises romanes. Ce sont les hiéroglyphes de la féodalité après ceux de la théocratie. \nLa Cité donc s’offrait d’abord aux yeux avec sa poupe au levant et sa proue au couchant. Tourné vers la proue, on avait devant soi un innombrable troupeau de vieux toits, sur lesquels s’arrondissait largement le chevet plombé de la Sainte-Chapelle, pareil à une croupe d’éléphant chargée de sa tour. Seulement ici cette tour était la flèche la plus hardie, la plus ouvrée, la plus menuisée, la plus déchiquetée qui ait jamais laissé voir le ciel à travers son cone de dentelle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 31,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_19",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "226-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Vus à vol d'oiseau, ces trois bourgs, la Cité, l'Université, la Ville, présentaient chacun à l'œil un tricot inextricable de rues bizarrement brouillées. Cependant, au premier aspect, on reconnaissait que ces trois fragmens de cité formaient un seul corps."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 32,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_18",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "226",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Au quinzième siècle, la Seine baignait cinq îles dans l'enceinte de Paris: l'île Louviers, où il y avait alors des arbres et où il n’y a plus que du bois; l'île aux Vaches et l'île Notre Dame, toutes deux désertes, à une masure près, toutes deux fief de l'évêque (au dix-septième siècle, de ces deux îles on en a fait une, qu’on a bâtie, et que nous appelons l’île Saint-Louis); enfin la Cité, et à sa pointe l'îlot du Passeur-aux-Vaches qui s'est abîmé depuis sous le terre-plein du Pont-Neuf. La Cité alors avait cinq ponts: trois à droite, le pont Notre-Dame et le Pont-au-Change, en pierre, le Pont-aux-Meuniers, en bois; deux à gauche, le Petit-Pont, en pierre, le pont Saint-Michel,  en bois; tous chargés de maisons."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 33,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_17",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "224-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Comme nous venons de le dire, chacune de ces trois grandes divisions de Paris était une ville, mais une Ville trop spéciale pour être complète, une ville qui ne pouvait se passer des deux autres. Aussi trois aspects parfaitement à part. Dans la Cité abondaient les églises, dans la Ville les palais, dans l'Université les colléges. Pour négliger ici les originalités secondaires du vieux Paris et les caprices du droit de voirie, nous dirons d’un point de vue général, en ne prenant que les ensembles et les masses dans le chaos des juridictions communales, que l'ile était à l'évêque, la rive droite au prevôt des marchands, la rive gauche au recteur. Le prevôt de Paris, officier royal et non municipal, sur le tout. La Cité avait Notre-Dame, la Ville le Louvre et l'Hôtel-de-Ville; l'Université la Sorbonne. La Ville avait les Halles, la Cité l'Hôtel-Dieu, l'Université le Pré-aux-Clercs. Le délit que les écoliers commettaient sur la rive gauche, dans leur Pré-aux-Clercs; on le jugeait dans l’île, au Palais de Justice, et on le punissait sur la rive droite à Montfaucon; à moins que le recteur, sentant l’Université forte et le roi faible,  n'intervînt. Car c'était un privilége des écoliers, d’être pendus chez eux."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 34,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_16",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "223",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Au quinzième siècle Paris était encore divisé en trois villes tout-à-fait distinctes et séparées, ayant chacune leur physionomie, leur spécialité, leurs mœurs, leurs coutumes, leurs priviléges, leur histoire: la Cité, l'Université, la Ville. La Cité, qui occupait l'île, était la plus ancienne, la moindre et la mère des deux autres, resserrée entre elles (qu’on nous passe la comparaison) comme une petite vieille entre deux grandes belles filles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 35,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_15",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "219-20",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Paris est né, comme on sait, dans cette vieille île de la Cité qui a la forme d’un berceau. La grève de cette ile fut sa première enceinte, la Seine son premier fossé. Paris demeura plusieurs siècles à l’état d’île, avec deux ponts, l’un au nord, l'autre au midi, et deux têtes de ponts, qui étaient à la fois ses portes et ses forteresses : le grand Châtelet sur la rive droite; le petit Châtelet sur la rive gauche. Puis, dés les rois de la première race, trop à l'étroit dans son île, et ne pouvant plus's’y retourner, Paris passa l'eau. Alors, au delà du grand, au delà du petit Châtelet, une première enceinte de murailles et de tours commença à entamer la campagne des deux côtés de la Seine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 36,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_14",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "109",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "La ville trouvait là tout ce qu'il faut à une bonne ville comme Paris: une chapelle, pour prier Dieu; un plaidoyer, pour tenir audience et rembarrer au besoin les gens du roi; et dans les combles, un arsenac plein d'artillerie. Car les bourgeois de Paris savent qu'il ne suffit pas en toute conjoncture de prier et de plaider pour les franchises de la Cité, et ils ont toujours en réserve dans un grenier de l'Hôtel-de-Ville quelque bonne arquebuse rouillée."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 37,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_13",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "104",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Après avoir laissé derrière lui la tournelle civile et la tour criminelle, et longé le grand mur des jardins du roi, sur cette grève non pavée où la boue lui venait à la cheville, il arriva à la pointe occidentale de la Cité, et considéra quelque temps l'îlot du Passeur-aux-Vaches, qui a disparu depuis sous le cheval de bronze et le Pont-Neuf. L'îlot lui apparaissait dans l'ombre comme une masse noire au delà de l’étroit cours d’eau blanchâtre qui l'en séparait. On y devinait, au rayonnement d'une petite lumière, l'espèce de hutte en forme de la nuit."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 38,
+            "Name": "Île de la Cité",
+            "Latitude": 48.8528,
+            "Longitude": 2.3418,
+            "place_name": "Île de la Cité",
+            "uid": "Hugo_1831_1_bpt6k6497134z_12",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "102-3",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Il remercia la providence de lui avoir envoyé cette bonne idée; mais comme il se préparait à traverser la place du Palais pour gagner le tortueux labyrinthe de la Cité, où serpentent toutes ces vieilles sœurs, les rues de la Barillerie, de la Vieille-Draperie, de la Savaterie, de la Juiverie, etc., encore debout aujourd’hui avec leurs maisons à neuf étages, il vit la procession du pape des fous qui sortait aussi du Palais et se ruait au travers de la cour, avec grands cris, grande clarté de torches et sa musique, à lui Gringoire. Cette vue raviva les écorchures de son amour-propre; il s’enfuit. Dans l’'amertume de sa mésaventure dramatique, tout ce qui lui rappelait la fête du jour l'aigrissait et faisait saigner sa plaie."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3418,
+                48.8528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 39,
+            "Name": "Île-Saint-Louis",
+            "Latitude": 48.851,
+            "Longitude": 2.3538,
+            "place_name": "Île-Saint-Louis",
+            "uid": "LaGournerie_1854_bpt6k6394057f_11",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "132",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "Enfin les pâturages de l'ȋle Notre-Dame étaient abandonnés à l'entrepreneur Marie, qui l’entourait de quais, la coupait à angles droits par de larges rues, y construisait l'église Saint-Louis, dont le nom allait devenir celui de l'ile entière,  et la reliait aux rives de la Seine par les ponts Marie et de la Tournelle. \nLe système des rues sinueuses et étroites, déjà attaqué par Henri IV, le fut plus encore par Louis XIII. Alors commencent réellement les tracés réguliers et symmétriques, et plusieurs des quartiers bâtis à cette époque figurent encore parmi nos plus beaux quartiers. Représentez-vous maintenant, dans ces rues bruissantes du roulement des carrosses de Saint-Fiacre et des cris des porteurs de chaises, un luxe tout nouveau de fontaines rafraichissant perpétuellement l'air et refoulant à la Seine les immondices du temps passé : fontaine Saint-Michel, fontaine Saint-Côme, fontaine Sainte-Geneviève, fontaine Censier, fontaine des Carmélites, fontaine de Navarre, fontaine de la Grève, etc. De longues années de paix avaient donné un rapide essor à la prospérité, et cette prospérité se révélait dans les monuments comme dans les habitudes."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3538,
+                48.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 40,
+            "Name": "Arènes de Lutece",
+            "Latitude": 48.8451,
+            "Longitude": 2.3528,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3528,
+                48.8451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 41,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "25",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Si, tournant le dos à ce travail de Babylone en train de se refaire, on jette l'œil sur l’autre rive de la Seine, on aperçoit, au bout du pont Notre-Dame, la silhouette si pittoresque du palais de Justice avec ses tours au faite en poivrière, ses fenêtres à meneaux, ses murs crénelés, son horloge se détachant d'un fond bleu émaillé d'or, ses demi-roses éclairant la salle des Pas-Perdus, et au-dessus de la Sainte-Chapelle, ce chef-d'œuvre de Pierre de Montereau rendu à sa splendeur première, la flèche dorée qui porte à sa pointe aigué le coq et la couronne d’épines, et, quoique toute récente, surprendrait, pour son étonnante hardiesse et sa légèreté aérienne, les plus habiles tailleurs de pierre du moyen âge, si, par un miracle, ils revenaient à la vie; car les exigences du présent ne nuisent en rien à la religion du passé, et Paris, tout en voulant se procurer l’espace, l'air, le soleil dont il a besoin pour sa colossale existence moderne, se souvient de son histoire. [citant Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 42,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_08",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "125-6",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "À l'extrémité du pont au Change, dans l'ile de la Cité, s'élève le palais de Justice; ce majestueux édifice occupe l'emplacement d’un ancien palais qu’habitèrent les préfets des Gaules. Plus tard, les comtes de Paris en firent leur résidence, ainsi que les douze premiers Capétiens. \nPhilippe le Bel y établit le parlement de Paris. Ces légistes furent installés dans le palais même des rois, qui finirent par le leur abandonner entièrement; en 1431, Charles VII cessa d'y résider. \nAprès plusieurs reconstructions ou réparations, l'édifice présente encore quelques restes de l'ancien palais de la Cité. Remarquable par sa belle façade et la grille qui le protége, il renferme une salle dite des Pas-Perdus, longue de 72 mètres et large de 26 mètres. Sa tour dite de l’Horloge avait autrefois une cloche qui, avec celle de Saint-Germain-l'Auxerrois, sonna le tocsin de la Saint-Barthélemy, et qui fut brisée pendant la révolution. On y a rétabli l'horloge de Henri III, armoriée de France et de Pologne."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 43,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Cousin_Avallon_1834_bpt6k64291819_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Cousin d'Avalon, Charles-Yves",
+            "docTitle": "Paris ancien et moderne",
+            "docDate": 1834.0,
+            "doc_page_number": "26-27",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_15",
+            "snippet": "PALAIS-DE-JUSTICE. Ce  palais, qui date de la monarchie, fut, jusqu’à Philippe-le-Bel, la demeure de nos rois. La principale salle fut consumée par les flammes en 1618, et reconstruite de nouveau. Un autre incendie en 1776, détruisit toute la partie du palais qui s’étendait jusqu'à la Sainte-Chapelle. Louis XVI fit tout réparer en 1787. Plusieurs embellissemens ont eu lieu depuis la mort de ce prince. Le fameux tribunal révolutionnaire a siégé pendant dix-huit mois dans la grande chambre qu’occupait le parlement. C'est dans cette chambre que pendant dix-huit mois la foudre de la mort s’élançait indistinctement sur les innocents et ceux qui avaient le malheur de ne pas partager l'opinion de leurs bourreaux. En 1794, le conventionnel Danton comparut devant ce tribunal de sang qui lui devait sa création. Interrogé sur son nom et sa demeure, il répondit avec fermeté : « Ma demeure sera bientôt dans le néant; vous trouverez mon nom dans le Panthéon de l'histoire.» M. Hérault de Séchelles, ci-devant président au Parlement, répondit à la même question : « Je m'appelle Marie-Jean, noms peu saillants même parmi les saints ; je siégeais dans cette salle où j'étais détesté des parlementaires. » C’est sur la place du Palais-de-Justice que l’on expose les condamnés aux fers ou à la détention, nous en avons vu jusqu’à vingt à la fois; il en est peu qui annoncent le repentir : plusieurs même affectent de la gaité, insultent le public ; des filles, de dix-sept à dix-huit ans, condamnées, ne rougissent pas de tenir les propos les plus indécents ; ce qui prouve jusqu’à quel point la corruption du cœur peut porter un sexe qu'on voudrait chérir pour ses vertus."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 44,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_17",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "323-4",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Près de la Conciergerie on remarque une suite de salles basses à ogives, que leurs vastes cheminées ont fait nommer les cuisines de saint Louis. Au-dessus d'elles s'étend la grande salle du Palais, immense promenoir construit une première fois sous le règne de saint Louis, et reconstruit après un incendie par Jacques de Brosses, du vivant de Louis XII. Mais la table de marbre a disparu, cette illustre table de marbre qui en occupait toute l'extrémité occidentale, qui avait sa juridiction, et sur laquelle dinait le roi et dansaient les clercs de la basoche. Elle a été calcinée par l'incendie. La salle de Jacques de Brosses reproduit d’ailleurs fidèlement les dimensions et la disposition de la salle de saint Louis. Ce sont toujours deux grandes nefs séparées par un rang de piliers; mais vainement y chercherait-on aujourd’hui les compartiments d’azur et d’or qui couvraient, du temps de saint Louis, la nudité des piliers, vainement les lambris ouvragés de la voûte, vainement ces statues de rois dont Corrozet disait: « On pense que ceux qui ont les mains hautes ont régné vertueusement, et que ceux qui ont les mains basses ont été infortunés ou n'ont fact acte d'excellence.» \nMais du moins en face de l’entrée de la chambre de saint Louis s'élève, depuis quelques années, la blanche statue de Malesherbes. Dernier défenseur des rois, dernière gloire de l’ancienne magistrature, il est là comme le génie de la vieille France, veillant encore sur la France nouvelle dans cet antique palais de la justice et de la royauté."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 45,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_16",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "314",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Ce profond respect pour le droit et la justice détermina Louis XII à décorer avec splendeur le lieu où elle se rendait. La grand’chambre était toujours simple et nue comme au temps de saint Louis; on n'y apercevait que quelques bancs et escabelles comme dans la salle chapitrale d'un monastère. Mais dès lors ses murs disparurent sous des lambris sculptés, et son plafond sous des voussures terminées en culs-de-lampe. Les peintures et les dorures y furent en outre jetées avec une telle profusion, que cette salle, je l'ai dit, ne fut plus connue que par le nom de chambre dorée. Elle est aujourd’hui consacrée à la Cour de cassation; l’ornementation en a été modifiée dans le dernier siècle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 46,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_13",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "321-3",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "Le palais où ont passé toutes ces gloires, gloires de la royauté, de la justice, de l'éloquence, fut circonvenu: de rues étroites qui ne lui laissaient jour et d'air qu'à l'ouest, du côté du jardin de Saint- Louis. Comme le Louvre, ses bâtiments irréguliers étaient flanqués çà et là de tourelles à toit conique dont quelques unes existent encore sur le quai de l'Horloge. Leur pied était alors baigné par la Seine: chacune d'elles avait son nom; il y avait la tour de Beauvais, la tour des Joyaux la tour de la Question, la tour Carrée, la tour Civile, etc. Dans la tour Carrée, qui forme aujourd'hui encore l’angle du quai, fut placée par Charles V, en 1370, une horloge avec son horloger. L'horloge était la plus considérable qui eût encore été vue à Paris; l'horloger, Henri de Vic, était Allemand. Il vint en France sur l'invitation du roi, et un appartement lui fut assigné dans la tour, afin qu'il pût constamment surveiller son œuvre. Au dessus de l'horloge, dans la lanterne, était le tocsin. \nL'aspect extérieur du palais à d’ailleurs été considérablement modifié dans le dernier siècle. A la place de la porte basse qui lui donnait entrée sur la rue de la Barillerie, se développe depuis 1787 une grille monumentale. La rue elle-même s'est élargie, et une nouvelle voie de communication forme, depuis quelques années, une splendide avenue au sanctuaire de la justice. Malheureusement la facade du palais est lourde; elle affecte une certaine grandeur théâtrale, grandeur sans caractère. De tout temps le palais avait eu sa prison, que nous trouvons désignée par le nom de conciergerie, dès le XIVe siècle. La Conciergerie a fidèlement gardé ses cachots et ses verroux. Que de cœurs flétris et que de cœurs généreux ont gémi sous ces voûtes: Enguerrand de Marigny le concussionnaire, et Barnabé Brisson le magistrat timide mais intègre; la Brinvilliers une empoisonneuse, et Charlotte Corday une républicaine de Rome antique; Vergniaud le régicide, et la reine martyre Marie-Antoinette! \nLe cachot de Marie-Antoinette est une salle basse et humide; vous y trouverez encore quelques souvenirs de son passage; et, dans les salles du palais, vous verrez le lieu où siégea Fouquier-Tinville à la place de d'Aguesseau; vous verrez la barre où comparurent et où furent\ncondamnés et Malesherbes et Mouchy, et Cazotte et Mme. Élisabeth, toutes les dignités, toutes les vertus, toutes les gloires."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 47,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_60",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "299-300",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "Ce jardin de Paris où saint Louis rendait la justice était le jardin du palais de la Cité, lequel s’étendait sur tont l'emplacement qu'occupent aujourd'hui la cour de Lamoignon et la cour neuve, et était baigné de trois côtés par la Seine. Un bras du fleuve, qui suivait la di rection de la rue de Harlay, le séparait de deux petites îles sur lesquelles ont été construits depuis la place Dauphine et le terre-plein du Pont-Neuf. Ce jardin, tel que les chroniques nous le représentent sous Charles V, était entouré de haies couvertes de treilles enlacées en losanges, et formant çà et là des pavillons et tourelles qui répondaient par leur agreste symétrie aux tourelles du palais. Au centre de ces bosquets ombragés étaient des vignes, des potagers, des pâturages où l’on récoltait bourgeoisement le foin de l'écurie, le vin du cellier, et les légumes de la table royale. \nLe palais, construit au XIe siècle par le roi Robert, fut agrandi dans de vastes proportions par saint Louis. Du règne de ce prince datent la salle qui porte encore son nom, la grand’chambre où siége la Cour de cassation, l'étage inférieur et les murs de la vaste salle de Pas-Perdus, et enfin la Sainte-Chapelle. \nLorsque nous parcourons aujourd'hui ces vénérables restes des vieux âges, il ne nous est pas toujours facile d'y reconnaitre la marque du temps. Les  antiques lambris de la salle des Pas-Perdus ont fait place à une voûte en pierre; la nudité de la grand’chambre a disparu sous le luxe d’ornements qui lui firent donner, dès le règne de Louis XII, le nom de chambre dorée. Mais enfin c’est le mème lieu, ce sont les mêmes pierres, impassibles témoins du passage des siècles. L'écho qui répète aujourd’hui les sentences de la justice a redit jadis les arrêts vénérés qui émanaient de la bouche de saint Louis."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 48,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "François_1857_bpt6k6439790m_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "61-2",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "Ancienne demeure des préfets de Rome, des rois de la première race et de leurs maires du palais, des comtes de Paris sous la seconde, des douze premiers rois de la troisième, notamment du roi saint Louis, qui y fit exécuter de grands travaux, ce vaste mais disparate monument, à travers des remaniements sans nombre, est devenu dans les temps modernes le siége de la justice. C’est là que se réunissait autrefois le Parlement; c’est là que se tenaient les séances du tribunal révolutionnaire; c’est là que se réunissent aujourd’hui la Cour de cassation, la Cour impériale, le tribunal de première instance et le tribunal de simple police; c'est là que se trouve également le parquet du procureur général impérial. Il faut visiter la Salle des pas-perdus, d'une longueur de 76 mètres et d’une largeur de 29, la salle où se tiennent les séances de la Cour de cassation, qui était autrefois la grand'chambre du Parlement, et la galerie qui y conduit. Au-dessous sont les prisons de la Conciergerie, dont la porte s'ouvre entre les deux grosses tourelles qui regardent la Seine. On se rappellera que c'est dans un des cachots de cette prison qu'a été enfermée Marie-Antoinette avant de marcher à l'échafaud, et que, peu de temps après, le même cachot reçut Danton, Hébert, Chaumette et Robespierre. L'aspect extérieur de ce palais est un composé bizarre de styles architecturaux de toutes sortes. C’est dans une de ses cours que s'élève, encadrée par une ceinture de lourds et tristes monuments, cette ravissante Sainte-Chapelle dont nous avons parlé ci-avant, (V. Eglise de la Sainte-Chapelle.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 49,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Virmaître_1871_bpt6k5448441v_36",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "215-6",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Le 22, le feu fut mis au Palais-de-Justice. On vit en effet, le 24 au matin, deux lignes de feu marquer: les Tuileries et l’Hôtel-de-Ville; on sut par là que la Commune abandonnait son quartier général. Dans la journée et les jours suivants, on remarqua des tentatives d'incendie des églises; le vendredi 27 vit l'incendie des Magasins-Généraux et des théâtres. Tous les jours, les maisons particulières furent l’objet de tentatives semblables, jusqu’à la fin de l’insurrection. En outre, le feu fut mis en divers endroits par les obus remplis de pétrole que lançaient les insurgés, de leurs batteries de Belleville et de La Chapelle, à travers tout Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 50,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Virmaître_1871_bpt6k5448441v_20",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "216-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Quand tout fut terminé, on put mesurer rapidement la grandeur de nos pertes, sur lesquelles on n'avait jusque-là ni à Paris, ni hors Paris, de données précises. On trouva les Tuileries réduites aux deux premiers étages; le troisième enlevé, ainsi que le dôme; l'intérieur entièrement détruit. L'Hôtel de-Ville n'avait plus que ses murs et l'étage supérieur manquait. Les murs seuls restaient également au palais du Conseil d'État, au palais de la Légion d'honneur. Les galeries du Carrousel avaient perdu aussi l'étage supérieur. Les murs seuls restaient aux deux autres étages, entourant les débris fumants. L'intérieur de la bibliothèque du Louvre était anéanti. Le Palais-de-Justice avait perdu plusieurs corps de bâtiments; la Préfecture de police était détruite. Le théâtré de la Porte-Saint-Martin, les magasins du chemin de fer du Nord, à La Villette, sont entièrement consumés. L’Arsenal, le Théâtre-Lyrique n’ont plus que leurs murs. Des cavernes noires s'ouvrent à l’entrée de la rue du Bac, à presque toutes les entrées des maisons de la rue de Lille, à l'entrée du boulevard du Prince-Eugène, aux angles du boulevard de Sébastopol et de la rue de Rivoli et sur la place de la Bastille. Dans le quartier de la Madeleine, des maisons n’ont plus que la façade extérieure; trois angles de la rue Royale et de la rue Saint-Honoré sont des monceaux de cendres. Le Ministère des finances a perdu même le mur de la façade. L'incendie a découvert trois perspectives d’arcades noircies, d’une tristesse de ruine romaine qui serait récente."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 51,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Virmaître_1871_bpt6k5448441v_02",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "219",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "L'incendie du Palais-de-Justice est l'œuvre de Raoul Rigault.\nIl s'était établi dans les bureaux du procureur général à la Cour de cassation. Au moment où'il apprit que l’armée de Versailles entrait dans Paris, il dressait les actes d'accusation contre les otages qui furent assassinés le lendemain.\nIl partit, laissant son substitut, Wurtz, chargé du soin de répandre du pétrole dans tous les appartements du palais. \nCelui-ci envoya chercher le 92e bataillon de la garde nationale. \nEn même temps il faisait demander à un commissaire de police du Palais-de-Justice, nommé Breuillé, deux citoyens pour badigeonner les murs. \nEn les voyant répandre à flots le liquide incendiaire, le plus jeune des gardes du palais, Arthur Receveur, se jeta sur ces misérables pour les empêcher de continuer leur besogne, mais Wurtz le fit arrêter. Les autres gardes, Delumeau, Amiard, Receveur père, Souze et Élie, tentèrent un dernier effort et supplièrent les incendiaires de s'arrêter. Pour toute réponse on leur mit le pistolet sur la gorge et on les renvoya.\nQuelques minutes après leur départ, vers trois heures de l'après-midi, lundi, le feu éclatait sur onze points différents à la fois. \nIl en était de même à la Préfecture de police."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 52,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Roze_1853_bpt6k5551419c_2",
+            "file_name": "Roze_1853_bpt6k5551419c_clean.xml",
+            "docAuthor": null,
+            "docTitle": "Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles",
+            "docDate": 1853.0,
+            "doc_page_number": "9",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]\nces monuments [Notre-Dame, le Palais-de-Justice et la Sainte-Chapelle] ainsi démasqués sur tous les points, des masures et des rues irrégulières qui les avoisinent, feront de la Cité un des plus utiles et des plus magnifiques quartiers de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 53,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Hugo_1831_1_bpt6k6497134z_26",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "238",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Enfin, après avoir laissé en plein champ le monastère des Chartreux, riche édifice contemporain du Palais de Justice, avec ses petits jardins à compartimens et les ruines mal hantées de Vauvert, l'œil tombait, à l'occident, sur les trois aiguilles romanes de Saint-Germain-des-Prés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 54,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Hugo_1831_1_bpt6k6497134z_25",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "232",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Enfin, à droite de la Sainte-Chapelle, vers le couchant, le Palais de Justice asseyait au bord de l'eau son groupe de tours. Les futaies des jardins du roi qui couvraient la pointe occidentale de la Cité masquaient l'îlot du Passeur. Quant à l'eau, du haut des tours de Notre Damé on ne la voyait guère des deux côtés de la Cité: la Seine disparaissait sous les ponts, les ponts sous les maisons."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 55,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Hugo_1831_1_bpt6k6497134z_24",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "10",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Il est certain que, si Ravaillac n’avait point assassiné Henri IV, il n’y aurait point eu de pièces du procès de Ravaillac déposées au greffe du Palais de Justice; point de complices intéressés à faire disparaître lesdites pièces; partant, point d’incendiaires obligés, faute de meilleur yen, à brûler le greffe pour brûler les pièces, et à brûler le Palais de Justice pour brûler le greffe; par conséquent enfin, point d'incendie de 1618. Le vieux Palais serait encore debout avec sa vieille grand'salle; je pourrais dire au lecteur : Allez la voir; et nous serions ainsi dispensés tous deux, moi d’en faire, lui d'en lire une description telle quelle. — Ce qui prouve cette vérité neuve : que les grands événemens ont des suites incalculables."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 56,
+            "Name": "Palais de Justice",
+            "Latitude": 48.8557,
+            "Longitude": 2.3451,
+            "place_name": "Palais de Justice",
+            "uid": "Balleydier_1849_bpt6k105490w_02",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "130",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "La rue qui regarde la tête bronzée du bon Béarnais, conduit directement au Palais de Justice. Allons encore fouiller l'histoire dans la poussière des vieux souvenirs. Ce monument, dont l'origine perdue dans la nuits des temps semble se rapporter cependant aux premières invasions des Normands, existait depuis longtemps lorsque le roi saint Louis, y établissant sa cour, y reçut avec toute la pompe de ce temps-là le roi d'Angleterre, Henri III. En 1383, Philippe-le-Bel le fit presqu'entièrement reconstruire, Charles V l'habita; le roi Charles VII l'abandonna en 1431 au parlement. François Ier s’y réinstalla en 1531. La réception des ambassadeurs, les festins publics et les noces des enfants des enfants de France avaient lieu dans la grande salle de ce Palais, qui a subi souvent de nombreuses métamorphoses. L'intérieur du Palais de Justice est un véritable labyrinthe où l'œil de la justice s'égarerait elle-même, si elle n'avait emprunté le peloton filé d'Ariane. La grande salle, dite dés Pas-Perdus, rappelle la grandeur que les Romains apportaient à la construction de leurs monuments publics."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3451,
+                48.8557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 57,
+            "Name": "Hôtel-Dieu",
+            "Latitude": 48.8547,
+            "Longitude": 2.3486,
+            "place_name": "Hôtel-Dieu",
+            "uid": "Virmaître_1871_bpt6k5448441v_01",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "225-6",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Les fédérés fuirent de toutes parts. Alors des pompiers arrivèrent au pas de course, et après plusieurs heures de travail ils étaient maîtres du feu. \nL’Hôtel-Dieu et Notre-Dame furent incendiés en même temps. Le mercredi 23 mai, à trois heures du matin, un officier d'état-major, agent du Comité central, vint à l’Hôtel-Dieu avec quinze individus qui escortaient deux tonnes de pétrole. \nLes internes parvinrent à étouffer le feu et sauvèrent parmi les pensionnaires cent cinquante gardes nationaux et soldats de la Commune, qu'elle avait sacrifiés.\nLa foule du quartier, les femmes, les enfants suivaient les internes et les aidaient à éteindre le feu. Ils se rendirent ensemble à Notre-Dame, d'où sortait une noire colonne de fumée; ils entrèrent par la porte du clocher; le bedeau et le sonneur, malgré les menaces des fédérés, leur avaient donné les clefs. \nUn brasier brûlait à la hauteur du chœur; une fois éteint, un autre brasier fut découvert à là hauteur du maître-autel; un troisième brasier se trouvait à la hauteur de la chaire, les fédérés avaient amoncelé des charges de pupitres, des balustrades; cet immense bûcher allait presque sous le grand orgue et se joignait à un autre, dressé autour d’un grand Christ et d’une statue de la Vierge. Des papiers étaient à la base, le pétrole avait manqué sans doute, et le feu devait atteindre ce bûcher en continuant ses ravages.\nGrâce à de nombreux dévouements, le feu put être promptement éteint. Tous les troncs avaient été pillés et brisés; les tabernacles, les reliquaires défoncés: le lutrin de bronze était en mille pièces:  c'était une immense dévastation. \nLes boiseries du chœur furent préservées presque complétement; le chœur et les orgues ne furent pas atteints. \nLa basilique fat sauvée, grâce à l’ignorance des insurgés. S'ils avaient mis le feu à la forêt de charpentes huit fois séculaires qui étaient les tours, ne resterait aujourd'hui plus une pierre de cet admirable monument."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3486,
+                48.8547
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 58,
+            "Name": "Hôtel-Dieu",
+            "Latitude": 48.8547,
+            "Longitude": 2.3486,
+            "place_name": "Hôtel-Dieu",
+            "uid": "Roze_1853_bpt6k5551419c_1",
+            "file_name": "Roze_1853_bpt6k5551419c_clean.xml",
+            "docAuthor": null,
+            "docTitle": "Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles",
+            "docDate": 1853.0,
+            "doc_page_number": "6",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]\nLes 46,500 mètres de propriétés à exproprier actuellement, non compris le bâtiment des archives englobé près la place du Palais-de-Justice, ne se composent, sauf la rue de la Barillerie et quelques maisons sur les rues de Constantine et de la Cité que de masures de fort peu de valeur , comme construction et comme location. La valeur moyenne de l’ensemble de ces propriétés ne saurait donc dépasser, selon nous, 400 francs par mètre superficiel, constructions et terrains compensés, ce qui ferait supposer, pour les 46,500 mètres superficiels, une dépense totale d’expropriation de 18,600,000 francs, somme qui serait largement couverte par le produit de la vente des terrains libres de l’emplacement des anciennes Halles, que nous avons estimé, plus haut, à la somme de 22,500,000 francs."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3486,
+                48.8547
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 59,
+            "Name": "Morgue",
+            "Latitude": 48.8521,
+            "Longitude": 2.3523,
+            "place_name": "Morgue",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_09",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": null,
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Dans la Cité, entre le pont au Change et le pont Notre-Dame, se trouve le quai aux Fleurs, qui, trois fois par semaine, offre une agréable promenade au Parisien ami des fleurs et de nos merveilles de horticulture.\nNon loin de Notre-Dame aux sur le quai du Marché-Neuf, s'élève un monument bas, sans ornement inutile, d’un triste aspect et d’une lugubre destination; c’est la Morgue, cette chapelle ardente du crime et de l'infortune; elle reçoit, année commune, sur ses froides tables de marbre, 360 à 370 cadavres d’inconnus qui attendent de la curiosité publique une reconnaissance, un nom, un état civil."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3523,
+                48.8521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 60,
+            "Name": "Morgue",
+            "Latitude": 48.8521,
+            "Longitude": 2.3523,
+            "place_name": "Morgue",
+            "uid": "Guide_1855_bpt6k134268q_02",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "114",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "La Morgue actuelle, située à l'extrémité du quai du Marché-Neuf, fut construite en 1804. Avant, on exposait les corps dans une salle basse dépendant des prisons du Petit-Châtelet. Un greffier-concierge et un médecin sont préposés à la direction et à l'inspection de l'établissement, qui se compose d'une salle d’autopsie et d'une salle d'exposition. Les cadavres abandonnés à la Morgue sont transportés au cimetière dans une voiture spécialement affectée à cet usage."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3523,
+                48.8521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 61,
+            "Name": "Morgue",
+            "Latitude": 48.8521,
+            "Longitude": 2.3523,
+            "place_name": "Morgue",
+            "uid": "Fournel_1867_bpt6k757298_02",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Ce qu'on voit dans les rues de Paris",
+            "docDate": 1867.0,
+            "doc_page_number": "371-3",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Mais ce qui me paraît sérieusement inconcevable, c’est cette coutume de certains industriels de venir s'installer aux abords de la Morgue pour profiter de la faveur du lieu, et pour spéculer, au profit de leur petit commerce, sur la brutale curiosité du public. Passe encore pour les marchands d'oiseaux tout près de là sur le quai! À la rigueur, il y a simplement dans ces volières, qui gazouillent à deux pas de la salle funèbre, matière à de bien jolies antithèses, que j'abandonne à d’autres. Mais que des bouffons aillent grimacer aux portes de la Morgue; que des pîtres s’en viennent débiter leurs grotesques lazzis et leurs calembredaines grivoises en un pareil endroit ; que cette foule, qui devrait at moins emporter une tristesse à défaut d’un remords, passe sans transition de ce spectacle-ci à ce spectacle-là, et qu’elle se range en cercle pour rire à plein ventre des folies souvent immondes d’un bateleur, après avoir contemplé cinq cadavres alignés côte à côte, dans cette terrible nudité qui devrait donner le frisson à tout homme vivant, voilà une chose révoltante et immorale entre toutes! La mort, celle-là surtout qui s’étale sur ces hideuses tablettes, a un caractère trop grave ettrop lugubre pour qu’on la jette en proie à de telles profanations. Je ne passe jamais aux alentours de la Morgue, sans qu’il me prenne envie de chasser à coups de corde les drôles qui ont l’impudeur de descendre à un pareil trafic. \n         On ne peut supprimer la Morgue, je le sais, ni en interdire l'entrée au public, puisque c’est pour le public qu’elle est faite. Seulement, au lieu de la mettre au milieu de Paris, n’aurait-on pu, — je le demande humblement, tout prêt à reconnaître mon incompétence, — la reléguer à une extrémité solitaire de la ville, comme on fait des échafauds et des abattoirs? Ceux qui ont besoin de consulter les pages funèbres de ce registre de pierre ou de cuivre, où de nouveaux noms viennent sans cesse remplacer les anciens, sauraient toujours bien aller le trouver jusque-là.\n         Mais peut-être serait-ce incomnnode. Il y a tant de gens qui ont aujourd’hui besoin de la Morgue, qu’elle est devenue un bâtiment de première nécessité, et il faut avoir soin de la tenir autant que possible à la portée de tous."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3523,
+                48.8521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 62,
+            "Name": "Morgue",
+            "Latitude": 48.8521,
+            "Longitude": 2.3523,
+            "place_name": "Morgue",
+            "uid": "Fournel_1867_bpt6k757298_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Ce qu'on voit dans les rues de Paris",
+            "docDate": 1867.0,
+            "doc_page_number": "368",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Je ne décrirai donc point, à la façon d’un commissaire-priseur, ce petit bâtiment carré, que l’architecte a eu du moins le bon goût de ne pas décorer de colonnades et de pilastres corinthiens. Il est vrai qu’on a bien décoré dans ce genre la Bourse, qui n’est guère plus gaie que la Morgue ; d’aucuns même prétendent qu’elle l’est beaucoup moins, mais ce sont ceux qui n’y ont point affaire, gens suspects a priori, et dont le témoignage n’a rien de décisif en l’espèce. \n         Il s'agit de la Morgue de 1855. Personne n'ignore qu'on a, depuis, rebâti ce funèbre monument ailleurs. (Note de cette nouvelle édition.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3523,
+                48.8521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 63,
+            "Name": "Morgue",
+            "Latitude": 48.8521,
+            "Longitude": 2.3523,
+            "place_name": "Morgue",
+            "uid": "François_1857_bpt6k6439790m_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "47",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "Morne et sombre édifice où l'on transporte, pour y être exposés, les morts inconnus. Cette exposition a lieu sur des tables en marbre noir, inclinées en avant, et garnies chacune, vers l'endroit le plus élevé, d'une espèce d'oreiller qui maintient la tête du cadavre dans une position convénable, pout être bien vue des visiteurs que la curiosité ou le hasard pousse dans cette lugubre demeure. À côté, sont suspendus les vêtements trouvés sur les corps au moment où ils sont déposés à la Morgue."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3523,
+                48.8521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 64,
+            "Name": "Morgue",
+            "Latitude": 48.8521,
+            "Longitude": 2.3523,
+            "place_name": "Morgue",
+            "uid": "Fournier_1860_bpt6k6416873z_01",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "153-4",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Vous connaissez, sur le quai du Marché Neuf, ce petit bâtiment sinistre qu'on appelle la Morgue. Il parait, Dieu merci! qu’on songe\nà le démolir. Il afflige depuis trop longtemps vraiment le regard de tous ceux qui passent par là; et je ne sache pas d’âme un peu sensible qui n’ait fait des vœux pour qu'on en débarrassât l'horizon des quais. \nPar bonheur, en dessinant le tracé du boulevard de Sébastopol, on s'apercut que l’échoppe funèbre se trouvait, ou peu s’en faut, sur le passage. Les susceptibilités municipales, j'allais presque dire les sensibilités, s'éveillèrent. On décida que ce boulevard, l’un des plus beaux ornements de la grande ville, ne pouvait avoir un pareil voisinage, et le bâtiment maudit fut définitivement condamné. \nQuel est l'endroit de Paris auquel on infligera la présence du nouvel édifice, du nouveau tombeau ? On ne le sait pas encore. S'il m'était permis d'émettre un avis en cette question grave, je conseillerais de le bâtir derrière Notre-Dame, au bas de la pointe orientale de l’ile de la Cité, en cet endroit qu'on sorte de la près, appelait autrefois le Terrain. C’est une de solitude que sanctifie le voisinage de vieille cathédrale. La Seine est tout on élèverait sur le bord un bâtiment de forme sérieuse, dans le genre du mausolée de Cécilia Metella, par exemple, on l'entourerait d'ifs et de cyprès, on étendrait devant la facade un rideau de saules pleureurs, et Paris, qui ne peut se soustraire\nà la nécessité d’un pareil monument, sinistre musée de l'assassinat et du suicide, n'aurait pas, du moins, à déplorer comme aujourd'hui l’inconvenance de son emplacement et l’ignominie de sa forme."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3523,
+                48.8521
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 65,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_11",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "126",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Avant de quitter le palais de Justice, l'étranger doit visiter la Sainte-Chapelle, fondée par saint Louis. Ce prince ayant acheté, en 1239, à Baudouin, empereur de Constantinople, une couronne d’épines que celui-ci assurait être celle qui avait été posée sur la tête du Christ, il alla au-devant de la merveilleuse relique jusqu’à Villeneuve-l'Archevêque (Yonne) en compagnie de toute sa famille, et l'apporta à l’abbaye Saint-Antoine des Champs; puis lui-même, pieds nus, avec son frère Robert, la transporta solennellement à la chapelle Saint-Nicolas, dans l'enceinte du palais. Mais un si rare objet méritait bien un logis spécial. C’est pour le recevoir que fut bâtie la Sainte Chapelle, chef-d'œuvre de Pierre de Montreuil, et le morceau le plus accompli peut-être de l'architecture ogivale dans toute sa pureté. « En laquelle l'on dit, raconte l’auteur de la Vie de saint Louis, que il despendit bien 40,000 livres de tournois et plus. Et li benaiez rois aourna d’or et d'argent, et de pierres précieuses, et d’autres joyaux, les lieux et les châsses où les saintes reliques reposent. Et croit t'on que les aournements desdites reliques valent bien 100,000 livres de tournois et plus.» \nAujourd'hui, la Sainte-Chapelle, splendidement réparée, élance vers le ciel son admirable aiguille dorée et fleurdelisée, comme au temps du bon roi saint Louis."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 66,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "25",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Si, tournant le dos à ce travail de Babylone en train de se refaire, on jette l'œil sur l’autre rive de la Seine, on aperçoit, au bout du pont Notre-Dame, la silhouette si pittoresque du palais de Justice avec ses tours au faite en poivrière, ses fenêtres à meneaux, ses murs crénelés, son horloge se détachant d'un fond bleu émaillé d'or, ses demi-roses éclairant la salle des Pas-Perdus, et au-dessus de la Sainte-Chapelle, ce chef-d'œuvre de Pierre de Montereau rendu à sa splendeur première, la flèche dorée qui porte à sa pointe aigué le coq et la couronne d’épines, et, quoique toute récente, surprendrait, pour son étonnante hardiesse et sa légèreté aérienne, les plus habiles tailleurs de pierre du moyen âge, si, par un miracle, ils revenaient à la vie; car les exigences du présent ne nuisent en rien à la religion du passé, et Paris, tout en voulant se procurer l’espace, l'air, le soleil dont il a besoin pour sa colossale existence moderne, se souvient de son histoire. [citant Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 67,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "LaGournerie_1854_bpt6k6394057f_15",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "304-6",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Nulle part plus qu'à la Sainte-Chapelle l’art du moyen âge ne s'est montré prodigue d'imagination et de poésie. Hautes colonnes, riches vitraux dont les éclatantes couleurs défient encore les siècles, arcades et colonnettes peintes avec chapiteaux dorés, médaillons en verre émaillé et argenté sur lesquels se découpent des sujets de l'histoire sainte brillant des teintes les plus vives : tel est le magnifique ensemble qu'offre ou plutôt qu'offrait à l'œil la chapelle de saint Louis, et qu’elle nous offrira bientôt encore, grâce aux restaurations intelligentes dont elle est aujourd'hui l'objet. Mais les saintes reliques, mais les émaux de Léonard de Limoges, la Mère de Pitié de Germain Pilon, le chef en or de saint Louis, la croix de vermeil dans laquelle était enehässé le bois du Calvaire et que portaient quatre figures de lion; mais le mo- dèle de la Sainte-Chapelle en argent doré, chef-d'œuvre de Pijart, mais la chaire où Massillon, debout devant le catafalque de Louis XIV, fit entendre ce cri sublime : Dieu seul est grand! qui nous les rendra? qui comblera jamais le vide qu'a creusé en un jour le torrent révolutionnaire? La chapelle de saint Louis existe du moins encore. C’est bien là la poésie ardente de la foi, lançant dans les airs, comme c’est bien là demandait à droite, vous l’encens, ses clochetons et ses pinacles; la pensée mystique de ce bénoit roi qui Dieu fontaine de larmes. Près de l'autel, à apercevez encore l’oratoire où il priait. L'autel lui-même n'est-il pas celui où, chaque année, le jour du Vendredi saint, il exposait la sainte couronne à la vénération publique? Enfin, sous le pavé, au pied de l'autel, voilà l'endroit où, suivant toutes les probabilités de la critique historique, son cœur repose. La couronne, l'éponge, la vraie croix rappelaient le grand mystère du salut du monde; on les a jetées au vent. Le cœur de saint Louis eût eu le même sort, s’il eût été reconnu pour ètre le cœur d’un roi ; mais on l'a pris pour celui de quelque pauvre homme, de l'architecte du monument sans doute, et il a été remis dans son coffret de plomb sous les dalles. Ce cœur dont la Sainte-Chapelle fut comme un élan d’amour est aujourd’hui la seule relique qui lui reste."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 68,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "LaGournerie_1854_bpt6k6394057f_14",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "304",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "en six années, de 1242 à 1248, l’oratoire Saint-Nicolas fait place à cette merveilleuse Sainte-Chapelle, l'un des plus 8gracieux fleurons de la couronne poétique de la France. Une particularité qui frappe d'abord à la Sainte Chapelle, ce sont ses deux étages d’églises, particularité toutefois qui lui était commune avec la chapelle de l’'archevèché, construite par Maurice de Sully, sous le règne de Philippe-Auguste. L'église inférieure fut destinée à servir de paroisse aux domestiques et marchands du palais. On y entre par une porte latérale ornée jadis de la statue de la Vierge. La voûte en est supportée par un rang de sveltes colonnes qui suivent le mur et rappellent par leur légèreté les colonnes de Saint-Martin-des-Champs. Cette église fut dédiée à Marie. La chapelle supérieure, qui était proprement la chapelle royale, fut placée de son côté, sous le vocable de la sainte Couronne et de la sainte Croix. Là en effet étaient déposées sur l'autel, dans une châsse éclatante d’or et de pierreries, les insignes reliques de la Passion."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 69,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "François_1857_bpt6k6439790m_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "27",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "Un des plus précieux échantillons de l'architecture du XIIIe siècle, et l'un des plus beaux édifices religieux de Paris. La Sainte-Chapelle a été élevée par Eudes de Montreuil d'après le vœu de saint Louis, qui désirait y déposer la Couronne d'épines et la portion de la vraie Croix, que lui avaient envoyées les empereurs de Constantinople Jean de Brienne et Baudonin. Rien de plus léger et de plus gracieusement svelte que les formes extérieures de ce monument; rien de plus élégant et de plus riche que son intérieur; on y admire surtout la délicatesse des sculptures, la finesse des colonnettes et l'éclat des vitraux, dont les vives couleurs font ressembler chaque fenêtre à un écrin de pierres précieuses. De la Sainte-Chapelle à la Madeleine, dont nous venons de parler, il y a toute la distante de la pensée à la matière, du sentiment à la sensation, de l'art chrétien à l'art païen. Il est fâcheux que la Sainte-Chapelle soit enclavée dans des édifices qui l'écrasent de leur lourde et massive architecture. Boileau y a été enterré."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 70,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "Roze_1853_bpt6k5551419c_2",
+            "file_name": "Roze_1853_bpt6k5551419c_clean.xml",
+            "docAuthor": null,
+            "docTitle": "Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles",
+            "docDate": 1853.0,
+            "doc_page_number": "9",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]\nces monuments [Notre-Dame, le Palais-de-Justice et la Sainte-Chapelle] ainsi démasqués sur tous les points, des masures et des rues irrégulières qui les avoisinent, feront de la Cité un des plus utiles et des plus magnifiques quartiers de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 71,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "Hugo_1831_1_bpt6k6497134z_28",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "230-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "La Cité donc s’offrait d’abord aux yeux avec sa poupe au levant et sa proue au couchant. Tourné vers la proue, on avait devant soi un innombrable troupeau de vieux toits, sur lesquels s’arrondissait largement le chevet plombé de la Sainte-Chapelle, pareil à une croupe d’éléphant chargée de sa tour. Seulement ici cette tour était la flèche la plus hardie, la plus ouvrée, la plus menuisée, la plus déchiquetée qui ait jamais laissé voir le ciel à travers còne de dentelle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 72,
+            "Name": "Sainte-Chapelle",
+            "Latitude": 48.8554,
+            "Longitude": 2.345,
+            "place_name": "Sainte-Chapelle",
+            "uid": "Hugo_1831_1_bpt6k6497134z_27",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "206-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200620",
+            "snippet": "Et si nous montons sur la cathédrale, sans nous arrêter à mille barbaries de tout genre, qu’a-t-on fait de ce charmant petit clocher qui s'appuyait sur le point d’intersection de la croisée, et qui, non moins frêle et non moins hardi que sa voisine la flèche ( détruite aussi) de la Sainte-Chapelle, s'enfonçait dans le ciel plus avant que les tours, élancé, aigu, sonore, découpé à jour. Un architecte de bon goût (1787) la amputé, et a cru qu'il suffisait de, la plaie avec cette large emplâtre de masquer plomb qui ressemble au couvercle d’une marmite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.345,
+                48.8554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 73,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "25",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Si, tournant le dos à ce travail de Babylone en train de se refaire, on jette l'œil sur l’autre rive de la Seine, on aperçoit, au bout du pont Notre-Dame, la silhouette si pittoresque du palais de Justice avec ses tours au faite en poivrière, ses fenêtres à meneaux, ses murs crénelés, son horloge se détachant d'un fond bleu émaillé d'or, ses demi-roses éclairant la salle des Pas-Perdus, et au-dessus de la Sainte-Chapelle, ce chef-d'œuvre de Pierre de Montereau rendu à sa splendeur première, la flèche dorée qui porte à sa pointe aigué le coq et la couronne d’épines, et, quoique toute récente, surprendrait, pour son étonnante hardiesse et sa légèreté aérienne, les plus habiles tailleurs de pierre du moyen âge, si, par un miracle, ils revenaient à la vie; car les exigences du présent ne nuisent en rien à la religion du passé, et Paris, tout en voulant se procurer l’espace, l'air, le soleil dont il a besoin pour sa colossale existence moderne, se souvient de son histoire. [citant Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 74,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "LaGournerie_1854_bpt6k6394057f_13",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "321-3",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "Le palais où ont passé toutes ces gloires, gloires de la royauté, de la justice, de l'éloquence, fut circonvenu: de rues étroites qui ne lui laissaient jour et d'air qu'à l'ouest, du côté du jardin de Saint- Louis. Comme le Louvre, ses bâtiments irréguliers étaient flanqués çà et là de tourelles à toit conique dont quelques unes existent encore sur le quai de l'Horloge. Leur pied était alors baigné par la Seine: chacune d'elles avait son nom; il y avait la tour de Beauvais, la tour des Joyaux la tour de la Question, la tour Carrée, la tour Civile, etc. Dans la tour Carrée, qui forme aujourd'hui encore l’angle du quai, fut placée par Charles V, en 1370, une horloge avec son horloger. L'horloge était la plus considérable qui eût encore été vue à Paris; l'horloger, Henri de Vic, était Allemand. Il vint en France sur l'invitation du roi, et un appartement lui fut assigné dans la tour, afin qu'il pût constamment surveiller son œuvre. Au dessus de l'horloge, dans la lanterne, était le tocsin. \nL'aspect extérieur du palais à d’ailleurs été considérablement modifié dans le dernier siècle. A la place de la porte basse qui lui donnait entrée sur la rue de la Barillerie, se développe depuis 1787 une grille monumentale. La rue elle-même s'est élargie, et une nouvelle voie de communication forme, depuis quelques années, une splendide avenue au sanctuaire de la justice. Malheureusement la facade du palais est lourde; elle affecte une certaine grandeur théâtrale, grandeur sans caractère. De tout temps le palais avait eu sa prison, que nous trouvons désignée par le nom de conciergerie, dès le XIVe siècle. La Conciergerie a fidèlement gardé ses cachots et ses verroux. Que de cœurs flétris et que de cœurs généreux ont gémi sous ces voûtes: Enguerrand de Marigny le concussionnaire, et Barnabé Brisson le magistrat timide mais intègre; la Brinvilliers une empoisonneuse, et Charlotte Corday une républicaine de Rome antique; Vergniaud le régicide, et la reine martyre Marie-Antoinette! \nLe cachot de Marie-Antoinette est une salle basse et humide; vous y trouverez encore quelques souvenirs de son passage; et, dans les salles du palais, vous verrez le lieu où siégea Fouquier-Tinville à la place de d'Aguesseau; vous verrez la barre où comparurent et où furent\ncondamnés et Malesherbes et Mouchy, et Cazotte et Mme. Élisabeth, toutes les dignités, toutes les vertus, toutes les gloires."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 75,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "Guide_1855_bpt6k134268q_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "114-5",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Entre la tour de Montgommery et celle du grand César, qui flanquaient autrefois une résidence royale, on distingue la porte basse de la Conciergerie ; une des plus anciennes prisons de Paris. Les prisonniers qui doivent comparaitre devant le juge d'instruction attendent le moment dans les souricières, autrefois cuisines de Saint-Louis. Ce sont des espèces de \ncasemates voûtées. Les souvenirs de la Révolution occupent une graude place dans l'histoire de la Conciergerie. Danton et ses amis y attendirent l'heure de monter sur l’échafaud ; Marie-Antoinette y passa sa dernière nuit de souffrance. \nMalgré son aspect terrible, la Conciergerie est, au fond, meilleure personne qu’elle n’en a l'air. On sollicite à faveur d'y être transféré, et cette faveur ne s’accorde qu'aux personnes privilégiées."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 76,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "François_1857_bpt6k6439790m_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "61-2",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "Ancienne demeure des préfets de Rome, des rois de la première race et de leurs maires du palais, des comtes de Paris sous la seconde, des douze premiers rois de la troisième, notamment du roi saint Louis, qui y fit exécuter de grands travaux, ce vaste mais disparate monument, à travers des remaniements sans nombre, est devenu dans les temps modernes le siége de la justice. C’est là que se réunissait autrefois le Parlement; c’est là que se tenaient les séances du tribunal révolutionnaire; c’est là que se réunissent aujourd’hui la Cour de cassation, la Cour impériale, le tribunal de première instance et le tribunal de simple police; c'est là que se trouve également le parquet du procureur général impérial. Il faut visiter la Salle des pas-perdus, d'une longueur de 76 mètres et d’une largeur de 29, la salle où se tiennent les séances de la Cour de cassation, qui était autrefois la grand'chambre du Parlement, et la galerie qui y conduit. Au-dessous sont les prisons de la Conciergerie, dont la porte s'ouvre entre les deux grosses tourelles qui regardent la Seine. On se rappellera que c'est dans un des cachots de cette prison qu'a été enfermée Marie-Antoinette avant de marcher à l'échafaud, et que, peu de temps après, le même cachot reçut Danton, Hébert, Chaumette et Robespierre. L'aspect extérieur de ce palais est un composé bizarre de styles architecturaux de toutes sortes. C’est dans une de ses cours que s'élève, encadrée par une ceinture de lourds et tristes monuments, cette ravissante Sainte-Chapelle dont nous avons parlé ci-avant, (V. Eglise de la Sainte-Chapelle.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 77,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "Virmaître_1871_bpt6k5448441v_04",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "202-3",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "À la Conciergerie, le mercredi 24, Raoul Rigault vint donner l'ordre de faire sortir tous les prisonniers. \nCeux-ci furent mis en liberté immédiatement.\nÀ peine hors de leur prison, ils se heurtèrent contre les barricades, où les fédérés, sous menace de mort, les forcèrent de prendre part à la lutte contre les troupes régulières. \nTous, unanimement, refusèrent de se servir des armes qu'on leur présentait, et se mirent à fuir au milieu d’une grêle de balles que les fédérés faisaient pleuvoir sur eux. \nLes malheureux allèrent se réfugier dans la Préfecture, au milieu d’une cour que l'incendie avait transformée en une véritable fournaise. \nIls restèrent là jusqu'à cinq heures du soir, dans l'horrible alternative d’être brûlés vifs ou fusillés si les fédérés faisaient un retour offensif. \nA cinq heures, le lieutenant Berger, du 79° de ligne, les délivra à la tête d’un détachement de son régiment. \nParmi les prisonniers qui se trouvaient dans cette cruelle position, on cite le prince Galitzin et M. Andréoli. \nLe sort des détenus de Mazas ressemble assez à celui des détenus de la Conciergerie, incendie à part."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 78,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "Virmaître_1871_bpt6k5448441v_03",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "112-3",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Les prêtres détenus étaient traités, par ordre du farouche Rigault, avec la dernière rigueur; la Conciergerie en contenait soixante environ. Ils recevaient le matin une ration de pain noir; à neuf heures, un bouillon; à trois heures, une part de riz et environ quarante grammes de viande.\nPas de couteau, pas de fourchette, une cuillère de bois, et par mesure spéciale, le privilége de la cantine leur était interdit. \nComme coucher, ces malheureux vieillards, la plupart infirmes, souffraient horriblement, le hamac ordinaire des voleurs leur servait de lit; on les avait privés du maigre matelas; ils restaient enfermés jour et nuit, l'usage du préau leur était défendu, ils ne pouvaient pas communiquer entre eux, aucune lettre ne leur venait du dehors et ils ne pouvaient écrire à qui que ce soit.  \nLeurs bourreaux ne négligeaient aucune occasion d'ajouter les souffrances morales aux souffrances physiques. \nÀ la Conciergerie il existait une chapelle, on leur refusa de dire et d'entendre la messe le jour de Pâques; ce n’était pourtant pas une action de nature à ébranler le pouvoir. \nMais il était dit que la parodie de 93 serait complète. \nDepuis soixante-dix-neuf ans, c'était la première fois à Paris que la fête de Pâques n'était pas célébrée dans toutes les églises."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 79,
+            "Name": "Conciergerie",
+            "Latitude": 48.856,
+            "Longitude": 2.3455,
+            "place_name": "Conciergerie",
+            "uid": "Balleydier_1849_bpt6k105490w_03",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "132",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "Les prisons de la Conciergerie se trouvent sous les voûtes du Palais de Justice, à 4 pieds au-dessous du sol, La première victime illustre qui les inaugura fut le connétable d’Armagnac, impitoyablement massacré par le peuple, le 12 juin 1418. Sous la porte principale de l'entrée de ces prisons se trouvaient, à 15 mètres au-dessous du sol, les fatales oubliettes que M. Peyre, architecte, a converties en un aqueduc. Gabriel de Lorges, comte de Montgommery, a donné son nom à la tour que : l'on voit en entrant à droite dans la cour, et qu'on appelle aujourd’hui la tour de César. Cet infortuné comte, le même qui, dans un tournoi, avait blessé mortellement le roi Henri IE, y fut enfermé en 1574, après avoir été défait en Normandie. Gartouche et Damiens ont également passé par là pour se rendre en Grève. En 1794, les cent trente-deux Nantais amenés à Paris y furent enfermés. Ravaillac et Louvel ont séjourné dans le même cachot, avant les Fieschi, Alibaud et Meunier, qui les y remplacèrent plus tard. Clôturons cette longue liste de criminels pour commencer une autre liste alimentée par la vertu, épuisée par le crime. C’est à la Conciergerie que la plus belle des femmes et que la meilleure des reines, Marie-Antoinette, revêtit la robe blanche du martyre après avoir usé dans ses larmes d’épouse et de mère la robe noire du veuvage. C'est à la Conciergerie que Bailly, Malesherbes, madame Roland, Camille Desmoulins, Danton, André Ghenier, Fabre d'Eglantine, charmaient les heures de la captivité par la répétition des scènes terribles qui les attendaient sur la place de la Révolution. C'est à la Conciergerie que les vingt-et-un Girondins furent jetés pour attendre aussi l’arrêt fatal qui devait terminer sur un échafaud les tempêtes de leur vie politique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3455,
+                48.856
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 80,
+            "Name": "Quai de l'Horloge",
+            "Latitude": 48.856906,
+            "Longitude": 2.34374,
+            "place_name": "Quai de l'Horloge",
+            "uid": "LaGournerie_1854_bpt6k6394057f_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "120",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "La construction du Pont-Neuf apporta de notables changements à la disposition des parties de la ville qu'il mettait en communication. Les îlots qui se trouvaient en aval de l’île de la Cité lui furent réunis, et ce fut sur leur emplacement que s’ouvrirent le terre-plein du Pont Neuf et la place Dauphine. Nous avons déjà parlé du quai de l'Horloge et du quai des Orfévres, qui servirent d’issues au nouveau pont des deux côtés de la Cité. La place des Trois-Maries fut en même temps agrandie sur la rive droite de la Seine, et, sur la rive gauche, uné nouvelle rue, large de dix mètres, fut tracée à travers les terrains des Augustins jusqu'aux murailles de la ville. Cette rue, ainsi que la place de la Cité, reçut le nom de Dauphine, comme expression de la joie populaire au moment de la naissance de Louis XIII. Les rues de Paris n'avaient encore rien perdu de l’antique exiguité de leurs proportions ; ajoutons qu'un grand nombre n'étaient pas pavées, ce qui en rendait fréquemment l'odeur infecte et le parcours difficile. Les nobles ne s’y montraient qu'à cheval, leurs femmes en croupe, les magistrats sur des mules, et ce n’était que dans quelques larges voies telles que la rue Saint-Honoré, la rue Saint-Antoine, la rue Saint-Denis, la rue de Tournon, la rue Dauphine que l’on commençait à rencontrer des carrosses."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.34374,
+                48.856906
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 81,
+            "Name": "Pont-Neuf",
+            "Latitude": 48.857,
+            "Longitude": 2.3413,
+            "place_name": "Pont-Neuf",
+            "uid": "LaGournerie_1854_bpt6k6394057f_18",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "117-8",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "le 31 mai 1578, Henri III posa la première pierre d'un pont qui ne devait être achevé que sous Henri IV, et qui porte aujourd’hui encore, au bout de près de trois siècles, le nom de Pont-Neuf dont il fut gratifié à son origine. Ce monument remarquable fut construit sur les dessins d'Androuet du Cerceau; il a longtemps été considéré comme le plus beau pont de l'Europe. Mais Henri IV ne se borna pas à mettre la dernière main aux œuvres de ses prédécesseurs. Avec lui Paris, si longtemps absorbé par les querelles religieuses, reprit l'activité féconde et artistique des premières années du xvi° siècle. « Si vous revenez à Paris d'ici à deux ans, écrivait Malherbe en 1508 à M. de Peirese, vous ne le connoîtrez plus. Le pavillon du bout de la galerie est presque achevé (galerie d’Apollon); la galerie du pavillon au bâtiment des Tuileries est fort avancée (grande galerie du Louvre); les fenêtres de l'étage d’en bas sont faites; l'eau du Pont-Neuf est aux Tuileries (pompe de la Samaritaine); mais le plus grand changement est en l'île du palais, où l’on fait un quai qui va du Pont-Neuf au Pont-aux-Meuniers (quai de l’Horloge), comme l'autre va du Pont-Neuf au bout du pont Saint-Michel (quai des Orfévres). On fait dans cette même île une place que l'on appellera, à ce que l’on dit, la place Dauphine, qui sera très-belle et bien plus fréquentée que la Royale. Il y a, à cette heure, un grand ordre à Paris pour les boues, pour ce que les maisons sont taxées à deux fois plus qu'elles ne l’estoient (à un écu par an): mais j'ai peur que cette grande furie ne durera pas, et qu'insensiblement nous retournerons au premier désordre et qu'il y fera crotté comme devant. »"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3413,
+                48.857
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 82,
+            "Name": "Pont-Neuf",
+            "Latitude": 48.857,
+            "Longitude": 2.3413,
+            "place_name": "Pont-Neuf",
+            "uid": "LaGournerie_1854_bpt6k6394057f_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "120",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "Le Pont-Neuf, la place Royale et l'hôpital Saint-Louis sont les trois plus glorieux souvenirs de l'architecture de cette époque. Le Pont-Neuf est lourd; mais les têtes de Sylvains, de Satyres et de Dryades qui supportent sa corniche sont d'un beau caractère. [ . . . ] La construction du Pont-Neuf apporta de notables changements à la disposition des parties de la ville qu'il mettait en communication. Les îlots qui se trouvaient en aval de l’île de la Cité lui furent réunis, et ce fut sur leur emplacement que s’ouvrirent le terre-plein du Pont Neuf et la place Dauphine. Nous avons déjà parlé du quai de l'Horloge et du quai des Orfévres, qui servirent d’issues au nouveau pont des deux côtés de la Cité. La place des Trois-Maries fut en même temps agrandie sur la rive droite de la Seine, et, sur la rive gauche, uné nouvelle rue, large de dix mètres, fut tracée à travers les terrains des Augustins jusqu'aux murailles de la ville. Cette rue, ainsi que la place de la Cité, reçut le nom de Dauphine, comme expression de la joie populaire au moment de la naissance de Louis XIII. Les rues de Paris n'avaient encore rien perdu de l’antique exiguité de leurs proportions ; ajoutons qu'un grand nombre n'étaient pas pavées, ce qui en rendait fréquemment l'odeur infecte et le parcours difficile. Les nobles ne s’y montraient qu'à cheval, leurs femmes en croupe, les magistrats sur des mules,  et ce n’était que dans quelques larges voies telles que la rue Saint-Honoré, la rue Saint-Antoine, la rue Saint-Denis, la rue de Tournon, la rue Dauphine que l’on commençait à rencontrer des carrosses."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3413,
+                48.857
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 83,
+            "Name": "Pont-Neuf",
+            "Latitude": 48.857,
+            "Longitude": 2.3413,
+            "place_name": "Pont-Neuf",
+            "uid": "Virmaître_1871_bpt6k5448441v_05",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": null,
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Le mercredi 23 mai, vers dix heures du matin, des fédérés amenèrent sur le Pont-Neuf un individu en bourgeois dont on ignore le nom, mais qui était certainement un membre de la Commune. \nArrêté le matin porteur de valeurs représentant une somme d’un million cinq cent mille francs, les insurgés l’accusaient d’avoir reçu cet argent de Versailles pour livrer une porte aux troupes.\nCet homme, malgré ses protestations, fut adossé au socle de la statue de Henri IV, et une minute après il tombait la tête fracassée. \nSon corps fut ramassé par trois ou quatre insurgés qui le balancèrent deux ou trois fois au-dessus du parapet et le lancèrent dans la Seine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3413,
+                48.857
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 84,
+            "Name": "Pont-Neuf",
+            "Latitude": 48.857,
+            "Longitude": 2.3413,
+            "place_name": "Pont-Neuf",
+            "uid": "Hugo_1831_1_bpt6k6497134z_29",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "82",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Qu’on se représente tous les mascarons du Pont-Neuf, ces cauchemars pétrifiés sous la main de Germain Pilon, prenant vie et souffle, et vénant tour-à-tour vous regarder en face avec des yeux ardens; tous les masques du carnaval de Venise se succédant à votre lorgnette; en un mot, un kaléidoscope humain."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3413,
+                48.857
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 85,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "Cousin_Avallon_1834_bpt6k64291819_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Cousin d'Avalon, Charles-Yves",
+            "docTitle": "Paris ancien et moderne",
+            "docDate": 1834.0,
+            "doc_page_number": "52",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_15",
+            "snippet": "RUE DES MATHURINS-SAINT-JACQUES. Cette rue, qui commence rue Saint-Jacques, et finit rue de La Harpe, se nommait autrefois rue du Palais des Thermes; elle prit ensuite le nom qu’elle porte aujourd'hui, du couvent des Mathurins, qui, avant la révolution, était situé dans cette rue. Au n° 14, on remarque l'hôtel Cluny, bâti en 1505 sur une partie des ruines de l'antique palais des Thermes par Jacques d’Amboise, abbé de Cluny. Cet hôtel appartient aujourd’hui à un libraire qui l'habite, et qui a su en tirer un bon parti, en le peuplant de plusieurs libraires, relieurs, etc."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 86,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "LaGournerie_1854_bpt6k6394057f_22",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "289-90",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Mais parmi toutes les curiosités de l'hôtel de Cluny l'hôtel lui-mème figure au premier rang. Cet hôtel fut construit vers la fin du xv° siècle par deux abbés de Cluny, Jean de Bourbon et Jacques d'Amboise. Ce dernier consacra, si nous en croyons un vieux chroniqueur, 50,000 angelots à son édification de fond en cime; aussi les armes d’Amboise et les statues de la famille y étaient elles prodiguées. La façade principale de l'hôtel se compose d’un vaste corps de logis flanqué de deux ailes; l’une de ces ailes est ouverte au rez-de-chaussée par une suite d’arcades ogivales du plus gracieux dessin. À la naissance des toitures se détache une galerie à jour où pyramident de hautes lucarnes richement sculptées. Une tourelle à pans coupés partage l'édifice; elle est ornée de coquilles et de bourdons de pèlerins en souvenir du célèbre pèlerinage de Saint-Jacques, que ne pouvait oublier Jacques d’'Amboise.\nA l'intérieur, ce qui frappe surtout, c'est l'exquise élégance de la chapelle; par une disposition singulière les nervures élancées des voûtes s’y réunissent en faisceaux sur un pilier central. L'autel est placé dans un hémicycle formant saillie sur le mur extérieur; enfin des niches sculptées en relief, des vitraux, des peintures et une cage d'escalier en broderie de pierre achèvent l’ornementation de ce gracieux monument. L'appartement contigu à la chapelle porte le nom de chambre de la reine Blanche, en mémoire du séjour qu'y fit Marie d'Angleterre, veuve de Louis XII, pendant les premiers mois de son deuil, qu’elle portait en blanc suivant l’usage des reines de France. Parmi les personnages célèbres dont le nom se rattache à l’histoire de l'hôtel de Cluny, nous citerons encore Jacques V, roi d'Écosse, qui y épousa l'une des filles de François Ier, et plusieurs membres de la famille de Guise, le cardinal de Lorraine entre autres. \nPendant la Révolution, l'hôtel de Cluny devint suecessivement un lieu de réunion pour la section du quartier, un amphithéâtre de dissection et un atelier d'imprimerie. La chapelle servit tour à tour de salle de séances et d'amphithéâtre. Depuis lors, grâce à un archéologue distingué, M. du Sommerard, l'hôtel de Cluny a été remis en honneur. Ce fut M. du Sommerard qui eut l'heureuse pensée d’en faire un musée d’antiquités nationales; et le gouvernement en se rendant propriétaire, à sa mort, et de l'hôtel et des collections, en restaurant l'un, en enrichissant les autres, n'a fait que compléter son œuvre."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 87,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "LaGournerie_1854_bpt6k6394057f_21",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "288-9",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "A l'époque de la révolution, les Thermes, devenus propriété nationale, furent adjugés à vil prix, et l'immense salle que nous connaissons servit de magasin à un tonnelier. Depuis lors l'antique palais de Julien a été acquis par la ville de Paris; on l’a recouvert d’un toit, on l'a débarrassé des masures qui le dérobaient aux regards, puis la ville l’a cédé à l'État, qui en a fait un musée. \nLe musée des Thermes est spécialement consacré aux antiquités gallo-romaines, dont il est lui-même le plus glorieux débris; tandis que l'hôtel de Cluny, bâti sur ses décombres et l’un des gracieux monuments de la Renaissance, se trouve non moins heureusement transformé en musée du moyen âge. Parmi les antiquités conservées aux Thermes, je me contenterai de citer l'autel dédié à Jupiter par les nautes de la Seine, et un petit nombre de bas-reliefs et de tombeaux. Quant au musée de Cluny, il serait impossible même d'indiquer toutes les richesses artistiques et archéologiques qu’il renferme en fragments d'architecture et de sculpture, en ivoires surtout, albàtres, bois sculptés, vieux imprimés, vieux manuscrits, vieilles miniatures, riches vitraux, émaux incrustés, orfévrerie, bijouterie, broderies, armurerie, serrurerie, etc."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 88,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "LaGournerie_1854_bpt6k6394057f_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "218-9",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Le frigidarium est toutefois la seule partie de ce monument qui puisse donner une idée complète de son architecture. Seul il a conservé sa large voûte, qui s'élève à quinze mètres au-dessus du pavé et dont les retombées sont soutenues par des proues de navires. Il est remarquable que cette voûte a résisté et à l'action dissolvante de quinze siècles et au poids d’un jardin qui, il y a trente ans encore, la recouvrait de ses cultures et de ses grands arbres. La maçonnerie du palais des Thermes se compose d'un appareil carré mêlé de chaînes de briques superposées symétriquement et recouvert de stuc. \nLes faces des murs du frigidarium sont décorées de trois grandes arcades; celle du milieu est la plus haute, et sur le mur méridional elle se transforme en niche semi-circulaire. Au-dessous de la salle s’étendent divers étages de souterrains qui formaient de vastes dépendances et dans lesquels on voit un bel aqueduc. Le tepidarium était orné de niches alternativement rondes et carrées. Telles sont les seules données qui nous restent sur ce monument, dont la majesté et l'importance contrastent si vivement avec le tableau des cahutes de boue et de paille que nous tracent les anciens historiens de Lutèce, et le modeste titre doppidulum qu'ils lui donnent."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 89,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "LaGournerie_1854_bpt6k6394057f_19",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "277-8",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Sur la pente du coteau de Sainte-Geneviève, s'élèvent d’antiques débris dont le caractère imposant ne manque jamais de frapper ceux qui les aperçoivent de la rue de la Harpe. Ces débris, connus sous le nom de Thermes de Julien, remontent, selon toute apparence, à Constance Chlore. La disposition des matériaux et l’ornementation de l’architecture semblent du moins indiquer clairement les premières années du IVe siècle. N'était-il pas naturel en effet qu'au moment où Dioclétien couvrait le Quirinal de ses Thermes gigantesques, Constance-Chlore, son collègue, cherchât à rivaliser avec lui de splendeur et de magnificence dans les solitudes transalpines? \nLes Thermes de Lutèce rappelèrent done les Thermes de Rome. Ce fut le même luxe, la même grandeur, la mème hardiesse; Julien de Hauteville nous les représente encore, vers la fin du XIIe siècle, dominant et embrassant la montagne de leurs constructions majestueuses « dont les cimes, s'écrie-til, touchent aux cieux et les fondements à l'empire des morts. » Une place publique, située aux environs du carrefour Saint-Michel, de vastes jardins s'étendant jusqu’à Saint Germain-des-Prés et jusqu’à la Seine, et un camp dont quelques fouilles récentes indiquent l'emplacement dans la partie orientale du jardin du Luxembourg, servaient de complément à cette somptueuse habitation. \nQuant aux Thermes proprement dits, ils comprenaient à la fois, dans les mœurs romaines, un palais, des salles publiques pour les bains, une bibliothèque et quelquefois une palestre; c’est ce qui explique l'étendue des substructions que l’on rencontre au fond des caves d’un grand nombre de maisons du quartier de la Sorbonne. La salle grandiose qui seule est demeurée intacte paraît avoir été destinée aux bains froids : c'était le frigidarium. Elle recevait les eaux de l'aqueduc d’Arcueil par quatre tuyaux en terre cuite, dont les orifices sont encore visibles au fond de trois niches pratiquées dans la paroi méridionale de l'édifice. Près de cette salle était le baptisterium, vaste piscine de dix mètres de longueur où les baigneurs pouvaient se plonger et nager. La cour actuelle formait le tepidarium ou bain tiède, et dans son prolongement se trouvait le fourneau où hypocauste, accompagné de petits escaliers de service qui existent encore."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 90,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "François_1857_bpt6k6439790m_09",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "63",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "PALAIS DES THERMES. — Rue de la Harpe, 81. — Vestiges d'un ancien palais construit sous les empereurs romains, par Constance Chore, dit-on, et habité par l'empereur Julien pendant son séjour dans les Gaules. Les rois de la première rase y demeurèrent; mais, abandonné par ceux de la seconde, acheté plus tard par les moines de Cluny, il tomba peu à peu en ruines. Il n’en reste plus de nos jours que quelques vestiges: des fragments de murailles ayant appartenu à la salle où l'on prenait les bains tièdes, chez les Romains le Tepidarium, d'où le nom de du mot grec Therme (chaleur), et la salle des bains froids, le Frigidarium, dont les murs offrent des colonnes ornées de proues de navires, cet antique emblème de la ville de Paris, et dans laquelle on a placé le Musée gallo-romain (V. ces mots). Le palais des Thermes est actuellement réuni à l'hôtel de Cluny, et se visite en mème temps que ce dernier (V. Hôtel de Cluny et Musée du Moyen âge.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 91,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "François_1857_bpt6k6439790m_08",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "52-3",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "MUSÉE GALLO-ROMAIN. — Au Palais des Thermes. (V, ces mots.) — Réunion d’un certain nombre d'objets provenant de la période romaine, et trouvés à diverses époques sur différents points de Paris. On y remarque particulièrement le monument découvert, le 16 mars sous le chœur de Notre-Dame. Bien que généralement défectueux au point de vue de l'art, les débris gallo-romains de l'antique palais de Thermes n’en doivent pas moins figurer au premier rang de nos trésors archéologiques, parce qu’ils sont, comme la salle même à demi ruinée qui les renferme, les seuls vestiges de la Lutèce des Césars que le temps ait épargnées. Visible en mème temps que le Musée de Cluny, dont il fait partie. (V. Musée du Moyen Age.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 92,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "François_1857_bpt6k6439790m_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "52",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "MUSÉE DU MOYEN AGE.— À l'Hôtel de Cluny. (V. ces mots.)— Précieuse collection de plus de 2,000 objets du moyen âge et de la Renaissance, tels que sculptures en marbre, en bois, en pierre; en ivoire; terres cuites, bronzes, meubles, tableaux, vitraux, émaux, faïences, armes, serrurerie, bijoux, ornements d'église, croix, custodes, crosses, etc., etc. Entre autres objets curieux, nous citerons: une chapelle en or fin donnée à la cathédrale de Basle par Henri Il, une collection de 60 petites figurines de 7 centimètres de hauteur, exécutée sous Louis XIII et représentant toute la série des rois de France, depuis Clovis jusqu’à cette époque, un triptyque aux chiffres et attributs de Henri II et de Catherine de Médicis formant cabinet de deuil pour cette dernière après la mort de son mari; un échiquier en cristal de roche coloré et monté en argent doré ayant appartenu à saint Louis, et, dit la tradition, donné à ce prince par le Vieux de la Montagn; enfin les Trois Parques, groupe en marbre blanc attribué à Germain Pilon. \n      Ouvert, avec passe-ports ou permis, les mercredi, jeudi et vendredi, de midi à 4 h. Entrée publique le dimanche de 11 h. à 4."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 93,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "François_1857_bpt6k6439790m_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "39",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "Elégant spécimen de l'architecture de la fin du XVe siècle, bâti par les abbés de Cluny. On y remarque, outre plusieurs salles intérieures, les détails de sculpture qui ornent la façade principale, notamment la balustrade à jour qui règne au-dessus du premier étage et les élégantes cheminées qui surmontent l'édifice. L’hôtel de Cluny renferme un musée d'objets du moyen âge, dont nous parlerons plus loin. (V. Musée du Moyen âge.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 94,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "Hugo_1831_1_bpt6k6497134z_31",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "253",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Ce n'était pas alors seulement une belle ville; c'était une ville homogène, un produit architectural et historique du moyen âge, une chronique de pierre. C'était une cité formée de deux couches seulement, la couche romane et la couche gothique, car la couche romaine avait disparu depuis long-temps, excepté aux Thermes de Julien, où elle perçait encore la se du moyen âge. Quant à la couche celtique, on n’en trouvait même plus d’échantillons en creusant des puits."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 95,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "Hugo_1831_1_bpt6k6497134z_30",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "234-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Quelques beaux hôtels faisaient aussi çà et là de magnifiques saillies sur les greniers pittoresques de la rive gauche; le logis de Nevers, le logis de Rome, le logis de Reims, qui ont disparu ; l'hôtel de Cluny, qui subsiste encore pour la consolation de l'artiste, et dont on a si bêtement découronné la tour il y a quelques années. Près de Cluny, ce palais romain, à belles arches cintrées, c'était les Thermes de Julien."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 96,
+            "Name": "Hôtel de Cluny",
+            "Latitude": 48.8505,
+            "Longitude": 2.3441,
+            "place_name": "Hôtel de Cluny",
+            "uid": "Balleydier_1849_bpt6k105490w_15",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "184",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "Avant de quitter la zone où nous sommes, nous devons une visite au bel hôtel de Cluny. La construction de cet-hôtel, commencée par Jean de Bourbon, abbé de Cluny, et fils naturel de Jean I, duc de Bourbon, interrompue par sa mort, ne fut reprise qu’en 1490, par Jacques d’Amboise. Le mélange de style qu’on remarque dans les diverses parties de ce monument, lui imprime parfaitement la couleur de l'époque transitoire qui a présidé à sa création. La façade de l'hôtel: son escalier d’honneur, les ogives de ses fenêtres, la dentelure : de ses toits, forment un ensemble des plus pittoresques. Les chambres de François Lr, d'Henri IV, de la reine Blanche; le salon, la galerie, la salle à manger, etc., méritent notre attention, autant par les souvenirs qu'ils rappellent que par l'excentricité de l'architecture. Mais la partie la plus remarquable de cet édifice, est sans contredit la chapelle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3441,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 97,
+            "Name": "Saint-Germain-des-Prés",
+            "Latitude": 48.854,
+            "Longitude": 2.3345,
+            "place_name": "Saint-Germain-des-Prés",
+            "uid": "LaGournerie_1854_bpt6k6394057f_24",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "201-2",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Remarquez ensuite ces collatéraux qui, au lieu de s'arrêter à la ligne du sanetuaire comme dans les basiliques anciennes, entourent l'autel d’une double couronne de fidèles agenouillés et de chapelles mystérieuses. Ne dirait-on pas l'Église militante et l'Église triomphante unissant leurs espérances et leurs joies autour du Saint des saints? \nDeux époques différentes peuvent d’ailleurs être signalées dans les lignes architectoniques de Saint-Germaindes-Prés. La nef avec ses pleins cintres, ses piliers massifs et ses arcades surbaissées dont la retombée s'appuie sur des colonnes engagées, rappelle le XIe siècle. C’est évidemment la partie de l'édifice que construisirent le roi Robert et l'abbé Morard. Le chœur, au contraire; avec ses naissantes ogives, nous rappelle les jours de Louis le Jeune et d'Alexandre III. Ce fut en effet alors que l'ogive commença à marquer une tendance vers le ciel qui devint bientôt commune à toutes les lignes de l'architecture. \nL'église Saint-Germain-des-Prés est à peu près tout ce qui reste aujourd’hui de l'antique et puissante abbaye dont l’enelos, ceint de fossés et de tours, dominait le Pré-aux-Clercs comme une forteresse. Le palais abbatial ; construit au xvit siècle par le cardinal de Bourbon, existe toutefois encore en face de la rue Furstemberg; mais le cloître, le réfectoire, la bibliothèque, tous ces lieux consacrés à jamais par le souvenir des Pères Montfaucon, Mabillon, d’Achery, Durand, Martène, ont disparu à jamais. Le réfectoire, vaste salle de 35 mètres de long sur 11 de large et 18 de haut, l’un des chefs-d’œuvre de Pierre de Montreuil, a sauté pendant la Révolution par l'explosion fortuite de 15 milliers de salpètre qu’on y avait entassés. La chapelle de la Vierge, située au nord de l’église et dessinée par le mème Montreuil, à fait place à quelques-unes des maisons de la rue de l'Abbaye. Le grand cloître, le chapitre, la sacristie ont été transformés en voies publiques. Autant vaudrait raconter l’envahissement de Rome par les Goths et les Vandales; on eût dit que chacune des merveilles des arts inspirées par l'Église troublat le brutal regard de la Révolution."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3345,
+                48.854
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 98,
+            "Name": "Saint-Germain-des-Prés",
+            "Latitude": 48.854,
+            "Longitude": 2.3345,
+            "place_name": "Saint-Germain-des-Prés",
+            "uid": "LaGournerie_1854_bpt6k6394057f_23",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "200-1",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Lorsqu'on pénètre sous la vieille tour qui sert de portique à Saint-Germain-des-Prés, la pensée remonte jusqu’à ces jours de saint Germain et de Childebert dont Fortunat a chanté les poétiques merveilles. Cette tour est en effet, dans sa partie inférieure, nous l’avons dit, un débris sacré de la première basilique contre lequel sont venus échouer les siècles et les Normands. L'ouverture qui fut pratiquée dans sa base, lors de la reconstruction de l’église, donne entrée dans un espace étroit et sombre des deux côtés duquel se tenaient rangées autrefois les statues mérovingiennes dont nous avons parlé : visages plats, traits à peine définis, attitude roide et immobile. Au sortir de cet obscur vestibule qui rappelle à la fois la barbarie de l'art et-la nuit des temps, se développent tout à coup devant vous de vastes nefs empreintes d’une incomparable grandeur. Ici, tout est nouveau : étendue de l'édifice, hardiesse des voûtes, dispositions symboliques du sanctuaire. caractère inspiré de l'architecture. C’est le génie du catholicisme qui s’éveille, et qui trouve dans la foi un trésor de poésie pour l'expression de chacune de ses pensées. Jusqu'à ce jour l'artiste s'était péniblement cherché des modèles dans les types païens; il avait dessiné des arcades romaines, des basiliques romaines; mais aujourd'hui les traditions antiques n'apparaissent plus que comme un vague souvenir. Au lieu du simple pilier d'autrefois, vous voyez se succéder de sévères massifs flanqués de légères colonnes; au lieu de l'éternelle feuille d’acanthe du chapiteau corinthien, vous apercevez mille fantaisies capricieuses : des sphinx, des oiseaux, des fleurs, etc. La même variété se fait remarquer dans la composition générale du monument : dans la nef de fortes piles; autour du sanctuaire de minces colonnes. Plus on approche du sanctuaire, plus l'architecture semble prendre un caractère inspiré; les colonnettes s'élèvent plus sveltes et plus nombreuses vers le ciel. Les hautes fenêtres se touchent, et la lumière descend à flots de cet orient où s’est levé le Soleil de justice."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3345,
+                48.854
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 99,
+            "Name": "Saint-Germain-des-Prés",
+            "Latitude": 48.854,
+            "Longitude": 2.3345,
+            "place_name": "Saint-Germain-des-Prés",
+            "uid": "Virmaître_1871_bpt6k5448441v_06",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "186",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Sur la rive gauche, l'entrée des troupes fut à peine connue que des gardes nationaux fidèles à la légalité, se réunirent spontanément, sous la conduite du commandant Durouchoux, rue de Babylone; ils enlevèrent plusieurs postes et participèrent avec la troupe à l’attaque des barricades de la rue de Grenelle. Leur commandant fut blessé à mort dans un de ces combats. Le 8e bataillon se réunissait également sous les ordres du commandant Simon et combattait activement l'incendie du Louvre. L'armée, prenant pour base d'opérations l'embarcadère de la rue de Rennes, envoyait trois détachements par les trois grandes voies que commande cette position. Un combat violent s’engagea du cimetière Montparnasse à l'église Saint-Germain-des-Prés. La troupe gagna jusqu’au Pont-Neuf. Ainsi, le lendemain de son entrée, elle avait dans Paris deux positions semblables à deux coins introduits dans la formidable place, dont la base était aux remparts et dont les pointes étaient au Pont-Neuf et au nouvel Opéra."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3345,
+                48.854
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 100,
+            "Name": "Saint-Germain-des-Prés",
+            "Latitude": 48.854,
+            "Longitude": 2.3345,
+            "place_name": "Saint-Germain-des-Prés",
+            "uid": "Hugo_1831_1_bpt6k6497134z_9",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "260-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Cependant cette mer d'harmonie n’est point un chaos. Si grosse et si profonde qu’elle soit, elle n’a point perdu sa transparence: vous y voyez serpenter à part chaque groupe de notes qui s'échappe des sonneries; vous y pouvez suivre le dialogue, tour\nà tour grave et criard, de la crecelle et du bourdon; vous y voyez sauteler les octaves d'un clocher à l’autre; vous les regardez s’élancer ailées, légères et sifflantes, de la cloche d'argent, tomber cassées et boiteuses de la cloche de bois; vous admirez au milieu d'elles la riche gamme qui descend et remonte sans cesse les sept clochiers de Saint-Eustache; vous voyez courir tout au travers des notes claires et rapides qui font trois ou quatre zigzags lumineux, et s'évanouisse comme des éclairs. Là bas, c'est l’abbaye Saint-Martin, chanteuse aigre et fêlée; ici, la voix sinistre et bourrue de la Bastille; à l'autre bout, la grosse tour du Louvre, avec sa basse-taille. Le royal carillon du Palais jette sans relâche de tous côtés des trilles resplendissantes, sur lesquelles tombent à temps égaux les lourdes couppetées du beffroi de Notre-Dame, qui les font étinceler comme l’enclume sous le marteau. Par intervalles vous voyez passer des sons de toute forme qui viennent de la triple volée de Saint-Germain-des-Prés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3345,
+                48.854
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 101,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "LaGournerie_1854_bpt6k6394057f_27",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "138",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "le collége des Quatre-Nations avec sa façade en segment de cercle, son dôme, ses pavillons massifs qui forment pendant au Louvre,  rivalisa sans désavantage avec la Sorbonne. Le collége des Quatre-Nations, occupé aujourd’hui par les différentes classes de l'Institut, remplaça l'antique séjour de Nesle et sa tour célèbre."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 102,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "LaGournerie_1854_bpt6k6394057f_26",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "131",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Sur l'emplacement actuel du palais de l'Institut s'élevait toujours d’ailleurs la tour de Nesle, faisant face aux grosses tours de la partie orientale du Louvre, et sur l'emplacement de l'hôtel des Monnaies, l'hôtel de Nevers avec ses cheminées ouvragées et ses tourelles octogones."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 103,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "LaGournerie_1854_bpt6k6394057f_25",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "38",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Une première enceinte avait été tracée autour de Paris. Philippe-Auguste en traça une seconde plus digne de la future grandeur de sa capitale. Ce nouveau cercle de fortifications embrassa au nord les villages de Saint Honoré, Saint-Martin,  Bourg-'Abbé, et au sud, les vastes elôtures qui entouraient Sainte-Geneviève. Quatre tours lui servirent de point d'appui sur la Seine : à l’ouest, la lour qui fait le coin, entre Saint-Germain-l'Auxerrois et le Louvre, et la tour de Nesle, sur les terrains actuels de la bibliothèque Mazarine. Ces deux hautes tours, flanquées de tourelles plus hautes encore, n'étaient séparées l’une de l'autre que par le cours du fleuve; à l’est, la ligne de murailles aboutissait d’un côté à la porte fortifiée de Barbelle-sur-l'yeaue, au point de jonction du quai des Ormes et du quai des Célestins, et de l’autre à la Tournelle ; sur le quai qui en a conservé le nom. De l'une à l’autre de ces portes s'étendait un large canal, tracé en ligne droite à travers les prairies et les chantiers de l'ile Saint-Louis. Il résulte d'un devis extrait des registres de Philippe Auguste, que cette vaste enceinte se composait d'un mur épais surmonté d'un parapet crénelé. Une suite nombreuse de tours rondes la flanquait de distance en distance, et chaque porte était également défendue par des tours."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 104,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "François_1857_bpt6k6439790m_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "62",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "— PALAIS DE L'INSTITUT. — Quai Conti, 23. — Elevé en 1662 par Levau pour y placer le Collége dit des Quatre-Nations, fondé en vertu du testament du cardinal Mazarin, cet édifice, qui occupe l'emplacement de l'ancien hôtel de Nesle, sert aujourd'hui de siége à l'Institut de France (Voir ces mots). Ses bâtiments lourds et écrasés, flanqués de deux pavillons massifs et coiffés d'un dôme hors de proportion avec le monument, font un assez pauvre effet devant l'imposante façade du Louvre, qui se développe sur l'autre bord de la Seine. La salle des séances générales placée sous le dôme est d’une forme bizarre; il faut la voir un jour des grandes réunions de l’Institut. Nous avons parlé ailleurs de la Bibliothèque (Voir Bibliothèque Mazarine). Le pavillon qui renferme cette Bibliothèque est construit à la place qu'occupait autrefois la célèbre Tour de Nesle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 105,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "Hugo_1831_1_bpt6k6497134z_34",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "235",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Celles qui éveillaient d'abord l'œil, c'étaient les Bernardins avec leurs trois clochers; Sainte-Geneviève, dont la tour carrée, qui existe encore, fait tant regretter le reste; la Sorbonne, moitié collége, moitié monastère, dont il survit une si admirable nef; le beau cloître quadrilatéral des Mathurins, son voisin le cloître de Saint-Benoit, les Cordeliers avec leurs trois énormes pignons juxtaposés; les Augustins, dont la gracieuse aiguille faisait, après la tour de Nesle, la deuxième dentelure de ce côté de Paris, à partir de l’occident."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 106,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "Hugo_1831_1_bpt6k6497134z_33",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "232-3",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Et quand le regard passait ces ponts, dont les toits verdissaient à l'œil, moisis avant l’âge par les vapeurs de l'eau, s'il se dirigeait à gauche, vers l'Université, le premier édifice qui le frappait, c'était une grosse et basse gerbe de tours, le petit Châtelet, dont le porche béant dévorait le bout du Petit-Pont; puis, si votre vue parcourait la rive du levant au couchant, de la Tournelle à la tour de Nesle, c'était un long cordon de maisons à solives sculptées, à vitres de couleur, surplombant d'étage en étage sur le pavé, un interminable zigzag de pignons bourgeois, coupé fréquemment par la bouche d’une rue, et de temps en temps aussi par la face ou par le coude d’un grand hôtel de pierre, se carrant à son aise, cours et jardins, ailes et corps de logis, parmi cette populace de maisons serrées et étriquées, comme un grand seigneur dans un tas de manans. Il y avait cinq ou six de ces hôtels sur le quai, depuis le logis de Lorraine, qui partageait avec les Bernardins le grand enclos voisin de la Tournelle, jusqu’à l'hôtel de Nesle, dont la tour principale bornait Paris, et dont les toits pointus étaient en possession pendant trois mois de l'année d'échancrer de leurs triangles noirs le disque écarlate du soleil couchant."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 107,
+            "Name": "Tour de Nesle",
+            "Latitude": 48.8575,
+            "Longitude": 2.337222,
+            "place_name": "Tour de Nesle",
+            "uid": "Hugo_1831_1_bpt6k6497134z_32",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "223",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "L'Université couvrait la rive gauche de la Seine, depuis la Tournelle jusqu’à la Tour de Nesle, points qui correspondent, dans le Paris d'aujourd'hui, l'un à la Halle-aux-Vins, l'autre à la Monnaie. Son enceinte échancrait assez largement cette campagne où Julien avait bâti ses thermes."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337222,
+                48.8575
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 108,
+            "Name": "Saint-Sulpice",
+            "Latitude": 48.851,
+            "Longitude": 2.335,
+            "place_name": "Saint-Sulpice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_52",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "265-6",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Ce n’est ni le Parthénon comme la Madeleine, ni le Panthéon comme le frontispice de Sainte-Geneviève; Saint-Sulpice ne s'annonce pas davantage par une de ces froides devantures sans relief, sans ombres, à la manière de Mansard ou de Palladio. Son double portique est une pensée grande et neuve ; il rappelle ces bénédictions qui tombent, en Italie et dans nos pèlerinages de province, du haut d'une loggia extérieure, sur la ville et sur le peuple. Il indique en outre ces deux étages de l’église chrétienne qui étaient inconnus aux monuments antiques: l'étage de la prière d’où partent les voix du temps, et cet étage de l'harmonie où l'orgue semble redire les éternels concerts des anges. Les proportions de ces deux portiques superposés sont d’ailleurs remarquables par le parfait agencement de toutes leurs parties. Ici point de colonnes grèles comme à Saint-Eustache, point de fronton écrasant comme à Sainte Geneviève. Les tours seules manquent d’ampleur, celle du midi surtout; la tour du nord, reprise en 1777 par Chalgrin, se fait remarquer du moins par une plus riche et plus imposante ordonnance. Ce n’est au reste que de nos jours qu’on a pu apprécier le portail de Saint-Sulpice. Resserré autrefois dans une rue étroite qui le séparait du séminaire de M. Olier, il demeurait complétement inaperçu. Telle était même l'exiguité des lieux, que l'artiste s'était vu obligé de rejeter le perron à l’intérieur du portique, disposition bizarre que nous nous étonnons de voir conserver aujourd'hui. Cet artiste était un Italien du nom de Servandoni, qui était surtout célèbre comme peintre décorateur. On ne peut se dissimuler que l'aspect majestueux de son œuvre tient quelque peu aux habitudes théâtrales de son talent. A l'intérieur, Saint-Sulpice est vaste,  imposant, sévère ; et, si l'on fait abstraction de quelques détails du dernier sièele d'un goût plus où moins hasardé, tels que la chaire, tels surtout que le tombeau de l'abbé Languet dans la chapelle Saint-Jean, son ordonnance générale est d'une noblesse pleine de grandeur."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.335,
+                48.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 109,
+            "Name": "Saint-Sulpice",
+            "Latitude": 48.851,
+            "Longitude": 2.335,
+            "place_name": "Saint-Sulpice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_30",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "265-6",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Nous ne prétendons pas assurément que Saint-Sulpice ait cette expression de foi et de piété que possèdent nos vieilles églises ogivales. C'est de l'architecture classique, païenne si l’on veut, mais traitée du moins avec un esprit chrétien. Ce n’est ni le Parthénon comme la Madeleine, ni le Panthéon comme le frontispice de Sainte-Geneviève; Saint-Sulpice ne s'annonce pas davantage par une de ces froides devantures sans relief, sans ombres, à la manière de Mansard ou de Palladio. Son double portique est une pensée grande et neuve ; il rappelle ces bénédictions qui tombent, en Italie et dans nos pèlerinages de province, du haut d'une loggia extérieure, sur la ville et sur le peuple. Il indique en outre ces deux étages de l’église chrétienne qui étaient inconnus aux monuments antiques: l'étage de la prière d’où partent les voix du temps, et cet étage de l'harmonie où l'orgue semble redire les éternels concerts des anges. \nLes proportions de ces deux portiques superposés sont d’ailleurs remarquables par le parfait agencement de toutes leurs parties. Ici point de colonnes grèles comme à Saint-Eustache, point de fronton écrasant comme à Sainte-Geneviève. Les tours seules manquent d’ampleur, celle du midi surtout ; la tour du nord, reprise en 1777 par Chalgrin, se fait remarquer du moins par une plus riche et plus imposante ordonnance.\nCe n’est au reste que de nos jours qu’on a pu apprécier le portail de Saint-Sulpice. Resserré autrefois dans une rue étroite qui le séparait du séminaire de M. Olier, il demeurait complétement inaperçu. Telle était même l'exiguité des lieux, que l'artiste s'était vu obligé de rejeter\nle perron à l’intérieur du portique, disposition bizarre que nous nous étonnons de voir conserver aujourd'hui."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.335,
+                48.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 110,
+            "Name": "Saint-Sulpice",
+            "Latitude": 48.851,
+            "Longitude": 2.335,
+            "place_name": "Saint-Sulpice",
+            "uid": "LaGournerie_1854_bpt6k6394057f_29",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "261-2",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "De toutes les églises conçues dans le style académique de Rome et de la Grèce, Saint-Sulpice est incontestable ment celle qui se distingue à Paris par le plus imposant et le plus religieux caractère. Commencée par le pieux Olier, terminée par Languet de Gergy, deux prètres qui préférèrent aux évèchés et aux grandeurs l’humble cure d'une paroisse alors déserte où mal hebitée, il était impossible qu'elle ne se ressentit de l'esprit profondément chrétien qui inspira toutes leurs œuvres. Lorsque l'abbé Olier prit possession, en 1642, de la cure de Saint-Sulpice, l'église était vieille, délabrée, et la population éparse du quartier passait pour être la plus corrompue de Paris. « Vous nommer le faubourg Saint Germain, écrivait-il, c’est vous dire tous les monstres des vices à dévorer à la fois. »"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.335,
+                48.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 111,
+            "Name": "Saint-Sulpice",
+            "Latitude": 48.851,
+            "Longitude": 2.335,
+            "place_name": "Saint-Sulpice",
+            "uid": "Janin_1843_bpt6k102791c_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "19-20",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "quel esprit n’a-t-il pas fallu [à Victor Hugo] pour soutenir que le Paris du roi Charles X et du roi Louis-Philippe n’était plus que l'ombre informe et décolorée du Paris d’autrefois? Fi donc! à entendre [Hugo] le roi du pittoresque, les Parisiens n’ont plus qu’une ville de plâtre; ils changent de maisons tout comme ils changent leurs vieux habits contre des habits neufs.Si, par hasard, [les Parisiens] se décident à construire quelque monument qui ne soit pas un édifice de plâtre ou de bois, regardez sans rire ce monument une fois bâti, et vous verrez s’il est rien de plus ridicule? Le Panthéon est un gâteau de Savoie; le palais de la Légion-d’Honneur, un palais de pâtisserie; la Halle-au-Blé, une casquette, et encore une casquette de jockey anglais! Quelles sont ces deux grosses clarinettes, surmontées d’un bâton de mesure tordu et grimaçant? Ce sont les tours de Saint-Sulpice, et au sommet des tours, le télégraphe. À quelle architecture appartient le palais de la Bourse? est-ce romain ou est-ce grec? ceux-là ont bien de la bonté qui trouvent que ce soit en effet un monument d’un bel aspect. Quant aux plus belles rues de Paris, dans lesquelles l'habitant de la ville se promène d’un pas si calme et si fier, le Parisien n’a jamais été plus grossièrement badaud que de trouver belles ces vastes issues toutes remplies d’air, de mouvement, d'espace et de soleil. Par exemple, comprenez-vous rien qui soit plus ennuyeux que la rue de Rivoli, où l’on marche à pied sec, où l’on est à l'abri de la pluie en hiver, de la poussière en été, où les plus riches boutiques vous présentent à l’envi tous les trésors du monde? le jardin des Tuileries étale sa plus riante parure, pendant qu’à votre droite l’Arc-de-Triomphe de l'Étoile se dresse dans toute sa majesté. Mais à quoi bon nous tant heurter contre la fantaisie des poëtes? le paradoxe historique n’a jamais eu de plus intrépides soutiens. Innocents et courageux viveurs, pour peu que vous les poussiez à bout, ils vont vous soutenir que (toujours pour ce qui est le pittoresque!) c’est grand dommage qu’on ne roue plus en place de Grève, qu’on ne pende plus à Montfaucon, et que la vieille église de Saint Germain-l’Auxerrois, si calme aujourd’hui et si bien réparée, ne sonne plus de temps à autre le glas funèbre de la Saint Barthélemi."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.335,
+                48.851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 112,
+            "Name": "Palais du Luxembourg",
+            "Latitude": 48.8483,
+            "Longitude": 2.3373,
+            "place_name": "Palais du Luxembourg",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_15",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "128",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Au sortir de Saint-Sulpice, l'étranger doit visiter le palais et le jardin du Luxembourg, qui se trouvent dans le voisinage. Ce sont les Tuileries de la rive gauche. Bâti en 1615 par Marie de Médicis, à l'imitation du palais Pitti de Florence, le palais du Luxembourg a été tour à tour résidence princière avant 1789, prison en 1793, siége de la pairie sous Louis-Philippe, et de la commission exécutive sous la seconde république. C’est là que se sont tenus, en 1848, les états généraux du travail. Aujourd’hui, c’est le palais du sénat et le Musée des artistes vivants."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3373,
+                48.8483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 113,
+            "Name": "Palais du Luxembourg",
+            "Latitude": 48.8483,
+            "Longitude": 2.3373,
+            "place_name": "Palais du Luxembourg",
+            "uid": "François_1857_bpt6k6439790m_14",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "51-2",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "MUSÉE DU LUXEMBOURG. — Àu Palais du Luxembourg. (V. ces mots.)— Le Luxembourg est le Musée des artistes vivants comme le Louvre est le Musée des artistes morts. On y compte environ trois cents œuvres d'art, dont plus de la moitié en tableaux et le reste en sculpture, dessins, lithographies et gravures. Nous citerons le Massacre de Scio et les Femmes d'Alger, Dante et Virgile conduit par Plégias, par E. Delacroix, compositions où se trouvent toutes les qualités et tous les défauts dé ce maitre; lé portrait dé Cherubini, par Ingres; la Mort d'Elisabeth, dé P. Delaroche ; la Naissance d'Henri IV, peinte à dix-sept ans par Dévéria; la Mort de César, par Court; Marius assis sur les ruines de Carthage, par Léon Cogniet; les Romains de la décadence, de Couture; l’Appel des dernières victimes, par Muller; les Femmes souliotes et le Larmoyeur, d'Ary Scheffer; la Charlotte Corday, de Henry Scheffer; le Combat de la barrière de Clichy, d'Horace Vernet, et la Judith, du même. Nommons encore parmi les sculptures, l’Enfant à la tortue, de Rude; le Secret confié à Vénus, de Jouffroy ; le Danseur napolitain, de Duret; la Pudeur, de Jaley, et la Prière, autre composition poétique du mème artiste. Plusieurs des œuvres d'art de ce musée ont été transportées à l'Exposition universelle des Champs-Elysées. On remarque, dans les salles, des plafonds ornés de fort be peintures de Jordaens. Comme le Louvre, ouvert tous les jours, de 11 à 4, sauf le lundi."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3373,
+                48.8483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 114,
+            "Name": "Palais du Luxembourg",
+            "Latitude": 48.8483,
+            "Longitude": 2.3373,
+            "place_name": "Palais du Luxembourg",
+            "uid": "François_1857_bpt6k6439790m_13",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "65-6",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "PALAIS DU LUXEMBOURG . — Elevé en 1616 par Jacques Desbrosses, d’après les ordres de Marie de Médicis, terminé au commencement de ce siècle par Chalgrin, qui acheva l'aile de Est où se trouve le musée des peintres vivants (V. Musée du Luxembourg), et construisit le grand escalier d'honneur dans la galerie de l'Ouest, ce palais a été augmenté sous le règne de Louis-Philippe, pour les besoins de la chambre des pairs, d’un nouveau corps de bâtiment faisant façade sur le jardin, qui, bien que modelé sur les constructions primitives, n’en altère pas moins gravement le caractère général de l'édifice, qu'il alourdit outre mesure quand on le regarde par un de ses grands côtés. Outre le musée, il faut voir dans le Palais la Salle des Séances du Sénat, très-richement décorée, l'ancienne Salle du Trône, la Chapelle, et une charmante pièce dite Chambre à coucher de Marie de Médicis. A côté du Luxembourg est l'Hôtel du Petit-Luxembourg, qui n'offre rien de remarquable, ainsi que le cloître et la chapelle nouvellement restaurée par M. de Gisors, œuvre historique de la fin du XVie siècle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3373,
+                48.8483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 115,
+            "Name": "Palais du Luxembourg",
+            "Latitude": 48.8483,
+            "Longitude": 2.3373,
+            "place_name": "Palais du Luxembourg",
+            "uid": "Balleydier_1849_bpt6k105490w_18",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "175-",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "En 1612, une princesse qui du beau ciel de la Toscane avait été transplantée sous le ciel nuageux de Paris, Marie de Médicis, régente de France, et veuve d'Henri IV, acheta, au prix de 90,000 livres, un hôtel situé à l'extrémité de la rue Vaugirard, et acquis en 1560 par le duc Harlay de Luxembourg, qui lui donne son nom. Après l'avoir agrandi d'une ferme nommée le Pressoir de l'Hôtel-Dieu, elle le remplaça par le palais qui existe aujourd'hui. On y remarque une parfaite symétrie des proportions qui font honneur aux dessins de Jacques Desbrosses, et les trois ordonnances suivantes : \nL'une toscane, au rez-de-chaussée. \nL'autre dorique, au premier étage. \nt la troisième ionique, au second étage. \nDeux pavillons élégants décorent l'extrémité de chaque façade. Un corps avancé, orné. de colonnes , forme le centre. L’aile occidentale possède le magnifique escalier qui conduit à la Chambre des Pairs. Cet escalier, composé de quarante-huit marches, est éclairé par dix vastes croisées. De la salle des séances, qui est considérablement agrandie, on pénètre dans la salle du trône, dont les ornements sont irréprochables."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3373,
+                48.8483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 116,
+            "Name": "Jardin du Luxembourg",
+            "Latitude": 48.8462,
+            "Longitude": 2.3372,
+            "place_name": "Jardin du Luxembourg",
+            "uid": "Fournel_1865_bpt6k1018901_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "41",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Au coin de la rue Monsieur-le-Prince et de la place Saint-Michel, il faut escalader une dizaine de degrés pour arriver aux rez-de-chaussée de droite, et en descendre presque autant pour arriver à ceux de gauche. À la jonction de la rue Victor-Cousin avec la rue Soufflot, on trouve d’un côté des ravins, de l'autre des montagnes, qui communiquent ensemble par un système de talus et d’escaliers compliqués. En face du Panthéon, on montait au Luxembourg comme à un grenier, et l'on y monte encore comme à un entresol; ailleurs, on descend comme dans une cave."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3372,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 117,
+            "Name": "Jardin du Luxembourg",
+            "Latitude": 48.8462,
+            "Longitude": 2.3372,
+            "place_name": "Jardin du Luxembourg",
+            "uid": "Fournel_1865_bpt6k1018901_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "108-9",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "On démonta la fontaine, on numérota les pierres, comme font les commis soigneux pour les volets d’un magasin, et on transporta proprement le tout, sans rien casser, à une vingtaine de mètres en avant. Aujourd’hui, les monuments et les arbres sont des colis; on les ficelle, on les empaquette et on les fait voyager, quelquefois tout d'un bloc, comme Ia fontane du Palmier, sur la place du Châtelet. Il ne faut point médire du progrès : qui sait si, quelque jour, on ne transportera pas ainsi Saint Eustache ou Saint-Séverin, sous prétexte qu'ils contrarient l'alignement? Cela vaudra encore mieux que de les démolir.\nAinsi raccourcie, la magnifique allée de platanes de la Grotte de Médicis a perdu toute sa poésie, en perdant sa plantureuse pelouse, remplacée par un vulgaire bassin; la longue perspective de ces sombres ombrages qui semblaient verser le frigus opacum chanté par Virgile, et le mystérieux lointain de sa fontaine, gâtée par l'adjonction d’un groupe blanchätre qui choque comme une dissonance. \nJoïgnez à ces pertes du jardin du Luxembourg celles qu’il avait déjà subies, sous le règne de Louis-Philippe, par l'agrandissement du palais à ses dépens, et vous aurez son bilan définitif, — definitif jusqu’à ce jour du moins. Il est temps de le clore, en vérité. Mais des bruits sinistres circulent depuis quelque temps au sujet de la Pépinière, ce délicieux réduit où le promeneur peut se croire à deux cents lieues de Paris, et respirer à pleins poumons, loin des becs de gaz et du roulemént des fiacres, le parfum vivifiant des vignes et des rosiers en fleurs. En fait d’embellissements, tout est possible aujourd’hui, je le sais bien, surtout ce qui n’est pas probable; néanmoins je me refuse absolument à croire à celui-là, tant que je ne l'aurai pas vu de mes propres yeux. Je me refuse à croire, jusqu’à ce que le doute ne soit plus permis, qu’on puisse vendre le jardin Botanique à des entrepreneurs de bâtisses, et qu’on ait le courage de faire élever la nouvelle\nÉcole polytechnique au beau milieu de la Pépinière."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3372,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 118,
+            "Name": "Jardin du Luxembourg",
+            "Latitude": 48.8462,
+            "Longitude": 2.3372,
+            "place_name": "Jardin du Luxembourg",
+            "uid": "LaGournerie_1854_bpt6k6394057f_46",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": null,
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Nous avons émis le regret, en parlant des Tuileries, que la fable et l'histoire ancienne y fussent seules représentées. Ce mème reproche eût pu également s'appliquer au Luxembourg, il y a quinze ans. Les Apollon, les Mercure, les Vénus, les Gladiateurs y offraient en effet partout à l'œil leurs nudités inconvenantes et grotesques; mais aujourd'hui, un nouveau et patriotique système d'ornementation s'attache noblement à reproduire, dans ce jardin créé par une reine de France, les traits de la plupart des femmes célèbres de notre histoire : Sainte Geneviève, sainte Clotilde, Blanche de Castille, Marguerite de Provence, Jeanne d'Arc, Jeanne Hachette, Anne de Bretagne, Marie de Médicis, etc. Quelques-unes de ces statues sont déjà postes. Nous avons parlé de la galerie de Rubens. Depuis qu'elle est vide des tableaux de ce grand maître, elle s’est promptement remplie des ouvrages les plus remarquables de nos peintres vivants. La collection qui en a été faite occupe les galeries supérieures des deux ailes du palais. Chaque dimanche, la foule s'y presse devant l'Élisabeth et le Joas de Delaroche, le Boëce et la Jeanne d'Arc de Schnetz, la Charlotte Corday d’Ary Scheffer, le Pierre le Grand de Steuben, le saint Pierre d'Ingres, le Marius de Cogniet, les Femmes d'Alger de Delacroix, les batailles d'Horace Vernet, les intérieurs de Granet, les animaux de Brascassat, etc., etc."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3372,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 119,
+            "Name": "Jardin du Luxembourg",
+            "Latitude": 48.8462,
+            "Longitude": 2.3372,
+            "place_name": "Jardin du Luxembourg",
+            "uid": "Guide_1855_bpt6k134268q_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "56",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Le jardin du Luxembourg, cette promenade de la rive gauche où viennent s’ébattre les étudiants, est vraiment beau. C’est d’abord un parterre garni de fleurs, d’arbustes et de gazons qui se déroulent en face du palais, enfermant dans sa partie centrale un bassin octogone. A droite et à gauche, des talus soutiennent des terrasses ombragées; ces talus, plantés de rosiers et clos par une double balustrade de fer, vont se replier à la grande ligne de l'Observatoire, flanquée elle-même de deux immenses pépinières. Les abords des terrasses sont ornés d’arbustes charmants qui vous envoient leurs haleines embaumées et une pluie de fleurs au moindre vent. Vous retrouvez là le faux ébénier aux grappes d’or, l’épine rose au doux arôme, l’aubépine qui fait souvenir des champs; tout cela fortifié par une arrière-garde de marronniers gigantesques qui, au mois de mai, portent vers les nues, comme des vases parfumés, leurs blanches girandoles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3372,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 120,
+            "Name": "Jardin du Luxembourg",
+            "Latitude": 48.8462,
+            "Longitude": 2.3372,
+            "place_name": "Jardin du Luxembourg",
+            "uid": "François_1857_bpt6k6439790m_15",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "42-3",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "JARDIN DU LUXEMBOURG. — OEuvre de Jacques Desbrosses, le jardin du Luxembourg, bien que d’un genre différent, ne lé cède en rien à celui des Tuileries. Beaucoup de personnes même préfèrent l'ordonnancement plus librement capricieux du premier à la majestueuse et symétrique régularité du second. La superficie est à peu près la mème, environ 24 hectares. Comme les Tuileries, le Luxembourg une partie de ses embellissements à la Convention; c’est elle qui, en 1795, fit exécuter la magnifique avenue conduisant du palais à l'Observatoire, et qui, peu de temps après, créa la pépinière, dont la superficie occupe tout l’espace compris entre cette avenue et la rue de l'Ouest. De l'autre côté de l'avenue est le jardin botanique de l’école de Médecine. Le Luxembourg est renommé pour sa collection de rosiers, unique dans le monde. On y voit aussi un grand nombre d'œuvres d'art, parmi lesquelles nous nous bornerons à signaler la belle fontaine monumentale de Desbrosses, qui se voit au fond d’une pelouse à l’est du palais, et dont déjà été parlé (V. Fontaines); le Gladiateur Borghèse et la Diane à la biche, copiés de l'antique; un groupe d'Adam et de sa famille; par Garaud; un Mercure en bronze, de Pigalle; une Velleda en marbre, par Maindron, et deux statues de la Renaissance, placées sur des colonnes en marbre griotte d'Italie, et figurant: l’une, David vainqueur de Goliath; l'autre, une Jeune Nymphe. Le jardin du Luxembourg, situé au cœur du quartier Latin, est la promenade favorite des étudiants. Ses parterres passent pour les mieux entretenus de tous ceux des autres jardins publics."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3372,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 121,
+            "Name": "Jardin du Luxembourg",
+            "Latitude": 48.8462,
+            "Longitude": 2.3372,
+            "place_name": "Jardin du Luxembourg",
+            "uid": "Asti_1843_bpt6k6471672z_03",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "307-08",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "Tout y inspire le repos, la tranquillité et l'amour. En se promenant sous ces arbres touffus, d’un vert aimable, on est surpris d’y trouver un ordre, une propreté, un soin, que l'on ne croyait possible que dans le tableau d'un artiste, qui se fût proposé de peindre à sa fantaisie un lieu de délice. Si vous le voyiez, vous seriez enchantée du bon goût qui règne dans la disposition de ses avenues. Les branches des arbres qui les dessinent, sont coupées en ligne si droite, et avec tant d'art, qu'elles ne forment plus que deux parois de verdure s’élevant au-dessus de votre tête, à droite et à gauche. De là vous descendriez dans le beau parterre qui se déploie devant le palais; une belle pièce d’eau octogone, que vous verriez dans son centre, par des cygnes qui s’y balancent mollement: des ados et des gazons, entourés des plus belles fleurs, rendent cette scène pittoresque si suave, qu'il serait impossible d'en imaginer une meilleure."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3372,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 122,
+            "Name": "Observatoire",
+            "Latitude": 48.8359,
+            "Longitude": 2.3365,
+            "place_name": "Observatoire",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_23",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "130",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "À l'extrémité de la grande allée du Luxembourg, on aperçoit l'Observatoire, fondé en 1667, sous Louis XIV. Bâti sur les dessins de Perrault, il est placé sur la colline la plus élevée de Paris, le mont Souris. Sa plate-forme est élevée de 27 mètres au-dessus du sol; ses caves, égales en profondeur à la hauteur de l'édifice, jouissent d'une température constante d'environ 10 degrés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3365,
+                48.8359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 123,
+            "Name": "Observatoire",
+            "Latitude": 48.8359,
+            "Longitude": 2.3365,
+            "place_name": "Observatoire",
+            "uid": "Cousin_Avallon_1834_bpt6k64291819_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Cousin d'Avalon, Charles-Yves",
+            "docTitle": "Paris ancien et moderne",
+            "docDate": 1834.0,
+            "doc_page_number": "27-28",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_15",
+            "snippet": "OBSERVATOIRE. Cet édifice, situé rue du Faubourg-Saint-Jacques, n°26, et rue Cassini , n° 1, à l’extrémité de la grande avenue du Luxembourg, est destiné aux observations astronomiques. Il a été construit de 1667 à 1672, par ordre de Colbert, sous la conduite de Perrault, à qui l’on doit la belle colonnade du Louvre. Une pièce de cet édifice est nommée la salle des secrets, parce qu'en appliquant la bouche à la reinure d’un pilastre et parlant tout bas, la personne placée au pilastre opposé, entend ce qu'on dit, tandis que les personnes qui sont au milieu n’entendent rien. On descend dans les caves par un escalier à vis de 360 marches, laissant à la place du noyau un vide qui correspond depuis le fond des souterrains jusqu’à la dernière voûte qui couvre cet édifice. Ces souterrains servent à plusieurs expériences météorologiques, et forment une espèce de labyrinthe où il serait très dangereux de pénétrer sans guide. On voit à cet Observatoire un télescope de vingt-deux pieds de longueur."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3365,
+                48.8359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 124,
+            "Name": "Observatoire",
+            "Latitude": 48.8359,
+            "Longitude": 2.3365,
+            "place_name": "Observatoire",
+            "uid": "ramouzaud_1855_bpt6k65447250_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Eugène Cramouzaud",
+            "docTitle": "Études sur la transformation du XIIe arrondissement",
+            "docDate": 1855.0,
+            "doc_page_number": "96",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_18",
+            "snippet": "Par sa proximité avec le Luxembourg, le quartier de l'Observatoire possède des éléments de prospérité qui lui sont propres et qui pourraient facilement être développés. Une des principales améliorations serait le prolongement de la rue d'Ulm jusqu'à la rue des Bourguignons et à la place du Champ-des-Capucins."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3365,
+                48.8359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 125,
+            "Name": "Observatoire",
+            "Latitude": 48.8359,
+            "Longitude": 2.3365,
+            "place_name": "Observatoire",
+            "uid": "Virmaître_1871_bpt6k5448441v_07",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "235-6",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Pendant que Paris brûlait, des femmes, des enfants jetaient dans les caves des matières incendiaires; aussitôt qu'on s’en aperçut, on fit boucher hermétiquement les soupiraux des caves et les ouvertures des sous-sols. \nCette mesure arrêta net les exploits des incendiaires, dont beaucoup rendront à la justice un compte sévère. Puissent leurs révélations faire arrêter les infâmes promoteurs dé ces actes monstrueux, qui ont failli détruire la première ville du monde. \nDétruire, le mot est exact, car ils étaient décidés à faire sauter Paris entier. \nLes insurgés avaient dans ce but accumulé des matières explosibles dans les égouts et établi des fils qui se rejoignaient tous à un point central, l'Observatoire. \nTous ces fils avaient été coupés avant l'entrée des troupes dans Paris. Un conduit souterrain avait été creusé à cet effet entre les caves d’une maison du boulevard d’'Enfer et l'égout.\nOn frémit à l’idée de l’épouvantable désastre qu’aurait causé l'exécution de ce projet."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3365,
+                48.8359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 126,
+            "Name": "Observatoire",
+            "Latitude": 48.8359,
+            "Longitude": 2.3365,
+            "place_name": "Observatoire",
+            "uid": "Balleydier_1849_bpt6k105490w_08",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "178",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "C'est à la fin de 1595 que l'on traça l'incomparable avenue qui relie le Luxembourg à l'Observatoire, où nous irons maintenant, si vous le voulez bien, cher voyageur. Construit en 1667 par ordre de Colbert, sous la conduite de Claude Perrault, à qui l’on doit la magnifique colonnade du Louvre, l'Observatoire est encore un des mille rayons du brillant soleil de Louis XIV, qui a tant fertilisé le sol de la patrie. Aucune époque de l'histoire de France n’est comparable à ce grand siècle, où le génie transformé sous toutes les espèces, a fécondé le germe de tous les genres de supériorité. L'Observatoire a la forme d'un rectangle dont les quatre façades correspondent-aux points cardinaux du monde: Deux pavillons octogones, en forme detours, ornent les angles de la façade méridionale. Une troisième tour carrée occupe le centre de la façade du nord, où se trouve l'entrée. La bibliothèque de l'Observatoire est riche en livres d astronomie."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3365,
+                48.8359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 127,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_15",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "129-30",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Le plan de cet édifice représente une croix grecque, longue de 110 mètres et large de 80; la coupole qui surmonte le dôme est élevée de 79 mètres au-dessus du sol. Placé sur un des points les plus élevés de la capitale, ce magnifique monument domine tous les autres. De sa coupole, on jouit d’un panorama immense, qui embrasse la grande ville et  n’a d'autre horizon que les coteaux lointains de la Normandie, de la Picardie, et les plaines de l’Orléanais et de la Beauce, qui vont se perdre dans les vapeurs de l'horizon. \nAu-dessous du beau fronton dû au ciseau de David, on lit en lettres d’or : AUX GRANDS HOMMES LA PATRIE RECONNAISSANTE. \nD'après un décret de la constituante, le Panthéon devait, en effet, servir à la sépulture des grands citoyens; mais il a été rendu au culte sous l’invocation de sainte Geneviève, patronne de Paris. On y voit encore, dans les caveaux, les tombeaux de Voltaire et de Jean-Jacques Rousseau. Près du Panthéon se trouvent: l'Ecole de droit, la Bibliothèque Sainte-Geneviève, le Lycée Napoléon, l'École normale, l'École polytechnique, le Lycée Louis-le-Grand, le Collége Rollin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 128,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_03",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "7-Jun",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Paris devint la capitale d'un royaume sous les Mérovingiens. Clovis y résida le premier, en 507, dans un palais situé à l’occident de la Cité. Il y fonda, en souvenir de sa victoire sur les Visigoths, la basilique des apôtres saint Pierre et saint Paul (abbaye Sainte-Geneviève). Il y fut enterré avec son épouse Clotilde, et leurs tombeaux ont été retrouvés dans ces derniers temps. Aujourd'hui, une rue Clovis et une rue Clotilde se croisent à l'angle du lycée Napoléon, et le nom de tour de Clovis est resté à la vieille tour qui domine de sa masse grise les bâtiments de ce lycée, qui occupe l'emplacement de l'antique et célèbre abbaye."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 129,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Cousin_Avallon_1834_bpt6k64291819_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Cousin d'Avalon, Charles-Yves",
+            "docTitle": "Paris ancien et moderne",
+            "docDate": 1834.0,
+            "doc_page_number": "56",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_15",
+            "snippet": "PLACE DE SAINTE-GENEVIÈVE, Ou du Panthéon. C'est sur cette place qu'est située la faculté de Droit, bâtiment construit eu 1770, par Souflot, composé d’un vaste amphithéâtre, de salles et de logements. Il y a environ trois mille à trois mille cinq cents étudiants, tant de Paris que des départements, qui viennent y apprendre à subtiliser les lois, étendre la procédure, et dépouiller les propriétaires, la veuve et l’orphelin, à rendre problématique la vérité, dénaturer les faits et obscurcir les notions simples du bon sens et de la raison."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 130,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Cousin_Avallon_1834_bpt6k64291819_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Cousin d'Avalon, Charles-Yves",
+            "docTitle": "Paris ancien et moderne",
+            "docDate": 1834.0,
+            "doc_page_number": "31-32",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_15",
+            "snippet": "On voyait autrefois dans cette église le tombeau de Clovis, qui, six cents ans après sa mort, avait été rétabli par M. de La Rochefoucauld , abbé de Sainte-Geneviève. Ce même tombeau fut porté au Muséum des monuments français. Tout le monde a connu la châsse de sainte Geneviève. On la découvrait pour des cas extraordinaires, comme maladie du roi, ou pour faire cesser la pluie, et dans des temps de sécheresse, pour avoir de l’eau, etc. Vers la fin du mois de mai de l’an 1603, une longue sécheresse détermina les Parisiens à faire descendre la châsse de sainte Geneviève pour avoir de la pluie; on choisit fort à propos la veille du jour où la lune, changeant de quartier, devait produire un changement dans la température, afin que le miracle s’opérât plus sûrement. Cependant, ni la châsse de la patronne de Paris, ni la lune ne furent propices aux vœux des Parisiens; la pluie si désirée n’arriva point, le temps demeura sec et sans apparence d’eau. Dans le même temps, les chanoines de Sainte-Geneviève, pour suppléer à ce miracle, tâchèrent d’en opérer un autre. « On suborna , dit l'historien l'Etoile, un pauvre diable, condamné aux galères, lequel étant enchaîné comme les autres ; on lui ôta les fers des pieds, à la charge qu'il disait partout (comme il fit), qu’en invoquant madame sainte Geneviève, ils lui étaient tombés des pieds; mais la fourberie découverte par sa propre confession, tourna en risée de ce qu'on voulait faire un miracle d'une chose qui est toute ordinaire et naturelle, et à laquelle Madame sainte Geneviève n'avait pas pensé. » Cette châsse de sainte Geneviève était enrichie de diamants et de pierres précieuses. Tous les jours, du matin au soir, de bonnes gens venaient invoquer sainte Geneviève; ils payaient un petit cierge de deux ou quatre sous qu'ils faisaient brûler contre la grille de la chapelle où était la châsse. Des profanes, en 1793, ont brûlé la châsse de sainte Geneviève sur la place de Grève. Ils eurent l'attention de mettre de côté les diamants avec lesquels on pouvait acheter des biens nationaux pour plusieurs millions. En 1804, un prédicateur, à Saint-Etienne-du-Mont, voulut persuader que cette châsse avait été soustraite des mains des profanes, et que bientôt on la reverrait. Effectivement, le clergé de Saint-Etienne-du-Mont retrouva cette châsse et les reliques de sainte Geneviève, qu'il fit renfermer dans une espèce de tombeau, où journellement les dévots et les dévotes vont faire brûler de petits cierges et toucher du linge, mais toujours en payant, car le clergé ne fait point de crédit, et vend les graces d'en haut en bonne monnaie sonnante, pour la plus grande gloire de Dieu, de la Vierge et de sainte Geneviève."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 131,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "LaGournerie_1854_bpt6k6394057f_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "191-2",
+            "cleaner_name": "SG",
+            "date_added": "20200611",
+            "snippet": "Soufflot venait d'achever ses études à Rome, et son imagination toute jeune encore, toute pleine des merveilles de l'art antique, rêva un temple où s’unit le portique du Panthéon à la coupole de Saint-Pierre. Il chercha même, par les dimensions et la disposition de ses ordres, à donner à ces types célèbres plus d'élégance et de légèreté. S'il ne réussit pas complétement, s'il n'évita pas surtout le reproche d’un peu de maigreur soit dans les entre-colonnements du portique, soit dans le dessin des colonnes du dôme, il n’en demeure pas moins incontestable que peu de monuments classiques offrent un plus remarquable ensemble de grâce et de majesté. La coupole de Sainte-Geneviève n'a pas sans doute l'ampleur des coupoles de l'Orient; mais peut-être aussi rappelle-t-elle mieux, par cela même, cet élan de la prière dont la coupole doit être l'expression. Ce qu’il y a de certain, c'est que rien n’égale, dans les différentes vues de nos récents édifices, l'aspect de ce dôme élancé reposant sur une élégante colonnadé, et dominant toute la ville comme pour porter plus haut et plus loin la gloire et le souvenir de la bienheureuse patronne de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 132,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Janin_1843_bpt6k102791c_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "19-20",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "quel esprit n’a-t-il pas fallu [à Victor Hugo] pour soutenir que le Paris du roi Charles X et du roi Louis-Philippe n’était plus que l'ombre informe et décolorée du Paris d’autrefois? Fi donc! à entendre [Hugo] le roi du pittoresque, les Parisiens n’ont plus qu’une ville de plâtre; ils changent de maisons tout comme ils changent leurs vieux habits contre des habits neufs.Si, par hasard, [les Parisiens] se décident à construire quelque monument qui ne soit pas un édifice de plâtre ou de bois, regardez sans rire ce monument une fois bâti, et vous verrez s’il est rien de plus ridicule? Le Panthéon est un gâteau de Savoie; le palais de la Légion-d’Honneur, un palais de pâtisserie; la Halle-au-Blé, une casquette, et encore une casquette de jockey anglais! Quelles sont ces deux grosses clarinettes, surmontées d’un bâton de mesure tordu et grimaçant? Ce sont les tours de Saint-Sulpice, et au sommet des tours, le télégraphe. À quelle architecture appartient le palais de la Bourse? est-ce romain ou est-ce grec? ceux-là ont bien de la bonté qui trouvent que ce soit en effet un monument d’un bel aspect. Quant aux plus belles rues de Paris, dans lesquelles l'habitant de la ville se promène d’un pas si calme et si fier, le Parisien n’a jamais été plus grossièrement badaud que de trouver belles ces vastes issues toutes remplies d’air, de mouvement, d'espace et de soleil. Par exemple, comprenez-vous rien qui soit plus ennuyeux que la rue de Rivoli, où l’on marche à pied sec, où l’on est à l'abri de la pluie en hiver, de la poussière en été, où les plus riches boutiques vous présentent à l’envi tous les trésors du monde? le jardin des Tuileries étale sa plus riante parure, pendant qu’à votre droite l’Arc-de-Triomphe de l'Étoile se dresse dans toute sa majesté. Mais à quoi bon nous tant heurter contre la fantaisie des poëtes? le paradoxe historique n’a jamais eu de plus intrépides soutiens. Innocents et courageux viveurs, pour peu que vous les poussiez à bout, ils vont vous soutenir que (toujours pour ce qui est le pittoresque!) c’est grand dommage qu’on ne roue plus en place de Grève, qu’on ne pende plus à Montfaucon, et que la vieille église de Saint Germain-l’Auxerrois, si calme aujourd’hui et si bien réparée, ne sonne plus de temps à autre le glas funèbre de la Saint Barthélemi."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 133,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Cramouzaud_1855_bpt6k65447250_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Eugène Cramouzaud",
+            "docTitle": "Études sur la transformation du XIIe arrondissement",
+            "docDate": 1855.0,
+            "doc_page_number": "95",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_18",
+            "snippet": "Les travaux d'embellissement et d'élargissement de la place du Panthéon, limite extrême du quartier Saint-Jacques, peuvent être considérés comme terminés. La nouvelle et monumentale mairie du XIIe arrondissement a reçu aujourd'hui sa destination ; la belle bibliothèque Sainte-Geneviève est ouverte à ses nombreux lecteurs, et, dans peu de jours, les anciens et ignobles bâtiments du collège de Montaigu auront disparu. La place du Panthéon, si vaste, si monumentale, à laquelle on accède si facilement maintenant par la rue Soufflot, est l'une des plus belles de Paris. Mais cette place a besoin d'être complétée, d'une part, dans la direction du Luxembourg, par l'ouverture  d'une grille dans l'axe de la rue Soufflot ; de l'autre, par une communication directe et facile avec le Jardin-des-Plantes, par le percement de la rue Clovis projetée, Celte place et ses alentours se trouvent donc dans une situation satisfaisante et, en attendant les améliorations complémentaires que nous venons de signaler, il est quelques mesures de simple police, faciles à prendre, qui déjà seraient un bienfait pour le quartier, et qu'on pourrait dès à présent obtenir: ce serait l'établissement d'une station de voitures publiques, et la création d'un marché aux fleurs bi-hebdomadaire, à l'instar de ceux qui existent déjà  sur les places de Saint-Sulpice et de la Madeleine, et sur le boulevard Saint-Martin, au Château-d'Eau."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 134,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Cavaignac_1848_bpt6k24241g_CL_1",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Godefroy Cavaignac",
+            "docTitle": "Paris révolutionnaire",
+            "docDate": 1848.0,
+            "doc_page_number": "207",
+            "cleaner_name": "SL",
+            "date_added": "7/8/2020",
+            "snippet": "Puis, sa redingote bien boutonnée, ses pistolets de ceinture bien cachés, la poignée de son sabre  court bien remontée sous l’aisselle gauche, son poignard bien affilé et caché dans sa manche gauche, et prêt à sortir de sa gaine, l'officier allait achever sa ronde, et se réunir à ses collègues, au Grand Quartier-Général de la Compagnie Franche. Ce grand quartier était à l'extrémité supérieure d’une allée étroite, à côté du café de l’Ecole de droit, vis-à-vis le Panthéon."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 135,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "François_1857_bpt6k6439790m_16",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "29",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "ÉGLISE SAINTE-GENEVIEVE ou PANTHÉON, — Pl. du Panthéon,— Fondé en 1751 pour remplacer l'ancienne église Sainte-Genevieve qui tombait en ruines, ce monument, après avoir été consacré par la  première Constituante aux hommes illustres de la patrie sous le nom de Panthéon, après être redevenu église sous la Restauration, après avoir repris le nom de Panthéon sous la monarchie de Juillet, est retourné à sa première destination sous l'invocation de sainte Geneviève. SI le Panthéon n'offre ni la mystérieuse poésie, ni la gracieuse ornementation des édifices gothiques, il n’en fait cependant pas moins honneur à l'architecte Soufflot, par son caractère imposant et majestueux, la sévérité de son style et la puissance de sa construction. Sa coupole, du haut de laquelle on jouit d’une vue magnifique, et dont l'intérieur est peint par Gros, est une assez heureuse réminiscence de celle de Saint-Pierre de Rome, avec laquelle toutefois nous ne voulons pas la comparer. Sa façade principale, vue du Luxembourg, serait d'un grand effet si l'on n'avait pas eu la maladresse d'ouvrir au-devant d'elle une rue trop étroite qui la masque, et à travers laquelle on l'aperçoit comme à travers les tubes allongés d’une lunette d'approche. Nous recommandons le fronton sculpté par David, bien qu'il soit un peu théâtral. Au-dessous de Sainte-Geneviève règnent des caveaux qui renferment les restes de Lagrange, Bougainville, de Soufflot, de Voltaire et de Rousseau. En 1793, ceux de Marat y furent déposés un instant; mais, bientôt après, un décret de la Convention les en bannit."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 136,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Hugo_1831_1_bpt6k6497134z_37",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "236",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Le sol de l'université était montueux. La montagne Sainte-Geneviève y faisait au sud-est une ampoule énorme; et c'était une chose\nà voir du haut dé Notre-Dame que cette foule de rues étroites et tortues (aujourd'hui le pays latin), ces grappes de maisons qui, répandues en tout sens du sommet de cette éminence, se précipitaient en désordre, et presque à pic, sur ses flancs jusqu’au bord de l'eau, ayant l'air, les unes de tomber, les autres de regrimper, toutes de se retenir les unes aux autres. Un flux continuel de mille points noirs qui s'entrecroisaient sur le pavé faisait tout remuer aux yeux: c'était le peuple vu ainsi de haut et de loin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 137,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Hugo_1831_1_bpt6k6497134z_36",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "235",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Il y avait aussi force abbayes d’une beauté plus dévote, d’une grandeur plus grave que les hôtels, mais non moins belles, non moins grandes. Celles qui éveillaient d'abord l'œil, c'étaient les Bernardins avec leurs trois clochers; Sainte-Geneviève, dont la tour carrée, qui existe encore, fait tant regretter le reste; la Sorbonne, moitié collége, moitié monastère, dont il survit une si admirable nef; le beau cloître quadrilatéral des Mathurins, son voisin le cloître de Saint-Benoit, les Cordeliers avec leurs trois énormes pignons juxtaposés; les Augustins, dont la gracieuse aiguille faisait, après la tour de Nesle, la deuxième dentelure de ce côté de Paris, à partir de l’occident."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 138,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Bonneville_1830_bpt6k5530903c_02",
+            "file_name": "Bonneville_1830_bpt6k5530903c_clean.xml",
+            "docAuthor": "Bonneville, A. S. M.",
+            "docTitle": "Essai sur quelques monuments nationaux et d'utilité publique",
+            "docDate": 1830.0,
+            "doc_page_number": "6-May",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "Les arts, détournés de leur véritable but, ont servi trop souvent à flatter la vanité, les passions, la fausse gloire des prétendus grands hommes, à soutenir d’absurdes prétentions de célébrité, ou rappeler les douleurs, plutôt feintes que vraies, de quelques familles privilégiées; faut-il démontrer que depuis quinze ans ils n’ont servi qu’à l’'exhumation des êtres dont on voudrait oublier l'existence ? que les travaux demandés aux artistes les plus distingués ne devaient reproduire que des images, des noms ou des faits capables  d'attrister la patrie par des souvenirs pénibles et souvent injurieux? Peu de jours encore d’asservissement, et Paris aurait vu surgir sur un brillant piédestal les traits d’un roi fainéant, flétri par la mollesse et la débauche, sans doute pour rappeler à la France que la vie entière dece prince ne fut employée qu’à dissiper outrageusement les trésors de l'Etat. La peinture décorait les voûtes de Sainte-Geneviève, l'architecture relevait la Sorbonne et la Madeleine, tandis que l'Arc triomphal de la barrière de l'Étoile demeurait abandonné! Cet état de choses convient-il à notre situation actuelle ? Rendus comme nous à la liberté, les arts doivent partager l'élan de notre glorieuse révolution ; il faut qu’ils ne descendent plus à à la flatterie; il faut qu'un grand peuple ait aussi part à leurs inspirations : tel est aujourd'hui le vœu de la France, tel est le vœu du monarque citoyen qui marche à la tête de notre régénération politique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 139,
+            "Name": "Panthéon",
+            "Latitude": 48.8462,
+            "Longitude": 2.3464,
+            "place_name": "Panthéon",
+            "uid": "Balleydier_1849_bpt6k105490w_17",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "171-3",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "Allons chercher d'autres tombes et d'autres merveilles an Panthéon. Clovis, premier roi chrétien et le privilégié, vainqueur à Tolbiac, fonda sur les instances de Clotilde, la reine, et de Geneviève, la sainte; une église qui fut consacrée par saint Rémy, en l'honneur des apôtres saint Pierre et saint Paul, vers l'année 507. Sainte Geneviève, décédée le 3 janvier 512, fut inhumée dans la chapelle souterraine de cette église, où elle devait un jour recevoir avec les honneurs saints de la canonisation, le glorieux titre de patronne de Paris. \nCette église tombait en ruines, lorsque Louis XV, pour accomplir un vœu qu'il avait fait pendant sa maladie à Metz, la remplaça par l'incomparable édifice que nous admirons en ce moment. \nCe fut l'architecte Soufflot qui présenta les dessins de ce monument, dont le roi vint en grande pompe poser la premiere pierre, le 6 septembre 1764. \nLe portique est composé de vingt-deux colonnes d'ordre corinthien qui ont vingt mètres de hauteur et deux mètres de diamètre. \nElles supportent un fronton dont la longueur est d'environ trente-trois mètres de largeur sur sept de hauteur. Le sculpteur David, chargé de la décoration du tympan de ce fronton, a représenté la France distribuant des palmes et des couronnes à ses grands hommes. On remarque sur le côté droit : Fénelon, Malesherbes, Mirabeau, Voltaire, Rousseau, Lafayette, Carnot, Manuel, Monge, le peintre David, Bichat, etc., etc... Sur l'autre côté on remarque la grande figure de Napoléon, entouré des soldats de la République et de l’'Empire. L'Histoire et la Liberté, aux pieds de la France, inscrivent les noms des grands hommes. On lit sur la frise l'inscription suivante : \nAux grands hommes \nLa patrie reconnaissante ! \nSous la nef du fond se trouvé une église souterraine où nous rencontrerons un magnifique écho, et tout auprès quelques tombeaux peu remarquables comme objets d'art, mais immenses par les dépouilles qu'ils contiennent."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3464,
+                48.8462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 140,
+            "Name": "Saint-Etienne-du-Mont",
+            "Latitude": 48.8465,
+            "Longitude": 2.3481,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3481,
+                48.8465
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 141,
+            "Name": "Odéon",
+            "Latitude": 48.8495,
+            "Longitude": 2.3387,
+            "place_name": "Odéon",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_17",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "128",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Près de là [au Palais du Luxembourg] s'élève le théâtre de l’Odéon, l’un des plus beaux et des plus grands de la capitale. Il porte le nom de second Théâtre-Français; ne serait-ce que pour justifier ainsi celui de premier Théâtre-Français donné à celui de la rue Richelieu [ . . . ] A partir de l'Odéon, l'étranger se trouve en plein pays latin. Ce sont des rues étroites et sillonnées en tous sens d'étudiants à la fois studieux et turbulents."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3387,
+                48.8495
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 142,
+            "Name": "Odéon",
+            "Latitude": 48.8495,
+            "Longitude": 2.3387,
+            "place_name": "Odéon",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_16",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": null,
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Il y a encore, pour les petits budgets, les restaurants à la carte. Citons, parmi les meilleurs: Martin, près de l'Odéon, c’est le rendezvous des professeurs, des avocats stagiaires, de l'aristocratie des écoles, et des bourgeois aisés du quartier qui, une fois par semaine, fuient le pot-au-feu domestique"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3387,
+                48.8495
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 143,
+            "Name": "Odéon",
+            "Latitude": 48.8495,
+            "Longitude": 2.3387,
+            "place_name": "Odéon",
+            "uid": "Banville_1866_bpt6k205836j_04",
+            "file_name": "Banville_1866_bpt6k205836j_clean.xml",
+            "docAuthor": "Banville, Théodore de",
+            "docTitle": "Les parisiennes de Paris",
+            "docDate": 1866.0,
+            "doc_page_number": "162",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "Au dehors, la nuit était sereine. Et cependant ton âme, de Médéric, était plus calme et plus sereine que cette blanche nuit d'hiver où le clair de lune et les rayons des étoiles faisaient danser leurs clairs esprits sur la terre gelée. Car il était dans sa chambre, le beau, le blond, le spirituel, l’heureux Médéric! Dans sa bonne chambre de la place de l’Odéon, n° 4, à l’entresol, chambre souriante, bien close, bien chaude, calfeutrée par les étoffes de soie et les étoffes de laine, par la toile et le velours, et par les bourrelets innombrables."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3387,
+                48.8495
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 144,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_18",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "131-2",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Sur le même quai se trouve le Jardin des Plantes, fondé en 1636 par Guy de la Brosse, médecin de Louis XI, et qui a reçu depuis d'immenses développements. Aujourd’hui cet établissement se compose d’un jardin de botanique avec des serres, d’une ménagerie d'animaux vivants, d’un cabinet d'anatomie comparée, de plusieurs galeries où sont méthodiquement rangés des échantillons des trois règnes de la nature, de plusieurs amphithéâtres pour les cours, et d'une bibliothèque riche d'environ 30,000 volumes; c’est une des plus charmantes promenades du public parisien."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 145,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "Guide_1855_bpt6k134268q_08",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "56-8",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "C'est du haut du labyrinthe qu'il aut embrasser l'étendue du Jardin des Plantes. L'horizon qu'on découvre de celte éminence est un des plus beaux que l’on puisse contempler à Paris; lorsque le solleil étincelle dans l'espace et projette ses gerbes de lumière sur les dômes et les clochers des églises, sur les toits ardoisés de la grande ville, on reste un instant ébloui. Le regard plonge dans cette vaste étendue, puis se repose ensuite sur ces masses de feuillage qui se déroulent dans l'enceinte de ce magnifique jardin.\nDans ce jardin, un des plus beaux, des mieux plantés et des plus riches de l'Europe, l'étranger pourra voir tour à tour les plantes les plus rares et les animaux les plus variés. C'est d’abord la fosse aux ours, puis les brebis d’Abyssinie, les moutons d'Islande, les rennes de Laponie, l'éléphant, les lions, les hyènes, les oiseaux, les serpents. Qu'il aille admirer le palais des singes, el il y verra tous ces hôtes grimaciers agir à leur guise. Heureux peuple! heureux animaux! ils ont obtenu, grâce à leur effroyable ressemblance avec l'homme, ce que la société ne peut donner à tous ses enfants : du pain et un toit. \nQuand on a parcouru toutes les allées du jardin, quand on a vu tous ces animaux aux formes et aux mœurs si diverses; quand on a respiré le parfum de ces fleurs recueillies sur tous les points du globe, on a encore à visiter les serres fermées dans lesquelles sont rassemblées toutes les fleurs et toutes les plantes exotiques."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 146,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "François_1857_bpt6k6439790m_19",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "53",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "MUSÉUM D'HISTOIRE NATURELLE. — Fondé par Louis XIII, en 1626, à la sollicitation de ses médecins Hérouard et Guy La Brosse. Borné d'abord dans ses développements durant le premier siècle de son existence, ce magnifique établissement, unique au monde par l'importance et la variété de ses richesses, possède aujourd'hui, grâce au zèle des savants qui se sont dévoués à ses progrès, des Buffon, des Vaillant, des de Jussieu, des Hauy et des Cuvier, les plus splendides collections qu'un grand peuple ait jamais réunies dans l'intérêt de la science. Le Muséum d'histoire naturelle se divise en deux parties bien distinctes: le Jardin des plantes avec les serres et les ménageries, nous en avons déjà parlé (V. Jardin des Plantes), et le Muséum proprement dit, où se trouvent les galeries consacrées à l’histoire naturelle. Ces galeries, sans rivales chez aucun peuple, offrent elles-mêmes 4 divisions: 1er les galeries de zoologie ; 2e les galeries d'anatomie comparée; 3e les galeries de botanique; 4e les galeries de minéralogie et de géologie. Nous regrettons de ne pouvoir dire que quelques mots de chacune d'elles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 147,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "François_1857_bpt6k6439790m_18",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "42",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "JARDIN DES PLANTES. — L'une des plus belles et des plus intéressantes promenades de Paris, où la curiosité et l'étude trouvent également à se satisfaire. Ce jardin avait 70 ares à son origine; il s'entend aujourd'hui sur environ 25 hectares. On y remarque: un jardin botanique renfermant toutes les plantés utiles et d'agrément qui peuvent vivre sous notre climat; une admirable collection d'arbres fruitiers; des jardins de semis et de naturalisation; de magnifiques serres offrant les plus riches productions végétales du monde; la ménagerie des animaux féroces lions, tigres, panthères, jaguars, hyènes, etc.; la rotonde des singes qui fait le bonheur des enfants; le bâtiment circulaire, où se trouvent les éléphants, les rhinocéros, les girafes, etc.; le bassin dans lequel aime à se plonger le loud hippopotame; les charmants petits parcs qui ont fait donner à cette partie du jardin le nom de vallée suisse, et qui contiennent les animaux paisibles, rare et précieuse réunion venue de tous les points du globe; les fosses des ours, où le traditionnel ours Martin grimpe à l'arbre dépouillé qui sert à ses exercices gymnastiques; les volières, où pillent des oiseux tous les pays; la ménagerie des reptiles; enfin, les bâtiments qui composent le Muséum d'histoire naturelle, et qui renferment les trésors appartenant à cet établissement. (V. Muséum d'histoire naturelle.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 148,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "François_1857_bpt6k6439790m_17",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "13",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "BIBLIOTHÈQUE DU MUSÉUM D'HISTOIRE NATURELLE. — Au Jardin des Plantes: — Riche surtout en ouvrages sur l'histoire naturelle, cette bibliothèque contient environ 30,000 volumes, et un assez grand nombre de manuscrits. Parmi les plus précieux de ces derniers, on remarque particulièrement une magnifique collection de vélins, continuée jusqu'à nos jours par les artistes les plus distingués, formant 90 volumes in-folio et comprenant environ 6,000 dessins, dont 3,000 dé plantes, 500 de mammifères, 4,000 d'oiseaux, 500 de reptiles, 300 de poissons et 6 à 700 de crustacés et de coquilles. C’est un monument unique en son genre; un chef-d'œuvre de peinture et de dessin que l'on ne saurait trop admirer. La bibliothèque du Muséum est ouverte tous les jours, de 10 h. à 3."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 149,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "Hugo_1831_1_bpt6k6497134z_38",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "257",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Saint-Roch à un portail qui n’est comparable, pour la magnificence, qu’à Saint-Thomas-d’Aquin. Il a aussi un calvaire en ronde-bosse dans une cave et un soleil de bois doré. Ce sont là des choses tout-à-fait merveilleuses. La lanterne du labyrinthe du Jardin des Plantes est aussi fort ingénieuse."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 150,
+            "Name": "Jardin des Plantes",
+            "Latitude": 48.8433,
+            "Longitude": 2.361,
+            "place_name": "Jardin des Plantes",
+            "uid": "Balleydier_1849_bpt6k105490w_07",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "166",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "C’est à la sollicitation d'Hérouard, son premier médecin, et de Guy de Labrosse, son médecin ordinaire, que Louis XIII donna des lettres-patentes ordonnant l'établissement d’un jardin qui servit de pépinière aux plantes médicinales. Ce jardin ne contint primitivement que soixante-dix ares; il en compte aujourd'hui plus de cinq cents, merveilleusement coupés de sentiers ombragés par les arbustes les plus rares, amenés à grands frais de tous les pays. On y admire les fruits, les arbres, les fleurs et les animaux des cinq parties du monde; les serres nouvelles, le palais des singes; galerie circulaire en fer garnie de grillages ; les différentes ménageries, la galerie de botanique; la galerie de minéralogie, et la galerie d'anatomie, où parmi les crânes conservés des plus fameux assassins, se trouve le squelette de Soliman, l'assassin de Kléber. \nLes Tournefort, de Jussieu et Buffon ont attaché leurs noms à l’histoire du Jardin des Plantes, qu'ils ont embelli et augmenté. \nCe jardin, cher aux Parisiens dont il est la propriété, rappelle une histoire touchante qui prouve la vérité de ce vers devenu proverbe : A tous les cœurs biens nés que la patrie est chère ! Un jeune sauvage était à Paris, Les merveilles de la capitale, ses fêtes de jour, ses bals de nuit n'avaient pu effacer le profond sentiment de tristesse dont le jeune étranger paraissait atteint. Vainement. on l'avait promené dans les riches galeries du Louvre, dans les brillants salons des Tuileries, dans les foyers des premiers théâtres, dans les fabuleuses magnificences du palais de Versailles, il était resté froid, impassible devant toutes les merveilles de l'art. Il allait mourir de chagrin et d’ennui lorsqu'un jour on le conduisit au Jardin des Plantes : c'était un jour de printemps, le ciel était bleu et le soleil brillait au ciel. Tout à coup, la paupière du sauvage se dilate, ses lèvres s'ouvrent à un sourire, son front rayonne, son regard s'illumine, il s’écrie : voilà donc un arbre de mon pays ! et se jetant sur cet arbre, il l'entoure de ses-bras, le presse contre sa poitrine, et ne le quitte qu‘après avoir obtenu la promesse de revenir le voir le lendemain, tous les jours.... Il est sauvé!"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.361,
+                48.8433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 151,
+            "Name": "Gobelins",
+            "Latitude": 48.835,
+            "Longitude": 2.3527,
+            "place_name": "Gobelins",
+            "uid": "Virmaître_1871_bpt6k5448441v_08",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "188-9",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Cependant les troupes avaient pris toutes les barricades du Nord et du centre jusqu’à la porte Saint Denis et la Bastille. Elles se dirigèrent par le boulevard Richard-Lenoir pour cerner les insurgés dans le nord-est de Paris, où ils s'étaient fortifiés sur cinq hauteurs : La Chapelle, La Villette, les buttes Chaumont-Belleville, Ménilmontant et Charonne. Il leur restait encore sur la rive gauche les forts du Sud Est et les Gobelins; mais les forts furent emportés dans la matinée du jeudi; le fort d'Ivry livra six mille prisonniers et la route des Gobelins; le soir, il ne leur restait plus aucun point de cette rive. Wroblewski, commandant de la circonscription militaire, se tua quand il fut certain de la défaite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.835
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 152,
+            "Name": "Gobelins",
+            "Latitude": 48.835,
+            "Longitude": 2.3527,
+            "place_name": "Gobelins",
+            "uid": "Virmaître_1871_bpt6k5448441v_08",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "188-9",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Cependant les troupes avaient pris toutes les barricades du Nord et du centre jusqu’à la porte Saint Denis et la Bastille. Elles se dirigèrent par le boulevard Richard-Lenoir pour cerner les insurgés dans le nord-est de Paris, où ils s'étaient fortifiés sur cinq hauteurs : La Chapelle, La Villette, les buttes Chaumont-Belleville, Ménilmontant et Charonne. Il leur restait encore sur la rive gauche les forts du Sud Est et les Gobelins; mais les forts furent emportés dans la matinée du jeudi; le fort d'Ivry livra six mille prisonniers et la route des Gobelins; le soir, il ne leur restait plus aucun point de cette rive. Wroblewski, commandant de la circonscription militaire, se tua quand il fut certain de la défaite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.835
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 153,
+            "Name": "Gobelins",
+            "Latitude": 48.835,
+            "Longitude": 2.3527,
+            "place_name": "Gobelins",
+            "uid": "Hugo_1831_1_bpt6k6497134z_39",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "237-8",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Quelques-uns de ces faubourgs avaient de l'importance : c'était d’abord, à partir de la Tournelle, le bourg Saint-Victor avec son pont d’une arche sur la Bièvre, son abbaye, où on lisait l'épitaphe de Louis-le-Gros, epitaphium Ludovici Grossi, et son église à flèche octogone flanquée de quatre clochetons du onzième siècle (on en peut voir une pareille à Étampes; elle n’est pas encore abattue); puis le bourg Saint-Marceau, qui avait déjà trois églises et un couvent; puis, en laissant à gauche le moulin des Gobelins et ses quatre murs blanc, c'était le faubourg Saint-Jacques avec la belle croix sculptée de son carrefour ; l'église de Saint-Jacques du Haut-Pas, qui était alors gothique, pointue et charmante; Saint-Magloire, belle nef du quatorzième siècle, dont Napoléon fit un grenier à foin; Notre-Dame-des Champs, où il y avait des mosaïques byzantines."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.835
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 154,
+            "Name": "Gobelins",
+            "Latitude": 48.835,
+            "Longitude": 2.3527,
+            "place_name": "Gobelins",
+            "uid": "Balleydier_1849_bpt6k105490w_14",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "167",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "Singulière histoire que celle de cet établissement, dont la renommée européenne est justifiée par la splendide richesse de ses tapisseries de haute et de basse- lice. ‘On voyait au quinzième siècle, à l'une des extrémités de Paris, sur les rives de la petite rivière de Bièvre, une petite colonie de teinturiers, et parmi ces travailleurs, se trouvait un nommé Jean Gobelin, remarquable par une activité sans autre égale que son habileté. Peu de temps suffit à cet ouvrier pour faire une fortune tellement considérable, que, lorsqu'elle fut encore augmentée par ses descendants, l'un d'eux voulut honorer le nom des Gobelin en le communiquant au quartier, et même à la rivière, source pre mière de son élévation. Plus tard même un membre de cette riche. famille, Antoine Gobelin, oubliant la modestie de son origine plébéienne, aspirant de plus aux honneurs, acheta le titre de marquis de Brinvilliers, et épousa en 1651 Marie-Marguerite d'Aubray, fille du lieutenant civil de Paris. On connaît la fin de cette femme célèbre par ses débauches, ses empoisonnements, et  sa fortune sur le bûcher de la place de Grève. Après avoir passé entre différentes mains, la manufacture des Gobelins devint tellement puissante, qu’elle attira les regards de Louis XIV, qui, sur la proposition du grand Colbert, eh fit une manufacture royale, dont il confia là direction au célèbre peintre Lebrun. Depuis, la manufacture des Gobelins, sans rivale au monde, enfanta d'innombrables chefs-d'œuvre."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.835
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 155,
+            "Name": "Saint_Germain-l'Auxerrois",
+            "Latitude": 48.8595,
+            "Longitude": 2.3414,
+            "place_name": "Saint_Germain-l'Auxerrois",
+            "uid": "Fournier_1860_bpt6k6416873z_02",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "299-302",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "L’antique paroisse de nos rois, si longtemps menacée, est aujourd’hui une église sauvée, bien mieux, une église réhabilitée. Les dernières démolitions l'ont, pour la première fois, mise en son vrai jour. Elle a tout gagné au vaste déblaiement qui a fait tant de rüines autour d'elle. \n      On peut maintenant se bien mettre au point pour l’admirer dans son ensemble, à commencer par son portail à triple porte, dont un ange fatal, l'ange du jugement dernier, bien digne de planer sur ces environs qui virent les premiers massacres de la Saint Barthélemy, quelques scènes sanglantes de la Fronde et les parodies de Vandales de 1831, surmonte encore le haut pignon. Ce portail, selon M. Didron’, date de la première moitié du x siècle. La petite tour trapue placée au milieu de la croisée de l’église, et qui en dépasse à peine le toit, ést bien plus ancienne. Elle paraît être, avec sa forme romaine, le dernier reste de l’église primitive bâtie, par le roi Robert, à la place du petit baptistère, que sa forme avait fait appeler Saint-Germain-le-Rond, et qui avait succédé lui-même à l'oratoire de Saint-Germain-d’Auxerre. \nLa chapelle de l'abside, qui s’avance en promontoire sur l'antique rue de l'Arbre-Sec, est d’une construction bien moins ancienne que celle de la tour, et même que celle du portail. \nEn faisant autour de la vieille église une de ces promenades de curieux que les nouvelles démolitions avaient rendues si faciles, je remarquai, à la partie supérieure du chevet, de singuliers détails d'ornementation qui m'avaient jusqu'alors échappé et qui m'étonnèrent beaucoup.\nFigurez-vous trois ou quatre poissons, disons le mot, trois ou quatre carpes, coupées en morceaux, dont les fragments sculptés courent en bordure, un peu au-dessous de la galerie qui couronne la chapelle. Ici la tête, puis le corps, plus loin la queue; et, entre chaque morceau, une rosace. Je cherchai longtemps le mot de cet étrange hiéroglyphe. M. Didron me le donna.\nAprès avoir parlé des chapelles qu’on prenait à louage dans cette église pour y faire ses dévotions, il ajoute :\n« J'ai dit que non-seulement les marguilliers louaient ces chapelles aux individus, mais que les individus eux-mêmes les avaient fait construire. Ainsi, un nommé Troncon fit bâtir une chapelle à l'abside, et, pour que le souvenir de ce fait restât imprimé dans la pierre, il fit sculpter en corniche et en guise d'ornements des tronçons de carpe, idée bourgeoise. De la rue de l’Arbre-Sec, on voit aujourd’hui encore ces tronçons de carpe qui se pâment tout le long de la corniche du premier étage. »\nAinsi, ce qui m'avait si bien mis martel en tête n'était autre chose que les armes parlantes d'un bourgeois vaniteux!-"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3414,
+                48.8595
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 156,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_22",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "90-2",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Chaque siècle est venu avec son plan, démolissant en tout ou en partie ce que les précédents avaient édifié, ne prenant nul souci du parallélisme pour des constructions indépendantes les unes des autres, et que séparaient d’ailleurs de vastes espaces remplis de rues, de maisons, de jardins et de terrains vagues. La pensée de réunir le Louvre aux Tuileries n'était pas encore née, et l'on ne cherchait pas la symétrie pour des monuments qu’on ne pensait pas devoir être liés plus tard dans un vaste ensemble. Cette insouciance a rendu dificile la tâche de l'avenir, et une foule de projets plus où moins ingénieux ont été inventés pour obvier à ces irrégularités. Plusieurs, désespérant de masquer la différence d’axe entre le Louvre et les Tuileries, tranchaient dans le vif, et ne parlaient de rien moins que d’abattre la façade de ce palais qui regarde le Carrousel; c’eût été pousser bien loin l'amour de la symétrie absolue que de lui sacrifier l'architecture de Philibert Delorme. Le plan de MM. Percier et Fontaine fermait le Carrousel par une galerie transversale, qui rompait les lignes et empéchait d’apercevoir le défaut de réalité géométrique. Les projets de M. Visconti, si heureusement continués et perfectionnés par M. Lefuel, aujourd'hui en voie d'achèvement, ont surmonté ces obstacles qu'on regardait presque comme invincibles : les dissemblances de niveau et d'axe ont été aplanies ou dissimulées de façon qu'elles échappent entièrement au regard. Les façades s'élèvent, les balustrades se découpent, les couronnements s’alignent, les combles se posent, les chapiteaux se sculptent, les colonnes s’évident, les tympans s’arrondissent, les ornements se fouillent, les escaliers monumentaux se développent, les trophées se groupent, les cariatides s'apprêtent à supporter leur charge, les grilles se forgent pour entourer les jardins qui se plantent, et bientôt au milieu de la cour du Louvre piaffera le cheval fier de porter parmi les merveilles de la renaissance François Ier le roi lettré et chevaleresque. Les statues équestres de Louis XIV\n      et de Napoléon I‘ orneront les squares quise dessinent, et qui rempliront de leur verdure l'espace laissé libre entre les pavillons. Le portique à colonnes corinthiennes circulant autour des constructions nouvelles a reçu ses cannelures, ses acanthes et ses balustres, et les bâtiments neufs, par leur richesse élégante, feront ressortir la simplicité mâle et sobre de la face du vieux Louvre qui regarde les Tuileries, et à laquelle on n’a pas voulu enlever le cachet caractéristique de l’époque.\n      [citant Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 157,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_21",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "90",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Ces parterres à compartiments symétriques, jetés au milieu de ces bâtiments si divers de forme et de hauteur, ce chaos de tours et de tourelles, les unes lourdement assises dans le fond même des fossés, les autres suspendues en quelque sorte aux murailles et soutenues en-porte-à-faux; ce pêle-mêle de toits pointus, ici couverts de plomb, là de tuiles vernissées, les uns coiffés de lourdes girouettes, les autres de crêtes, de panaches reluisant au soleil; tout cela ne ressemblait guère à ce qu on nomme aujourd’hui un palais de: souverain; mais ce désordre, ces contrastes, qui pour nous ne sont que pittoresques, parlaient alors touts autrement aux imaginations, et ne manquäient ni de grandeür, ni de majesté. Ce sont là les beaux jours du Louvre féodal, le temps où il fut vivant, peuplé et biens entretenu."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 158,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Fournel_1865_bpt6k1018901_08",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "152-3",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Du centre de la vaste place dessinée par le périmètre des deux palais, promenez un regard attentif sur l’œuvre de Visconti et de son successeur : ce qui vous frappera tout d'abord, en contraste avec l'abondance et la richesse des moyens mis en jeu, c’est la pauvreté de l'effet général. Si le grand art, suivant la définition des maîtres, est celui qui produit le plus d'effet avec le moins d'effort, le nouvel édifice est précisément le contraire du grand art. Cette médiocrité de l’effet tient en partie sans doute au peu d’élévation relative de cet immense parallélogramme de bâtiments, dont le niveau, suffisant pour la cour intérieure du Louvre, n’est plus ici proportionné à l'extension du point de vue; mais elle tient encore plus à l'absence de grandes lignes architecturales, au manque de style, à la stérilité de l'invention remplacée par l’exubérance de la décoration. Il faut étudier de près, fragment par fragment, cette œuvre de détails, sans chercher à l’embrasser dans l’harmonie d’un coup d’œil d'ensemble. Il y a trop d’arabesques, de colonnes, d’acrotères, de statues, de bas-reliefs, de cariatides (un ornement que nos architectes prodiguent aujourd’hui sans mesure et souvent à faux) : plus l'art est élevé, plus il est sobre de ce faste décoratif, dont l'abus ne sert qu’à prouver son impuissance et l’étouffe au lieu de l'aider. Avec une simple ligne, gracieuse ou sévère, il en dit plus qu'avec toutes ces pompes amollies de la décadence, avec cet étalage théàtral qui fait ressembler le nouveau Louvré à un décor d’opéra, auquel il manque seulement, pour produire toute son impression, d’être éclairé par un jet de lumière électrique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 159,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Fournel_1865_bpt6k1018901_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "149-51",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Cette tâche [de joindre le Louvre au Palais des Tuileries] était de celles qui ne s'improvisent pas, et nous sommes sûr de n'étonner ni M. Haussmann ni M. Lefuel, en constatant qu'ils n’y ont que fort incomplétement réussi. Sans doute, à l'aide d'artifices élémentaires, on a bien pu voiler çà et là les différences de niveau des bâtiments et tourner quelques autres obstacles d’un ordre subalterne; mais, sur des points plus importants, les dernières constructions n’ont fait que mettre en relief ces discordances qu’elles devaient atténuer, et en accroître considérablement le nombre. Si l’on examine la facade récemment élevée sur la rue de Rivoli, on s'aperçoit que l'architecte, entrainé par le désir de créer un riche vis-à-vis au Palais-Royal, en a brusquement changé le style à la partie centrale, dont les panneaux sculptés, les ornements de la frise et des baies, la riche décoration, imitée de la fin du seizième siècle, jurent avec la simplicité sévère du reste de la façade. Dans l'aile neuve qui clôt à l'ouest, en retour d'équerre, le petit jardin ouvert sur la méme rue, les fenêtres, sans cesser de reproduire la forme et les moulures de celles du vieux Louvre, prennent tout à coup une dimension différente, assez sensible pour blesser l'œil et briser désagréablement la perspective. Autant qu’on peut le deviner sous l’appareil d’échafaudages qui l’enveloppent du haut en bas comme une carapace, la reconstruction du pavillon de Flore va ajouter un trait de plus à cette confusion fâcheuse. Le gros œuvre du bâtiment, avec ses disgracieux œils-de-bœuf surmontés de petites lucarnes de deux ou trois pieds carrés, pareilles à celles d’un grenier, ne rappelle en rien jusqu'à présent l'architecture de Philibert Delorme, non plus que celle de Ducerceau. Le pan de galerie neuve adjacent à ce pavillon ne reproduit pas non plus le type de la galerie du bord de l'eau, qu’il déborde par une saillie de cinq où six mètres, en faisant pour ainsi dire planer sur elle la menace assurée d’une démolition prochaine !\n[Note de l'auteur:] Aujourd’hui, la menace est accomplie. 11 paraît qu'on avait conçu des craintes sur la solidité de cette galerie; mais ces craintes, venues à point nommé, et qui font honneur an zèle ingénieux de l'édilité actuelle, ont dü se convaincre qu'elles étaient singulièrement prématurées, devant ces fondations d’une solidité prodigieuse qui a opposé une résistance héroïque au vandalisme des pioches et des leviers    conjurés contre elles. En restera-t-on là, du moins? M. Berryer a eu l'indiscrétion de le demander en pleine Chambre, dans la séance du 28 mai 1864, et l'organe du gouvernement a bien voulu le rassurer, en affirmant d’une façon solennelle qu’on n'avait pas actuellement l'intention de reconstruire en entier les Tuileries. Cet adverbe a fait frémir tous ceux qui sont au courant du vocabulaire officiel, et il suffit de jeter un coup d'œil sur les derniers travaux pour être fixé sur la valeur de cette réponse. Tout en professant le respect qui sied pour les paroles de l’orateur du gouvernement, on peut prédire, sans crainte de démenti et sans avoir la prétention de se poser en prophète, que le nouveau pavillon de Flore exigera un nouveau pavillon de Marsan, et que la reconstruction de la galerie du bord de l'eau entrainera celle de la galerie qui longe la rue de Rivoli. Nous serons trop heureux si l'on ne va pas plus loin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 160,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Fournel_1865_bpt6k1018901_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "147-9",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Le régime actuel aura eu la gloire de mener rapidement à terme, grâce à la précaution qu’il avait prise de supprimer au préalable tous les obstacles, cette réunion des deux grands palais monarchiques, rèvée par Hénri IV, Louis XIV et Louis-Philippe; rêvée surtout, comme la continuation de la rue de Rivoli, par Napoléon 1er, dont Napoléon III semble s'être proposé de reprendre tous les projets pour les achever; décrétée par le gouvernement provisoire, et toujours restée à l’état théorique. En cinq ans, moins de temps qu’il n'en faudra pour l'Opéra, l'œuvre a été définitivement achevée. Jetons un coup d'œil, puisque nous ne pouvons rien faire de plus dans les limites de ce volume, sur ce colossal impromptu de pierre et de marbre. \nAu point de vue purement artistique, l’entreprise offrait des difficultés spéciales, dont il est juste de tenir comple. Le Louvre et les Tuileries, construits isolément et sans aucune idée de réunion-future, ne sont pas situés dans le même axe : on a dissimulé cette divergence, d’ailleurs peu sensible, par la création de deux squares destinés à rompre la perspective, mais qui ne peuvent masquer le défaut de parallélisme des pavillons centraux qu'en masquant ces pavillons eux-mêmes, et tout au moins une partie des bâtiments, c’est-à-dire en cachant précisément le coup d'œil qu'on a voulu produire. Heureusement, ces squares sont plantés d'arbres parisiens, dont le maigre rideau de verdure laisse de nombreux interstices à la vue. Il fallait trouver, en outre, pour les constructions nouvelles, une forme qui s'harmonisat à la fois avec l’architecture du Louvre et avec celle des Tuileries, deux édifices bâtis à des époques diverses et d'un type complétement distinct, dont les parties mêmes, successivement greffées de siècle en siècle sur le tronc central, présentent des échantillons de tous les styles et des traces de toutes les fantaisies."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 161,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "LaGournerie_1854_bpt6k6394057f_41",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "366-7",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Pénétrez maintenant sous ces voûtes; montez ces rampes sans rivales, celle du musée des tableaux surtout, monument grandiose du temps de l'Empire; celle de Henri I, à la voûte finement sculptée comme toutes les œuvres de la Renaissance; celles de la colonnade, majestueuses comme toutes les pensées du grand roi. Parcourez ces appartements, ces immenses galeries; tantôt vous rencontrerez la salle des Gardes, où les états de la Ligue s’assemblèrent et où la Restauration tenait ses séances royales; tantôt la salle des Cent-Suisses,  immortalisée à jamais par les cariatides de Goujon; tantôt les galeries de marbre des Antiques, qu'habitèrent successivement Charles IX et Anne d'Autriche; tantôt les boise- ries ouvragées des chambres de Henri I et de Henri IV. Laissez-vous aller au courant de la foule dans cet incomparable promenoir qui commence au pavillon des Tuileries pour embrasser deux fois toute lacour du Louvre, et vous irez, vous marcherez deux heures, trois heures,  parmi les colonnes, les pilastres, les dorures, sous des voûtes sculptées ou peintes, et entre deux rangées de merveilles de tous les pays, de tous les temps et de toutes les écoles. La pensée de faire de la galerie du bord de l'eau un musée de peinture remonte au règne de Louis XVI; elle ne fut toutefois exécutée qu'après lui. Avec Charles X cette pensée s'est agrandie; avec Louis-Philippe elle a pris des développements plus vastes encore; enfin, le Louvre n’est plus aujourd’hui qu'un immense musée où vous trouverez des tableaux, des statues, des myriades de dessins échappés à la plume et au crayon des maitres ; puis des monuments sans nombre de l'antique Égypte, de colossales divinités de la grande Ninive, magnam Niniven, des pirogues, des casse-tètes de sauvages, tout un arsenal maritime en miniature, et, enfin, depuis quelques jours, mille souvenirs des princes qui ont régné sur la France : vêtements, couronnes, armures, etc."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 162,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "LaGournerie_1854_bpt6k6394057f_40",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "364-6",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "La colonnade du Louvre peut être envisagée de deux points de vue différents. Comme dessin, elle réunit dignité, invention et harmonie: peu de monuments classiques pourraient lui être comparés; comme appropriation, au contraire, elle manque aux plus simples convenances de l’art. On s'explique d'abord difficilement une aussi large galerie placée à l’est d'un palais dont elle ne peut qu'assombrir sans utilité les grandes salles; mais, en outre, la colonnade du Louvre n’était en rapport ni avec l'élévation intérieure des bâtiments, ni avec celle de ses ouvertures. Pour remédier à ce dernier imconvénient, Perrault supprima les fenêtres de la galerie et leur substitua des niches. La colonnade ne fut plus dès lors qu'une décoration de théâtre destinée à cacher le jour aux habitants du palais. \nL'anomalie était ici tellement étrange, que l'on s'est cru obligé de rétablir les ouvertures au commencement de ce siècle. \nLa différence d’élévation de la colonnade et des bâtiments intérieurs a nécessité d'un autre côté l'abandon de l’attique si élégant de Pierre Lescot, et l'édification à la place d’un troisième ordre, au risque de donner à un palais l'apparence d'une splendide manufacture. Ces travaux occupèrent non-seulement les trente dernières années du XVIIe siècle, mais encore une partie du XVIIIe et le demi-siècle entier qui vient de s'écouler. \nA l'époque de 1789, la plupart des bâtiments manquaient encore de toits, et, à l'exception du vieux Louvre et de quelques salles occupées par les différentes académies, le palais était à la fois inhabité et inhabitable. Son achèvement extérieur ne date que de Napoléon, et son achèvement intérieur des derniers règnes. Aujourd'hui le Louvre présente, sur trois de ses faces intérieures, les deux étages et les ordres sévères, mais froids, de l'auteur de la colonnade; et sur la troisième, qui garde fidèlement le nom de Vieux-Louvre, l'attique, les colonnes, et la richesse d'ornementation du dessin de Lescot. A l'extérieur, deux des façades seulement, celles du sud et de l'est, appartiennent à Perrault ; la façade du nord appartient à Levau : quant à celle qui répond aux Tuileries, elle n’a jamais été faite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 163,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "LaGournerie_1854_bpt6k6394057f_39",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "333",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "tandis que Lescot suspendait les voûtes de immense salle des Cent Suisses, Goujon en décorait l'extrémité d’une tribune supportée par ces célèbres cariatides qui rappellent Michel-Ange. Jamais lutte plus brillante et plus fraternelle ne s'était engagée entre deux beaux génies. On se ferait du reste difficilement une idée de ce qu'était le Louvre à la mort des deux artistes. Une partie considérable des vieux bâtiments existait encore à l’est et au sud, et leurs hauts toits, leurs tours noircies par le temps se raccordaient assez mal avec la construction italienne et tout éclatante de blaneheur et d'art du Bramante francais. Ajoutons que des échoppes boiteuses se pressaient dans la cour parmi des monceaux de gravois, tandis que de nouveaux bâtiments s’élevaient dans la direction de la Seine, en dehors du plan régulier du palais. Telle était, par exemple, la galerie des Antiques commencée, par Serlio peut-être, dès le règne de Henri II, et qui formait terrasse pour les appartements du Louvre au premier étage. Henri IV la surmonta plus tard de la galerie d'Apollon. \nAinsi, confusion d’âges, de styles et de plans, tel était l'aspect que présentait le Louvre lorsqu'il devint tout à coup, après des siècles d'oubli, la résidence habituelle de la royauté."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 164,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "LaGournerie_1854_bpt6k6394057f_38",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "331-2",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "L'œuvre de Lescot, qui est restée connue sous le nom de vieux Louvre, se composait de deux corps de bâtiments dont un seul est demeuré intact. Ce bâtiment est celui qui s'étend du pavillon du Dôme au pavillon des Antiques: le second, qui lui était semblable, formait un retour d'équerre depuis le pavillon des Antiques jusqu’au guichet actuel du bord de l'eau. Ce dernier a été complétement modifié, d'après les dessins de Perrault, lors de l'achèvement du palais. \nEnfin, deux autres corps de bâtiment, de dimensions égales aux premiers, devaient, suivant le plan de Lescot, terminer le parallélogramme qui n’eût occupé ainsi que le quart de la surface actuelle du Louvre. La mort de François I”, celle de Henri II et celle de Lescot arrêtèrent l'exécution du monument. Elle ne fut reprise que sous le règne de Louis XIII, et alors seulement les proportions actuelles lui furent données, proportions étrangères à la pensée primitive de artiste. \nLe vieux Louvre n'en reste pas moins, malgré le dôme et le péristyle de Lemercier et malgré la colonnade de Perrault, la partie la plus remarquable de l'édifice. Nous n'y retrouvons sans doute ni la hardiesse ni le grandiose du moyen âge; mais la Renaissance y a semé à pleines mains toutes ses harmonies : élégance du dessin, pureté des détails, correction sans sécheresse, alliance merveilleuse de alliance merveilleuse de l'équerre et du ciseau ; voilà ce qui frappe dès l'abord dans cette splendide construction. C’est encore le moyen âge pour la richesse, mais c’est aussi l'antiquité classique pour l'habileté technique de la main. La pensée de l'art s’est amoindrie, mais elle est toujours féconde\net puissante."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 165,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "LaGournerie_1854_bpt6k6394057f_37",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "325-7",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "La tour du Louvre était, en outre, la gardienne du trésor des rois; on n'y entrait que par un pont-levis jeté sur de larges douves. La porte en était fermée par une grille de fer s'ouvrant sur un escalier à vis, qui conduisait à divers étages d'appartements voûtés dont les croisées étaient profondément enfoncées dans la muraille. En outre de ces appartements on y remarquait un puits et une chapelle. \nCette tour isolée communiquait par une galerie de pierre au vaste parallélogramme que dessinaient, depuis Philippe-Auguste, les bâtiments du château. Ces bâtiments, d’une construction informe, ne manquaient ce pendant ni de légèreté ni d'élégance, grâce aux tours nombreuses et élancées qui flanquaient leurs angles et protégeaient leurs issues. On eût dit, à voir les pignons aigus de quelques-unes de ces tours que surmontaient de hautes girouettes, à voir les tourelles accolées à quelques autres, tourelles qui se détachaient comme de sveltes donjons de leur sommet crénelé, on eût dit une construction orientale. Dans l’architecture civile comme dans l'architecture religieuse, les lignes prennent toutes alors une direction verticale. C’est une aspiration incessante qui se traduit par mille formes gracieuses: flèches, tours, clochetons, pinacles. Les toits eux-mêmes sont brisés par des ressauts qui semblent lutter de hardiesse et de hauteur. Le Louvre actuel représente l'harmonieuse mais grave poésie des anciens; le Louvre de Philippe-Auguste, les fleurs capricieuses mais variées de la poésie chevaleresque. J'ai dit que le Louvre était situé hors de Paris; sa position à cet égard ne se trouva pas changée par la nouvelle enceinte de Philippe-Auguste. Cette enceinte fut en effet tracée entre la façade orientale du palais et le portique de Saint-Germain-l’Auxerrois. Le Louvre eut sa ligne de circonvallation particulière, et forma une citadelle à la porte de la ville. Quelques rues cependant commençaient dès lors à s'ouvrir de ce côté, le quartier Saint-Honoré se formait et se peuplait : aussi Charles V finit-il par comprendre le Louvre dans ses travaux de fortifications qui jetèrent les limites parisiennes jusqu'à la tour de Bois, vers le pont actuel des Saints-Pères."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 166,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "LaGournerie_1854_bpt6k6394057f_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "182",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Au moment où nous publions cette seconde édition, d'immenses travaux sont entrepris sur tous les points de la capitale, et tendent à en modifier considérablement l'aspect. Le Louvre s'achève, la solitude du Carrousel se peuple de monuments, et la vieille tour de Saint-Jacques-de-la-Boucherie, perdue naguère au milieu d’un marché de fripiers, apparaîtra bientôt noblement, avec ses statues d'apôtres, au point de jonction de deux immenses voies, dont l'une, reliant la Cité et les hauteurs du quartier Saint-Martin, aboutira à la gare de Strasbourg, tandis que l'autre, prolongeant la rue de Rivoli, met déjà en communication directe les Tuileries et l’Hôtel-de-Ville."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 167,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Janin_1843_bpt6k102791c_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "129-30",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "Après les ruines qu’il a faites, ce que le peuple français respecte le plus, ce sont les monuments qu’il n’a pas achevés, les choses qui n’ont pas vécu. Vous ne le verrez jamais, aux jours d’émeute, se porter contre les édifices à peine commencés. Non; mais, en revanche, plus vieux est le monument et plus il sera attaqué avec furie. J’imagine que c’est parce qu’il n’a jamais été achevé que le Louvre n’a jamais été mutilé, dans toutes ces insurrections qui l'nt envahi à tant de reprises différentes. On écrase le vieillard chargé d’années, on épargne l'enfant qu’il faut laisser grandir. Grande et fatale ruine, ce Louvre, qui devrait être la gloire de cette immense ville, auquel ont travaillé tant de grands rois et tant d'excellents artistes; le Louvre, qui est le centre de Paris et du monde, le lieu d’asile de l'autorité et des beaux-arts, la merveille nationale, est, à cette heure encore, plus délabré que le dernier hôtel de sous-préfecture dans une ville de quinze cents âmes. Dans ce palais, qu’on prendrait de loin pour le palais de cette princesse qui dort depuis cent ans, l’indigence et le luxe se livrent d’affreux assauts la nuit et le jour. Les plus belles colonnes, dont la tête est couronnée de l’acanthe et du lierre antiques, ont leur base recouverte d’un plâtre ignoble: les pierres les plus magnifiques sont encadrées dans du bois pourri. Tout autour de cette masure royale, en face même du Musée, se sont abrités toutes sortes de cloaques impurs, où grouillent dans tous les sens le vol, le recel et la prostitution publique, abrités à cette ombre imposante. Incroyable, affreux pêle-méle des éléments les plus opposés, l’ignoble et le sublime : Perrault l’architecte et le marchand de vin du coin, Catherine de Médicis et Margot; le chiffonnier et le roi, Jean Goujon et le Jean-Jean accroupi honteusement contre ces murailles. Et quand on songe que l’empereur Napoléon lui-même, qui avait tant d’armées à son service et tant de millions dans les caves des Tuileries, n’a pas pu assaïnir ces étables d’Augias, on se prend à croire qu’il faut que cela soit impossible. Pourquoi donc impossible, cependant? L'emplacement est à vous, la pensée est toute trouvée, le monument est fait aux deux tiers; vous avez à vos ordres tous les artistes de la France. A celui qui achèvera cet immense chef-d'œuvre une gloire est acquise, non moins grande qu’à celui qui l’a commencé."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 168,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "François_1857_bpt6k6439790m_21",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "64-5",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "PALAIS DU LOUVRE. — Ce magnifique palais occupe l’emplacement où s'élevait anciennement un château fort, antique demeure des rois de France. Philippe-Auguste y avait fait construire en 1204 une grosse tour, connue dans l’histoire sous le nom de Tour du Louvre, qui terminait l’enceinte de Paris sur cette rive de la Seine, faisant face à la Tour de Nesle, élevée sur la rive opposée, et qui servait alors, selon l'usage, tout à la fois de palais, de forteresse et de prison; prison terrible et redoutée des grands feudataires de la couronne. En 1541, celle vieille construction, tombant en ruines, François Ier Ja fit raser, et Pierre Lescot commença la construction du palais actuel. C'est à lui que l'on doit cette partie du Louvre actuel qui du Pavillon de l'Horloge, situé en face du pavillon des Tuileries portant le même nom,  s'étend jusqu'à l'angle sud-ouest de la cour intérieure, et de la jusqu’au premier tiers environ de la façade du midi. Catherine de Médicis fit ajouter à ces constructions la galerie qui semble continuer l’édifice de Pierre Lescot jusqu'à la Seine, et qui, de là, se retourne à angle droit du côté des Tuileries. Cette portion ne se composait alors que du rez-de-chaussée, du moins dans la partie la plus voisine du Louvre. Henri IV y fit ajouter un premier étage quand il réunit le palais des Tuileries à celui du Louvre. Le plan de Pierre Lescot ne comprenait guère que l’emplacement anciennement occupé par la tour de Philippe-Auguste, c’est-à-dire le quart de la cour actuelle du Louvre. Plus tard, ce plan fut considérablement augmenté par Richelieu qui voulait un palais quatre fois plus grand. Pour le satisfaire, Lemercier fit de chacune des façades de Pierre Lescot la moitié d’une façade nouvelle, coupée au milieu par un large pavillon, et répétée, à quelques modifications près, sur les quatre côtés du carré décrivant la cour intérieure du Louvre. A sa mort, Levau continua son œuvre, exécuta la façade tournée du côté de la Seine et fut remplacé par Perrault, qui éleva du côté de l’église Saint-Germain-l'Auxerrois cette fameuse et froide colonnade, dont nous avouons n'avoir jamais bien apprécié les mérites si vantés, et qui, dans tous les cas, a le défaut de présenter un frontispice sans aucun rapport avec le monument dont il décore l'entrée. C’est, sous une forme beaucoup plus élégante, il est vrai, un second portail Saint-Eustache Perrault modifia, en outre, la façade de Levau, et fut obligé, pour masquer sa colonnade dont l’élévation dépassait la hauteur des constructions antérieures, d'ajouter aux trois façades du Nord, de l'Est et du Midi, un troisième étage qui contraste d'une manière fâcheuse avec l’œuvre de Pierre Lescot. Interrompus une première fois, ces derniers travaux furent repris, en 1755, par Gabriel, et suspendus une deuxième fois par la Révolution. En 1803, une grande partie du Louvre n'était pas même encore couverte; à cette époque, Percier et Fontaine furent chargés d'achever l'édifice; mais ce ne fut qu'en 1812 qu'il put être définitivement terminé. Le Louvre est incontestablement un des monuments de Paris qui méritent le mieux l'attention de l'Etranger. Dans la cour centrale, véritable merveille de L'art, sont des sculptures de plusieurs maîtres illustres: de Paul Ponce et de Jean Goujon, les dignes collaborateurs de Pierre Lescot, de Sarrasin, l’auteur des cariatides du pavillon de l'Horloge, de Lesueur, de Chaudet et de Coustou, qui ont travaillé aux autres portions de l'édifice ; dans l’intérieur sont les différents musées que nous avons décrits ci-avant (V. Musée du Louvre). Nous recommandons surtout: la salle où se trouvent les cariatides, chefs d'œuvre de Jean Goujon, et qui, pour cette raison, se nomme Salle des Cariatides; ceite salle, qui fait partie du Musée des Antiques, est encore telle à peu près qu’elle sortit des mains de Pierre Leseot; le grand escalier; la Galerie d’ Apollon; les salles du Musée des émaux; celles de l'Ecole française, splendidement ornées; celles plus somptueuses encore du Musée égyptien, créé par Charles X; enfin, celles dites d'Anne d'Autriche, de Henri II et de Henri 1V, où se trouvent les armures des rois, et l’alcôve dans laquelle Henri IV expira le 44 mai 1640. Rappelons que c’est du Louvre que, dans la nuit du 23 au 24 août 1572, partit l’ordre du massacre de la Saint-Barthélemy, mais que l’on chercherait vainement la fenêtre de laquelle Charles IX est accusé d’avoir tiré lui-même sur les protestants, attendu que la façade qui donne sur la Seine a été refaite sous Louis XIV, et que le balcon de la galerie d’Apollon, ainsi que tout l'étage dont il fait partie, date seulement du règne de Henri IV."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 169,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "François_1857_bpt6k6439790m_21",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "48",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "MUSÉE DU LOUVRE. — Au Palais du Louvre (V. ces mots). — Fondé par un décret de la Convention nationale en date du 27 juillet 1793, ordonnant la formation d’un Muséum français, appelé bientôt du nom de Musée central des Arts, qu'il a échangé depuis contre celui de Musée du Louvre; ce Musée, le plus important de tous ceux de Paris et du monde entier, n’est lui-même que la collection de plusieurs Musées réunis dans le même palais. Il comprend en effet douze Musées différents, que l'on peut étudier en détail à l’aide de livrets explicatifs spéciaux qui se vendent à l'entrée des diverses salles du Louvre."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 170,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Virmaître_1871_bpt6k5448441v_09",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "232-3",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "La bibliothèque du Louvre fut brûlée dans la soirée de mardi à mercredi.\nLes fusées entèrent dans la loge du concierge, et lui intimèrent l'ordre de répandre lui-même le pétrole dans le premier dépôt confié à sa garde, s’il ne préferait être immédiatement fusillé : —Fusillez-moi, mais je n’incendierai pas la bibliothèque, leur répondit-il; et sa femme, qui était présente, fit preuve de la même fermeté et du mème courage: Les bandits délibérèrent alors, et, après s'être concertés, ils enfermèrent ces deux malheureux dans leur loge, en leur disant: On ne vous fusillera pas, mais vous allez griller tous deux! \nDix minutes après, la bibliothèque du Louvre était en flammes; et ce ne fut que par une sorte de miracle que ses deux fidèles gardiens parvinrent à s'échapper.\nL'incendie menaçait de gagner les galeries du Louvre. Grâce au dévouement d’une fraction du 8e bataillon de la garde nationale, le feu put être conjuré.\nLes galeries étaient sauvées et ces trésors inestimables étaient conservés au monde entier.\nCet incendie présentait un spectacle grandiose vu de la cour du Carrousel."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 171,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Hugo_1831_1_bpt6k6497134z_44",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "252-3",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "C’est pourtant de cette ville que Voltaire a dit qu'avant Louis XIV, elle ne possédait que quatre beaux monumens : le dôme de la Sorbonne, le Val-de-Grâce, le Louvre moderne, et je ne sais plus le quatrième, le Luxembourg, peut-être."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 172,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Hugo_1831_1_bpt6k6497134z_43",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "249-50",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Enfin, le quatrième compartiment qui. se dessinait de lui-même dans l'agglomération des toits de là rive droite, ce qui occupait l'angle occidental de la clôture et le bord de l'eau en aval, c'était un nouveau nœud de palais et d'hôtels serré au pied du Louvre. Le vieux Louvre de Philippe-Auguste, cet édifice démesuré dont la grosse tour ralliait vingt-trois maîtresses tours autour ter les tourelles, semblait dans les combles gothiques de l'hôtel d'Alençon et du Petit-Bourbon. Cette hydre de tours, gardienne géante de Paris, avec ses vingt-quatre têtes toujours dressées, avec ses croupes monstrueuses, plombées ou écaillées d’ardoises, et toutes ruisselantes de reflets métalliques, terminait d’une manière surprenante la configuration de la Ville au couchant. \nAinsi, un immense pâté, ce que les Romains de maisons bourgeoises, appelaient insula, de maisons bourgeoises, flanqué à droite et à à gauche de deux blocs de palais, couronnés, l'an par le Louvre, l'autre par les Tournelles, bordé au nord d'une longue ceinture d’abbayes et d'enclos cultivés, le tout amalgamé et fondu au regard; sur ces mille édifices dont les toits de tuiles et d’ardoises découpaient les uns sur les autres tant de chaînes bizarres, les clochers tatoués, gauffrés et guillochés des quarante-quatre églises de la rive droite; des myriades de rues au travers; pour limite, d’un côté, une clôture de hautes murailles à tours carrées (celle de l'Université était à tours rondes ); de l'autre, la Seine coupée de ponts et charriant force bateaux; voilà la Ville au quinzième siècle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 173,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Hugo_1831_1_bpt6k6497134z_42",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "229",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Le regard se perdait long-temps à toute profondeur dans ce labyrinthe, où il n’y avait rien qui n’eût son originalité, sa raison, son génie, sa beauté, rien qui ne vint de l'art, depuis la moindre maison à devanture peinte et sculptée, à charpente extérieure, à porte surbaissée, à étages en surplomb, jusqu'au royal Louvre, qui avait alors une colonnade de tours. Mais voici les principales masses qu’on distinguait lorsque l'œil commençait à se faire à ce tumulte d’édifices."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 174,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Hugo_1831_1_bpt6k6497134z_40",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "11",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Quoi qu’on pense de cette triple explication politique, physique, poétique, de l'incendie du Palais de Justice en 1618, le fait malheureusement: certain, c’est l’incendie. Il reste bien peu de chose aujourd’hui, grâce à cette catastrophe, grâce surtout aux diverses restaurations successives qui ont achevé ce qu’elle avait épargné; il reste bien peu de chose de cette première demeure des rois de France, de ce palais aîné du Louvre, déjà si vieux du temps de Philippe-le-Bel qu’on y cherchait les traces des magnifiques bâtimens élevés par le roi Robert et décrits par Helgaldus. Presque tout a disparu."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 175,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Hugo_1831_1_bpt6k6497134z_9",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "260-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Cependant cette mer d'harmonie n’est point un chaos. Si grosse et si profonde qu’elle soit, elle n’a point perdu sa transparence: vous y voyez serpenter à part chaque groupe de notes qui s'échappe des sonneries; vous y pouvez suivre le dialogue, tour\nà tour grave et criard, de la crecelle et du bourdon; vous y voyez sauteler les octaves d'un clocher à l’autre; vous les regardez s’élancer ailées, légères et sifflantes, de la cloche d'argent, tomber cassées et boiteuses de la cloche de bois; vous admirez au milieu d'elles la riche gamme qui descend et remonte sans cesse les sept clochiers de Saint-Eustache; vous voyez courir tout au travers des notes claires et rapides qui font trois ou quatre zigzags lumineux, et s'évanouisse comme des éclairs. Là bas, c'est l’abbaye Saint-Martin, chanteuse aigre et fêlée; ici, la voix sinistre et bourrue de la Bastille; à l'autre bout, la grosse tour du Louvre, avec sa basse-taille. Le royal carillon du Palais jette sans relâche de tous côtés des trilles resplendissantes, sur lesquelles tombent à temps égaux les lourdes couppetées du beffroi de Notre-Dame, qui les font étinceler comme l’enclume sous le marteau. Par intervalles vous voyez passer des sons de toute forme qui viennent de la triple volée de Saint-Germain-des-Prés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 176,
+            "Name": "Louvre",
+            "Latitude": 48.8606,
+            "Longitude": 2.3376,
+            "place_name": "Louvre",
+            "uid": "Balleydier_1849_bpt6k105490w_04",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "84-7",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "dirigeons-nous au Louvre, le plus intéressant monument de France, car l’histoire de la France est écrite en partie sur sés murailles. Rien de positif sur l’origine et l’étymologie du Louvre. Les chroniqueurs en attribuent la construction, les uns à Childebert, les autres à Philippe-Auguste : ceux-ci sont évidemment dans l'erreur, puisque, vainqueur à Bouvines, Philippe-Auguste enferma dans la tour du Louvre, achevée avant son avénement au trône, Ferdinand, comte de Flandres. Le Louvre avait alors le triple avantage d'être forteresse, demeure et prison royales. Feuilletons rapidement lés siècles. Le vieux palais de Philippe-Auguste a passé de mode; l'illustre vaincu de Pavie veut oublier sa défaite et mesurer avec les Médicis des forces qui n'ont pu lutter avec Charles-Quint. Un Louvre nouveau s'élève magiquement à la place de l'ancien : commencé par François Ier, il est achevé par Henri II, sur les dessins de l'abbé de Cluny, enrichis par le ciseau de Jean Goujon. \nEncore de tristes et lugubres souvenirs ! passons rapidement devant cette fenêtre; le signal de la Saint-Barthélemy, dit-on, a passé par là. Pressons le pas devant cette porte, le cadavre sanglant et inanimé du bon roi Henri est rentré par là pour se rendre ensuite à Saint-Denis. \nLe plan du Louvre est un carré parfait formé par quatre corps de bâtiments décorés de trois ordres d'architecture l’un sur l’autre, et dont les pavillons en avant-corps sont ornés de colonnes. Le milieu de chacune des quatre faces est orné de superbes portiques, ornés eux-mêmes de magnifiques colonnades sculptées d'après les dessins du médecin Claude Perrault, plus célèbre artiste que bon médecin. On doit à Henri IV la réunion du Louvre aux Tuileries; la galerie qui relie ces deux monuments mesure quatre cent quarante-huit mètres de longueur. \nLe Louvre, terminé par Napoléon, embelli par Charles X et Louis-Philippe, peut être considéré comme le palais dés sciences et des arts. Il possède les chefs-d'œuvre des écoles espagnole, allemande, flamande, italienne et française; le musée des dessins ; le musée des antiques; le musée grec et égyptien; le musée de la marine; lé musée de la sculpture moderne ; le musée anglais. Il nous faudrait un jour pour examiner en détail chacun de ces musées réunis dans un seul et même palais"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3376,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 177,
+            "Name": "Carrousel",
+            "Latitude": 48.8617,
+            "Longitude": 2.3329,
+            "place_name": "Carrousel",
+            "uid": "LaGournerie_1854_bpt6k6394057f_45",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "389",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Napoléon épousait une petite fille de Marie-Thérèse; l'enfant de son mariage était salué roi dès sa naissance, et les grandeurs et les fêtes devenaient plus éclatantes que jamais aux Tuileries. Les vieilles Tuileries ne semblaient mème plus dignes ni de l'empereur ni de l'empire. Déjà on avait repris le projet d'en faire un seul palais avec le Louvre par l'édification d’une galerie parallèle à la galerie des tableaux, et ce projet était conduit aux deux tiers de son exécution en moins de six ans. Les bâtiments de servitude qui formaient jadis trois cours distinctes sous les fenêtres du château avaient en outre fait place à un champ de manœuvre où les soldats de Marengo et d’Austerlitz défilaient chaque jour, à la garde montante, sous les yeux de leur chef. Cette vaste esplanade était séparée du Carrousel par une grille majestueuse entremèlée de statues de victoires. Enfin, aux deux avenues de la demeure impériale, s’élevaient deux ares de triomphe, l’un immense à l'extrémité des Champs-Élysées, l'autre gracieux et élégant, orné de statues, de bas-reliefs, de colonnes de marbre et surmonté des chevaux de Corinthe, à l'entrée même du palais. On ne devait plus pénétrer dans ce palais qu’en passant sous des arcs de triomphe."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3329,
+                48.8617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 178,
+            "Name": "Carrousel",
+            "Latitude": 48.8617,
+            "Longitude": 2.3329,
+            "place_name": "Carrousel",
+            "uid": "LaGournerie_1854_bpt6k6394057f_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "182",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Au moment où nous publions cette seconde édition, d'immenses travaux sont entrepris sur tous les points de la capitale, et tendent à en modifier considérablement l'aspect. Le Louvre s'achève, la solitude du Carrousel se peuple de monuments, et la vieille tour de Saint-Jacques-de-la-Boucherie, perdue naguère au milieu d’un marché de fripiers, apparaîtra bientôt noblement, avec ses statues d'apôtres, au point de jonction de deux immenses voies, dont l'une, reliant la Cité et les hauteurs du quartier Saint-Martin, aboutira à la gare de Strasbourg, tandis que l'autre, prolongeant la rue de Rivoli, met déjà en communication directe les Tuileries et l’Hôtel-de-Ville."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3329,
+                48.8617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 179,
+            "Name": "Carrousel",
+            "Latitude": 48.8617,
+            "Longitude": 2.3329,
+            "place_name": "Carrousel",
+            "uid": "François_1857_bpt6k6439790m_23",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "15",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "CARROUSEL. —Celle place, ainsi appelée d'une fête ou carrousel qu'y donna Louis XIV, à une époque où elle était bien loin de présenter l'aspect qu’elle offre aujourd'hui, environnée comme elle l’est par les somptueux bâtiments des Tuileries et du Louvre, est la place la plus vaste d'Europe et la plus monumentale du monde, sans en excepter la magnifique place du Vatican, à Rome, avec la basilique de Saint-Pierre et la sévère et majestueuse colonnade du Bernin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3329,
+                48.8617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 180,
+            "Name": "Carrousel",
+            "Latitude": 48.8617,
+            "Longitude": 2.3329,
+            "place_name": "Carrousel",
+            "uid": "François_1857_bpt6k6439790m_22",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "9",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_13",
+            "snippet": "ARC-DE-TRIOMPHE DU CARROUSEL. — Pl du Carrousel.  Monument calqué sur l'are de Septime-Sévèré, à Rome, et élevé en 1806, à la gloires des armées françaises, sur les dessins de Percier et Fontaine. Les statues supportées par les colonnes représentent des soldats appartenant aux différents corps qui combattirent à Austerlitz: Six bas-reliefs en marbre offrant les événements mémorables de la campagne de 1805, en décorent les quatre faces. Du côté de la place où au levant, la Bataille d’Austerlitz, par Espercieux, et la Capitulation d'Ulm, par Cartellier; au sud, la Paix de Presbourg, par Lesueur; au couchant, l'Entrevué de Tilsitt, pair Ramey, et l’Entrée de l'armée française à Munich, par Clodion; au nord, l'Entrée à Vienne, par Deseine. Le quadrige qui le surmonte et qui a remplacé les fameux chevaux de Venise, est de Bosio. L'arc du Carrousel a 44 m. 60 c. de hauteur sur 19 m. 50 c. de largeur et 8 m. 65 c. d'épaisseur."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3329,
+                48.8617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 181,
+            "Name": "Carrousel",
+            "Latitude": 48.8617,
+            "Longitude": 2.3329,
+            "place_name": "Carrousel",
+            "uid": "Virmaître_1871_bpt6k5448441v_20",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "216-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Quand tout fut terminé, on put mesurer rapidement la grandeur de nos pertes, sur lesquelles on n'avait jusque-là ni à Paris, ni hors Paris, de données précises. On trouva les Tuileries réduites aux deux premiers étages; le troisième enlevé, ainsi que le dôme; l'intérieur entièrement détruit. L'Hôtel de-Ville n'avait plus que ses murs et l'étage supérieur manquait. Les murs seuls restaient également au palais du Conseil d'État, au palais de la Légion d'honneur. Les galeries du Carrousel avaient perdu aussi l'étage supérieur. Les murs seuls restaient aux deux autres étages, entourant les débris fumants. L'intérieur de la bibliothèque du Louvre était anéanti. Le Palais-de-Justice avait perdu plusieurs corps de bâtiments; la Préfecture de police était détruite. Le théâtré de la Porte-Saint-Martin, les magasins du chemin de fer du Nord, à La Villette, sont entièrement consumés. L’Arsenal, le Théâtre-Lyrique n’ont plus que leurs murs. Des cavernes noires s'ouvrent à l’entrée de la rue du Bac, à presque toutes les entrées des maisons de la rue de Lille, à l'entrée du boulevard du Prince-Eugène, aux angles du boulevard de Sébastopol et de la rue de Rivoli et sur la place de la Bastille. Dans le quartier de la Madeleine, des maisons n’ont plus que la façade extérieure; trois angles de la rue Royale et de la rue Saint-Honoré sont des monceaux de cendres. Le Ministère des finances a perdu même le mur de la façade. L'incendie a découvert trois perspectives d’arcades noircies, d’une tristesse de ruine romaine qui serait récente."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3329,
+                48.8617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 182,
+            "Name": "Carrousel",
+            "Latitude": 48.8617,
+            "Longitude": 2.3329,
+            "place_name": "Carrousel",
+            "uid": "Virmaître_1871_bpt6k5448441v_10",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "233",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "À gauche, les ruines des Tuileries flambant encore et s’écroulant pierre à pierre sous la pluie d’obus qui arrivait à chaque instant; à droite, les flammes de l'Hôtel-de-Ville traçaient sur le fond bleu du ciel un large sillon sanglant.\nLes travailleurs, placés dans la cour du Carrousel, faisaient la chaîne sans se préoccuper des balles, des boîtes à mitraille et des obus qui éclataient avec un fracas terrible, brisant, blessant ou tuant sur leur passage."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3329,
+                48.8617
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 183,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_25",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "88-9",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "A l'est de la place de la Concorde, à l'extrémité d’un jardin planté sur les dessins de le Nôtre, et qui réunit tous les jours l'élite de la société parisienne, s'élève le palais des Tuileries. C'est en 1660 que le Nôtre fut chargé de dessiner le jardin des Tuileries. Comme les anciens jardins français, celui-ci était jusque-là un pêle-mêle de toutes sortes de choses : on y voyait un étang, un bois, une volière, une orangerie, un écho, un petit théâtre et un labyrinthe. Près de la porte de la Conférence, le long du quai, se trouvait une jolie petite habitation cachée mystérieusement au milieu des arbres: le roi Louis XII en avait fait don à son valet de chambre, Renard, qui l'avait meublée d'objets rares et précieux et en avait fait un lieu de fins soupers et de secrets rendez-vous fréquenté par les jeunes seigneurs. Tout cela fit place au majestueux et sévère jardin, l'une dés merveilles de la capitale. [ . . . ] Le jardin, dessiné par le Nôtre, est un modèle de noblesse et de grandeur; sa superficie est d’environ 24 hectares; une belle grille le sépare de la rue le Rivoli ; une longue terrasse règne tout autour. Celle qui longe la Seine est la ferrasse du bord de l’eau, l'autre, qui longe la rue de Rivoli et la grande allée qui sert de promenade au beau monde, porte le nom le terrasse des Feuillants ; c'était autrefois un lieu de discrets rendez-vous qui fut fatal à plus d’une beauté."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 184,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "Guide_1855_bpt6k134268q_09",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "48-50",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Le Jardin des Tuileries n'offre guère l'aspect d’un véritable jardin; on n'y trouve ni accidents pittoresques, ni riantes perspectives, ni vastes pelouses. Ce n'est, à vrai dire, qu’une immense promenade sablée et plantée, vous y trouverez des massifs de marrouniers où vous pourrez rèver tout à votre aise, à deux pas de la foule qui se presse dans les grandes allées; vous verrez dans les bassins de marbre frétiller des légions de poissons de la Chine, qui font l'admiration des bourgeois attroupés sur la rive. Du haut de la terrasse du bord de l'eau, vous jouirez du plus charmant coup d'œil; dans l'allée des orangers, cette promenade favorite des jeunes gens qui viennent sourire à des amours écloses l'hiver sous les lustres, vous assisterez à la grande exhibition des demoiselles à marier tenues en laisse par leurs mères, Vous admirerez ce peuple de héros, de dieux, de déesses, de néréides, qui sont nés sous le souffle de l'inspiration des artistes. Vous verrez les pelits garçons et les petites filles sauter à la corde, jouer au cerceau ou au ballon, et si vous ne trouvez pas, par un beau soleil, à passer une heure agréable dans ce Jardin des Tuileries, c’est que vous êtes malade où misanthrope."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 185,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "Cramouzaud_1855_bpt6k65447250_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Eugène Cramouzaud",
+            "docTitle": "Études sur le XIIe arrondissement",
+            "docDate": 1855.0,
+            "doc_page_number": "39",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_18",
+            "snippet": "Au commerce, à l’industrie et aux grandes affaires, il donna un palais, la Bourse, construit sur l'emplacement de l'ancien couvent des Filles-du-Calvaire. A la gloire de la France, au sentiment de la grandeur nationale, il dressa des arcs-de-triomphe, des temples et des colonnes. Il agrandit les Tuileries ; il donna neuf fontaines à la rive gauche, et huit à la rive droite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 186,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "François_1857_bpt6k6439790m_24",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "42",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "JARDIN DES TUILERIES.— Dessiné par Le Nôtre, situé au coeur de Paris, ce magnifique jardin, d’une superficie d'environ 24 hectares, est, pendant la belle saison, le rendez-vous du monde élégant. De la Convention Nationale datent les embellissements intérieurs, qui ont fait de cette promenade l'une des plus somptueuses du monde, C'est'à elle que l'on doit l'élargissement de la grande allée du milieu, qui se lie d’une manière si heureuse avec l'avenue des Champs-Elysées. Napoléon, et, après lui, la Restauration et Louis-Philippe ont continué ces embellissements. Le jardin des Tuileries offre un grand nombre de statues, parmi lesquelles on remarquera les gracieuses productions dues aux ciseaux de Goysevox et de Coustou, qui ornent la terrasse située au-devant du palais, et qui font si vivement ressortir la médiocrité des ouvrages modernes placés en face d’elles. Nous citerons encore les bronzes du parterre réservé, les magnifiques lions de Barrye, à l'entrée de la terrasse du bord de l'eau, les groupes qui entourent le bassin du milieu, et les figures allégoriques représentant le Nil, le Tibre, le Rhône et la Saône, le Rhin et la Moselle, qui sont placées entre le grand bassin et la grille de la place de la Concorde. Ces œuvres d'art, mêlées aux vases de marbre, aux parterres, aux jets d’eau, aux fleurs, aux arbres gigantesques, dont les rameaux entrerelacés offrent l'image d’une sombre forêt, produisent un effet indescriptible et justifient la réputation traditionnelle faite au jardin des Tuileries."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 187,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "Hugo_1831_1_bpt6k6497134z_46",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "223-4",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "La Ville, qui était le plus grand des trois morceaux de Paris, avait la rive droite. Son quai, rompu toutefois ou interrompu en plusieurs endroits, courait le long de la Seine, de la Tour de Billy à la Tour du Bois, c’est-à-dire de l'endroit où est aujourd’hui le Grenier-d’Abondance à l'endroit où sont aujourd’hui les Tuileries. Ces quatre points, où la Seine coupait l'enceinte de la capitale, la Tournelle et la tour de Nesle à gauche; la tour de Billy et la tour du Bois à droite, s’appelaient par excellence es quatre tours de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 188,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "Fournier_1860_bpt6k6416873z_08",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "255-6",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Vous connaissez [ . . . ] le fameux marronnier du 20 mars au jardin des Tuileries. Au risque de détruire les croyances populaires, je dirai que l'arbre phénomène ne doit ses succès qu'à l'influence d’un drainage accidentel. \n      Le marronnier du 20 mars se touve placé près d’un carré à hémicycle, et dans l'allée circulaire de ce carré, au plus près de l'arbre, il existe un puisard en maçonnerie contenant des tuyaux destinés sans doute à l’arrosement. Ces tuyaux sont probablement devenus inutiles, puisque la pierre qui recouvrait le puisard, et que j'ai vue pendant plus de vingl années, a été recouverte par le sable de l'allée; mais il est hors de doute que l’air chaud et humide du puisard agit sur les racines de l'arbre, et se trouve être ainsi la cause de sa précocité. Voilà, si je ne me trompe, bel et bien, et surtout on ne peut plus naturellement expliquée cette fameuse énigme posée à chaque printemps par les sphinx de tous les journaux, et dont le mot n'avait jamais été trouvé. Voilà qui met fin à tous les contes en cours au sujet de ce bienheureux arbre, le plus fameux des marronniers de Paris après celui qu'on voyait jadis au Temple, et après deux autres, abattus en l’an XII, au Luxembourg, qui dataient de la première plantation du jardin. La fable de ces cosaques enterrés, en 1815, au pied de l'arbre du 20 mars, et dont 1es corps auraient été un merveilleux engrais pour ses racines, tombe ainsi d'elle-même, franchement je ne la regrette pas. En toutes choses, c’est la nature qu'il faut consulter la première."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 189,
+            "Name": "Jardin des Tuileries",
+            "Latitude": 48.8635,
+            "Longitude": 2.3275,
+            "place_name": "Jardin des Tuileries",
+            "uid": "Asti_1843_bpt6k6471672z_02",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "302-3",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "Elle prit donc mon bras et nous commençâmes dans les jardins des Tuileries une promenade d'étrangers, une promenade de véritables visiteurs. Nous nous approchâmes d’abord un peu plus du palais, pour nous mettre ainsi mieux à la portée d’embrasser, autant qu'il nous aurait été possible, d'un seul regard, ce vaste, ce magnifique jardin, que Louis XIV fit bâtir dans la double intention d'ajouter un nouvel ornement à son habitation royale, et d'offrir un agrément de plus à ce Parisien si raffiné dans ses goûts, et si recherché dans ses plaisirs. Nous admirâmes de là le beau parterre qui se développait devant nous dans toute la largeur du palais, la belle allée de milieu se prolongeant jusqu’au bout, coupée à quelque distance par un vaste bassin, où jaillissent les eaux de la Seine; nous voyions le bosquet au-delà du parterre, : et les terrasses, qui, environnant le jardin, et faisant ainsi disparaitre la pente du sol vers la Seine, aboutissent en descendant sur un terrain uni, où l’on voit une belle pièce d’eau qui marque l'extrémité du jardin. L'ordre symétrique de ces monotonie, et lieux est leur loin grandeur ne de la gâte pas leur simplicité. Nous parcourûmes l'allée de milieu, en nous arrêtant de temps en temps devant les belles statues qui se trouvaient sur notre chemin, ou devant ces décors, qui nous paraissaient plus dignes de notre attention."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3275,
+                48.8635
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 190,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_26",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "88",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Quant au palais des Tuileries, il fut commencé en 1564 par Catherine de Médicis, sur l'emplacement qu’occupait un petit château appartenant à la duchesse d'Angoulême, mère de François Ier, et qu'avait occupé précédemment une tuilerie, d’où il a pris son nom. Philibert Delorme fut le principal architecte du pavillon central et des ailes contiguës; Henri IV et Louis XII firent bâtir les autres pavillons, à l'exception de celui du nord, qui fut construit sous Louis XIV; le roi Louis Philippe y fit de nombreuses modifications. Aussi présente-t-il les caractères de ces diverses époques et un mélange des trois principaux ordres d’architecture."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 191,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "Fournel_1865_bpt6k1018901_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "149-51",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Cette tâche [de joindre le Louvre au Palais des Tuileries] était de celles qui ne s'improvisent pas, et nous sommes sûr de n'étonner ni M. Haussmann ni M. Lefuel, en constatant qu'ils n’y ont que fort incomplétement réussi. Sans doute, à l'aide d'artifices élémentaires, on a bien pu voiler çà et là les différences de niveau des bâtiments et tourner quelques autres obstacles d’un ordre subalterne; mais, sur des points plus importants, les dernières constructions n’ont fait que mettre en relief ces discordances qu’elles devaient atténuer, et en accroître considérablement le nombre. Si l’on examine la facade récemment élevée sur la rue de Rivoli, on s'aperçoit que l'architecte, entrainé par le désir de créer un riche vis-à-vis au Palais-Royal, en a brusquement changé le style à la partie centrale, dont les panneaux sculptés, les ornements de la frise et des baies, la riche décoration, imitée de la fin du seizième siècle, jurent avec la simplicité sévère du reste de la façade. Dans l'aile neuve qui clôt à l'ouest, en retour d'équerre, le petit jardin ouvert sur la méme rue, les fenêtres, sans cesser de reproduire la forme et les moulures de celles du vieux Louvre, prennent tout à coup une dimension différente, assez sensible pour blesser l'œil et briser désagréablement la perspective. Autant qu’on peut le deviner sous l’appareil d’échafaudages qui l’enveloppent du haut en bas comme une carapace, la reconstruction du pavillon de Flore va ajouter un trait de plus à cette confusion fâcheuse. Le gros œuvre du bâtiment, avec ses disgracieux œils-de-bœuf surmontés de petites lucarnes de deux ou trois pieds carrés, pareilles à celles d’un grenier, ne rappelle en rien jusqu'à présent l'architecture de Philibert Delorme, non plus que celle de Ducerceau. Le pan de galerie neuve adjacent à ce pavillon ne reproduit pas non plus le type de la galerie du bord de l'eau, qu’il déborde par une saillie de cinq où six mètres, en faisant pour ainsi dire planer sur elle la menace assurée d’une démolition prochaine !\n[Note de l'auteur:] Aujourd’hui, la menace est accomplie. 11 paraît qu'on avait conçu des craintes sur la solidité de cette galerie; mais ces craintes, venues à point nommé, et qui font honneur an zèle ingénieux de l'édilité actuelle, ont dü se convaincre qu'elles étaient singulièrement prématurées, devant ces fondations d’une solidité prodigieuse qui a opposé une résistance héroïque au vandalisme des pioches et des leviers    conjurés contre elles. En restera-t-on là, du moins? M. Berryer a eu l'indiscrétion de le demander en pleine Chambre, dans la séance du 28 mai 1864, et l'organe du gouvernement a bien voulu le rassurer, en affirmant d’une façon solennelle qu’on n'avait pas actuellement l'intention de reconstruire en entier les Tuileries. Cet adverbe a fait frémir tous ceux qui sont au courant du vocabulaire officiel, et il suffit de jeter un coup d'œil sur les derniers travaux pour être fixé sur la valeur de cette réponse. Tout en professant le respect qui sied pour les paroles de l’orateur du gouvernement, on peut prédire, sans crainte de démenti et sans avoir la prétention de se poser en prophète, que le nouveau pavillon de Flore exigera un nouveau pavillon de Marsan, et que la reconstruction de la galerie du bord de l'eau entrainera celle de la galerie qui longe la rue de Rivoli. Nous serons trop heureux si l'on ne va pas plus loin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 192,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "Fournel_1865_bpt6k1018901_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "147-9",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Le régime actuel aura eu la gloire de mener rapidement à terme, grâce à la précaution qu’il avait prise de supprimer au préalable tous les obstacles, cette réunion des deux grands palais monarchiques, rèvée par Hénri IV, Louis XIV et Louis-Philippe; rêvée surtout, comme la continuation de la rue de Rivoli, par Napoléon 1er, dont Napoléon III semble s'être proposé de reprendre tous les projets pour les achever; décrétée par le gouvernement provisoire, et toujours restée à l’état théorique. En cinq ans, moins de temps qu’il n'en faudra pour l'Opéra, l'œuvre a été définitivement achevée. Jetons un coup d'œil, puisque nous ne pouvons rien faire de plus dans les limites de ce volume, sur ce colossal impromptu de pierre et de marbre. \nAu point de vue purement artistique, l’entreprise offrait des difficultés spéciales, dont il est juste de tenir comple. Le Louvre et les Tuileries, construits isolément et sans aucune idée de réunion-future, ne sont pas situés dans le même axe : on a dissimulé cette divergence, d’ailleurs peu sensible, par la création de deux squares destinés à rompre la perspective, mais qui ne peuvent masquer le défaut de parallélisme des pavillons centraux qu'en masquant ces pavillons eux-mêmes, et tout au moins une partie des bâtiments, c’est-à-dire en cachant précisément le coup d'œil qu'on a voulu produire. Heureusement, ces squares sont plantés d'arbres parisiens, dont le maigre rideau de verdure laisse de nombreux interstices à la vue. Il fallait trouver, en outre, pour les constructions nouvelles, une forme qui s'harmonisat à la fois avec l’architecture du Louvre et avec celle des Tuileries, deux édifices bâtis à des époques diverses et d'un type complétement distinct, dont les parties mêmes, successivement greffées de siècle en siècle sur le tronc central, présentent des échantillons de tous les styles et des traces de toutes les fantaisies."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 193,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "LaGournerie_1854_bpt6k6394057f_45",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "389",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Napoléon épousait une petite fille de Marie-Thérèse; l'enfant de son mariage était salué roi dès sa naissance, et les grandeurs et les fêtes devenaient plus éclatantes que jamais aux Tuileries. Les vieilles Tuileries ne semblaient mème plus dignes ni de l'empereur ni de l'empire. Déjà on avait repris le projet d'en faire un seul palais avec le Louvre par l'édification d’une galerie parallèle à la galerie des tableaux, et ce projet était conduit aux deux tiers de son exécution en moins de six ans. Les bâtiments de servitude qui formaient jadis trois cours distinctes sous les fenêtres du château avaient en outre fait place à un champ de manœuvre où les soldats de Marengo et d’Austerlitz défilaient chaque jour, à la garde montante, sous les yeux de leur chef. Cette vaste esplanade était séparée du Carrousel par une grille majestueuse entremèlée de statues de victoires. Enfin, aux deux avenues de la demeure impériale, s’élevaient deux ares de triomphe, l’un immense à l'extrémité des Champs-Élysées, l'autre gracieux et élégant, orné de statues, de bas-reliefs, de colonnes de marbre et surmonté des chevaux de Corinthe, à l'entrée même du palais. On ne devait plus pénétrer dans ce palais qu’en passant sous des arcs de triomphe."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 194,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "LaGournerie_1854_bpt6k6394057f_43",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "373",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Henri IV concut la pensée d'agrandir les Tuileries, et il en chargea Androuet Du Cerceau, le jeune artiste qui venait de s'illustrer par la construction du Pont-Neuf. Mais si Du Cerceau avait de la science, il manqua de goût. D'un élégant palais il fit une confusion de palais : confusion par le style, par les élévations, par le caractère. A deux ordres remarquables par leur légèreté on le vit accoler une ordonnance de pilastres gigantesques; à des bâtiments d’un étage on le vit ajouter les hautes et pesantes masses du pavillon Marsan, du pavillon de Flore et des deux corps de logis qui les relient au palais de Philibert Delorme. Ces travaux, commencés par Henri IV, ne furent achevés que sous le règne de son successeur. Louis XIV voulut à son tour répandre un peu d'harmonie dans ce chaos; il confia ce soin à Levau et d’Orbay, et alors fut consommé le sacrifice du chastel de Catherine. Afin de l'aider à supporter le poids des bâtisses de Du Cerceau, on l'exhaussa; la svelte coupole devint un large dôme; les ailes et les pavillons furent couronnés d’un attique, et l'on parvint de la sorte à établir du moins entre les diverses parties une certaine unité d’entablement. \nQue restait-il alors de l'œuvre de Philibert? les galeries du rez-de-chaussée et les terrasses qui les surmontaient. Eh bien! il a fallu qu'une de ces terrasses disparût encore sous Louis-Philippe pour la commodité de l'habitation royale, de telle façon que la symétrie des lignes, cette beauté dernière de l'art, n'existe même plus."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 195,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "François_1857_bpt6k6439790m_25",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "63-4",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "PALAIS DES TUILERIES.— Le palais des Tuileries proprement dit est cet immense bâtiment, que l’on appelle aussi Château des Tuileries, dont la façade s'étend sur toute la largeur du jardin, 330 mètres. Son nom lui vient d'une tuilerie qui existait sur cet emplacement au XIVe siècle. Au centre est un gros pavillon, recouvert d’un dôme, dit Pavillon de l'Horloge, duquel partent deux ailes qui vont rejoindre deux autres pavillons nommés: celui de droite, sur les bords de la Seine, Pavillon de Flore, et celui de gauche, sur la rue de Rivoli, Pavillon Marsan. Commencé sous Henri III par Philibert Delorme, auquel appartiennent le rez-de-chaussée du pavillon de l'Horloge et celui des deux galeries latérales; continué sous Henri IV, par Ducerceau,  qui est l'auteur du premier étage du pavillon du milieu, du dôme qui le couronne, des deux corps de bâtiment et des deux pavillons de chaque extrémité, ainsi que de la galerie qui, du pavillon de Flore; va jusqu’au pavillon dit de Lesdiguière, et par Métézeau, auquel on doit la longue galerie réunissant le pavillon de Lesdiguière au Louvre, que l'on appelle ceommunément à tort le Vieux Louvre, le palais des Tuileries à été, depuis, l’objet de travaux considérables. Napoléon Ier y a ajouté l'aile qui, du pavillon Marsan va jusqu'au pavillon de Rohan, en face la rue de Richelieu, et Napoléon III celle qui, du pavillon de Rohan, va jusqu'au  Louvre, ainsi que les nouveaux palais entre lesquels s’étend la place Napoléon. Ces dernières constructions ont toutes été élevées sur les dessins de Visconti dont l'œuvre a été continuée par M. Lefuel. Aujourd'hui le palais des Tuileries, avec ses annexes, avec le Louvre, qui ne fait réellement plus qu'un palais avec lui, est incontestablement le plus vaste palais du monde. Ces immenses et somptueux édifices,  y compris les cours,  places et jardins qui en dépendent,  n’occupent pas moins de 45 hectares, s'étendant sur une ligne d'environ 1,500 mètres de longueur et 300 mètres de largeur moyenne; les constructions seules couvrent 5 hectares 50 ares, et, si on les mettait en ligne, auraient un développement de plus de 2,700 mètres, près de trois quarts de lieue. \nCe n’est qu'à dater du premier empire que les Tuileries ont été régulièrement habitées par les souverains; Louis XIII, Louis XIV, Louis XV et Louis XVI se tenaient généralement à Saint-Germain, et à Versailles. C’est aux Tuileries que siégeait la Convention nationale. On peut visiter les appartements du château en l’absence de l'Empereur; le reste du palais renferme de grandes administrations publiques et une partie du Musée de peinture, qui occupe le premier étage des galeries dont la façade méridionale regarde la Seine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 196,
+            "Name": "Palais des Tuileries",
+            "Latitude": 48.86222,
+            "Longitude": 2.3325,
+            "place_name": "Palais des Tuileries",
+            "uid": "Balleydier_1849_bpt6k105490w_10",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "82",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "Une fabrique de tuiles'a donné son nom au Palais qui reçut en 1564 la première pierre de la demeure des rois. Sous l'inspiration de Catherine de Médicis, le célèbre abbé de Saint-Serges et de Saint-Éloi, Philibert de Lormes, se chargea de la construction de ce monument, achevé sous Louis XIV par les architectes Levau et Dorbay. \nCinq pavillons et quatre corps de logis sur une même ligne, ayant 346 mètres de longueur sur 35 de largeur, forment la façade du Palais; l'ordonnance de l'intérieur est remarquable de magnificence. \nLa salle des gardes, le salon bleu, la salle du conseil, la salle de réunion, la galerie de Diane, le salon d'attente, le salon d'Apollon, la salle du trône, la salle des maréchaux rivalisent en splendeur. \nLe château des Tuileries a tour à tour abrité Catherine de Médicis, qui, quatre jours avant les massacres de la Saint-Barthélemy, y donna une magnifique fête; Louis XIV, Louis XV, Louis XVI, la Convention nationale, Napoléon, Louis XVIII, Charles X, Louis-Philippe et les hauts et puissants seigneurs de la Bohême, marquis des barricades, héros et conquérants des portes ouvertes. Otons à ce palais le prestige de grandeur qui l’'environne, et nous verrons sur chaque pierre une date sinistre, une teinte sombre, du sang, et de récentes traces de boue. \nLe 25 juin 1791, Louis XVI, le meilleur des rois, arrêté à Varennes, y rentre en prisonnier avec toute son infortunée famille. Le 20 juin 1792, le peuple prélude aux massacres du 10 août en violant le dernier asile de la royauté, forçant la royauté elle-même à poser sur son front, en guise de couronne, le sinistre bonnet rouge du sans-culottisme. C'est aux Tuileries que le 20 janvier 1793, le plus inique des jugements condamna à la peine de mort l’héritier de Henri IV et de Louis XIV... Passons, passons vite, descendons au jardin, l’un des plus beaux jardins d'Europe, dessiné sous Louis XIV par le célèbre Le Nôtre; sous le dôme vert de ces beaux tilleuls séculaires reposons un instant notre cœur assombri des tristes souvenirs que vient de nous rappeler la demeure des rois"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3325,
+                48.86222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 197,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_27",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "93-4",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Considérablement embelli dans ces dernières années, on ne peut s'empêcher d'admirer la galerie d'Orléans, qui remplace les anciennes galeries de bois et qui forme un des plus magnifiques passages que l’on puisse voir. Les deux tiers de ce palais sont occupés par des boutiques qui en font un bazar pertuel. Au milieu règne un jardin de 225 mètres de long sur 100 de large, que rafraichit une belle gerbe d'eau qui s'élève à une grande hauteur. Autrefois, un grand luxe y entretenait une sorte d’enchantement perpétuel : ce n'étaient qu’objets rares, parfums, corbeilles de fleurs toujours pleines. Le luxe, au reste, était partout. Les dorlotières ou modistes faisaient un commerce considérable pour la toilette des hommes comme pour celle des femmes. \n      Nœuds argentés, lacets, escharpes, \n      Bouillons en nageoires de carpes. \n      Porte-fraises en entonnoir, \n      Oreillettes de velours noir, \n      Doublures aux masques huilées, \n      Des mentonnières dentelées, \n      Des sangles à roidir le busc, \n      Des endroits où l’on met du musc, etc. \n      Le palais était plein de ces boutiques de brimborions, et un contemporain blame fort les marchands de ce lieu qui, pour attirer les chalands, leur laissent: la liberté de parler à leurs femmes, de leur dire des choses lascives, avec attouchements et regards... le tout pour vendre une douzaine d’aiguillettes de soie, un collet à la mode, une bourse d'enfant, une dragme ou deux de parfum pour la perruque, ou bien pour une petite épée de bois à mettre au côté d’un enfant; ainsi pour peu de chose. » Aujourd’hui l'étranger peut, sans aucune crainte, y conduire sa femme ou sa filles La promenade des galeries est surtout féerique le soir; les boutiques, resplendissantes de lumières, sont d’un aspect ravissant, et il est rare qu’on les visite sans être tenté par un des mille objets qui s'offrent à la vue."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 198,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "LaGournerie_1854_bpt6k6394057f_51",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "447-8",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "A l’époque de la Révolution, le Palais-Royal devint le centre de toutes les agitations populaires. Camille Desmoulins y était en quelque sorte à demeure, haraguant le peuple le pistolet au poing et le soulevant de son emphase délirante, tantôt contre la Bastille,  tantôt contre la royauté, tantôt contre la Gironde. Théroigne de Méricourt, la furie révolutionnaire, y apparaissait aussi de temps en temps, au moindre symptôme d’émeute, avec sa bande échevelée de femmes sans pudeur et sans frein. Chaque fois enfin qu’une tête était promenée dans les rues de Paris, on était sûr que sa première station serai au Palais-Royal parmi les clubistes et les prostituées, et sous les fenêtres du prince régicide. Les têtes de  Foulon, de Berthier, de la princesse de Lamballe ont toutes passé par là. Un jour une charrette chargée de condamnés à mort y passait à son tour; elle s'arrêta ün instant devant le palais. Parmi les victimes qu'elle trainait au supplice la foule avait reconnu le duc d’Orléans, et elle avait voulu qu'il contemplât une dernière fois sa demeure; et elle le huait. Le régicide leva alors les épaules : «ils m'applaudirent !» s'écria-t-il. \nDepuis ce jour les temps ont marché, et, malgré les différences des caractères et des hommes, le Palais-Royal n’en est pas moins resté le palais révolutionnaire. Deux fois nous l'avons vu, en 1830 et en 1848, acclamant, profanant, s’agitant de nouveau au moindre bruit d’émeute comme à l'époque de Camille Desmoulins et de Théroigne de Méricourt. Centre brillant des quartiers populeux de la capitale, rendez-vous habituel de tous les désæuvrements et de toutes les passions, on dirait une nouvelle Sybaris; mais en même temps, dans ces galeries de marbre, parmi cette foule qui jouit insoucieuse, qui s'amuse, qui s’enivre, la Révolution erre sans cesse dans l'ombre : elle écoute et elle attend."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 199,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "LaGournerie_1854_bpt6k6394057f_48",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "43-4",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Commencée par Louis-Joseph d'Orléans, cette imposante spéculation n'a été achevée que de nos jours par son fils. Pendant quarante ans, en effet, les galeries du Palais-Royal n’ont été reliées entre elles, du côté de la cour, que par une suite de baraques formant deux couloirs étroits et infects. À ces hideuses baraques Louis-Philippe a substitué une galerie vitrée étincelante de marbre et d’or qui, par son éclat et sa grandeur, peut figurer parmi les monuments de la capitale. Les constructions diverses du palais ont en outre été raccordées entre elles, des vestibules à colonnes ont été ouverts sur différentes rues, et le Palais-Royal, remarquable depuis longtemps comme demeure princière, est devenu sans égal comme palais de l'industrie. Au temps des Romains, l'emplacement actuel du Palais-Royal fut sans doute occupé par quelque monument public ou quelque somptueuse villa. Un aquedue souterrain, descendant des hauteurs de Chaillot, y aboutissait en effet à deux bassins dont on a pu reconnaître les vestiges. Aujourd'hui le jardin, resserré entre de longues lignes de bâtiments, et n'ayant plus à la place de ses vieux bois que de vastes pelouses et un petit nombre d'arbres maintenus à demi-hauteur, conserve du moins son bassin et sa gerbe jaillissante."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 200,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "LaGournerie_1854_bpt6k6394057f_47",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "77-9",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Les fortifications de Philippe-Auguste commencaient entre le Louvre et Saint-Germain-l’Auxerrois; on les rejeta au delà du Louvre,  et une porte qui subsistait encore sous Louis XIV donna entrée de ce côté dans la ville, près du pont actuel des Saints-Pères. Cette porte était flanquée d'une haute tour qui fut connue sous le nom de Tour de Bois. La muraille suivait de là la direction de la rue Saint-Nicaise et coupait à angles droits la rue Saint-Honoré, dans l'axe de laquelle se trouvait une porte avec pont-levis et tours. La ligne d’enceinte traversait ensuite de biais la rue Richelieu, le jardin actuel du Palais-Royal, la place des Victoires, et suivait la rue des Fossés-Montmartre, à l'extrémité de laquelle s’ouvrait la porte de ce nom. De cette porte à la bastille Saint-Denis, la direction du mur se trouve aujourd'hui marquée par les rues Neuve-Saint Eustache et Bourbon-Villeneuve. De cette bastille à la porte Saint-Martin, le tracé nous est représenté par la rue Sainte-Appoline, plus loin et jusqu'à la bastille du Temple, par la rue Meslée; puis il s’infléchissait vers le sud, en laissant toujours en dehors les boulevards actuels. Au s'élevait rempart laissant toujours en dehors les boulevards acpoint d’intersection de la rue Saint-Antoine la plus grande, la plus forte des bastilles; et le allait enfin s’appuyer à la tour de Billy, qui occupait l'angle formé par le fossé de l Arsenal et la Seine. L'étendue de cette enceinte était d'environ cinq mille cent trente mètres au nord et trois mille soixante-dix-huit au midi; ce qui, avec la largeur de la Seine, dont le cours était défendu à l'est et à l’ouest par des chaines, formait un total de plus de huit mille neuf cents mètres. Les fossés avaient en général cinq mètres trente centimètres de profondeur et douze mètres d'ouverture. Lorsque l'eau de la Seine ne pouvait y pénétrer, on les armait de pieux aigus, que lon couvrait parfois de foin ou de gazon. Mais ce qui donnait surtout une haute importance à ces fortifications, c’étaient les tours carrées et les fortes bastilles qui en défendaient les approches."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 201,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "LaGournerie_1854_bpt6k6394057f_28",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "159-60",
+            "cleaner_name": "SG",
+            "date_added": "20200615",
+            "snippet": "Jusqu'en 1781, le jardin du Palais-Royal format, avec ses larges allées d’antiques marronniers qui se prolongeaient jusqu'à la rue Richelieu et à la rue Neuve-des-Petits-Champs, une oasis de paix et de verdure au milieu du plus bruyant et du plus populeux quartier de Paris : aussi était-il le rendez-vous de tous ceux que fatiguaient l'oisiveté ou les affaires. Mais, le 1° août 1781, la cognée fut mise au pied des grands arbres, et toute une ceinture de rues et de galeries forma en quelques années du paisible jardin de Richelieu le champ de foire de la capitale. Les Boulevards et le Palais-Royal devinrent dès lors le centre de la vie parisienne. Affaires, curiosités, plaisirs, modes, tout se réunit pour y faire tourbillonner la population dans un mouvement perpétuel. Naguère encore, sous le règne de Louis XV, grands et petits se contentaient d'aller aux Porcherons, chez Ramponneau, au Tambour Royal, cabaret enfumé qu'avaient mis en renom les lazzis de son maître et que décoraient modestement les figures crayonnées de Camargo, de Belle-Humeur, de Prét-à-Boire entourant Bacchus sur son tonneau: Bacchus n'est pas mort, portait l'inscription, puisqu'il vide encore. Mais aujourd’hui, avec le Palais-Royal et les Boulevards, les cabarets se sont transformés en salons des Mille et une Nuits, et des spectacles de tout genre, feux d'artifice, musique, mannequins de cire, baladins se disputent pendant plus d’une lieue l'attention publique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 202,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "Guide_1855_bpt6k134268q_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "50-2",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "De toutes les promenades parisiennes, celle où nous entrons maintenant est la moins champêtre et la moins naturelle. Quelques lignes d'arbres d’un âge encore tendre et d’une santé équivoque, quelques platesbandes, un assez petit bassin, tels sont les charmes agrestes du jardin du Palais-Royal; c'est la moins fraiche des oasis parisiennes. Aussi le Parisien amoureux n’a-t-il jamais hanté ce square ouvert aux impétueux courants de la multitude. Il le traverse, il n’y séjourne pas. \nVu de la place, le palais ne manque pas d'élégance. Jacques Lemercier en fut l'architecte; mais Anne d’Autriche et Monsieur, frère de Louis XIV remanièrent successivement l'hôtel de Richelieu. L'histoire de ce palais se retrouve dans les différentes dénominations qui lui ont élé imposées. Sous Richelieu, son fondateur, il l'intitule orgueilleusement Palais-Cardinal; il devient, sous Anne d'Autriche, au moment où Louis XIV enfant l'habite, le Palais-Royal. Au temps de la République, il abrite ses magnificences sous le nom de Palais-Égalité, deux mots qui se regardent l’un l'autre avec étonnement; il emprunte à de nouveaux événements la dénomination de Palais du Tribunat; après 1848, il est le Palais national, puis, après toutes ces viscissitudes, il retrouve son nom de Palais-Royal, qu'il ne justifia qu’un moment. Le Palais-Royal est habité aujourd'hui par le prince Jérôme Bonaparte, oncle de l'Empereur. \nLe Palais-Royal est un monde tout entier, une ville enclavée au milieu de Paris; c’est un bazar perpétuellement ouvert. La bijouterie, la librairie, la gastronomie y tiennent leurs assises. C’est dans une des galeries qu’étaient naguère les salles de jeux. Sous le péristyle Montpensier, se dresse un des plus désopilants théâtres de Paris, le théâtre du Palais-Royal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 203,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "François_1857_bpt6k6439790m_27",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "66",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "PALAIS-ROYAL.— Construit, en 1629, par Lemercier, pour le cardinal de Richelieu qui y mourut lé 4 décembre 1642, ce palais portait le nom de Palais-Richelieu. Légué au roi par le Cardinal, il reçut d'Anne d'Autriche le nom actuel qui à prévalu. C’est au duc d'Orléans, dit Philippe-Egalité, que l’on doit les bâtiments qui entourent le jardin, ainsi que la salle de spectacle où sont les Français, et au duc d'Orléans, depuis Louis-Philippe ler, la grande galerie vitrée, le plus beau passage couvert dé Paris. Le Palais-Royal, bien que rempli de cafés, de restaurants, d'estaminets, environné d'une ceinture de brillants magasins, et renfermant un jardin situé au cœur de Paris (V. Jardin du Palais-Royal), avait, dans ces derniers temps, considérablement perdu de l'animation qu’il présentait au commencement du siècle; le voisinage de la rue de Rivoli et le magnifique quartier qui s’est élevé à ses côtés la lui a rendue."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 204,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "François_1857_bpt6k6439790m_26",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "43",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "JARDIN DU PALAIS-ROYAL. — Ce jardin, d’une superficie de 2 hectares entièrement renfermés dans le Palais-Royal, est remarquable seulement par la ceinture des bâtiments dans lesquels il se trouve enclavé, et par l'éclat des magasins qui règnent sur toute l'étendue des galeries inférieures. Quand vient le soir, et que les mille lueurs du gaz étincellent à chacune des fenêtres de ce vaste palais, le spectacle dont on jouit a quelque chose de féerique. Le jour, le Palais-Royal est la providence des enfants et des bonnes. C’est là que le bon bourgeois de Paris s’empresse de régler sa montre sur le fameux canon que le soleil de midi fait détonner. C’est également dans ce jardin que, le 42 juillet 1789, Camille Desmoulins, debout sur une table au milieu de la foule, donna le signal de l'insurrection pour marcher à l'attaque de la Bastille."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 205,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "Virmaître_1871_bpt6k5448441v_12",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "223-4",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "L'incendie du Palais-Royal éclata le 24, vers trois heures et demie. Un commerçant du Palais-Royal accourut en toute hâte pour offrir ses services, un officier de la garde nationale menaça de tirer sur lui s'il ne se retirait pas en toute hâte; il ajouta que le quartier allait sauter et qu'il fallait que tout brûlât. Cependant, malgré ses menaces, deux pompes furent mises en fonction par les habitants du voisinage. Il était quatre heures. Il n’y avait pas d’eau dans la cour des Fontaines; il fallut faire la chaine dans le passage conduisant à la cour d’honneur."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 206,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "Fournier_1860_bpt6k6416873z_11",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "109",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "La démolition des bâtiments abandonnés [de l'ancien hospice des Quinze-Vingts] ne se fit pas attendre. Celle de l’église ne coûta pas beaucoup de peine; le temps l’avait commencée, on n'eut qu'à l’achever. La chapelle de Saint-Nicaise qui se trouvait aussi dans l’enclos, tout près de la rue à laquelle elle avait donné son nom, n'existait plus depuis près d’un siècle; l’on n’eut qu'à disposer de son emplacement. Il eut le sort de tout le reste de ces terrains, qui furent bientôt coupés de rues nouvelles et couverts de bâtiments neufs. Aujourd'hui, ces rues et ces bâtiments devenus ont eux-mêmes disparu. Que sont la rue de Chartres, la rue de Valois-Saint-Honoré, la rue Beaujolais, la rue Montpensier, le Passage des Quinze-Vingts, tout ce dédale qui avait enroulé ses mailles serrées sur l'espace de l’enclos des aveugles? Demandez-le à la place du Palais-Royal, qui s'est agrandie sur leurs ruines; à la rue de Rivoli, qui les a fait jeter bas pour se frayer passage. Ce n’était pour ainsi dire qu'un quartier provisoire; il n'a pas duré soixante-dix ans."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 207,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "Balleydier_1849_bpt6k105490w_19",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "78-82",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "Nous voici au Palais-Royal, somptueux édifice qui ne compte cependant que deux siècles. Rien de plus curieux que l’histoire de ce palais, bâti en 1629 par le cardinal Richelieu, sur l'emplacement des hôtels d'Armagnac et de Rambouillet. Palais-Cardinal en 1736, il devint à la mort du grand politique Palais-Royal, et Louis XIII en hérita par suite de la donation que lui en fit Richelieu dans son testament paraphé à Narbonne, au mois de mai 1642. Après lavoir habité quelque temps, Louis XIV l’assigna à Henriette-Marie, reine d’Angleterre, qui l'occupa jusqu’en 1661. Ce fut à cette époque que Monsieur, frère de Louis XIV, en prit possession avant de s'en rendre définitivement propriétaire; ce qu'il fit après le mariage de son fils, le duc de Chartres, avec Marie-Françoise de Bourbon. \nMonsieur étant mort en 1701, le duc de Chartres son fils, prit le titre de duc d'Orléans, et le Palais-Royal changea bientôt de physionomie.\nPhilippe, nommé régent le 2 sept. 1715, en fit aussitôt une cour infâme d'hommes titrés qui, trempant leurs blasons dans la boue, échangèrent leurs vieux noms contre celui de roués; une cour de femmes tombées. de tous les échelons de la société dans le déshonneur, et recueillies pour ses plaisirs dans la fange abjecte de la débauche. Alors les folles joies avaient remplacé le génie, le vice la piété, et la dissolution la plus effrénée posait à nu pour l'histoire, dans les salons dorés de la régence. \nJetons un voile sur cet amas d’iniquités, et passons...\nVoyez-vous ces jardins magnifiques, ces belles pelouses abritées sous de beaux arbres, ces mystérieuses allées inventées pour les bonheurs paisibles et tranquilles? Eh bien demain ces jardins deviendront le quartier général de l'insurrection. [ . . . ]\nÀ la mort de cet homme qui avait troqué son titre de prince contre l'ignoble sobrique d'Egalité, le Palais-Royal, réuni au domaine national, devint le séjour ordinaire d’une foule de bohémiens qui coupèrent les murailles pour élargir des fenêtres ou pour percer des portes. Napoléon donna le Palais-Royal au Tribunat pour en faire le lieu de ses séances. [ . . . ] \nDirigées par l'architecte Fontaine les dispositions intérieures du palais sont des plus élégantes: le bon goûtes salons rivalise avec la magnificence des galeries. \nVoici la salle des aides-de-camp, voilà le salon de réception: ceci vous représente la pièce qui s’est transformée un jour en salle de trône, pour recevoir une couronne ramassée dans les barricades, et c'est encore là que Louis-Philippe se l'est mise au front pour recevoir ensuite les députations de la France de Juillet. Nous sommes à présent dans la salle de société qui va nous conduire à la galerie dorée, puis au salon bleu, où nous admirerons une fort belle collection de tableaux."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 208,
+            "Name": "Palais-Royal",
+            "Latitude": 48.8638,
+            "Longitude": 2.3371,
+            "place_name": "Palais-Royal",
+            "uid": "Asti_1843_bpt6k6471672z_08",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "309",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "Mais si cela ne suffit pas pour ces heureux Parisiens, comme vous dites, ils ont encore, et précisément dans le centre de leur ville, le fameux Palais-Royal, où ils peuvent, les soirs d'été, et toujours quand il fait beau temps, se promener délicieusement dans un parallélogramme de 700 pieds de long sur 300 de large, orné d'arbres sur ses côtés, de gazons, de fleurs, et de statues au milieu. Les élégants portiques environnants, leur offrent un abri sûr contre la pluie, et la superbe, la vaste galerie d'Orléans, de 300 pieds de long, couverte d’une toiture vitrée, les défend contre l’air froid et humide. Ces beaux lieux, bien éclairés pendant le jour, resplendissants dans la nuit, sont toujours animés par une foule de promeneurs, et présentent à notre vue tout ce que le caprice, la vanité, le luxe peut imaginer."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3371,
+                48.8638
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 209,
+            "Name": "Théâtre-Français",
+            "Latitude": 48.8636,
+            "Longitude": 2.3359,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3359,
+                48.8636
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 210,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_28",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "95",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "à l'extrémité le la belle rue Vivienne, aux boutiques élégantes, au passage si fréquenté, s'élève le palais de la Bourse, dont l'aspect est monumental. Bâti, en 1808, sur le plan de M. Brongniart, habile architecte, il occupe l'emplacement de l'ancien couvent des Filles-Saint-Thomas. Il renferme le Tribunal de commerce et présente un temple de forme carrée, long de 67 mètres et large de 41. Autour de l'édifice règne un magnifique péristyle, composé de soixante-six colonnes d'ordre corinthien, et formant une galerie couverte, à laquelle on arrive par un perron qui occupe toute la largeur de la façade. \nThéâtre du Vaudeville. Vis-à-vis de ce majestueux palais s’élève la façade du théâtre du Vaudeville. Ce est plus, hélas! le Vaudeville de Collé et de Vadé, celui de Lauzon et de Désaugiers; espérons qu’il retrouvera sa marotte qu'il semble avoir perdue depuis le déménagement de la rue de Chartres."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 211,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Fournel_1865_bpt6k1018901_26",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "12",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "la Bourse, qui ressemble à la Madeleine, et la Madeleine, qui ressemble\nà la Bourse"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 212,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "LaGournerie_1854_bpt6k6394057f_56",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "171",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "L'architecture du temps de l'Empire se distingue en général par une certaine perfection technique, mais en même temps par une imitation de plus en plus servile des types anciens. Qu'il s'agisse d’un monument civil ou d'un monument religieux, de la Bourse ou de la Madeleine, c'est toujours le même style, noble et froid, harmonieux et académique. L'idée de la maison de Dieu n’inspirera rien de plus à l'artiste que celle d’un bureau de change. L'un et l’autre formeront un temple entouré de colonnes. du galbe le plus pur, comme le sanctuaire de Minerve à Athènes. Par la même raison le palais Législatif aura pour façade un portique qui rappellera plus ou moins le Panthéon d’Agrippa."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 213,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Janin_1843_bpt6k102791c_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "19-20",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "quel esprit n’a-t-il pas fallu [à Victor Hugo] pour soutenir que le Paris du roi Charles X et du roi Louis-Philippe n’était plus que l'ombre informe et décolorée du Paris d’autrefois? Fi donc! à entendre [Hugo] le roi du pittoresque, les Parisiens n’ont plus qu’une ville de plâtre; ils changent de maisons tout comme ils changent leurs vieux habits contre des habits neufs.Si, par hasard, [les Parisiens] se décident à construire quelque monument qui ne soit pas un édifice de plâtre ou de bois, regardez sans rire ce monument une fois bâti, et vous verrez s’il est rien de plus ridicule? Le Panthéon est un gâteau de Savoie; le palais de la Légion-d’Honneur, un palais de pâtisserie; la Halle-au-Blé, une casquette, et encore une casquette de jockey anglais! Quelles sont ces deux grosses clarinettes, surmontées d’un bâton de mesure tordu et grimaçant? Ce sont les tours de Saint-Sulpice, et au sommet des tours, le télégraphe. À quelle architecture appartient le palais de la Bourse? est-ce romain ou est-ce grec? ceux-là ont bien de la bonté qui trouvent que ce soit en effet un monument d’un bel aspect. Quant aux plus belles rues de Paris, dans lesquelles l'habitant de la ville se promène d’un pas si calme et si fier, le Parisien n’a jamais été plus grossièrement badaud que de trouver belles ces vastes issues toutes remplies d’air, de mouvement, d'espace et de soleil. Par exemple, comprenez-vous rien qui soit plus ennuyeux que la rue de Rivoli, où l’on marche à pied sec, où l’on est à l'abri de la pluie en hiver, de la poussière en été, où les plus riches boutiques vous présentent à l’envi tous les trésors du monde? le jardin des Tuileries étale sa plus riante parure, pendant qu’à votre droite l’Arc-de-Triomphe de l'Étoile se dresse dans toute sa majesté. Mais à quoi bon nous tant heurter contre la fantaisie des poëtes? le paradoxe historique n’a jamais eu de plus intrépides soutiens. Innocents et courageux viveurs, pour peu que vous les poussiez à bout, ils vont vous soutenir que (toujours pour ce qui est le pittoresque!) c’est grand dommage qu’on ne roue plus en place de Grève, qu’on ne pende plus à Montfaucon, et que la vieille église de Saint Germain-l’Auxerrois, si calme aujourd’hui et si bien réparée, ne sonne plus de temps à autre le glas funèbre de la Saint Barthélemi."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 214,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Guide_1855_bpt6k134268q_11",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "80-1",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "La Bourse, située sur la place de ce nom, entre le Palais-Royal et le boulévard; le Palais de la Bourse, est, comme presque tous les édifices modernes de Paris un bâtiment dans le style grec. 11 dessine un parallélogramme de 71 mètres de longueur sur 49 de largeur. Une galerie extérieure, formant péristyle à colonnes, permet au public si nombreux qui fréquente la Bourse de se promener à l'abri de la pluie ou des rayons du soleil. La salle centrale, le principal théâtre de la spéculation, est d’un assez bel aspect. Au fond se trouve la corbeille des agents de change, qui, dans le langage du terroir, s'appelle parquet. C'est vers deux heures qu'il faut aller contempler ce spectacle, du haut des galeries qui dominent la salle. Ce sont des cris tels, qu'on pourrait se croire au milieu d’une ménagerie de tigres. Du reste, si nous exceptons le coup d'œil étrange qu'offre cette foule qui hurle de une heure à trois, la Bourse n'offre rien de bien curieux pour l'étranger. C’est au premier étage de ce monument qu'est situé le Tribunal de commerce."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 215,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Cramouzaud_1855_bpt6k65447250_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Eugène Cramouzaud",
+            "docTitle": "Études sur le XIIe arrondissement",
+            "docDate": 1855.0,
+            "doc_page_number": "39",
+            "cleaner_name": "SL",
+            "date_added": "2020_07_18",
+            "snippet": "Au commerce, à l’industrie et aux grandes affaires, il donna un palais, la Bourse, construit sur l'emplacement de l'ancien couvent des Filles-du-Calvaire. A la gloire de la France, au sentiment de la grandeur nationale, il dressa des arcs-de-triomphe, des temples et des colonnes. Il agrandit les Tuileries ; il donna neuf fontaines à la rive gauche, et huit à la rive droite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 216,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "François_1857_bpt6k6439790m_28",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "61",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "PALAIS DE LA BOURSE. — Véritable temple du commerce parisien, qu’en raison de son style architectural et de sa destination, les Grecs, ainsi qu'on l'a fait justement remarquer, auraient pu très-raisonnablement consacrer à Mercure. Ce monument, qui, du reste, avec sa colonnade, ne manque pas d'effet, a été élevé de 1808 à 1827, d’après les plans de Brongniart, sur un terrain autrefois occupé par le couvent des Filles-de-St-Thomas-d'Aquin. Il a 70 mètres de longueur, 42 de largeur; 30 de hauteur, couvre une superficie d'environ 3,000 mètres, et a coûté plus de 8,000,000 de francs. Le tribunal de commerce siége au premier étage. La salle intérieure a 38 mètres de longueur sur 25 de largeur. Le spectacle qu’elle offre au moment où a lieu le marché des valeur est des plus curieux. À ce moment, le droit d'entrée est de 1 fr."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 217,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Hugo_1831_1_bpt6k6497134z_47",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "257-8",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Quant au palais de la Bourse, qui est grec par sa colonnade, romain par le pleincintre de ses portes et fenêtres, dé la renaissance par sa grande voûte surbaissée, c’est indubitablement un monument très-correct et très-pur: la preuve, c'est qu'il est couronné d'un attiqué comme on n'en voyait pas à Athènes, belle ligne droite, gracieusement coupée çà ét là par des tuyaux de poêle. Ajoutons que s’il est de règle que l’architecturé d'un édifice soit adaptée à sa destination dé telle façon que cette destination se dénonce d'elle-même au seul aspect de l'édifice, on ne saurait trop s’émerveiller d'un monument qui peut être indifféremment un palais de roi, une chambre des communes, un hôtel-de-ville, un collége, in manége, une académie, un éntrepôt, un tribunal, un musée, une caserne, un sépulcre, un temple, un théâtre. En attendant c’est une Bourse. Un monument doit en outre être approprié au climat. Celui-ci est évidemment construit exprès pour notre ciel froid et pluvieux: Il a un toit presque plat comme en Orient, ce qui fait que l'hiver, quand il a neigé, on balaye le toit, et il est certain qu'un toit est fait pour être balayé. Quant à cette destination dont nous parlions tout-à-l'heure, il la remplit à merveille; il est Bourse en France comme il eût été temple en Grèce. Il est vrai que l'architecte a eu assez de peine à cacher le cadran de l'horloge ; qui eût détruit la pureté des belles lignes de la façade; mais en revanche on a cette colonnade qui circule autour du monument, et sous laquelle, dans les grands jours de solennité religieuse, peut se développer majestueusement la théorie des agens de change et des courtiers de commerce."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 218,
+            "Name": "Bourse",
+            "Latitude": 48.8693,
+            "Longitude": 2.341,
+            "place_name": "Bourse",
+            "uid": "Balleydier_1849_bpt6k105490w_21",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "148-9",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "Cet édifice, situé  au centre d’une des plus belles places de Paris, située magnifiquement elle-même, occupe un parallélogramme d’environ 71 mètres de longueur sur 49 de largeur qui forme une surface de 3,005 mètres carrés. Sa construction, indépendamment de la valeur de l'emplacement concédé par l’Etat à la ville de Paris, a coûté la somme énorme de 8,149,192 fr. \nC’est au célèbre banquier Law qu'on doit en France l'institution de la Bourse. Il l’établit en 1690, sous les auspices du régent rue Quincampoix. L’agiotage alors n'était réglé par aucune loi; ce ne fut que le 24 septembre 1724 que, par décret du conseil du roi, la Bourse reçut une existence officielle et légale. Etablie d’abord au Palais Mazarin, elle en fut expulsée par la révolution. Alors elle se réfugia dans l'église des Petits-Pères, jusqu’au jour où Napoléon, à l'exemple du Christ, dont il rétablissait les autels, chassa les vendeurs du temple. En attendant la construction du Palais qu’on lui promit, elle trouva un refuge provisoire parmi les courtisanes, sous les galeries de bois du Palais-Royal, puis enfin dans une maison de la rue Feydeau, qui fut sa dernière station avant d'arriver à la place où elle fut construite sur les dessins de Brogniard."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341,
+                48.8693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 219,
+            "Name": "Fontaine des Innocents",
+            "Latitude": 48.8606,
+            "Longitude": 2.348,
+            "place_name": "Fontaine des Innocents",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_29",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "101-3",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Cet immense marché, qui bientôt sera transformé et embelli, qu’arrose la plus élégante de nos fontaines, chef-d'œuvre dû au ciseau de Jean Goujon, était au moyen âge un hideux cimetière, entouré d’une enceinte de pierres dont la moitié avait été construite aux frais du maréchal de Boucicaut, et l’autre à ceux du fameux calligraphe Nicolas Flamel... L’enceinte dont nous parlons formait une galerie voûtée qu’on appela les Charniers, et qui était réservée aux morts privilégiés. La foule se pressait alors sous ces arceaux noirs et humides et sur ces pavés composés de pierres tumulaires, entre les cabinets des écrivains et les étalages riants des modistes, qui payaient des loyers fort considérables pour ce temps, et qui s’en dédommageaient amplement sur leurs chalands. C'était le Palais-Royal de nos bons aïeux. Il faut avouer que la vogue a eu de singuliers caprices. Au milieu du cimetière s'élevait un obélisque surmonté d’une lanterne qui éclairait, pendant toute la nuit, ce vaste champ de mort et qui animait seule son affreuse solitude.\n      C’est dans la rue de la Féronnerie, qui longe le marché du côté du midi, que Ravaillac assassina Henri IV, le 14 mai 1610. Un buste du bon roi et une inscription sont appliqués à la maison en face de laquelles eut lieu ce crime détestable. \n      Halle aux blés. — Dans le voisinage du marché des Innocents se trouve la halle aux blés. C’est un beau bâtiment de forme circulaire, entièrement isolé, percé à jour de toutes parts et entouré de maisons et de rues; il fut construit en 1767, sur l'emplacement de l'hôtel de Soissons. Sa rotonde est percée de vingt-cinq arcades; il n’est entré aucun bois dans la construction de cet édifice; la coupole, hémisphérique, est en fer coulé et en cuivre. Près de là s'élève une belle colonne de 32 mètres de hauteur, terminée par un méridien : c’est l’ancien observatoire de Catherine de Médicis; au pied de la colonne coule la fontaine Sainte-Catherine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.348,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 220,
+            "Name": "Fontaine des Innocents",
+            "Latitude": 48.8606,
+            "Longitude": 2.348,
+            "place_name": "Fontaine des Innocents",
+            "uid": "Fournel_1865_bpt6k1018901_09",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "298",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "on aurait peine à retrouver la trace [ . . . ] de l'église des Saints-Innocents, l’une des plus anciennes de Paris, contemporaine au moins de Philippe Auguste, déjà érigée en cure au douzième siècle, siége de la grande confrérie des crieurs de corps et de vin, si curieuse et si pittoresque avec sa haute tour et sa tourelle octogone à fanal, ses galeries, ses cellules construites pour servir d'asile aux recluses volontaires, son portail où l'on voyait sculptée en relief la légende des trois vifs el des trois morts, le fameux cimetière avec sa danse macabre, et ces charniers historiques où était installée une foire perpétuelle, et où les échoppes d'écrivains publics, de lingères, de marchands d'estampes, de marchandes de modes, masquaient les tombeaux et les épitaphes."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.348,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 221,
+            "Name": "Fontaine des Innocents",
+            "Latitude": 48.8606,
+            "Longitude": 2.348,
+            "place_name": "Fontaine des Innocents",
+            "uid": "LaGournerie_1854_bpt6k6394057f_34",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "172",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Avant la révolution de 89, les églises n'étaient pas seulement des lieux de prière, elles étaient encore des champs de repos, et leurs nefs, leurs chapelles surtout, étaient presque toutes ornées de monuments funéraires qui ajouaient à la fois et à la splendeur du temple et à cette impression de religieuse tristesse que la méditation inspire. Les morts qui ne pouvaient trouver place dans les églises\nétaient enterrés sous les charniers de quelques étroits cimetières; celui des Saints—Innocents ne dépassait pas les limites du marché actuel. Les cadavres y étaient entassés, et répandaient alentour des exhalaisons fétides. Un pareil état de choses éveilla la sollicitude du parlement, qui, par arrêt de 1765, interdit les cimetières situés dans l’intérieur de Paris. Les charniers et l’église des Saints-Innocents furent même démolis en 1786, et les ossements qu’on eu retira furent déposés dans une partie des carrières souterraines du quartier du Luxembourg, qui prirent dès lors la pieuse dénomination de Catacombes."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.348,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 222,
+            "Name": "Fontaine des Innocents",
+            "Latitude": 48.8606,
+            "Longitude": 2.348,
+            "place_name": "Fontaine des Innocents",
+            "uid": "Guide_1855_bpt6k134268q_32",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "122-3",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Marché des Innocents. — Dans quelque temps, ce marché, le plus considérable de tous ceux de Paris, aura disparu pour faire place aux halles centrales, dont la première pierre fut posée par le Président de la République en 1852. C’est sur l'emplacement même du cimetière de l'église des Saints-Innocents que s’éleva, en vertu d'une ordonnance du lieutenant de police en 1785, le marché actuel. \nDes constructions de ce marché datent de 1813 seulement; auparavant les marchandes avaient pour tout abri de vastes parapluies et se tenaient dans des tonneaux. Les amateurs de mœurs pittoresques ne peuvent se dispenser de visiter les alentours du marché des Innocents. C’est le rendez-vous de tous les industriels nocturnes dont Parts abonde. La vie dans ce quartier exceptionnel commence à onze heures du soir, et finit à six heures du matin. Les .cenles démolitions ont fait perdre à ce quartier une partie de sa physionomie originale. On regrette surtout la ee de Paul Niquet ce gin-palace de tous les chiffoniers et rôdeurs de nuit parisiens. \nCe marché des Innocents est consacré à la vente des légumes et des fruits; environ 320 charettes apportent les légumes nécessaires à la consommation quotidienne de la capitale. Dans la saison des fruits 420 voitures et autant de bêtes de somme sont occupées à leur transport. Pour donner une idée de l'importance du commerce qui se fait sur ce marché, il suffira de dire qu’on y vend approximativent pour 1,500,000 francs de salade par an."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.348,
+                48.8606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 223,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_29",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "101-3",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Cet immense marché, qui bientôt sera transformé et embelli, qu’arrose la plus élégante de nos fontaines, chef-d'œuvre dû au ciseau de Jean Goujon, était au moyen âge un hideux cimetière, entouré d’une enceinte de pierres dont la moitié avait été construite aux frais du maréchal de Boucicaut, et l’autre à ceux du fameux calligraphe Nicolas Flamel... L’enceinte dont nous parlons formait une galerie voûtée qu’on appela les Charniers, et qui était réservée aux morts privilégiés. La foule se pressait alors sous ces arceaux noirs et humides et sur ces pavés composés de pierres tumulaires, entre les cabinets des écrivains et les étalages riants des modistes, qui payaient des loyers fort considérables pour ce temps, et qui s’en dédommageaient amplement sur leurs chalands. C'était le Palais-Royal de nos bons aïeux. Il faut avouer que la vogue a eu de singuliers caprices. Au milieu du cimetière s'élevait un obélisque surmonté d’une lanterne qui éclairait, pendant toute la nuit, ce vaste champ de mort et qui animait seule son affreuse solitude.\n      C’est dans la rue de la Féronnerie, qui longe le marché du côté du midi, que Ravaillac assassina Henri IV, le 14 mai 1610. Un buste du bon roi et une inscription sont appliqués à la maison en face de laquelles eut lieu ce crime détestable. \n      Halle aux blés. — Dans le voisinage du marché des Innocents se trouve la halle aux blés. C’est un beau bâtiment de forme circulaire, entièrement isolé, percé à jour de toutes parts et entouré de maisons et de rues; il fut construit en 1767, sur l'emplacement de l'hôtel de Soissons. Sa rotonde est percée de vingt-cinq arcades; il n’est entré aucun bois dans la construction de cet édifice; la coupole, hémisphérique, est en fer coulé et en cuivre. Près de là s'élève une belle colonne de 32 mètres de hauteur, terminée par un méridien : c’est l’ancien observatoire de Catherine de Médicis; au pied de la colonne coule la fontaine Sainte-Catherine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 224,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Fournel_1865_bpt6k1018901_10",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "212",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Les deux chefs-d'œuvre de cette architecture utilitaire, qui appartient à l'art moins qu'à la science, c’est le grand égout collecteur et les Halles centrales. Le grand égout est une merveille souterraine, une création prodigieuse, que nous nous contenterons toutefois de signaler de loin à l'admiration. À la rigueur, on peut approcher les Halles de plus près, et même y entrer un moment. Pour nous, cette vaste construction, d'une hardiesse légère et d’une solide élégance, où l’air et la lumière pénètrent avec tant d'abondance, où tout a été si habilement calculé pour la commodité des aménagements et les besoins de la circulation, qui offre enfin un certain aspect monumental, tout en gardant la physionomie d’abri temporaire, et, pour ainsi dire, de tente gigantesque en fer et en brique, comme il convient à un marché couvert, est le vrai Louvre du Paris actuel, ce Gargantua insatiable qui absorbe chaque jour la nourriture de trois ou quatre provinces, et qui fait craquer successivement toutes les ceintures où l’on essaye de le contenir. Les Halles, de l’aveu universel, constituent l'édifice le plus irréprochable élevé dans ces douze dernières années. Quoi qu’en veuille faire croire la critique officielle, nous sommes à une époque de prose, et il y a là une de ces harmonies logiques qui satisfont l'esprit par l'évidence de leur signification."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 225,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Guide_1855_bpt6k134268q_32",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "122-3",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Marché des Innocents. — Dans quelque temps, ce marché, le plus considérable de tous ceux de Paris, aura disparu pour faire place aux halles centrales, dont la première pierre fut posée par le Président de la République en 1852. C’est sur l'emplacement même du cimetière de l'église des Saints-Innocents que s’éleva, en vertu d'une ordonnance du lieutenant de police en 1785, le marché actuel. \nDes constructions de ce marché datent de 1813 seulement; auparavant les marchandes avaient pour tout abri de vastes parapluies et se tenaient dans des tonneaux. Les amateurs de mœurs pittoresques ne peuvent se dispenser de visiter les alentours du marché des Innocents. C’est le rendez-vous de tous les industriels nocturnes dont Parts abonde. La vie dans ce quartier exceptionnel commence à onze heures du soir, et finit à six heures du matin. Les .cenles démolitions ont fait perdre à ce quartier une partie de sa physionomie originale. On regrette surtout la ee de Paul Niquet ce gin-palace de tous les chiffoniers et rôdeurs de nuit parisiens. \nCe marché des Innocents est consacré à la vente des légumes et des fruits; environ 320 charettes apportent les légumes nécessaires à la consommation quotidienne de la capitale. Dans la saison des fruits 420 voitures et autant de bêtes de somme sont occupées à leur transport. Pour donner une idée de l'importance du commerce qui se fait sur ce marché, il suffira de dire qu’on y vend approximativent pour 1,500,000 francs de salade par an."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 226,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "François_1857_bpt6k6439790m_29",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "34-5",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "HALLES. — On appelle plus particulièrement de ce nom, à Paris, le marché des Innocents et ceux qui se groupent autour de lui. C'est là que se vendent les légumes, le poisson, le beurre, les, œufs, le fromage, etc., qui alimentent la ville. L'animation, l'activité, le mouvement, le bruit qui y règnent pendant la nuit en font un spectacle que se donnent parfois les étrangers, et qui n’est pas le moins curieux de ceux qu'ils peuvent se procurer. Les halles nouvelles, que l'on est en train de construire dans des proportions monumentales, formeront les plus belles halles du monde. Outre un grand nombre de marchés (V. ce mot), on compte encore, à Paris, la HALLE AUX BLÉS, la HALLE AUX CUIRS, r. Mauconseil, 34; la HALLE AUX HUITRES, r. Montorgueil, 42; la HALLE AUX VEAUX, q. des Augustins, et la HALLE AUX VINS, qui n'est autre que L'Entrepôt des vins, dont il est question ci-avant.(v. ces mots.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 227,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Roze_1853_bpt6k5551419c_1",
+            "file_name": "Roze_1853_bpt6k5551419c_clean.xml",
+            "docAuthor": null,
+            "docTitle": "Nouveau projet de Halles centrales dans la Cité, avec création d'un beau quartier dit des Innocents sur l'emplacement des Halles actuelles",
+            "docDate": 1853.0,
+            "doc_page_number": "6",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[Les auteurs proposent la construction des Halles de Paris dans l'île de la Cité, sur le site de l'Hôtel-Dieu actuel]\nLes 46,500 mètres de propriétés à exproprier actuellement, non compris le bâtiment des archives englobé près la place du Palais-de-Justice, ne se composent, sauf la rue de la Barillerie et quelques maisons sur les rues de Constantine et de la Cité que de masures de fort peu de valeur , comme construction et comme location. La valeur moyenne de l’ensemble de ces propriétés ne saurait donc dépasser, selon nous, 400 francs par mètre superficiel, constructions et terrains compensés, ce qui ferait supposer, pour les 46,500 mètres superficiels, une dépense totale d’expropriation de 18,600,000 francs, somme qui serait largement couverte par le produit de la vente des terrains libres de l’emplacement des anciennes Halles, que nous avons estimé, plus haut, à la somme de 22,500,000 francs."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 228,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Hugo_1831_1_bpt6k6497134z_49",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "247-8",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Ajoutez les croix de pierre sculptées, plus prodiguées encore dans les carrefours que les gibets; le cimetière des Innocens, dont on apercevait au loin, par dessus les toits, l'enceinte architecturale; le pilori des Halles, dont on voyait le faîte entre deux cheminées de la rue de la Cossenerie; l'échelle de la Croix-du-Trahoir dans son carrefour toujours noir de peuple; les masures circulaires de la Halle-au-Blé; les tronçons de l’ancienne clôture de Philippe-Auguste, qu’on distinguait çà et là, noyés dans les maisons, tours rongées de lierre, portes ruinées, pans de murs croulans et déformés; le quai avec ses mille boutiques et ses écorcheries saignantes; la Seine chargée de bateaux, du Port-au-Foin au For-l'Évêque, et vous aurez une image confuse de ce qu'était en 1482 le trapèze central de la Ville."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 229,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Hugo_1831_1_bpt6k6497134z_48",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "145=6",
+            "cleaner_name": "SEL",
+            "date_added": "20200621",
+            "snippet": "Après avoir couru à toutes jambes pendant quelque temps, sans savoir où, donnant de la tête à maint coin de rue, emjambant maint ruisseau, traversant mainte ruelle, maint cul-de-sac, maint carrefour, cherchant fuite et passage à travers tous les méandres du vieux des Halles, explorant dans sa peur panique ce que le beau latin des chartes appelle tota via, cheminum et viaria, notre poëte s'arrêta tout à coup, d’essoufflement d’abord, puis saisi en quelque sorte au collet par un dilemme qui venait de surgir dans son esprit."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 230,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Fournier_1860_bpt6k6416873z_06",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "281-2",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Dans le chapitre qui précède, sur la colonne de l’hôtel de Soissons, nous avons omis à dessein une des particularités les plus curieuses, la réservant pour ce chapitre-ci, qui lui sera tout spécial. Il s’agit des emblèmes, chiffres et devises, chiffres surtout, qui se trouvaient sculptés sur la base et dans les cannelures de la haute colonne, comme sur la plupart des monuments royaux qui datent du même temps. Ces signes, invisibles aujourd’hui, soit parce que les grattages successifs qu'a subis la colonne les ont fait disparaitre, soit parce qu'ils se trouvaient principalement sur la base, complétement remaniée lorsqu'on y adapta une fontaine, ou bien encore sur la partie faisant face à l'hôtel, qu’on a encastrée dans l’enceinte extérieure de la Halle aux blés, tous ces signes, dis-je, dont nous ne pouvons plus juger, étaient fort apparents autrefois, et figuraient, par conséquent, comme détails indispensables dans toutes les descriptions écrites, dans toutes les représentations gravées de la fameuse colonne. Sur la gravure in-folio qui en fut faite en 1756, ils sont, par exemple, assez visibles; Saint-Aubin n'eut garde non plus d'en oublier le plus important, sur l’estampe, dans un coin de laquelle il figura, par une allusion difficile à trouver au premier coup d'œil, la base et les premières assises cannelées de la colonne Médicis. Cette estampe peu connue, qui porte la date de 1780, représente des enfants jouant à la fossette au milieu d'une enceinte en ruines. \nDans un des coins, comme je l'ai dit, au dernier plan, afin de rappeler sans doute, par un souvenir de l'hôtel de Soissons, le tripot scandaleux qu'y avait établi le prince de Carignan, et dont nous avons parlé, Saint Aubin a représenté notre colonne, sans rien omettre des ravages visibles que le temps y avait faits. Pour qu'on ne s’y méprit pas, il écrivit sur la seconde assise, en lettres minuscules : Colonne de l'hôtel de Soissons, telle qu'elle étoit encore en 1760; mais, ce qui vaut mieux pour nous, et ce qui rendrait même inutile l'inscription explicative, il placa dans les cannelures les C et les H entrelacés qu’on y voyait encore de son temps."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 231,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Fournier_1860_bpt6k6416873z_05",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "264-6",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Catherine s’empressa de faire construire l'observatoire demandé par son astrologue. Le soin en fut confié à Bullant, architecte du nouveau palais, qui, n'ayant que peu d’espace, l’encoignure étroite d’une cour, se tira toutefois fort habilement de ce travail. Il donna à l’observatoire, si impérieusement réclamé et si difficile à placer, la forme élégante d’une longue colonne élancée, haute de cent pieds, cannelée de la base au sommet et percée à l'intérieur, comme la colonne Trajane, d’un escalier à vis.\n      « Ce qui fut le plus long à bâtir, dit l'abbé Terrasson, dans son Histoire de l'emplacement de l'hôtel de Soissons, est la fameuse colonne\nque la reine fit construire par Jean Bullant, célèbre architecte, dans un des angles d’une cour de quinze toises, dont l'entrée étoit rue      des Deux-Escus. On communiquoit à cette colonne par les appartements de cette cour, lesquels appartements aboutissoient à une porte, ensuite de laquelle on trouvoit un escalier pratiqué dans l’intérieur de cette colonne et qui conduisoit jusqu'au haut. » Pour que quelque chose témoignât de l'usage de cet observatoire, des signes et des emblèmes cabalistiques furent sculptés sur le fût gracieux de la colonne, où ils étaient mélés  aux miroirs brisés, aux lacs d'amour rompus, figures allégoriques du veuvage de Catherine *."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 232,
+            "Name": "Halles",
+            "Latitude": 48.8623,
+            "Longitude": 2.3447,
+            "place_name": "Halles",
+            "uid": "Balleydier_1849_bpt6k105490w_01",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "117",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "Nous sommes si près des Halles, que nous pouvons nous y rendre sans nous détourner de notre itinéraire. Le premier marché qui ait été établi à Paris, se tenait à la Cité, dans le voisinage de la rue appelée rue du marché Palu. Plus tard, un nouveau marché, appelé le marché de l'apport, se tint dans le voisinage de la rue St-Denis, et fut ensuite transporté, par ordre de Louis VI, près du cimetière des Innocents. Philippe-Auguste en établit deux autres, et leur donna le nom de Halles. La plus vaste de celles qui alimentent aujourd’hui Paris, est sans contredit la Halle au blé. Cet immense édifice circulaire, occupe la place de l'ancien hôtel de Soissons, élevé par Bullan en 1572, pour Catherine de Médicis. Sur l'emplacement de cet hôtel, détruit en 1748, la halle fut commencée en 1763 et terminée en 1767, d'après les dessins de Le Camus, de Mézières.\nLa consommation ordinaire de Paris, est de 1590 sacs de 159 kilogrammes par jour."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3447,
+                48.8623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 233,
+            "Name": "Saint-Eustache",
+            "Latitude": 48.8632,
+            "Longitude": 2.3456,
+            "place_name": "Saint-Eustache",
+            "uid": "François_1857_bpt6k6439790m_30",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "29",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "EGLISE SAINT-EUSTACHE, — R. du Jour. — Très-remarquable monument, qui présente l'alliance bizarre du gothique et de la renaissance, mais dont la vaste nef et la large disposition intérieure font l'une des églises les plus imposantes de Paris. Les chapelles des bas-côtés viennent d’être ornées de peintures qui s’harmonisent assez bien avec le ton général de l'édifice. Le jeu d’orgues passe pour l’un des plus beaux et des meilleurs jeux d’orgues connus. Le portique de la façade principale est un contre-sens aussi lourd que ridicule. Saint-Eustache à 104 m. de long, 43 de large et 33 de haut. Colbert est inhumé dans cette église, qui eu 1793, vit célébrer la fête de la Raison, et devint à ce sujet le théâtre d’une indigne et hideuse profanation."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3456,
+                48.8632
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 234,
+            "Name": "Temple",
+            "Latitude": 48.865278,
+            "Longitude": 2.362222,
+            "place_name": "Temple",
+            "uid": "Fournel_1865_bpt6k1018901_14",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "301",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "le Temple, monument historique par excellence, consacré successivement par le séjour de l’ordre religieux qui lui à donné son nom, des Hospitaliers et des chevaliers de Malte, par la captivité de Louis XVI et de la famille royale; tour à tour lieu d’asile et de franchise, libre et profane académie où la muse familière de Chaulieu divertissait la cour du grand prieur de Vendôme, retraite religieuse où les prières des Augustines montaient jour et nuit vers le ciel comme une purification et une expiation. Tant de souvenirs n’ont pu sauver le Temple. Après 1848, ce n'était plus qu'une caserne; depuis 1854, ce n'est plus rien, qu’un square banal, orné d'arbres étiques et d'une maigre cascade."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.362222,
+                48.865278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 235,
+            "Name": "Temple",
+            "Latitude": 48.865278,
+            "Longitude": 2.362222,
+            "place_name": "Temple",
+            "uid": "Fournel_1865_bpt6k1018901_12",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "89-90",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "pourquoi, par exemple, avant de tracer le square du Temple, a-t-on commencé par raser les grands arbres du jardin qui en occupait l'emplacement, au lieu d’en faire profiter le public? L'administration se croirait-elle déshonorée de conserver de beaux arbres qui ne lui coûteraient rien, au lieu d’en planter de chétifs qui lui coûtent fort cher? \nA vrai dire, ce n’est pas là un inconvénient réel pour le vrai Parisien, le Parisien pur sang, celui qui, même dans le paradis terrestre, regretterait son petit ruisseau de la rue du Bac."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.362222,
+                48.865278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 236,
+            "Name": "Temple",
+            "Latitude": 48.865278,
+            "Longitude": 2.362222,
+            "place_name": "Temple",
+            "uid": "Hugo_1831_1_bpt6k6497134z_52",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "248",
+            "cleaner_name": "SEL",
+            "date_added": "20200623",
+            "snippet": "Ainsi, immédiatement à côté du parc des Tournelles, entre la rue Saint-Antoine et la vieille rue du Temple, il y avait Sainte-Catherine avec son immense culture, qui n'était bornée que par la muraille de Paris. Entre la vieille et la nouvelle rue du Temple, il y avait le Temple, sinistre faisceau de tours, haut, debout et isolé au milieu d’un vaste enclos crénelé. Entre la rue Neuve du Temple et la rue Saint-Martin, c'était l’abbaye de Saint-Martin, au milieu de ses jardins, superbe église fortifiée, dont la ceinture de tours, dont la tiare de clochers, ne le cédaient en force et en splendeur qu'à Saint-Germain-des-Prés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.362222,
+                48.865278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 237,
+            "Name": "Temple",
+            "Latitude": 48.865278,
+            "Longitude": 2.362222,
+            "place_name": "Temple",
+            "uid": "Fournier_1860_bpt6k6416873z_10",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "15-6",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Il y a vingt ans environ, des fouilles firent découvrir à cet endroit une source abondante, qu'on prit pour une source d'eaux minérales. Ce n’était qu'un reste des infiltrations dont s’élaient jadis alimentés ces fossés et qui grossissaient le ruisselet du Marais. La rue du Temple s’étendait tout près de là. Le cours d’eau faisait un coude sous terre pour la laisser passer; il se déversait en partie dans un canal de maçonnerie qui, traversant la contrescarpe du Temple, allait joindre le ruisseau de Ménilmontant; puis, ainsi déchargé, il ressortait à ciel ouvert, pour s'engager dans l'espèce de ruelle qu'on lui avait ménagée derrière les maisons de la rue du Vertbois. Le tracé des rues Notre Dame-de-Nazareth et Neuve-Saint-Martin marque encore la ligne qu'il suivait ainsi. Tout au haut de cette pente, à un endroit où il avait dû déverser quelques filets d’eau pour arroser de nouvelles cultures, et par contre aussi s'alimenter à ces fontaines, que rappelle encore le nom d'uné rue voisine, il avait été enjambé par une petite passerelle, qu'on avait appelée le Pont-aux-Biches, à cause de l'enseigne des Biches qui se trouvait tout prés, et dont le souvenir se retrouve encore dans un autre nom de rue."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.362222,
+                48.865278
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 238,
+            "Name": "Tour Saint-Jacques",
+            "Latitude": 48.8581,
+            "Longitude": 2.3489,
+            "place_name": "Tour Saint-Jacques",
+            "uid": "Fournel_1865_bpt6k1018901_15",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "302",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "La Révolution [ . . . ] a renversé aussi Saint-Jacques-la Boucherie, dont la tour, longtemps occupée par une fabrique de plomb de chasse, isolée de nos jours, restaurée et isolée, a eu l'heureuse chance d'échapper à l'artillerie des alignements braqués de toutes parts autour d'elle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3489,
+                48.8581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 239,
+            "Name": "Tour Saint-Jacques",
+            "Latitude": 48.8581,
+            "Longitude": 2.3489,
+            "place_name": "Tour Saint-Jacques",
+            "uid": "LaGournerie_1854_bpt6k6394057f_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "182",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Au moment où nous publions cette seconde édition, d'immenses travaux sont entrepris sur tous les points de la capitale, et tendent à en modifier considérablement l'aspect. Le Louvre s'achève, la solitude du Carrousel se peuple de monuments, et la vieille tour de Saint-Jacques-de-la-Boucherie, perdue naguère au milieu d’un marché de fripiers, apparaîtra bientôt noblement, avec ses statues d'apôtres, au point de jonction de deux immenses voies, dont l'une, reliant la Cité et les hauteurs du quartier Saint-Martin, aboutira à la gare de Strasbourg, tandis que l'autre, prolongeant la rue de Rivoli, met déjà en communication directe les Tuileries et l’Hôtel-de-Ville."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3489,
+                48.8581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 240,
+            "Name": "Tour Saint-Jacques",
+            "Latitude": 48.8581,
+            "Longitude": 2.3489,
+            "place_name": "Tour Saint-Jacques",
+            "uid": "Virmaître_1871_bpt6k5448441v_19",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "16",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Les insurgés, voyant que la partie était encore perdue, se replièrent avenue Victoria, rue de la Coutellerie, derrière le café de la Garde nationale, d’où quelques coups de feu furent encore tirés. \nUne barricade fut ébauchée boulevard Sébastopol, devant la tour Saint-Jacques; mais de tous côtés les troupes arrivaient, et, comme au 31 octobre, cernaient la place. Les brancardiers n'avaient pas attendu l’arrivée de la troupe pour enlever les victimes de cette triste et odieuse échaffourée; ils relevèrent six morts, parmi lesquels se trouvait le commandant Sappia."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3489,
+                48.8581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 241,
+            "Name": "Tour Saint-Jacques",
+            "Latitude": 48.8581,
+            "Longitude": 2.3489,
+            "place_name": "Tour Saint-Jacques",
+            "uid": "Balleydier_1849_bpt6k105490w_23",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "145",
+            "cleaner_name": "SL",
+            "date_added": "20200613",
+            "snippet": "Non loin de l'Hôtel de Ville, et assez près de nous pour que nous puissions lui consacrer la dernière visite de notre quatrième Journée, se trouve la tour Saint-Jacques-la-Boucherie. Cette tour, d'architecture gothique, l’un des plus hauts monuments de Paris, faisait partie autrefois de l’église Saint-Jacques-la-Boucherie. Construite de 1508 à 1522, elle a coûté la somme de 1,350 livres, et elle a été rachetée par la ville de Paris, le 27 août 1836, moyennant là somme de 250,100 fr. Elle renferme les cendres du fameux alchimiste Nicolas Flamel, qui dicta lui-même, assure-t-on, son épitaphe : \nDe terre suis venu, \nEt de terre retourne."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3489,
+                48.8581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 242,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_38",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "118-19",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Caserne Napoléon.— C'est, avec la caserne du quai d'Orsay, celle de la rue de Babylone et celle de l’École militaire, le plus beau monument de ce genre à Paris. Elle se compose d’un immense bâtiment quadrilatère aux colonnes ioniennes, aux frontons ornés de trophées d'armes, qui recouvre une foule de ruelles qu’on a déjà oubliées, et qu’on croirait n'avoir jamais existé, si les anciens plans de Paris n’en faisaient foi. [ . . . ]\nUne énorme trouée de démolitions qui, dans trois mois, sera le prolongement de la rue de Rivoli, a emporté l’ancien marché Saint-Jean, et laisse déjà voir l’église Saint-Paul et la colonne de Juillet. »\n[citatnt Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 243,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_33",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "117-18",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Commencé en 1553, il ne fut achevé qu'en 1606. Il a reçu, dans ces derniers temps, de grands embellissements. Débarrassé de ses échafaudages, il présente maintenant au regard ses quatre façades monumentales. Son architecture est à fois grecque et gothique. Au-dessus de la porte d’entrée, un grand bas-relief en bronze représente Henri IV à cheval. De 1553 à 1848, les salles de l'hôtel de ville ont été témoins de bien des révolutions. C'est le siége de la préfecture de la Seine et de la municipalité de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 244,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "Fournel_1865_bpt6k1018901_16",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "35-6",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Jetez maintenant les yeux sur l'Hôtel de Ville, le but naturel de tous les émeutiers, le siége de tous les gouvernements provisoires, le point le plus important et le plus disputé de Paris, aux jours de révolutions. Aujourd'hui l'Hôtel de Ville, dégagé de toutes parts, et trois fois pour une, par le quai, l'avenue Victoria et la continuation de la rue de Rivoli, en outre proprement flanqué à l'arrière d’une caserne respectable, ne peut plus devenir l’objet d'une surprise ni d’un coup de main. \nAvons-nous besoin de poursuivre la démonstration? Restons-en là. Le lecteur pourrait se lasser de ces explications fastidieuses, qui étaient nécessaires pour établir un point dont ceux-là mèmes qui s’en doutent ne se doutent pas assez. Pas un détail n’a été négligé dans l'ensemble, et le gouvernement a retourné d'avance tous les atouts pour lui. \nAinsi partout l'émeute est déboutée et réduite en vasselage; partout ses quartiers généraux sont traqués dans leurs repaires et pris entre deux feux. Les nouvelles voies, larges, dégagées, découvertes, s’allongent en lignes droites au lieu de s’arrondir en lignes courbes comme les anciennes, et ce qu’on prend pour un simple amour de la symétrie est de plus un profond calcul stratégique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 245,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "Guide_1855_bpt6k134268q_16",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "66",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "L'ancienne façade de l'Hôtel de Ville présente un corps de bâtiments flanqué de deux pavillons, et dont les combles, suivant la mode du temps, sont d'une grande hauteur. Cette façade, percée de treize fenêtres au premier élage, est surmontée d’un campanile très-élégant. \nLa cour est entourée de portiques et a la forme d'un trapèze. \nSous l’arcade qui fait face à l'entrée de l'Hôtel, on voit la statue pédestre du grand roi, œuvre d'Antoine Coysevox; Louis XIV est vêtu en triomphateur romain. \nTel qu'il était, cet Hôtel de Ville ne suffisait pas aux besoins de l'administration. En 1836, un projet fut adopté pour l'agrandissement et l’embellissement de ce palais qui est complétement achevé aujourd'hui. Les dépenses pour les nouvelles constructions, en y comprenant les frais d'ameublement, de décorations, de peintures, se sont élevées à plus de 15 millions. \nL'intérieur de l'Hôtel de Ville est magnifiquement décoré, et l'ameublement en est d'une richesse splendide."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 246,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "François_1857_bpt6k6439790m_32",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "74",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "Place de Grève où de l'Hôtel-de-Ville. C'est là que se faisaient autrefois les exécutions capitales. Entre autres supplices; la place de Grève a vu : le 27 mai 1574; celui de Montgommery, l'auteur involontaire de la mort de Henri Il; le 27 mai 1610, celui de Ravaillac, l'assassin par de Henri IV, qui y fut tenaillé vif, rompu et démembré par quatre chevaux; le 8 juillet 1647, celui de la maréchale d’Ancre, accusée, de magie; la foule était si grande qu’il fallut plus d'une heure pour parvenir de la Conciergerie à l’échafaud; le 22 juin 1627, celui du fameux duelliste François de Montmorency-Boutteville; le 10 mai 1632, celui du maréchal de Marillac, l'une des victimes du cardinal de Richelieu; le 16 juillet 1676, celui de la marquise de Brinvilliers, la célèbre empoisonneuse: Mme de Sévigné était au nombre des spectatrices; le 22 février 1680, celui de la Voisin, autre empoisonneuse que Mme de Sévigné avait également voulu voir mourir; le 20 juin 1699, celui de la belle Mme Tiquet, femme d’un conseiller au parlement, qui avait tenté de faire assassiner son mari ; le 27 novembre 1721, celui de Cartouche, le plus audacieux voleur du XVIIIe siècle; le 26 mars 1757, celui dé Damiens, l'assassin de Louis XV, qui y fut tenaillé, rompu, écartelé et brûlé; les croisées et les lucarnes furent louées à des prix fous; les toits regorgeaient de spectateurs; le 19 mai 1766, celui de l'infortuné Lally-Tollendal, gouverneur de Pondichéry, dont la mémoire fut complétement réhabilitée douze ans après; c’est également sur cette place que moururent le malheureux Foulou et son gendre Berthier de Savigny, le marquis de Favras, et, le 24 août 1822, les quatre héroïques sergents de la Rochelle; des siéges avaient été disposés à l'Hôtel-de-Ville pour des dames de la cour qui désiraient cette sanglante tragédie. Depuis quelque temps l’horrible spectacle des exécutions capitales a été transporté à la Roquette: Quant à la place dé Grève, transformée, embellie, elle est devenue le centre d'un des plus magnifiques quartiers de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 247,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "François_1857_bpt6k6439790m_31",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "39",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_14",
+            "snippet": "HOTEL-DE-VILLE. — Fondé en 1533, et considérablement agrandi sous le règne de Louis-Philippe, l'Hôtel-de-Ville de Paris est le siége de la préfecture de la Seine et l'un des plus remarquables monuments de la capitale. La façade principale surtout se distingue par la richesse et la multiplicité de son ornementation. On a observé avec raison que les niches destinées à renfermer les statues des illustrations sont si bien garnies, qu’il ne reste plus une seule place pour les grands hommes présents et futurs, qui devront conséquemment en prendre leur parti et s’en passer. Les salles des fêtes, situées au premier étage, sont décorées avec une rare magnificence; on y est admis, le jeudi, avec une autorisation du Préfet de la Seine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 248,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "Virmaître_1871_bpt6k5448441v_10",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "233",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "À gauche, les ruines des Tuileries flambant encore et s’écroulant pierre à pierre sous la pluie d’obus qui arrivait à chaque instant; à droite, les flammes de l'Hôtel-de-Ville traçaient sur le fond bleu du ciel un large sillon sanglant.\nLes travailleurs, placés dans la cour du Carrousel, faisaient la chaîne sans se préoccuper des balles, des boîtes à mitraille et des obus qui éclataient avec un fracas terrible, brisant, blessant ou tuant sur leur passage."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 249,
+            "Name": "Hôtel de Ville",
+            "Latitude": 48.8565,
+            "Longitude": 2.3524,
+            "place_name": "Hôtel de Ville",
+            "uid": "Balleydier_1849_bpt6k105490w_24",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "141",
+            "cleaner_name": "SL",
+            "date_added": "20200613",
+            "snippet": "Nous voici à l'Hotel de Ville; parcourons ce vaste monument qui, depuis le demi siècle que nous venons de franchir, est devenu si souvent le palais de l’émeute triomphante. La première pierre de l'Hotel de Ville, a été posée le 15 juillet 1533 par Pierre de Viole mais l'édifice ne commença véritablement à s’exécuter qu’en 1549, lorsque Henri II eût accepté les dessins de Dominique Boccadoro de Cortone. H ne fut toutefois terminé qu'en 1605, sous Henri IV. \nLa façade principale, ainsi que vous le voyez, se compose d’un corps flanqué à ses extrémités de deux avant-corps percés d’une arcade. L’horloge que vous apercevez au mi- lieu, chef-d'œuvre du fameux Lepaute, est le meilleur régulateur de Paris. \nLa statue qui décore l'extrémité supérieure de la porte principale vous représente Henri IV. Détruite en 1792, elle a été remplacée pendant la Restauration. La série de niches, percées symétriquement de distance en distance, renferment les statues des magistrats les plus distingués de Paris depuis les premiers temps. \nSi nous pénétrons dans l'intérieur, nous y verrons des salles fort remarquables, telles que celles du trône et du zodiaque. \nRestauré sous Louis-Philippe, l'Hôtel de Ville se prête merveilleusement à l'exécution des fêtes publiques, sans entraîner les dépenses énormes qui signalèrent les fêtes du \nSacre de Napoléon, 1,745:646, fr. \nMariage de Marie-Louise,  2,670,932 \nNaissance du roi de Rome, 600,000 \nBaptême du duc de Bordeaux, 680,000 \netc... etc...... \nL'Hôtel de Ville joue un grand rôle dans l'histoire de nos révolutions, car il a toujours été le point de mire des émeutiers....... Ne remontons par le cours des temps qui nous mènerait trop loin, ne dépassons même pas les limites de la première Révolution, et le cadavre de Jacques de Flesselles, le dernier prévôt des marchands, assassiné sur la dernière marche de l'escalier; citons seulement la grande comédie jouée par Lafayette, en 1830, citons la meilleure des Républiques et le fameux programme de la Charte-vérité ; mentionnons également cette autre comédie\ndu 15 mai 1848, succédant à la comédie non interrompue et sans entracte du 14 février.\nSi l'Hôtel de Ville a souvent prêté ses salons et ses fenêtres à la représentation des scènes comiques, il a servi bien souvent de scène à la représentation des drames sanglants."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3524,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 250,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_36",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "118",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Prolongement de la rue de Rivoli. — Déjà la rue de Rivoli est arrivée jusqu’à la façade nord de l’hôtel de ville, et l'étranger peut admirer ses maisons à cariatides, à balcons sculptés et à balustrades d’or, et les splendides magasins qui s'élèvent de chaque côté.\n« Dans quelques jours, dit un écrivain que nous avons déjà cité, le marteau aura fait sa besogne, et alors la truelle commencera le sienne. De l’arc de triomphe de l'Étoile aux colonnes de la barrière du Trône, s’étendra une voie sans égale au monde, une sorte de voie sacrée plus belle et plus bordée de monuments que celle de Rome, et si large que l'avenir n’y sera jamais à l’étroit. » \n[citant Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 251,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_35",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "23",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "la rue de Rivoli multiplie ses arcades et va rejoindre la rue Saint-Antoine. Les maisons à caiatides, à balcons sculptés, à colonnes cannelées, à plaques de marbres de couleur, à balustrades d’or, se rangent et se servent le long de la rue souveraine, qui sera pour Paris ce que le grand canal est pour Venise.\n[quoting Théophile Gautier]"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 252,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Fournel_1865_bpt6k1018901_19",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "176",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Par le percement du boulevard de Sébastopol et de l'avenue Victoria, comme par le prolongement de la rue de Rivoli, la place du Chätelet est devenue une sorte de vaste carrefour ouvert aux quatre vents du ciel, qui laisse fuir le regard de tous les côtés et n’a, pour ainsi dire, point d’enceinte. Monuments et boulevards semblent s'être donné rendez-vous sur ce chétif emplacement, peu digne d'un tel honneur. Au centre trône la fontaine de la Victoire, qu’on a alourdie par l’adjonction d’un maussade piédestal orné de sphinx"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 253,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Fournel_1865_bpt6k1018901_18",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "59-60",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Il y a des quartiers où [les maisons] ressemblent à des palais : entrée monumentale, surmontée de rosaces et de bas-reliefs; du bronze et du marbre partout, de l'or au balcon, etc. J’ai examiné en détail un de ces palais dans la rue de Rivoli : il est habité au rez-de-chaussée par un marchand de vin et un charcutier; au premier par un tailleur; au second par une modiste; au troisième par un huissier. Le reste ne vaut pas l'honneur d’être nommé. Je ne m’en plains pas : je voudrais que tout le monde, même les huissiers, logeät « sous des lamnbris dorés. » Mais ce bronze est du zinc, cet or est du badigeon. Il en est un peu de ces palais comme des décors de théâtre : il faut les voir à distance, sans chercher à les toucher du doigt."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 254,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Fournel_1865_bpt6k1018901_17",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "15",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Nous n'avons plus qu'une rue à Paris : c’est la rue de Rivoli. Non contente d’avoir poussé sa trouée jusqu’au bout de la ville, elle reparaît partout, en se déguisani sous une multitude de noms. Encore un peu de temps, et nous n’aurons plus de rues : il n’y aura plus que des boulevards. \nParis, au moyen âge, c'était un drame de Shakespeare : Paris, aujourd’hui, c'est une tragédie de M. Viennet, corrigée par S. E. le maréchal Magnan; ou, si on l’aime mieux, c’est un poëme épique revu par un professeur de grammaire. Sans mépriser les tragédies de M. Vienne, je préfère les drames de Shakespeare : j'espère que M. Viennet ne s’en offensera pas."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 255,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Fournel_1865_bpt6k1018901_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "149-51",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Cette tâche [de joindre le Louvre au Palais des Tuileries] était de celles qui ne s'improvisent pas, et nous sommes sûr de n'étonner ni M. Haussmann ni M. Lefuel, en constatant qu'ils n’y ont que fort incomplétement réussi. Sans doute, à l'aide d'artifices élémentaires, on a bien pu voiler çà et là les différences de niveau des bâtiments et tourner quelques autres obstacles d’un ordre subalterne; mais, sur des points plus importants, les dernières constructions n’ont fait que mettre en relief ces discordances qu’elles devaient atténuer, et en accroître considérablement le nombre. Si l’on examine la facade récemment élevée sur la rue de Rivoli, on s'aperçoit que l'architecte, entrainé par le désir de créer un riche vis-à-vis au Palais-Royal, en a brusquement changé le style à la partie centrale, dont les panneaux sculptés, les ornements de la frise et des baies, la riche décoration, imitée de la fin du seizième siècle, jurent avec la simplicité sévère du reste de la façade. Dans l'aile neuve qui clôt à l'ouest, en retour d'équerre, le petit jardin ouvert sur la méme rue, les fenêtres, sans cesser de reproduire la forme et les moulures de celles du vieux Louvre, prennent tout à coup une dimension différente, assez sensible pour blesser l'œil et briser désagréablement la perspective. Autant qu’on peut le deviner sous l’appareil d’échafaudages qui l’enveloppent du haut en bas comme une carapace, la reconstruction du pavillon de Flore va ajouter un trait de plus à cette confusion fâcheuse. Le gros œuvre du bâtiment, avec ses disgracieux œils-de-bœuf surmontés de petites lucarnes de deux ou trois pieds carrés, pareilles à celles d’un grenier, ne rappelle en rien jusqu'à présent l'architecture de Philibert Delorme, non plus que celle de Ducerceau. Le pan de galerie neuve adjacent à ce pavillon ne reproduit pas non plus le type de la galerie du bord de l'eau, qu’il déborde par une saillie de cinq où six mètres, en faisant pour ainsi dire planer sur elle la menace assurée d’une démolition prochaine !\n[Note de l'auteur:] Aujourd’hui, la menace est accomplie. 11 paraît qu'on avait conçu des craintes sur la solidité de cette galerie; mais ces craintes, venues à point nommé, et qui font honneur an zèle ingénieux de l'édilité actuelle, ont dü se convaincre qu'elles étaient singulièrement prématurées, devant ces fondations d’une solidité prodigieuse qui a opposé une résistance héroïque au vandalisme des pioches et des leviers    conjurés contre elles. En restera-t-on là, du moins? M. Berryer a eu l'indiscrétion de le demander en pleine Chambre, dans la séance du 28 mai 1864, et l'organe du gouvernement a bien voulu le rassurer, en affirmant d’une façon solennelle qu’on n'avait pas actuellement l'intention de reconstruire en entier les Tuileries. Cet adverbe a fait frémir tous ceux qui sont au courant du vocabulaire officiel, et il suffit de jeter un coup d'œil sur les derniers travaux pour être fixé sur la valeur de cette réponse. Tout en professant le respect qui sied pour les paroles de l’orateur du gouvernement, on peut prédire, sans crainte de démenti et sans avoir la prétention de se poser en prophète, que le nouveau pavillon de Flore exigera un nouveau pavillon de Marsan, et que la reconstruction de la galerie du bord de l'eau entrainera celle de la galerie qui longe la rue de Rivoli. Nous serons trop heureux si l'on ne va pas plus loin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 256,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "LaGournerie_1854_bpt6k6394057f_52",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "171-2",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Enfin, la suppression des couvents avait laissé d’immenses espaces disponibles dans l'intérieur de Paris; en profita pour ouvrir un grand nombre de rues ou places nouvelles. C’est ainsi par exemple qu'à travers enclos des Feuillants et des Capucins furent tracées les rues de Rivoli, de Castiglione et de la Paix, déjà projetées par Louis XVe, et qui donnèrent aux Tuileries et à la place Vendôme les issues qui leur manquaient. Une rue plus monumentale encore fut conçue du Louvre à la Bastille. La vénérable église Saint-Germain-l’Auxerrois aurait fait place aux arcades et aux boutiques de celte nouvelle voie triomphale; heureusement l'esprit plus judicieusement artistique de notre époque à fait justice de ces merveilles au cordeau, auxquelles on prétendrait sacrifier les plus glorieux monuments des siècles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 257,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "LaGournerie_1854_bpt6k6394057f_32",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "171-2",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "la suppression des couvents avait laissé d’immenses espaces disponibles dans l'intérieur de Paris; en profita pour ouvrir un grand nombre de rues ou places nouvelles. C’est ainsi par exemple qu'à travers enelos des Feuillants et des Capucins furent tracées on de les les rues de Rivoli, de Castiglione et de la Paix, déjà projetées par Louis XVI, et qui donnèrent aux Tuileries et à la place Vendôme les issues qui leur manquaient. Une rue plus monumentale encore fut conçue du Louvre à la Bastille. La vénérable église Saint-Germain-l’Auxerrois aurait fait place aux arcades et aux boutiques de celte nouvelle voie triomphale; heureusement l'esprit plus judicieusement artistique de notre époque à fait justice de ces merveilles au cordeau, auxquelles on prétendrait sacrifier les plus glorieux monuments des siècles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 258,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "LaGournerie_1854_bpt6k6394057f_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "182",
+            "cleaner_name": "SG",
+            "date_added": "20200612",
+            "snippet": "Au moment où nous publions cette seconde édition, d'immenses travaux sont entrepris sur tous les points de la capitale, et tendent à en modifier considérablement l'aspect. Le Louvre s'achève, la solitude du Carrousel se peuple de monuments, et la vieille tour de Saint-Jacques-de-la-Boucherie, perdue naguère au milieu d’un marché de fripiers, apparaîtra bientôt noblement, avec ses statues d'apôtres, au point de jonction de deux immenses voies, dont l'une, reliant la Cité et les hauteurs du quartier Saint-Martin, aboutira à la gare de Strasbourg, tandis que l'autre, prolongeant la rue de Rivoli, met déjà en communication directe les Tuileries et l’Hôtel-de-Ville."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 259,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Janin_1843_bpt6k102791c_04",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "19-20",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "quel esprit n’a-t-il pas fallu [à Victor Hugo] pour soutenir que le Paris du roi Charles X et du roi Louis-Philippe n’était plus que l'ombre informe et décolorée du Paris d’autrefois? Fi donc! à entendre [Hugo] le roi du pittoresque, les Parisiens n’ont plus qu’une ville de plâtre; ils changent de maisons tout comme ils changent leurs vieux habits contre des habits neufs.Si, par hasard, [les Parisiens] se décident à construire quelque monument qui ne soit pas un édifice de plâtre ou de bois, regardez sans rire ce monument une fois bâti, et vous verrez s’il est rien de plus ridicule? Le Panthéon est un gâteau de Savoie; le palais de la Légion-d’Honneur, un palais de pâtisserie; la Halle-au-Blé, une casquette, et encore une casquette de jockey anglais! Quelles sont ces deux grosses clarinettes, surmontées d’un bâton de mesure tordu et grimaçant? Ce sont les tours de Saint-Sulpice, et au sommet des tours, le télégraphe. À quelle architecture appartient le palais de la Bourse? est-ce romain ou est-ce grec? ceux-là ont bien de la bonté qui trouvent que ce soit en effet un monument d’un bel aspect. Quant aux plus belles rues de Paris, dans lesquelles l'habitant de la ville se promène d’un pas si calme et si fier, le Parisien n’a jamais été plus grossièrement badaud que de trouver belles ces vastes issues toutes remplies d’air, de mouvement, d'espace et de soleil. Par exemple, comprenez-vous rien qui soit plus ennuyeux que la rue de Rivoli, où l’on marche à pied sec, où l’on est à l'abri de la pluie en hiver, de la poussière en été, où les plus riches boutiques vous présentent à l’envi tous les trésors du monde? le jardin des Tuileries étale sa plus riante parure, pendant qu’à votre droite l’Arc-de-Triomphe de l'Étoile se dresse dans toute sa majesté. Mais à quoi bon nous tant heurter contre la fantaisie des poëtes? le paradoxe historique n’a jamais eu de plus intrépides soutiens. Innocents et courageux viveurs, pour peu que vous les poussiez à bout, ils vont vous soutenir que (toujours pour ce qui est le pittoresque!) c’est grand dommage qu’on ne roue plus en place de Grève, qu’on ne pende plus à Montfaucon, et que la vieille église de Saint Germain-l’Auxerrois, si calme aujourd’hui et si bien réparée, ne sonne plus de temps à autre le glas funèbre de la Saint Barthélemi."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 260,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Virmaître_1871_bpt6k5448441v_20",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "216-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Quand tout fut terminé, on put mesurer rapidement la grandeur de nos pertes, sur lesquelles on n'avait jusque-là ni à Paris, ni hors Paris, de données précises. On trouva les Tuileries réduites aux deux premiers étages; le troisième enlevé, ainsi que le dôme; l'intérieur entièrement détruit. L'Hôtel de-Ville n'avait plus que ses murs et l'étage supérieur manquait. Les murs seuls restaient également au palais du Conseil d'État, au palais de la Légion d'honneur. Les galeries du Carrousel avaient perdu aussi l'étage supérieur. Les murs seuls restaient aux deux autres étages, entourant les débris fumants. L'intérieur de la bibliothèque du Louvre était anéanti. Le Palais-de-Justice avait perdu plusieurs corps de bâtiments; la Préfecture de police était détruite. Le théâtré de la Porte-Saint-Martin, les magasins du chemin de fer du Nord, à La Villette, sont entièrement consumés. L’Arsenal, le Théâtre-Lyrique n’ont plus que leurs murs. Des cavernes noires s'ouvrent à l’entrée de la rue du Bac, à presque toutes les entrées des maisons de la rue de Lille, à l'entrée du boulevard du Prince-Eugène, aux angles du boulevard de Sébastopol et de la rue de Rivoli et sur la place de la Bastille. Dans le quartier de la Madeleine, des maisons n’ont plus que la façade extérieure; trois angles de la rue Royale et de la rue Saint-Honoré sont des monceaux de cendres. Le Ministère des finances a perdu même le mur de la façade. L'incendie a découvert trois perspectives d’arcades noircies, d’une tristesse de ruine romaine qui serait récente."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 261,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Hugo_1831_1_bpt6k6497134z_59",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "258",
+            "cleaner_name": "SEL",
+            "date_added": "20200623",
+            "snippet": "Ce sont là sans aucun doute de très-superbes monumens. Joignons-y force belles rues, amusantes et variées comme la rue de Rivoli, et je ne désespère pas que Paris, vu à vol de ballon, ne présente un jour aux, yeux cette richesse de lignes, cette opulence de détails, cette diversité d’aspects, ce je ne sais quoi de grandiose dans le simple et d’inattendu dans le beau qui caractérise un damier."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 262,
+            "Name": "Rue de Rivoli",
+            "Latitude": 48.8541,
+            "Longitude": 2.3522,
+            "place_name": "Rue de Rivoli",
+            "uid": "Fournier_1860_bpt6k6416873z_11",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "109",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "La démolition des bâtiments abandonnés [de l'ancien hospice des Quinze-Vingts] ne se fit pas attendre. Celle de l’église ne coûta pas beaucoup de peine; le temps l’avait commencée, on n'eut qu'à l’achever. La chapelle de Saint-Nicaise qui se trouvait aussi dans l’enclos, tout près de la rue à laquelle elle avait donné son nom, n'existait plus depuis près d’un siècle; l’on n’eut qu'à disposer de son emplacement. Il eut le sort de tout le reste de ces terrains, qui furent bientôt coupés de rues nouvelles et couverts de bâtiments neufs. Aujourd'hui, ces rues et ces bâtiments devenus ont eux-mêmes disparu. Que sont la rue de Chartres, la rue de Valois-Saint-Honoré, la rue Beaujolais, la rue Montpensier, le Passage des Quinze-Vingts, tout ce dédale qui avait enroulé ses mailles serrées sur l'espace de l’enclos des aveugles? Demandez-le à la place du Palais-Royal, qui s'est agrandie sur leurs ruines; à la rue de Rivoli, qui les a fait jeter bas pour se frayer passage. Ce n’était pour ainsi dire qu'un quartier provisoire; il n'a pas duré soixante-dix ans."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3522,
+                48.8541
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 263,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_37",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "110-111",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "A l'extrémité du boulevard Saint-Antoine et de la rue du même nom s'étend la magnifique place de la Bastille, où s'élevait, avant 1789, une forteresse, dont le prévôt de Paris posa la première pierre en 1369. C’est cette fameuse Bastille qui devint la prison d’État où la monarchie fit gémir ses ennemis et qui ne tomba qu'avec elle. Ce formidable édifice était moins destiné à défendre Paris contre l'étranger que le roi lui-même contre Paris. \nOn sait comment elle tomba, le 14 juillet. Après un siége de quelques heures, la vieille forteresse des rois, la prison cruelle où avait gémi presque tout ce qui pensait librement, fut abattue à ras du sol; un bal public s'établit à la place avec cette inscription : ici l’on danse ! Avec les pierres on construisit le pont Louis XVI (aujourd'hui de la Concorde). \nColonne de Juillet. — Après les journées des 27, 28 et 29 juillet 1830, les victimes tombées du côté du peuple furent ensevelies au pied de la colonnade du Louvre, où leurs restes demeurèrent dix années. En 1840, on les transporta dans les caveaux creusés sous la place de la Bastille, et on leur donna pour mausolée la colonne de Juillet, haute de 56 mètres, sur laquelle une inscription d'une grande simplicité rappelle la destination de ce monument. \nSur le faite s’élance une statue dorée représentant le Génie de la liberté ayant brisé les fers du despotisme et portant par le monde le flambeau de la civilisation."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 264,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Janin_1843_bpt6k102791c_07",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "213",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "Cependant l'emplacement de cette ville funèbre, habitée par tant de misérables, n’a pas été absorbé tout entier; un petit morceau en est resté inoccupé, afin qu’un jour sans doute, en parlant de la Bastille, l'enfant du faubourg puisse frapper du pied et dire : Elle était là. Quand le peuple de 89 eut renversé d’un coup d’épaule, en se jouant, ces murailles minées par les larmes des misérables, le peuple, content de sa journée, rentra dans sa maison en chantant, et le lendemain il fut bien étonné lorsqu'il entendit la grande voix de Mirabeau lui raconter avec toutes sortes d’admirations et d’éloges qu’il avait fait un chef-d'œuvre la veille. C’est que le peuple, dans son bon sens, savait très-bien qu’il n’avait pas renversé la Bastille; il l’avait trouvée toute renversée, il n’avait eu qu’à en disperser çà et là les pierres inutiles, — le peuple ne sait pas faire les révolutions, Dieu merci! il est bon tout au plus pour les achever, et alors il n’y va pas de main morte, —-et alors en un clin d’œil il n’y eut plus de la Bastille que l'emplacement; tout le reste s’était envolé comme une poussière que le vent emporte quand l’orage va venir. \nPar cette belle clarté que jetait la lune cette nuit-là, j’eus la curiosité bien naturelle de pénétrer dans l’enceinte de planches qui entourait encore ce préau de la Bastille évanouie. Justement la porte, qui ne ferme plus guère, était entr’ouverte; je pénétrai sans peine dans cette enceinte morne et vide, et je pus voir, tout à loisir, la base immense de la colonne de Juillet, le soupirail béant de ses fondations hardiment jetées pour soutenir le poids de ce bronze, les caveaux funèbres tout remplis des héros morts dans les Trois Journées. Au sommet de la colonne brillait le coq gaulois aux griffes désarmées, aux ailes maladroïtement étendues. Pauvre animal, vigilant dans la basse-cour, mal à l'aise aussitôt qu’il est au dehors de ses domaines. On a voulu lui faire jouer un rôle héroïque pour lequel il n’est pas fait; on l’a tiré de son sérail jaseur pour le placer à la tête des bataillons armés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 265,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Janin_1843_bpt6k102791c_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "211-3",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "Dans cette heureuse et calme méditation du soir, javais franchi tout l’espace habité qui sépare l’Arc-de-Triomphe dela place de la Bastille. Le lieu est désert, et il attend encore les maisons qui vont venir. Là s'élevait, autrefois, entouré de ses vastes jardins, le palais improvisé de ce révolutionnaire si rempli d’esprit, de malice et d’éloquence, qu’on nommait Beaumarchais. Quand il avait vu que chacun travaillait de son esprit et de ses mains à la démolir de fond en comble, cette vieille société française qui est devenue pour nous moins qu’un rêve, il s’était mis à l’attaquer, non pas par l'esprit, comme Voltaire, mais bien par le sarcasme, par l'ironie, par la licence, appelant à l’aide de son Figaro, révolté lui aussi, des femmes à demi nues, des enfants plus que précoces, et des scènes de boudoir qui se passent sous de grands marronniers en fleurs. Il avait donc assisté, toujours en ricanant, à cette ruine de toutes choses. Puis enfin, un beau jour que le peuple triomphant emporta dans sa veste trouée cette vieille Bastille vermoulue et lézardée de toutes parts, le père incestueux et adultérin de Figaro s’arrangea, sur l'emplacement de la Bastille, des jardins anglais, des kiosques, des grottes, des chaumières, des cascades murmurantes, un hôtel tout doré, une seconde Bastille dans laquelle il s’enferma avec les vieux restes de son esprit, artillerie détraquée et enclouée de toutes parts. [ . . . ]\nHeureusement la maison du sieur Caron de Beaumarchais a disparu de cette place. Ces frivoles jardins tout plantés des vieilles roses inodores arrachées au cinquième acte du Mariage de Figaro, se sont entr’ouverts pour laisser passer les eaux bourbeuses d’un horrible canal qui aboutit à une voirie. Sur ce canal sont transportées, la nuït, toutes les immondices parisiennes : il serait impossible de trouver un emblème plus juste de ce faux esprit de la fin du siècle passé, tout chargé de peste, de famine, d’émeutes, de conspirations, et qui aboutissait non pas à un égout, mais à un échafaud."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 266,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Guide_1855_bpt6k134268q_17",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "34",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "une colonne de bronze se dresse sur l’emplacement historique ce la Bastille, et présente en lettres d’or le nom des citoyens qui ont fait de leurs corps les marches du trône de Juillet."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 267,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "François_1857_bpt6k6439790m_34",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "74-5",
+            "cleaner_name": "SEL",
+            "date_added": "2020S07_15",
+            "snippet": "Place de la Bastille, Occupée autrefois par la célèbre forteresse de ce nom, prise et détruite le 14 juillet 1789. Parmi les nombreux prisonniers qui ont été enfermés à la Bastille, nous citerons : en 1602, le maréchal de Biron, le compagnon d’armes et l'ami de Henri IV, qui y fut exécuté par ordre de ce prince; en 1617, la maréchale d'Ancre, qui, peu de temps après, fut décapitée sur la place de Grève; en 1634, le maréchal de Bassompierre, qui y resta douze années; en 1663, le surintendant Fouquet, dont la grande fortune causa la perte, et qui, chose rare, conserva des amis dans son malheur, entre autres Pélisson qui partagea quelque temps sa captivité, et qui s’est honoré par la défense de son ancien protecteur; vers 1698, ce personnage mystérieux connu sous le nom de l'Homme au masque de fer, qui y mourut en 1703 après un séjour de cinq ans, et fut enterré dans, l'église Saint-Paul sous le monde Marchiali; en 1745, Voltaire, qui, faussement accusé d'une satire contre la mémoire de Louis XIV, y resta plus d'un an et y composa les deux premiers chants de la Henriade; en 1749, l'infortuné Latude, dont le nom et les malheurs sont devenus populaires; en 1759, Marmontel, auteur d'une parodie injurieuse au gouvernement d'alors; en 1762, le digne et malheureux Lally-Tollendal, qui n’en sortit que pour marcher au supplice; en 1784, le marquis de Sade, dont les écrits orduriers  semblent attester une véritable folie; en 1785, le cardinal de Rohau, l'intrigante comtesse de Lamotte et Cagliostro, pour la célèbre et obscure affair du collier. On sait que sous lé règne de Louis XV, notamment, les lettres de cachet remplirent souvent la Bastille des plus innocentes victimes. L'activité, le mouvement, la vie, remplacent de nos jours les noires murailles et les sombres tours."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 268,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "François_1857_bpt6k6439790m_33",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "20",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_15",
+            "snippet": "COLONNE DE LA BASTILLE ou DE JUILLET. — Pl. de la Bastille. — Elevé sur les lieux qu'occupait autrefois la Bastille, en l'honneur des citoyens morts pour la liberté dans les journées des 27, 28 et 29 juillet 1830, ce beau monument est d'un grand aspect. Au-dessous, sont des caveaux dans lesquels ont été déposés les cercueils d'un certain nombre de combattants de juillet 1830 et de février 1848. La colonne de Juillet a 47 m. de hauteur, 4 de plus que la colonne Vendôme. Son chapiteau, d’une seule pièce de fonte, a 5 m. de face, 2.7 de hauteur, et pèse 10,500 kilos. Au-dessus, s'élève une lanterne surmontée d'une statue dorée représentant le Génie de la liberté, brisant les chaines du despotisme et faisant luire le flambeau de la civilisation."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 269,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Virmaître_1871_bpt6k5448441v_08",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "188-9",
+            "cleaner_name": "SEL",
+            "date_added": "20200707",
+            "snippet": "Cependant les troupes avaient pris toutes les barricades du Nord et du centre jusqu’à la porte Saint Denis et la Bastille. Elles se dirigèrent par le boulevard Richard-Lenoir pour cerner les insurgés dans le nord-est de Paris, où ils s'étaient fortifiés sur cinq hauteurs : La Chapelle, La Villette, les buttes Chaumont-Belleville, Ménilmontant et Charonne. Il leur restait encore sur la rive gauche les forts du Sud Est et les Gobelins; mais les forts furent emportés dans la matinée du jeudi; le fort d'Ivry livra six mille prisonniers et la route des Gobelins; le soir, il ne leur restait plus aucun point de cette rive. Wroblewski, commandant de la circonscription militaire, se tua quand il fut certain de la défaite."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 270,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Landremont_1848_bpt6k56646183_3",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "82-4",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur décrit les événements de février 1848]\nÀ la place de la Bastille, une centaine de jeunes gens, complétement inoffensifs, se trouvaient réunis près de la Colonne de juillet, en chantant la Marseillaise, lorsqu'un grand nombre d'agents de police envahirent la place, tombèrent sur l’attroupement sans aucune sommation et frappèrent indignement les jeunes gens à coups de canne et de bâtons ferrés; plusieurs d'entre eux tombèrent brisés de coups et assommés comme des animaux. \nLes mêmes actes de brutalité eurent lieu, peu de temps après, sur la place de la Concorde, La foule, repoussée des abords de la chambre des députés, et grossie de moment en moment, sillonnait la place et les aboutissants des Champs-Élysées en faisant retentir l'air des cris de Vive la Réforme, à bas Guizot, qui étaient devenus comme le signal de ralliement, le drapeau du mouvement. La foule était sans armes, calme jusque dans son enthousiasme, et se bornait à protester par la parole, lorsque les gardes municipaux, auxquels semblait seul confié le soin de maintenir l'ordre, se ruèrent tout à coup sur les groupes inoffensifs, les poussèrent avec leurs chevaux et les frappèrent à coup de sabre. On eût dit que l'autorité qui faisait mouvoir cette force publique, voulait à tout prix exaspérer le peuple et provoquer l'effusion du sang.\nPressés de toutes parts par les gardes municipaux, un grand nombre de jeunes gens se jetérent vers les Champs-Élysées et se mirent en devoir de s'y retrancher pour se mettre à l'abri des coups des municipaux. Les barraques et les chaises qui se trouvaient sur la promenade, leur servirent à dresser des espêces de barricades. La troupe, qui était restée jusque-là l'arme au bras, recui l'ordre de détruire les barricades. Le peuple n'ayant pas d'armes ne pouvait pas résister longtemps, surtout dans un poste ouvert comme celui des Champs-Élysées. Les barricades furent enlevées ; mais les soldats, s'étant repliés peu d’instants aprèsvers leur première position, le peuple revint sur ses pas, repris les barricades et y mit le feu. Ge ne fut que vers le- soir que la troupe occupa définitive ment les Champs-Élysées. Un corps de garde, occupé par six hommes de la ligne, se trouvait en face du Panorama de la bataïlle d'Eylau; une cinquaniaine d'hommes du peuple, exaspérès par la conduite des gardes municipaux, assaillirent le poste et l’attaquérent à coup de pierres. Les soldats, brusquement aliaqués, n’eurent que TT EUR SSSR  — 85 — le temps de se réfugier dans l’intérieur et de fermer la grille. Un ouvrier passa à l'instant par dessus la grille, monta courageusement le\nlong du mur ct grimpa sur le toit. D'autres le suivirent par la même voie et pénéirèrent bientôt par une des fenêtres du corps de garde. Soit qu'ils n'eussent pas le temps de faire usage de leurs armes, soit qu'ils ne voulussent pas recourir à cette extrémité, les soldats déposèrent leurs armes et le poste fut occupé par le peuple, qui essaya immédiatement d'y mettre le feu."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 271,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Landremont_1848_bpt6k56646183_2",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "129-30",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur décrit les événements de février 1848]\nPendant la nuit, d'immenses préparatifs d'attaque avaient été faits par le peuple dans tous les principaux points de la ville. Toutes les rues, depuis le boulevard des Italiens jusqu'à la porte St.-Denis, étaient barrées par des barricades énormes, construites de pavés, de voitures renversées et de sommiers. Tous les arbres des boulevards avaient été coupés, toutes les colonnes renversées, tous les bancs descellés. À partir de la rue Saint-Denis surtout, les préparatifs étaient formidables. Toute la largeur du boulevard avait été fermée par une barrieade solide comme un rempart, une barricade plus haute et plus impénétrable encore. défendait l'entrée de la rue; d'autres barricades s’échelonnaient de distance en distance sur le boulevard jusqu'à la Bastille, et des deux côtés de la porte Saint-Denis jusqu’à la Chapelle et au bord de l’eau. Enfin, de nombreuses barricades fermaient l'entrée des rues adjacentes et donnaient à ce quartier populeux l'aspect d'une immense forteresse. Les troupes, qui avaient pris position avant le jour sur les boulevards et aûx abords des quartiers Saint-Denis et Saint-Martin,  assis- tèrent longtemps, l'arme au bras, aux préparatifs de défense du peuple."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 272,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Landremont_1848_bpt6k56646183_1",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "145-6",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur decrit les événements de février 1848]\nLe trône du roi, descendu dans la rue, fut porté en triomphe par le peuple jusqu'à la place de la Bastille et brûlé aux pieds de la colonne de juillet au milieu d'une allégrèsse qu’il serait difficile de décrire.  À deux heures, la victoire du peuple était complète; on lisait à plusieurs endroits l’affiche suivante : \nVOEUX DU PEUPLE. \nRéforme pour tous. \n- Amnistie générale; \n—les ministres exceptés et mis en accusatiôn. Droit de réunion consacré par une manifestation prochaine. Dissolution immédiate de la chambre et convocation des assemblées primaires. Garde urbaine aux ordres de la municipalité. Abolition des lois de septembre. Liberté de la parole, liberté de la presse, liberté de pétition, liberté d'association, liberté d'élection. Réforme électorale. Tout garde national est électeur et éligible. \n— Réforme parlementaire. Rétribution aux députés ; les fonctionnaires publics à leur poste. \n—Réforme de la chambre des pairs. Pas plus de nomination royale que d'hérédité aristocratique. \n— Réforme administrative, Garanties pour tous ies fonctionnaires et employés contre l'abus des faveurs et des influences.\n—La propriété respectée, mais le droit au travail garanti. Le travail assuré au peuple. Union et association fraternelle entre les chefs d'industrie et les travailleurs. \n— Égalité de droits par l'éducation donnée à tous : crèches, salles d'asile. Écoles rurales, écoles urbaines. Plus d'oppression et d'exploitation de l'enfance.\n— Liberté absolue des cultes. Indépendance absolue des consciences. Protection pour tous Les faibles, femmes et enfants. \n— Paix et sainte-alliance entre tous les peuples. \n— Abolition de la guerre, où le peuple sert de chair à canon.\n— Indépendance pour toutes les nationalités. \n— La France gardienne des droits des peuples faibles. \n— L'ORDRE FONDÉ SUR LA LIBERTÉ. FRATERNITÉ UNIVERSELLE ! !"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 273,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Hugo_1831_1_bpt6k6497134z_62",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "244-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "Cependant le toit singulièrement aigu et élevé du palais moderne, hérissé de gouttières ciselées, couvert de lames de plomb où se roulaient en mille arabesques fantasques d’étincelantes incrustations de cuivre doré, ce toit si curieusement damasquiné s’élançait grâce du milieu des brunes ruines de l’ancien édifice, dont les vieilles grosses tours, bombées par l'âge comme des futailles,  s’affaissant sur elles-mêmes de vétusté et se déchirant ce haut en bas, ressemblaient à de gros ventres déboutonnés. Derrière, s'élevait la forêt d'aiguilles du palais des Tournelles. Pas de coup d'œil au monde, ni à Chambord, ni à l'AIhambra, plus magique, plus aérien, plus prestigieux que cette futaie de flèches, de clochetons, de cheminées, de girouettes, de spirales, de vis, de lanternes trouées par le jour qui semblaient frappées à l'emporte-pièce, de pavillons, de tourelles en fuseaux, ou comme on disait alors de tournelles, toutes diverses de formes, dé hauteur'et d’attitude. On eût dit un gigantesque échiquier de pierre. \nA droite des Tournelles, cette botte d'énormes tours d’un noir d’encre, entrant les unes dans les autres, et ficelées pour ainsi dire par un fossé circulaire; ce donjon beaucoup plus percé de meurtrières que de fenêtres, ce pont levis toujours dressé, cette herse toujours tombée, c’est la Bastille; ces espèces de becs noirs qui sortent d’entre les créneaux et que vous prenez de loin pour des gouttières, ce sont des canons. \nSous leur boulet, au pied du formidable  édifice ; voici la porte Sainte-Antoine, enfouie entre ses deux tours."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 274,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Hugo_1831_1_bpt6k6497134z_9",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "260-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200618",
+            "snippet": "Cependant cette mer d'harmonie n’est point un chaos. Si grosse et si profonde qu’elle soit, elle n’a point perdu sa transparence: vous y voyez serpenter à part chaque groupe de notes qui s'échappe des sonneries; vous y pouvez suivre le dialogue, tour\nà tour grave et criard, de la crecelle et du bourdon; vous y voyez sauteler les octaves d'un clocher à l’autre; vous les regardez s’élancer ailées, légères et sifflantes, de la cloche d'argent, tomber cassées et boiteuses de la cloche de bois; vous admirez au milieu d'elles la riche gamme qui descend et remonte sans cesse les sept clochiers de Saint-Eustache; vous voyez courir tout au travers des notes claires et rapides qui font trois ou quatre zigzags lumineux, et s'évanouisse comme des éclairs. Là bas, c'est l’abbaye Saint-Martin, chanteuse aigre et fêlée; ici, la voix sinistre et bourrue de la Bastille; à l'autre bout, la grosse tour du Louvre, avec sa basse-taille. Le royal carillon du Palais jette sans relâche de tous côtés des trilles resplendissantes, sur lesquelles tombent à temps égaux les lourdes couppetées du beffroi de Notre-Dame, qui les font étinceler comme l’enclume sous le marteau. Par intervalles vous voyez passer des sons de toute forme qui viennent de la triple volée de Saint-Germain-des-Prés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 275,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Fournier_1860_bpt6k6416873z_12",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "8-Jun",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "La Bastille avait été construite en même temps que l’enceinte nouvelle, dont elle était même la plus imposante défense. De larges fossés, une cunelle profonde avaient été creusés à l’entour. Il fallait de l'eau pour les remplir, et le chenal qu'on avait pratiqué de la forteresse jusqu'à la Seine, en longeant les murs du premier Arsenal, n'en fournissait pas en assez grande abondance; il était bon d’ailleurs que cette eau trop dormante fût sans cesse renouvelée par un courant. \nC'est à notre petite rivière, descendant à flots si clairs de Belleville, de Ménilmontant et des prés Saint-Gervais qu'on demanda l’eau qui manquait et le courant nécessaire. \nOn la partagea en deux branches, toutes deux déversées d’abord dans la cunette de la Bastille. L'une, après l’avoir traversée tout entière, s'en échappait par un passage creusé sous la porte Saint-Antoine; suivait pendant quelque temps la grande rue du même nom; puis, faisant un détour à gauche, s’allait perdre dans la Seine, vers un lieu qui pendant longtemps avait été hors des murs, sur la lisière d'un bois, et qu'on appelait le Pont Perrin. L'autre branche, après un cours pareil et à flots communs, se séparait de la première à l'endroit où elle faisait son détour vers le fleuve. Tandis que celle-là allait disparaître, celle-ci, au contraire, allait ébattre encore sur la droite, au milieu des jardins et des vertes ruelles que la ville, en s'agrandissant de ce côté, n’avait pas tout d’abord remplacées par de lourdes maisons et de tristes rues."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 276,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Bonneville_1830_bpt6k5530903c_01",
+            "file_name": "Bonneville_1830_bpt6k5530903c_clean.xml",
+            "docAuthor": "Bonneville, A. S. M.",
+            "docTitle": "Essai sur quelques monuments nationaux et d'utilité publique",
+            "docDate": 1830.0,
+            "doc_page_number": "1",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "Assuré du vœu de la Patrie, et sous les auspices du Roi qu'elle s’est donné, je viens présenter à voire la fraternelle adoption le projet d'un Édifice destiné à perpétuer la Mémoire des Héros qui se sont dévoués pour la Conquête et la Défense des Libertés publiques. Ce n'est point hors des murs de notre illustre Cité que j'ai choisi le lieu où devra s'élever ce Monument Historique, c'est dans le sein même de Paris, là où combattirent nos Pères pour s'affranchir de l'esclavage, là où furent ces odieuses tours, cette Bastille dont les murailles trop longtemps protectrices des crimes de la tyrannie, s’écroulèrent enfin sous l'indignation d'un Peuple parvenu à connaître ses droits, et voulant à tout prix en établir l'inviolabilité. Sur l'antre écrasé du despotisme doit se plaire la Liberté victorieuse ; les palmes qu'elle a cueillies brilleront d'un éclat plus majestueux sur le sol qui vit ses premiers combats, et que fertilisent les Cendres de ses Défenseurs. Que les Trophées élevés à d'autres époques restent à leur destination première ; n’arrachons rien aux souvenirs glorieux qu'ils nous laissent; mais il faut aussi que les Triomphes populaires obtiennent une part complète et spéciale d'admiration. Ce désir sera compris du Gouvernement, n'en doutons pas, et bientôt la reconnaissance nationale transcrira sur le bronze des noms devenus chers à la France et à tous les Peuples libres."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 277,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Balleydier_1849_bpt6k105490w_25",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "153-4",
+            "cleaner_name": "SL",
+            "date_added": "20200615",
+            "snippet": "Allons maintenant chercher sur une autre place d’autres souvenirs qui, bien souvent, seront les mêmes; nous sommes au quartier général des insurrections. Voici la place de la Bastille ! Une colonne de bronze, élevée par une émeute, a remplacé un château fort renversé par une révolution. Hugues Aubriot, prévôt de Paris, posa le 22  avril 1369, sous le règne de Charles V, la première pierre de la Bastille, prison d'état flanquée de cinq tours, renversée le 14 juillet 1789 par la rage populaire. \nLa colonne de bronze qui l’a remplacée repose sur trois soubassements de marbre, l'un carré orné de vingt-quatre médaillons en bronze, les deux autres circulaires, superposés et différents en grandeur. La colonne, proprement dit, se compose d’un piédestal carré, de son fût, du chapiteau, d’un tambour, et de la statue dorée représentant le génie de la liberté. De sa base jusqu’au sommet, elle mesure une hauteur de soixante-quatorze mètres, c'est-à-dire quatre mètres de plus que la colonne de la place Vendôme. Deux cent cinq marches constituent son escalier intérieur. \nUn grand nombre de victimes des journées de juillet 1830, de février et de juin 1848, reposent dans les tombes creusées à la base de ce moment. Dieu veuille que la dernière prière de l'illustre martyr, frappé à mort sur cette place, soit exaucée, et que le sang de l'archevêque de Paris soit le dernier versé au champ-clos des guerres civiles!"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 278,
+            "Name": "Bastille",
+            "Latitude": 48.8532,
+            "Longitude": 2.3691,
+            "place_name": "Bastille",
+            "uid": "Asti_1843_bpt6k6471672z_05",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "263-5",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "Dès que nous fûmes dans la rue, nous nous acheminâmes vers les boulevards, tournâmes à droite, et gagnâmes la place qu'occupaient autrefois les fortifications de la Bastille. C’est là où l’on éleva le monument dit la Colonne de Juillet, pour éterniser la mémoire des journées 27, 28 et 29 juillet 1830. Cette colonne entièrement en bronze de la hauteur de 50 mètres et demi, tout compris, pèse 174,000 kilogrammes. Ses ornements rappellent les faits, auxquels elle a été consacrée, et les noms de 504 citoyens, qui y périrent, sont gravés par ordre alphabétique sur son fût, qui s'élève majestueusement avec son piédestal sur deux soubassements en marbre blanc. Une élégante grille en fonte de fer, fort estimée par les connaisseurs, entoure le monument, et une petite porte en bronze ciselé, donné accès à l'escalier conduisant au sommet de la colonne. Deux cent cinq marches, entre deux rampes en bronze, assez larges pour que deux personnes à côté l’une de l’autre puissent y monter ensemble. Nous amenèrent à une balustrade à jour qui couronne le chapiteau : une lanterne surmontée d’une statue représentant le Génie de la liberté termine agréablement l'aspect général de la colonne. De là on découvre le plus magnifique panorama qu'il soit possible d'imaginer : tous les monuments de Paris, la Seine, le Jardin des Plantes, Vincennes, le Père-Lachaise, Montmartre, Saint-Denis etc, se présentent aux yeux étonnés de l'observateur, en faisant un beau cercle autour de lui. Je me sentais si aise sur cette colonne, à la vue de ce spectacle magnifique, que je ne faisais presque aucune attention au vent très-fort, qui aurait emporté dès le premier moment mon chapeau et celui de mon ami, si nous n'avions pas pris tout de suite la précaution d’y porter nos mains, et de les tenir collés sur nos têtes. Cependant je fus presque aussitôt tiré de mon admiration par un autre spectacle, qui ne me frappa pas moins que le premier: je crus m'apercevoir que la colonne n'était pas immobile. Je pris d’abord cela pour une illusion, mais l’ondulation en était si sensible, qu'il ne fallait que deux yeux pour se convaincre que l'on ne se trompait pas. Mon ami avait fait la même remarque, et, avant que j'eusse ouvert la bouche pour lui en parler, il m'en témoigna sa surprise. Je questionnai là-dessus un Parisien, qui se trouvait à la balustrade, et il me répondit, que d’autres avant nous avaient déjà fait la même observation, laquelle ne peut plus échapper dès qu'il fait beaucoup de vent. Nous y restâmes quelque temps encore pour savourer tout à notre aise les fortes sensations que produisaient sur nous la vue de ce beau panorama, le vent qui soufflait horriblement dans la lanterne, et le branle de la colonne: nous descendîmes ensuite, en comparant ce monument avec celui de la place Vendôme. Il paraît exister beaucoup d’analogie entre ces deux colonnes: la différence pourtant est grande, si l’on veut considérer que la colonne Vendôme est en pierre revêtue de bronze , tandis que celle-ci, y compris l'escalier et toute la charpente, ne se compose que de grandes pièces en bronze arrangées les unes sur les autres, sans le moindre travail de maçonnerie. En sortant, nous trouvâmes que le vent soufflait presque aussi fort en bas, qu'en haut."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3691,
+                48.8532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 279,
+            "Name": "Hôtel des Tournelles",
+            "Latitude": 48.8544,
+            "Longitude": 2.365,
+            "place_name": "Hôtel des Tournelles",
+            "uid": "LaGournerie_1854_bpt6k6394057f_54",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "86-7",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Ce furent également les Anglais qui donnèrent, par de somptueux agrandissements, un aspect royal au palais des Tournelles. Ce palais embrassait dans son enceinte la place Royale actuelle, avec tout l'espace environnant jusqu'aux boulevards et à la rue Saint-Antoine. Bati par un chancelier de France vers la fin du XIIe siècle, il n'avait pas tardé à devenir propriété royale. Lorsque Charles VI était las, dans sa folie, de l'hôtel Saint-Paul, on lui faisait passer la rue Saint-Antoine et chercher aux Tournelles des objets moins familiers à sa tristesse. Le duc de Bedfort, régent du royaume pour les Anglais, y fixa ensuite sa demeure et y multiplia les cours, les galeries, les préaux, les chapelles. À partir de cette époque l'hôtel Saint-Paul fut abandonné, et nos rois, jusqu’à François II, s’établirent aux Tournelles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.365,
+                48.8544
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 280,
+            "Name": "Hôtel des Tournelles",
+            "Latitude": 48.8544,
+            "Longitude": 2.365,
+            "place_name": "Hôtel des Tournelles",
+            "uid": "Hugo_1831_1_bpt6k6497134z_62",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "244-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "Cependant le toit singulièrement aigu et élevé du palais moderne, hérissé de gouttières ciselées, couvert de lames de plomb où se roulaient en mille arabesques fantasques d’étincelantes incrustations de cuivre doré, ce toit si curieusement damasquiné s’élançait grâce du milieu des brunes ruines de l’ancien édifice, dont les vieilles grosses tours, bombées par l'âge comme des futailles,  s’affaissant sur elles-mêmes de vétusté et se déchirant ce haut en bas, ressemblaient à de gros ventres déboutonnés. Derrière, s'élevait la forêt d'aiguilles du palais des Tournelles. Pas de coup d'œil au monde, ni à Chambord, ni à l'AIhambra, plus magique, plus aérien, plus prestigieux que cette futaie de flèches, de clochetons, de cheminées, de girouettes, de spirales, de vis, de lanternes trouées par le jour qui semblaient frappées à l'emporte-pièce, de pavillons, de tourelles en fuseaux, ou comme on disait alors de tournelles, toutes diverses de formes, dé hauteur'et d’attitude. On eût dit un gigantesque échiquier de pierre. \nA droite des Tournelles, cette botte d'énormes tours d’un noir d’encre, entrant les unes dans les autres, et ficelées pour ainsi dire par un fossé circulaire; ce donjon beaucoup plus percé de meurtrières que de fenêtres, ce pont levis toujours dressé, cette herse toujours tombée, c’est la Bastille; ces espèces de becs noirs qui sortent d’entre les créneaux et que vous prenez de loin pour des gouttières, ce sont des canons. \nSous leur boulet, au pied du formidable  édifice ; voici la porte Sainte-Antoine, enfouie entre ses deux tours."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.365,
+                48.8544
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 281,
+            "Name": "Hôtel des Tournelles",
+            "Latitude": 48.8544,
+            "Longitude": 2.365,
+            "place_name": "Hôtel des Tournelles",
+            "uid": "Balleydier_1849_bpt6k105490w_30",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre par la France",
+            "docDate": 1849.0,
+            "doc_page_number": "151-3",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "En 1604, Henri IV, que nous devons mettre au premier rang des rois jaloux d'embellir leur capitale, fit faire la place que l'on voit aujourd'hui sur l'emplacement du palais des Tournelles, démoli en 1565 par l'ordre de Catherine de Médicis. Plus tard, en 1659, le cardinal Richelieu concourut à son embellissement, en faisant poser solennellement au milieu de cette place la statue équestre de Louis XIII. Cette statue de bronze, posée sur un piédestal de marbre blanc, présentait aux regards l'inscription suivante : \nA la glorieuse et immortelle mémoire du très grand et très-invincible Louis-le-Juste, XIII du nom, roi de France et de Navarre. Armand, cardinal et duc de Richelieu, son premier ministre dans tous ses illustres et généreux desseins, comblé d'honneur et de bienfaits par un si bon maître, lui a fait élever cette statue en témoignage de son zèle, de son obéissance et de sa fidélité, 1639. \nCette statue, ouvrage remarquable du célèbre Daniel Ricciarelli, élève de Michel-Ange, et chef-d'œuvre de statuaire, n’a pu trouver grâce devant le marteau vandale de 1793. \nA cette époque, la Place-Royale devint le Saint-Germain de la noblesse, la Chaussée d'Antin des lorettes du dix-septième siècle. La belle Marion de Lorme y démeurait auprès de Ninon de l'Enclos. Pendant la révolution, la Place-Royale échangea son nom contre celui de place des Vosges, qu'elle a perdu en 1814, pour le reprendre en 1848."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.365,
+                48.8544
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 282,
+            "Name": "Hôtel des Tournelles",
+            "Latitude": 48.8544,
+            "Longitude": 2.365,
+            "place_name": "Hôtel des Tournelles",
+            "uid": "Balleydier_1849_bpt6k105490w_06",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre par la France",
+            "docDate": 1849.0,
+            "doc_page_number": "150-1",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "Voici la Place Royale si riche de souvenirs! : Elle occupe une partie du terrain sur lequel s'élevait le fameux palais des Tournelles, habité d’abord par Charles VI, roi de France, et par le duc de Bedfort, régent de France pour le roi d'Angleterre. C'est au palais des Tournelles qu'eut lieu, le 23 août 1451, devant le duc Charles d'Orléans, la représentation de la danse macabre exécutée par Guillemin Girost et ses compagnons, au prix de 4 livres à sols 6 deniers tournois. C'est au palais des Tournelles que le roi Louis XII mourut le 1er janvier 1515. Lorsque les clocheteurs des trépassés, raconte un chroniqueur du temps, allèrent par les rues avec les clochettes, criant: Le bon roi Loys, le pére du peuple, est mort ! ce fut dans Paris une désolation telle que l’on n’en a jamais vu de semblable à aucun trépassement de Roy. \nDélaissé quelque temps par François Ler, qui ne s’occupait que du Louvre et de Fontainebleau, le palais des Tournelles retrouva le mouvement avec la vie sous Henri IT, qui y ramena des plaisirs terminés bientôt pour lui-par un jour de mort. \nCe jour-là, il donnait à la cour un brillant tournoi en l'honneur des dames. Enflammé par les beaux yeux de la belle duchesse de Valentinois, dont il portait les couleurs, le roi descendit dans l'arène pour jouer avec le comte de Montgommery, capitaine de la garde écossaise. Le choc fut si violent, qu’un des éclats de la lance du comte, brisant la visière du casque royal, atteignit le visage de Henri II, qui fut transporté, sans connaissance, au palais des Tournelles, où il expira le 15 juillet 1550."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.365,
+                48.8544
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 283,
+            "Name": "Grands Boulevards",
+            "Latitude": 48.871,
+            "Longitude": 2.3431,
+            "place_name": "Grands Boulevards",
+            "uid": "Landremont_1848_bpt6k56646183_2",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "129-30",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur décrit les événements de février 1848]\nPendant la nuit, d'immenses préparatifs d'attaque avaient été faits par le peuple dans tous les principaux points de la ville. Toutes les rues, depuis le boulevard des Italiens jusqu'à la porte St.-Denis, étaient barrées par des barricades énormes, construites de pavés, de voitures renversées et de sommiers. Tous les arbres des boulevards avaient été coupés, toutes les colonnes renversées, tous les bancs descellés. À partir de la rue Saint-Denis surtout, les préparatifs étaient formidables. Toute la largeur du boulevard avait été fermée par une barrieade solide comme un rempart, une barricade plus haute et plus impénétrable encore. défendait l'entrée de la rue; d'autres barricades s’échelonnaient de distance en distance sur le boulevard jusqu'à la Bastille, et des deux côtés de la porte Saint-Denis jusqu’à la Chapelle et au bord de l’eau. Enfin, de nombreuses barricades fermaient l'entrée des rues adjacentes et donnaient à ce quartier populeux l'aspect d'une immense forteresse. Les troupes, qui avaient pris position avant le jour sur les boulevards et aûx abords des quartiers Saint-Denis et Saint-Martin,  assis- tèrent longtemps, l'arme au bras, aux préparatifs de défense du peuple."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3431,
+                48.871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 284,
+            "Name": "Grands Boulevards",
+            "Latitude": 48.871,
+            "Longitude": 2.3431,
+            "place_name": "Grands Boulevards",
+            "uid": "Fournier_1860_bpt6k6416873z_07",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "251-2",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "En commencant ce chapitre, je dois avertir qu'il est écrit depuis le ler novembre de l’année dernière, et que je n’y veux rien changer. Le lecteur qui tient à me suivre, voudra donc bien se transporter à cette date. Cela dit, je commence : Les travaux qu’on exécute en ce moment sur une grande partie de la ligne des boulevards, ces tranchées que l’on creuse, ces arbres encore tout jeunes, mais déjà morts, que l’on déracine, ces arbustes nouveaux que l’on plante, enfin, ces petits tuyaux de terre cuite que l’on pose avec soin dans les larges rigoles, tout cela préoccupe et intrigue singulièrement les Parisiens, qui, pour avoir toujours été le peuple le plus curieux, ne sont pas devenus cependant le peuple le plus instruit de la terre. \n—Que fait-on là? demande un premier passant.\n—Eh! dit un second, vous le voyez bien, du drainage. Le premier, après cette réponse faite d’un ton dégagé par quelqu'un qui n’en sait probablement pas beaucoup plus que lui, n’ose pas questionner davantage. A la manière dont ce monsieur lui a parlé, il s'imagine que tout le monde doit savoir ce que signifie ce mot drainage, et par amour-propre il ne veut pas montrer qu'il ignore. Seulement, soyez sûr qu'un peu plus loin, il fera lui-même le savant. S'il entend poser la question qu’il faisait tout à l'heure, il ripostera, et avec le même aplomb, par la réponse qu'on lui a faite, et peut-être finira-t-il par croire qu'il sait, parce qu'il s’est donné l’air de savoir. En somme, sur vingt passants, je vous assurerais bien qu'il ne s’en trouve pas dix qui sachent d’une manière positive que le drainage consiste en un système de petits tubes destinés à l’écoulement des eaux souterraines, soit soit, comme ici, pour l'arrosement des arbres dont les racines sont privées d'humidité; enfin, sur mille, peut-être n’en trouveriez-vous pas deux qui vous diraient d’où le mot vient."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3431,
+                48.871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 285,
+            "Name": "Boulevard de la Madeleine",
+            "Latitude": 48.869669,
+            "Longitude": 2.326494,
+            "place_name": "Boulevard de la Madeleine",
+            "uid": "uide_1855_bpt6k134268q_19",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "39-40",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Par la rue Royale, vous arrivez sur le boulevard de la Madeleine. \n         Voyez ces belles et grandes maisons balcons ouvragés, larges sculptures encadrant les fenètres, épais rideaux. En bas, somptueux étalages où se déploient les étoffes précieuses, les aériennes dentelles. Un peu plus loin, c’est le boulevard des Capucines, qui s'est complétement renouvelé depuis que des palais ont été batis sur les terrains de l’ancien Ministère des affaires Etrangères."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.326494,
+                48.869669
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 286,
+            "Name": "Boulevard des Capucines",
+            "Latitude": 48.871111,
+            "Longitude": 2.333611,
+            "place_name": "Boulevard des Capucines",
+            "uid": "uide_1855_bpt6k134268q_19",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "39-40",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Par la rue Royale, vous arrivez sur le boulevard de la Madeleine. \n         Voyez ces belles et grandes maisons balcons ouvragés, larges sculptures encadrant les fenètres, épais rideaux. En bas, somptueux étalages où se déploient les étoffes précieuses, les aériennes dentelles. Un peu plus loin, c’est le boulevard des Capucines, qui s'est complétement renouvelé depuis que des palais ont été batis sur les terrains de l’ancien Ministère des affaires Etrangères."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.333611,
+                48.871111
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 287,
+            "Name": "Boulevard des Italiens",
+            "Latitude": 48.871419,
+            "Longitude": 2.336997,
+            "place_name": "Boulevard des Italiens",
+            "uid": "Guide_1855_bpt6k134268q_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "39-40",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Deux pas encore, et vous êtes sur le boulevard Italien, qu’on nomme aussi le boulevard de Gand. Ce Boulevard est le centre de Paris. C’est là que passent, par les beaux jours d'été, les toilettes éclatantes, les frais chapeaux, les fleurs multicolores. Tortoni, le Café de Paris, le Café Riche, échelonnent des siéges pour les dames, des banquettes et des tables mobiles pour les adorateurs du punch glacé, du cigare et de la littérature quotidienne. Cette promenade offre le coup d'œil d’un fleuve d'habits noirs émaillé de robes de soie, qui passe et repasse. \nLes beautés à la mode descendent sémillantes par les rues Laffitte, Lepelletier, Taitbout, du Helder, vomitoires ouverts à propos pour servir de communication entre les nids charmants du quartier Bréda et l'arène du boulevard. L'Opéra est à deux pas dans la rue Lepelletier. L'Opéra-Comique a une entrée sur le boulevard même. Promenez-vous en passant dans le passage l'Opéra, un passage bien déchu aujourd'hui."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.336997,
+                48.871419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 288,
+            "Name": "Boulevard des Italiens",
+            "Latitude": 48.871419,
+            "Longitude": 2.336997,
+            "place_name": "Boulevard des Italiens",
+            "uid": "Landremont_1848_bpt6k56646183_2",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "129-30",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur décrit les événements de février 1848]\nPendant la nuit, d'immenses préparatifs d'attaque avaient été faits par le peuple dans tous les principaux points de la ville. Toutes les rues, depuis le boulevard des Italiens jusqu'à la porte St.-Denis, étaient barrées par des barricades énormes, construites de pavés, de voitures renversées et de sommiers. Tous les arbres des boulevards avaient été coupés, toutes les colonnes renversées, tous les bancs descellés. À partir de la rue Saint-Denis surtout, les préparatifs étaient formidables. Toute la largeur du boulevard avait été fermée par une barrieade solide comme un rempart, une barricade plus haute et plus impénétrable encore. défendait l'entrée de la rue; d'autres barricades s’échelonnaient de distance en distance sur le boulevard jusqu'à la Bastille, et des deux côtés de la porte Saint-Denis jusqu’à la Chapelle et au bord de l’eau. Enfin, de nombreuses barricades fermaient l'entrée des rues adjacentes et donnaient à ce quartier populeux l'aspect d'une immense forteresse. Les troupes, qui avaient pris position avant le jour sur les boulevards et aûx abords des quartiers Saint-Denis et Saint-Martin,  assis- tèrent longtemps, l'arme au bras, aux préparatifs de défense du peuple."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.336997,
+                48.871419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 289,
+            "Name": "Boulevard des Italiens",
+            "Latitude": 48.871419,
+            "Longitude": 2.336997,
+            "place_name": "Boulevard des Italiens",
+            "uid": "Banville_1866_bpt6k205836j_01",
+            "file_name": "Banville_1866_bpt6k205836j_clean.xml",
+            "docAuthor": "Banville, Théodore de",
+            "docTitle": "Les parisiennes de Paris",
+            "docDate": 1866.0,
+            "doc_page_number": "179",
+            "cleaner_name": "SL",
+            "date_added": "20200617",
+            "snippet": "Mais c'est qu’elle en avait inventé une merveilleuse dormette ! En passant devant chez le serrurier qui vend des jardinières, sur le boulevard des Italiens, elle avait admiré, en souriant comme une petite folle, les petits berceaux d'enfants en fer doré et en soie jaune safran ou rose clair. Et Naïs, cette splendide femme de Flandre, s'était fait faire pour dormette un grand berceau rose et or!"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.336997,
+                48.871419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 290,
+            "Name": "Boulevard des Italiens",
+            "Latitude": 48.871419,
+            "Longitude": 2.336997,
+            "place_name": "Boulevard des Italiens",
+            "uid": "Balleydier_1849_bpt6k105490w_09",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre par la France",
+            "docDate": 1849.0,
+            "doc_page_number": "16-Nov",
+            "cleaner_name": "SL",
+            "date_added": "20200611",
+            "snippet": "Il y a deux mille hôtels à Paris, et cependant il n'en existe qu’un seul véritablement digne de Paris qui le possède, de l’Europe qui habite, et du nom qu'il porte: l'Hôtel des Princes. Ce magnifique hôtel, admirablement situé, en vue du boulevard des Italiens, et presque à l'angle de la rue de Richelieu, a lutté glorieusement avec les ridicules niveleurs de la République qui, das leurs joies triomphales et carnavalesques, voulaient porter atteinte au titre inscrit en lettres d'or sur le splendide portique de l'entrée principale. \nSon immense renommée a trouvé grâce devant la ridicule susceptibilité des marquis des barricades, logés somptueusement gratis au château royal des Tuileries. \nC'est qu’en effet la radiation du nom de l'Hôtel des Princes eût été, pour ainsi dire, une violation flagrante du manifeste adressé à l'Europe par M. de Lamartine, un crime de lèze-Europe, car l'Hôtel des Princes, quoique et malgré ses allures françaises, appartient à toutes les nations civilisées. L'Hôtel des Princes est une propriété anglaise , allemande, russe, espagnole, italienne et turque. Incessamment visité par les princes de l'autocratie européenne, il a prêté les pages de son brillant album au nom des princes de l'art et des rois de l'intelligence qui l'ont tour à tour illustré par leur séjour. \nL'Hôtel des Princes a été habité par la magnifique trinité qu'on appelle Sontag, Malibran et Grisi. Thalberg y a composé ses 18 chefs-d'œuvre, et Meyerbeer y a trouvé la perfection, inventée dans son immortelle partition de Robert-le-diable. \nAu mois de novembre de l'année dernière, l'Hôtel des Princes a servi de quartier général aux fêtes célébrées en l'honneur de la promulgation de la Constitution. Il a suffi d’un jour à M. Privat, son intelligent directeur, justement appelé par le prince des critiques, le prince des hôtels, il a suffi d’un seul jour pour disposer ses vastes appartements en splendides salles de banquets et de bals. \nC'est à cette époque que M. Privat inaugura la magnifique salle à manger que tous les étrangers admirent comme unique dans l'espèce. Ce chef-d'œuvre de l'art, où le talent de M. Azemar brille dans tout son essor, est splendidement décoré dans un style mauresque : son architecture, immense dans ses proportions, rappelle par la finesse et l'originalité de ses ornements les merveilles tant vantées de l’Alhambra de Grenade. De légères colonnettes, d'un goût exquis et d'un effet charmant, supportent des blasons aux armes et aux noms de toutes les puissances de l'univers.\nPlus de trois cents convives peuvent facilement trouver place dans cette vaste salle, sans qu'il y ait la moindre confusion dans les diverses attributions du  service. \nÉlevé dans la plus heureuse situation de Paris, au centre des plaisirs et des affaires, à proximité du Palais-Royal, à la porte de la Bourse et des théâtres de premier ordre, l'Hôtel des Princes renferme en son sein tous les avantages et tout le confortable de la vie. \nIci vous trouvez au salon de lecture les journaux de tous les pays; là vous avez la salle de billard; tout auprès l’estaminet et la fumerie ; plus loin le salon de conversation; plus loin encore la salle de bains. Vous avez ici de grands et de petits salons à volonté, pour de grands banquets ou de petits repas intimes ; vous avez des salons pour bals, pour concerts, et pour toutes réunions fashionables. [ . . . ]\nL'Hôtel des Princes est divisé en trois parties. \nLa première partie est réservée aux familles qui comptent séjourner à Paris. Tous les appartements en sont grands, parfaitement ordonnancés et très-confortables. \nLa seconde partie, composée de petits appartements comprenant un salon et une chambre à coucher, est également fort confortable. \nLa troisième partie, rendue indispensable par les vomitoires des chemins de fer, est destinée spécialement à ces heureux nomades qui, libres de tout lien, sont fiers de s’appeler encore garçons."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.336997,
+                48.871419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 291,
+            "Name": "Boulevard Montmartre",
+            "Latitude": 48.871667,
+            "Longitude": 2.341389,
+            "place_name": "Boulevard Montmartre",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_40",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "97-8",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Outre les boulevards et le jardin du Palais-Royal, le second arrondissement possède encore de magnifiques promenades; ce sont le boulevard Montmartre et le boulevard des Italiens, qui chaque soir réunissent, dans les élégants établissements qui les bordent, l’élite la société parisienne; puis les bazars et les passages de l'Opéra, Verdeau, Jouffroy, des Panoramas, Colbert, Delorme, Choiseul, dont les boutiques resplendissantes ofirent aux curieux tout ce qui peut exciter les désirs, flatter les sens et satisfaire les goûts."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341389,
+                48.871667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 292,
+            "Name": "Boulevard Montmartre",
+            "Latitude": 48.871667,
+            "Longitude": 2.341389,
+            "place_name": "Boulevard Montmartre",
+            "uid": "Guide_1855_bpt6k134268q_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "40-1",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Le boulevard Montmartre continue les gloires et les splendeurs du boulevard Italien. C'est à sa gauche et à sa droite qu'aboutissent le passage Jouffroy et le passage des Panoramas, labyrinthes de galeries vitrées, reluisantes, regorgeant d'or, palais de cristal, expositions pérmanentes du luxe et de l'industrie. Au coin du boulevard Montmartre est situé le Jockey-Club; au milieu, le théâtre des Variétés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341389,
+                48.871667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 293,
+            "Name": "Boulevard Poissonnière",
+            "Latitude": 48.8711,
+            "Longitude": 2.34538,
+            "place_name": "Boulevard Poissonnière",
+            "uid": "Guide_1855_bpt6k134268q_21",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "41",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Le boulevard Poissonnière n’est déjà plus une contrée purement patricienne, et ce n’est pas encore un quartier démocratique. Les magasins étincelants sont remplacés par des boutiques coquettes, mais d’une coquetterie san orgueil. Aux restaurants fréquentés par les Lucullus et les Apicius du temps succède une cuisine plus modeste.\nA droite est le Bazar de l'Industrie française, qui contient deux étages de boutiques d'autant plus séduisantes, qu'elles exposent aux regards du promeneur toutes leurs richesses variées. Au milieu de ce boulevard, on remarquera la maison monumentale dite du Pont-de-Fer, une sorte de phalanstère qui contient un café chantant, des salons de lecture, de coiffure, des estaminets et le Bazar de voyage, diminutif de la célèbre maison Mosès de Londres."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.34538,
+                48.8711
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 294,
+            "Name": "Boulevard Poissonnière",
+            "Latitude": 48.8711,
+            "Longitude": 2.34538,
+            "place_name": "Boulevard Poissonnière",
+            "uid": "Fournier_1860_bpt6k6416873z_13",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "190",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "[en 1648] le Conseil [ . . . ] raviva une ordonnance de 1548, par laquelle, sous peine de confiscation des matériaux, il était défendu de bâtir dans les faubourgs. Seulement, comme on réveillait l'ordonnance bien moins en vue de la punition des coupables que dans l'intention de créer un impôt, on substitua une amende à la confiscation, dans l'arrêt du Conseil, rendu le 27 janvier 1648, juste un siècle après l'édit dont on se faisait une autorité. Une ordonnance de Louis XV le perpétua. Jusqu'en 1839, on en lut un extrait sur une pierre, gravée aux armes de France, scellée dans la façade de la maison qui fait l'angle de la rue et du boulevard Poissonnière. L'inscription qui défendait de bâtir au delà du rempart n'existe plus, mais il reste à la même place cette enseigne d’un bonnetier, que l'on ne comprendrait peut-être pas sans ce que je viens de dire : Aux limites de la ville de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.34538,
+                48.8711
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 295,
+            "Name": "Boulevard de Bonne-Nouvelle",
+            "Latitude": 48.8697,
+            "Longitude": 2.3526,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3526,
+                48.8697
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 296,
+            "Name": "Boulevard Saint-Denis",
+            "Latitude": 48.869514,
+            "Longitude": 2.353392,
+            "place_name": "Boulevard Saint-Denis",
+            "uid": "Guide_1855_bpt6k134268q_22",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "41-2",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Nous voici maintenant sur le boulevard Bonne-Nouvelle, le boulevard des cafés et des estaminets. À gauche s'élève le théâtre du Gymnase, cette première arène de M. Scribe. Sur le boulevard Saint-Denis, échelonné de boutiques d'horlogerie et d'orfévrerie, nous nous arrètons un instant devant l'arc de triomphe élevé à la gloire de Louis XIV. Rien n'a été épargné par le prévôt des marchands et les échevins de 1672 pour embellir cette page de pierre consacrée au dieu mortel du xvie siècle. L’architecte François Blondel, qui était en même temps un intrépide général, a fait, avec l’aide des sculpteurs Girardon, François et Michel Anguier, de cette Saint-Denis, une œuvre vraiment grande au point de vue de l’art."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.353392,
+                48.869514
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 297,
+            "Name": "Boulevard Saint-Denis",
+            "Latitude": 48.869514,
+            "Longitude": 2.353392,
+            "place_name": "Boulevard Saint-Denis",
+            "uid": "Fournier_1860_bpt6k6416873z_04",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "215-6",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "en 1772 [ . . . ] on projeta d'ouvrir vers le boulevard Bonne-Nouvelle, tout près du cimetière des protestants, dont le théâtre du Gymnase occupe le terrain, trois rues qui étaient destinées, les deux premières, à relier ensemble le faubourg Saint-Denis et le faubourg Poissonnière, et la troisième, à faire communiquer les deux autres avec cette pauvre rue Basse-Porte-Saint-Denis, que le boulevard absorba, il y a vingt ans à peu près, en élargissant sa marge. De même qu'on cherche un parrain à un enfant longtemps avant qu’il soit au monde, on se demande souvent, avant qu’une rue soit percée, comment l’appellerons-nous? Pour la première des trois dont il s’agit, l'embarras ne fut pas grand. Un duc d'Enghien, le dernier et le plus infortuné de ceux qui ont porté ce nom illustre, venait de naître à Chantilly. On ne fit qu’un seul baptême, le prince et la rue prirent le même nom, avec cette seule différence que le petit duc était bel et bien au monde, tandis que la rue n’exista réellement que treize ans plus tard! Pour la seconde, l'inscription n'était pas difficile à trouver; c'est sur l’ancien fief de l'Échiquier qu'on en prenait le terrain, il était donc naturel qu'il fournit aussi le nom. On n’y bâtit qu’en 1785. Aussi ne se trouve-t-elle pas, non plus que sa parallèle, dans la nomenclature donnée par Hurtault et Magny, au t.1V, de leur Dict. histor. de la ville de Paris. Une remarque à faire, c’est que la rue d'Enghien actuelle devait d'abord porter le nom de l’Échiquier, qui ne passa qu'en 1779, sur la demande des religieuses, à la rue qui l'a gardé. Le fief, car ce n'était pas moins, qui portait ce nom, appartenait au couvent des Filles-Dieu, en vertu d'une donation qui leur avait été faite, vers 1225, par Guillaume Barbette, de la famille de celui dont la célèbre Courtille a laissé son nom à l’une des rues du quartier du Temple. Le domaine de l'Échiquier devait de s'appeler ainsi à l'enseigne d'une maison qui en était voisine; on la voyait encore rue Saint-Denis, près la porte, en 1779. Lors de la fondation du couvent, cette partie de Paris était hors des murs; mais, à l'époque de la guerre, quand il avait fallu fortifier, on avait fait là comme sur le terrain de la Grange-Batelière: on avait coupé le fief en deux par la ligne du rempart. Le couvent se trouvait dans la ville et son domaine au dehors."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.353392,
+                48.869514
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 298,
+            "Name": "Boulevard Saint-Martin",
+            "Latitude": 48.869,
+            "Longitude": 2.3558,
+            "place_name": "Boulevard Saint-Martin",
+            "uid": "Fournel_1865_bpt6k1018901_21",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "44",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Le boulevard Bonne-Nouvelle, près la porte Saint Denis, et surtout le boulevard Saint-Martin, font l'effet d’une gorge sombre entre deux montagnes. En s’accoudant aux garde-fous et en se penchant au-dessus du puits de l’abime, on a le vertige à voir tourbillonner sous ses pieds cette flotte de fiacres et d’omnibus dans une mer de macadam. En Suisse, sur le mont Blanc, ce serait pittoresque; à Paris, devant le théâtre de M. Mélingue, c'est fort laid, et de plus c’est une contradiction. Com- ment se fait-il qu'on n’ait point abattu, afin de niveler je sol, ces quelques douzaines de maisons juchées en observatoire à droite et à gauche de la chaussée, comme pour faire la nique à l’architecture égalitaire du nouveau Paris? Est-ce respect humain? — Bah! — Est-ce économie? — Fi donc! — C’est tout simplement que M. Haussmann n’était pas encore préfet de la Seine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3558,
+                48.869
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 299,
+            "Name": "Boulevard Saint-Martin",
+            "Latitude": 48.869,
+            "Longitude": 2.3558,
+            "place_name": "Boulevard Saint-Martin",
+            "uid": "Guide_1855_bpt6k134268q_23",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "42-3",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Entre les faubourgs Saint-Denis et Saint-Martin, vastes laboratoires de la grande ville, immenses entrepôts du commerce et de l'industrie, rues toujours pleines de bruit et de mouvement, le boulevard n’intéresse que par sa physionomie populaire. Ici, l’habit coudoie la blouse. Ce n’est plus le cigare que l’on fume sur le trottoir, c’est la pipe. \nSur le boulevard Saint-Martin, tout est événement. La population ouvrière de Paris est essentiellement flâneuse quand elle est hors de l'atelier. Tout ce qu’elle voit la frappe; tout ce qui se passe l'intéresse: un omnibus qui se brise, un cheval qui s’abat, deux cochers qui se disputent, font un rassemblement. La Porte Saint-Martin est le portique de ce boulevard. Ce monument, bien inférieur en richesse et en élégance au chef-d'œuvre du mestre de camp Blondel, fut aussi élevé à la gloire de Louis le quatorzième, sur les dessins de Pierre Rollet. L'architecture de cet édifice est en bossages rustiques vermiculés, avec des bas-reliefs dans les tympans, et un grand entablement dorique surmonté d’un attique. Un des bas-reliefs représente Louis XIV sous les traits d'Hercule. \nÀ l'entrée de ce boulevard est un des théâtres de drames ét de mélodrames les plus célèbres, le théâtre de la Porte-Saint-Martin. Sur le mème côté, un peu plus vin, un autre théâtre, l'Ambigu-Comique. Entre la Porte-Saint-Martin et l'Ambigu, il n’y a qu’un assez court intervalle occupé par de petites boutiques appropriées au voisinage des deux théâtres: c’est le marchand de vin, le débitant de tabac, le pâtissier, les cafés et la ibrairie spéciale du mélodrame. Au delà de l'Ambigu est le Château-d'Eau, une fontaine composée de trois bassins concentriques superposés. quatre lions accroupis ans le bassin inférieur lancent des jets d’eau de leur gueule."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3558,
+                48.869
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 300,
+            "Name": "Boulevard Saint-Martin",
+            "Latitude": 48.869,
+            "Longitude": 2.3558,
+            "place_name": "Boulevard Saint-Martin",
+            "uid": "Virmaître_1871_bpt6k5448441v_23",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "229",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Le théâtre de la Porte-Saint-Martin fut également incendié le mercredi. Ce quartier était hérissé de barricades, et la bataille y était incessante depuis deux jours. \nDés qu’on vit les premières flammes, un employé de la fabrique de pompes de la rue de Bondy fit mettre en batterie plusieurs pompes à incendie et les fit manœuvrer par les habitants du quartier. Des nuées de projectiles venaient continuellement s’abattre rue de Bondy et sur le boulevard Saint-Martin et faisaient de nombreuses victimes. \nLes fédérés, embusqués au coin de la rue Bouchardon, tiraient aussi sur les courageux citoyens qui entraient ou sortaient du théâtre pour coopérer au sauvetage. \nVers deux heures du matin, le feu prit de l’autre côté de la rue de Bondy, au n° 80. Les bâtiments voisins, étant des constructions des plus légères, le danger devenait plus menaçant que jamais. \nUn nouvel appel fut fait aux habitants; tous, hommes, femmes et enfants, coururent aux pompes et à la chaine. Jusqu'au 29 mai les pompes fonctionnèrent sans relâche. \nQuant aux dégâts, ils sont considérables : sur le boulevard Saint-Martin, depuis la maison du restaurant Ronceray, il ne reste que des décombres jusqu’au n°14, dont une boutique a été préservée; sur la rue de Bondy, depuis le même point de départ jusqu’au n° 15 inclusivement, il ne reste rien."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3558,
+                48.869
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 301,
+            "Name": "Boulevard Saint-Martin",
+            "Latitude": 48.869,
+            "Longitude": 2.3558,
+            "place_name": "Boulevard Saint-Martin",
+            "uid": "Virmaître_1871_bpt6k5448441v_22",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "189",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "La Commune était au Château-d'Eau; Delescluze multipliait sur ce point les barricades. Il commanda de requérir, pour établir celles de la rue Albouy, tous les passants, hommes et femmes, et de passer par les armes ceux qui résisteraient. Partout on faisait ouvrir les volets ou persiennes et fermer les fenêtres; on fusillait les habitants qui ne se conformaient pas à ces prescriptions. La dernière heure de la Commune fut signalée par l’aggravation la plus terrible de sa fureur de recrutement. On parcourut toutes les maisons pour trouver des combattants, qu'on entrainait de force aux barricades. Pour avoir résisté à ces perquisitions, tous les habitants d’une maison, où se trouvait le restaurant Deffieux, sur le boulevard Saint-Martin, furent passés par les armes. Les barricades de cet endroit ayant été emportées, on reconnut sur une d'elles le corps de Delescluze."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3558,
+                48.869
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 302,
+            "Name": "Boulevard du Temple",
+            "Latitude": 48.863289,
+            "Longitude": 2.366508,
+            "place_name": "Boulevard du Temple",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_41",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "107-8",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Boulevard du Temple. — C’est la principale promenade de ce quartier; il présente le coup d'œil d’une fête perpétuelle : ici, ce sont des chanteurs ambulants; là, un charlatan qui débite son remède universel à grand renfort de grosse caisse, de clarinette et de cymbales; plus loin, un jeu de bague entraîne sur ses paisibles chevaux d’étourdis cavaliers; puis des marchands de gâteaux, de comestibles et de rafraichissements divers, qui semblent s'exercer à dominer de leurs voix le bruit des voitures et de la foule. Si l’étranger dédaigne ces plaisirs bruyants et trop vulgaires dont il a déjà subi l'épreuve aux Champs-Élysées, il peut choisir entre les nombreux théâtres qui se suecèdent, sans interruption, dans toute la longueur du boulevard; ce sont: le Théâtre-Lyrique, le Cirque Oympique, les Folies-Dramatiques, la Gaieté, les Funambules, les Délassements-Comiques et le Petit-Lazari; puis, en face, sur l’autre côté du boulevard, les cafés-concerts et les Folies-Nouvelles, etc."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.366508,
+                48.863289
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 303,
+            "Name": "Boulevard du Temple",
+            "Latitude": 48.863289,
+            "Longitude": 2.366508,
+            "place_name": "Boulevard du Temple",
+            "uid": "Guide_1855_bpt6k134268q_14",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "43-4",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Nous abordons au boulevard du Temple, connu aussi sous le nom de boulevard du Crime, à cause des crimes qui se commettent régulièrement chaque soir, entre huit heures et minuit, sur les différentes scènes dramatiques situées sur ce boulevard. Pendant le jour, que de scènes curieuses sur cette mer d’asphalte! que de spectacles imprévus! mais le soir, c’est un bien autre coup d'œil! Théâtre-Lyrique, le Cirque-Olympique, la Gaieté, les Folies-Dramatiques, les Folies-Nouvelles, les Funambules, étalent leurs transparents gigantesques, et rivalisent de feux, de pompe et d'impression, pour annoncer les choses les plus extravagantes qui ont passé par le cerveau\nde toute une race de charpentiers dramatiques. C’est sur le boulevard du Temple que l'étranger doit venir contempler ces queues, qui n'existent qu'à Paris. Et d’abord, me direz-vous, qu'est-ce que vous entendez par ce mot Tueue >? Une réunion de plusieurs centaines de blouses et d'habits attendant à la porte d’un théâtre que ce théâtre s'ouvre, et constituant les longs serpents dont chaque écaille est un être humain,  serpénts qui par le chaud, le froid, par le vent, la pluie ou la grèle, se replient, s'enroulent, s’entortillent en mille façons, la tête immobile, devant une barrière qui ne s'ouvre qu’à heure fixe. Vous verrez aussi les cosmopolites marchands de coco, les crieurs de programmes et les vendeurs de rafraichissements au rabais. Tout ce monde-là tourne, voltige, hurle, crie, se bat, se dispute, s’injurie, tant que le théâtre n'a pas absorbé, par ses étroits conduits, sa marée montante de spectateurs. Au bout du boulevard du Temple est le Cirque-Impérial."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.366508,
+                48.863289
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 304,
+            "Name": "Boulevard du Temple",
+            "Latitude": 48.863289,
+            "Longitude": 2.366508,
+            "place_name": "Boulevard du Temple",
+            "uid": "Virmaître_1871_bpt6k5448441v_17",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "190",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Une ironie douloureuse de la destinée voulut que Vermorel, le moins acteur de tous les êtres et le plus modéré de tous les auteurs du grand désastre, tint le principal rôle dans cette fête funèbre, où les débris de la Commune menaient, par anticipation, leurs propres funérailles. Il fit l'éloge du mort, et aussi l’histoire de la Commune, qui l’écoutait; il raconta les fautes de tous, il s’accusa lui-même, il ne laissa d’intacte qu’une seule renommée, celle du mort, qui avait donné le premier exemple d’un condottiere fidèle aux principes. De toutes les scènes de ces deux longs mois, si riches en épisodes, celle-là fut la seule grandiose; la tyrannie de la révolte, qui voyait venir sa fin dans quelques heures, participa au caractère de solennité que donne à toutes les choses l'approche du dernier moment. Le dimanche matin, les derniers insurgés tenaient sur les hauteurs; mais la fuite et les exécutions sommaires dispersaient l’insurrection; quelques barricades, qui étaient encore défendues à Ménilmontant et dans le faubourg du Temple, furent emportées à quatre heures du soir. Le lundi matin, il y avait encore à Belleville une barricade, qui fut emportée, mais pas avant que les derniers insurgés n'eussent assassiné, rue Héron, cinquante-quatre otages. \nLa prise de Paris avait duré une grande semaine; aucune révolution n'avait jusqu'ici été aussi dure à vaincre, et jamais aucune ne le fut avec autant de courage, d’entrain et d'enthousiasme."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.366508,
+                48.863289
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 305,
+            "Name": "Boulevard des Filles-du-Calvaire",
+            "Latitude": 48.862222,
+            "Longitude": 2.366944,
+            "place_name": "Boulevard des Filles-du-Calvaire",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_43",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "110",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Boulevards des Filles-du-Calvaire et Saint-Antoine. Après les baraques des saltimbanques et des spectacles forains, commence un nouveau quartier qui s’est élevé comme par enchantement, de 1846 à 1850; il n'offre que de belles et splendides maisons neuves et ne finit qu’à la place de la Bastille : là s'ouvre une autre région, celle des rudes travailleurs du faubourg Saint-Antoine. A l'une des extrémités de la rue du Faubourg s'élève la barrière du Trône, à l’autre se trouvent la place de la Bastille et la colonne de Juillet."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.366944,
+                48.862222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 306,
+            "Name": "Boulevard des Filles-du-Calvaire",
+            "Latitude": 48.862222,
+            "Longitude": 2.366944,
+            "place_name": "Boulevard des Filles-du-Calvaire",
+            "uid": "Guide_1855_bpt6k134268q_23",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "45",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Au boulevard des Filles-du-Calvaire, qui fait suite au boulevard du Temple, changement complet de décoration. Là, des ateliers d’ébénisterie et de sculpture sur bois, des boutiques où l'on scie, au plus juste prix, dans la pierre ou le marbre, des pans ou des couvercles de tombeaux. I1 sort des ateliers et des entrepôts des Filles-du-Calvaire d'élégants meubles d'ébène, ciselés et fouillés, et des bahuts de chène massifs, solides, enguirlandés de feuillage, hérissés de figures héraldiques, blasonnés d'armoiries et de symboles parlants qui feraient rêver une châtclaine du vieux temps."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.366944,
+                48.862222
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 307,
+            "Name": "Boulevard Beaumarchais",
+            "Latitude": 48.8571,
+            "Longitude": 2.3681,
+            "place_name": "Boulevard Beaumarchais",
+            "uid": "Fournel_1865_bpt6k1018901_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "33-5",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Le boulevard Mazas [Diderot] et celui du Prince-Eugène [Voltaire], qui vont se réunir tous deux à la barrière du Trône, commandent ainsi au faubourg Saint-Antoine, que la large rue du même nom coupait déjà par le milieu. Ce boulevard du Prince-Eugène, qui a recueilli tant de malédictions pour le terrible abatis de théâtres qu'il a fait à son premier pas, on se fut bien gardé d'y renoncer, eût-il dû soulever mille fois plus d'anathèmes encore. Il n’en est pas un seul dans Paris qui ait été plus adroïtement conçu, pas un qui ait fait plus de besogne d’un coup. Il troue en plein centre un quartier populeux et remuant, il ouvre et dégage le chemin de Vincennes, où il y a, comme on sait, un très-joli fort, plein de jolis soldats; il met en ræpport la caserne du Château-d’Eau avec les chasseurs de la forteresse; enfin il complète de la manière la plus ingénieuse, après le boulevard Mazas d’une part, aprés les boulevards Bourdon et Beaumarchais de autre, une combinaison grâce à laquelle on peut prendre à tête et à queue ce formidable faubourg, qui se souvient un peu trop d’avoir renversé la Bastille, et l’investir pour monter à l’assaut de ses barricades. C’est une œuvre d'artiste, et l’auteur a dû s'y mirer avec complaisance.\nLe point de départ du boulevard du Prince-Eugène s’appuie sur le flanc gauche d’une caserne, placée là à l'intersection de toutes ces grandes voies, comme le temple du genius loci. Sur le flanc droit de la même caserne s’appuiera le point de départ du boulevard Magenta: c’est le vieux mythe d’Antée qui reprenait des forces en touchant la terre. Le boulevard Magenta continue celui du boulevard Prince-Eugène en ligne droite, et, croisant celui de Strasbourg, il coupe par le milieu cauires quartiers inquiétants, entre les boulevards intérieurs et les boulevards extérieurs. Ainsi seront dominés et tenus en échec les faubourgs Saint-Denis, Saint-Martin et Poissonnière, et s’établira une communication directe entre la gare de l'Est et la fameuse caserne, centre où tout aboutit, et autour duquel rayonnent toutes les voies, comme jadis aulour du forum."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3681,
+                48.8571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 308,
+            "Name": "Boulevard Beaumarchais",
+            "Latitude": 48.8571,
+            "Longitude": 2.3681,
+            "place_name": "Boulevard Beaumarchais",
+            "uid": "Janin_1843_bpt6k102791c_06",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "211-3",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "Dans cette heureuse et calme méditation du soir, javais franchi tout l’espace habité qui sépare l’Arc-de-Triomphe dela place de la Bastille. Le lieu est désert, et il attend encore les maisons qui vont venir. Là s'élevait, autrefois, entouré de ses vastes jardins, le palais improvisé de ce révolutionnaire si rempli d’esprit, de malice et d’éloquence, qu’on nommait Beaumarchais. Quand il avait vu que chacun travaillait de son esprit et de ses mains à la démolir de fond en comble, cette vieille société française qui est devenue pour nous moins qu’un rêve, il s’était mis à l’attaquer, non pas par l'esprit, comme Voltaire, mais bien par le sarcasme, par l'ironie, par la licence, appelant à l’aide de son Figaro, révolté lui aussi, des femmes à demi nues, des enfants plus que précoces, et des scènes de boudoir qui se passent sous de grands marronniers en fleurs. Il avait donc assisté, toujours en ricanant, à cette ruine de toutes choses. Puis enfin, un beau jour que le peuple triomphant emporta dans sa veste trouée cette vieille Bastille vermoulue et lézardée de toutes parts, le père incestueux et adultérin de Figaro s’arrangea, sur l'emplacement de la Bastille, des jardins anglais, des kiosques, des grottes, des chaumières, des cascades murmurantes, un hôtel tout doré, une seconde Bastille dans laquelle il s’enferma avec les vieux restes de son esprit, artillerie détraquée et enclouée de toutes parts. [ . . . ]\nHeureusement la maison du sieur Caron de Beaumarchais a disparu de cette place. Ces frivoles jardins tout plantés des vieilles roses inodores arrachées au cinquième acte du Mariage de Figaro, se sont entr’ouverts pour laisser passer les eaux bourbeuses d’un horrible canal qui aboutit à une voirie. Sur ce canal sont transportées, la nuït, toutes les immondices parisiennes : il serait impossible de trouver un emblème plus juste de ce faux esprit de la fin du siècle passé, tout chargé de peste, de famine, d’émeutes, de conspirations, et qui aboutissait non pas à un égout, mais à un échafaud."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3681,
+                48.8571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 309,
+            "Name": "Boulevard Beaumarchais",
+            "Latitude": 48.8571,
+            "Longitude": 2.3681,
+            "place_name": "Boulevard Beaumarchais",
+            "uid": "Guide_1855_bpt6k134268q_25",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "45",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Il y à quelques années à peine, le boulevard Beaumarchais n'existait pas ; aujourd'hui, il est resplendissant de maisons qui ressemblent à des palais. Ce boulevard doit son nom à l'illustre auteur du Mariage de Figaro, qui y possédait une maison qu’on a détruite dans ces derniers temps."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3681,
+                48.8571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 310,
+            "Name": "Boulevard Beaumarchais",
+            "Latitude": 48.8571,
+            "Longitude": 2.3681,
+            "place_name": "Boulevard Beaumarchais",
+            "uid": "Virmaître_1871_bpt6k5448441v_38",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "234",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Au nombre des immeubles privés qui ont été incendiés, il faut citer les maisons 9, 11 et 13 du boulevard Sébastopol, une partie du magasin de Pygmalion, le café situé à l'angle de ce boulevard et de la rue de Rivoli, la moitié des maisons de la rue Boissy-d’Anglas, de la place de la Madeleine, toute la croisée de la rue Royale et de la rue Saint-Honoré, les maisons de la rue de Lille. \nLe café Gibé, à l'angle du boulevard Beaumarchais et de la rue Sainte-Antoine, est entièrement détruit. La brasserie voisine à l'enseigne des Phares de la Bastille est également brûlée. \nL’Arsenal, la direction des poudres et salpêtres et la capsulerie de la guerre ont été incendiés. Il n’en reste debout que les gros murs."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3681,
+                48.8571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 311,
+            "Name": "Porte Saint-Denis",
+            "Latitude": 48.8698,
+            "Longitude": 2.3527,
+            "place_name": "Porte Saint-Denis",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_41",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "103-4",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Cet arc, qui a 25 mètres de hauteur sur autant de largeur, a été érigé sous\n      Louis XIV en l'honneur de la conquête de la Flandre française. On y remarque deux pyramides sculptées et, chargées de trophées d'armes, deux statues colossales assises sur un lion et représentant, l’une la Hollande et l’autre le Rhin."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.8698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 312,
+            "Name": "Porte Saint-Denis",
+            "Latitude": 48.8698,
+            "Longitude": 2.3527,
+            "place_name": "Porte Saint-Denis",
+            "uid": "Guide_1855_bpt6k134268q_22",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "41-2",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Nous voici maintenant sur le boulevard Bonne-Nouvelle, le boulevard des cafés et des estaminets. À gauche s'élève le théâtre du Gymnase, cette première arène de M. Scribe. Sur le boulevard Saint-Denis, échelonné de boutiques d'horlogerie et d'orfévrerie, nous nous arrètons un instant devant l'arc de triomphe élevé à la gloire de Louis XIV. Rien n'a été épargné par le prévôt des marchands et les échevins de 1672 pour embellir cette page de pierre consacrée au dieu mortel du xvie siècle. L’architecte François Blondel, qui était en même temps un intrépide général, a fait, avec l’aide des sculpteurs Girardon, François et Michel Anguier, de cette Saint-Denis, une œuvre vraiment grande au point de vue de l’art."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.8698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 313,
+            "Name": "Porte Saint-Denis",
+            "Latitude": 48.8698,
+            "Longitude": 2.3527,
+            "place_name": "Porte Saint-Denis",
+            "uid": "Hugo_1831_1_bpt6k6497134z_63",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "226",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "La Ville avait six portes, bâties par Charles V; c'était, partir la de la tour de Billy, la porte Saint-Antoine, porte du Temple, la porte Saint-Martin, la porte Saint-Denis, la porte Montmartre, la porte Saint-Honoré. Toutes ces portes étaient fortes, et belles aussi, ce qui ne gâte pas la force. Un fossé large, profond, à courant vif dans les crues d’hiver, lavait le pied des murailles tout autour de Paris; la Seine fournissait l’eau. La nuit on fermait les portes, on barrait la rivière aux deux bouts de la ville avec de grosses chaînes de fer, et Paris dormait tranquille."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.8698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 314,
+            "Name": "Porte Saint-Denis",
+            "Latitude": 48.8698,
+            "Longitude": 2.3527,
+            "place_name": "Porte Saint-Denis",
+            "uid": "Fournier_1860_bpt6k6416873z_09",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "50",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Telle terre, telle population : c’est ce qu’on pourrait dire de ce quartier à son origine, surtout pour la partie qui va de la rue de Cléry et de la rue Neuve-Saint-Eustache jusqu'à la rue Saint-Denis. Ce ne fut, jusqu'à la fin du xvie siècle, qu'un énorme amas d’ordures de toutes sortes entassées là par vingt générations. Il ne faut pas oublier de rappeler à ce sujet que la grande ville avait ainsi à quelquesunes de ses entrées principales de petits Montfaucons en diminutif, qui, force de s'étendre, étaient arrivés à lui former une sorte d'in- fecte ceinture. En dehors de la porte Saint Honoré, placée alors, comme je vous l'ai dit, à l’endroit où débouche la rue de Richelieu, se trouvait la butte Saint-Roch, qui était, elle aussi, un monticule d'immondices."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.8698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 315,
+            "Name": "Porte Saint-Denis",
+            "Latitude": 48.8698,
+            "Longitude": 2.3527,
+            "place_name": "Porte Saint-Denis",
+            "uid": "Fournier_1860_bpt6k6416873z_04",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "215-6",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "en 1772 [ . . . ] on projeta d'ouvrir vers le boulevard Bonne-Nouvelle, tout près du cimetière des protestants, dont le théâtre du Gymnase occupe le terrain, trois rues qui étaient destinées, les deux premières, à relier ensemble le faubourg Saint-Denis et le faubourg Poissonnière, et la troisième, à faire communiquer les deux autres avec cette pauvre rue Basse-Porte-Saint-Denis, que le boulevard absorba, il y a vingt ans à peu près, en élargissant sa marge. De même qu'on cherche un parrain à un enfant longtemps avant qu’il soit au monde, on se demande souvent, avant qu’une rue soit percée, comment l’appellerons-nous? Pour la première des trois dont il s’agit, l'embarras ne fut pas grand. Un duc d'Enghien, le dernier et le plus infortuné de ceux qui ont porté ce nom illustre, venait de naître à Chantilly. On ne fit qu’un seul baptême, le prince et la rue prirent le même nom, avec cette seule différence que le petit duc était bel et bien au monde, tandis que la rue n’exista réellement que treize ans plus tard! Pour la seconde, l'inscription n'était pas difficile à trouver; c'est sur l’ancien fief de l'Échiquier qu'on en prenait le terrain, il était donc naturel qu'il fournit aussi le nom. On n’y bâtit qu’en 1785. Aussi ne se trouve-t-elle pas, non plus que sa parallèle, dans la nomenclature donnée par Hurtault et Magny, au t.1V, de leur Dict. histor. de la ville de Paris. Une remarque à faire, c’est que la rue d'Enghien actuelle devait d'abord porter le nom de l’Échiquier, qui ne passa qu'en 1779, sur la demande des religieuses, à la rue qui l'a gardé. Le fief, car ce n'était pas moins, qui portait ce nom, appartenait au couvent des Filles-Dieu, en vertu d'une donation qui leur avait été faite, vers 1225, par Guillaume Barbette, de la famille de celui dont la célèbre Courtille a laissé son nom à l’une des rues du quartier du Temple. Le domaine de l'Échiquier devait de s'appeler ainsi à l'enseigne d'une maison qui en était voisine; on la voyait encore rue Saint-Denis, près la porte, en 1779. Lors de la fondation du couvent, cette partie de Paris était hors des murs; mais, à l'époque de la guerre, quand il avait fallu fortifier, on avait fait là comme sur le terrain de la Grange-Batelière: on avait coupé le fief en deux par la ligne du rempart. Le couvent se trouvait dans la ville et son domaine au dehors."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.8698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 316,
+            "Name": "Porte Saint-Denis",
+            "Latitude": 48.8698,
+            "Longitude": 2.3527,
+            "place_name": "Porte Saint-Denis",
+            "uid": "Balleydier_1849_bpt6k105490w_27",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "118",
+            "cleaner_name": "SL",
+            "date_added": "20200616",
+            "snippet": "Cet arc triomphal, qui ne coûta que 500,122 francs, a 24 mètres d'élévation sur autant de hauteur; le bas-relief, du côté de Ja ville, représente le passage du Rhin à Tholey, et celui du côté du faubourg la prise de Maëstricht. Du côté de la ville, on voit aux pieds des pyramides deux figures colossales; l'une sous la figure d'une femme représente la Hollande, l’autre tient uné corne d’abondance et se repose sur un gouvernail. Enfin, sur la frise, on lit cette inscription en lettres de bronze :\nLudovico Magno\nCet arc triomphal, chef-d'œuvre d'architecture, cette Marseillaise de granit a été composée par un soldat, comme le fut plus tard, aussi par un soldat, la Marseillaise, chef d'œuvre de la poésie lyrique. À l'époque des grandes choses, alors que la sève productive déborde de toutes parts, il n’est pas surprenant qu’un double éclair de génie rayonne au front de quelques privilégiés. François Blondel en est une preuve; soldat, il parvint par sa bravoure chevaleresque et ses talents militaires à la dignité de maréchal des camps et armées du roi ; artiste, il dota la France de l'arc victorieux qu'on admire à l'entrée du faubourg Saint-Denis."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3527,
+                48.8698
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 317,
+            "Name": "Café Tortoni",
+            "Latitude": 48.863,
+            "Longitude": 2.3639,
+            "place_name": "Café Tortoni",
+            "uid": "Guide_1855_bpt6k134268q_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "39-40",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Deux pas encore, et vous êtes sur le boulevard Italien, qu’on nomme aussi le boulevard de Gand. Ce Boulevard est le centre de Paris. C’est là que passent, par les beaux jours d'été, les toilettes éclatantes, les frais chapeaux, les fleurs multicolores. Tortoni, le Café de Paris, le Café Riche, échelonnent des siéges pour les dames, des banquettes et des tables mobiles pour les adorateurs du punch glacé, du cigare et de la littérature quotidienne. Cette promenade offre le coup d'œil d’un fleuve d'habits noirs émaillé de robes de soie, qui passe et repasse. \nLes beautés à la mode descendent sémillantes par les rues Laffitte, Lepelletier, Taitbout, du Helder, vomitoires ouverts à propos pour servir de communication entre les nids charmants du quartier Bréda et l'arène du boulevard. L'Opéra est à deux pas dans la rue Lepelletier. L'Opéra-Comique a une entrée sur le boulevard même. Promenez-vous en passant dans le passage l'Opéra, un passage bien déchu aujourd'hui."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3639,
+                48.863
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 318,
+            "Name": "Café Anglais",
+            "Latitude": 48.871272,
+            "Longitude": 2.337447,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.337447,
+                48.871272
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 319,
+            "Name": "Maison-Dorée",
+            "Latitude": 48.8719,
+            "Longitude": 2.3369,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3369,
+                48.8719
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 320,
+            "Name": "Notre-Dame-de-Lorette",
+            "Latitude": 48.8775,
+            "Longitude": 2.342,
+            "place_name": "Notre-Dame-de-Lorette",
+            "uid": "Guide_1855_bpt6k134268q_26",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "106-7",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Église calomniée par les feuilletons et par les vaudevilles, et qui vaut mieux que sa réputation. Les véritables fidèles ne sont pas plus rares à Notre-Dame-de-Lorette que partout ailleurs, et on y fait son salut comme dans toutes les autres églises. \nLes mauvaises langues ont comparé l’église Notre-Dame-de-Lorette à un boudoir; pure médisance. La Madeleine, Saint-Vincent-de-Paul reluisent tout autant que Notre-Dame-de-Lorette; on n’y a guère épargné l'or et les couleurs; mais où n’en met-on pas aujourd'hui? Les cérémonies du culte sont fort suivies dans cette église, par les hommes surtout; les mois de Marie y attirent un grand concours de fidèles, quand les artistes de l'Opéra s'y font entendre. La peinture religieuse abonde dans celle église; les chapelles de MM. Orsel, Perrin et Reyer en sont pleines. Puisque nous sommes ici dans le quartier des banquiers et des gens de Bourse, où l’on aime à se rendre compte de la valeur des objets, disons ane la construction de l'église Notre-Dame-de-Lorette a coûté 2,050,000 francs à l'État. On évalue le produit de la cure à une trentaine de mille francs, chiffre rond. (Au bout de la rue Laffitte.)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.342,
+                48.8775
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 321,
+            "Name": "Notre-Dame-de-Lorette",
+            "Latitude": 48.8775,
+            "Longitude": 2.342,
+            "place_name": "Notre-Dame-de-Lorette",
+            "uid": "François_1857_bpt6k6439790m_35",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "28",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_16",
+            "snippet": "Monument très-riche, très-brillant, très-fastueux, où le luxe matériel de l'ornementation, tient toute la place sans rien laisser la pensée. On peut faire, à propos de Notre Dame-de-Lorette, les mêmes réflexions qu'au sujet de la Madeleine. Ajoutons toutefois, qu’en cette circonstance du moins, ce n’est pas dans les temples païens d'Athènes et de Rome que l'architecte a été s'inspirer de son modèle, mais dans les basiliques des premiers temps de l’ère chrétienne, dont l'église Notre-Dame-de-Lorette est une fidèle copie."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.342,
+                48.8775
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 322,
+            "Name": "Notre-Dame-de-Lorette",
+            "Latitude": 48.8775,
+            "Longitude": 2.342,
+            "place_name": "Notre-Dame-de-Lorette",
+            "uid": "Virmaître_1871_bpt6k5448441v_24",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "105",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Un matin, dans le IXe arrondissement, deux bataillons de Belleville commencèrent cette chasse à l’homme. Les hommes arrêtés étaient enfermés dans l'église Notre-Dame-de-Lorette, puis de là dirigés sur l'École-Militaire. \nCette chasse, si rigoureuse qu'elle fût, produisit peu de chose."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.342,
+                48.8775
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 323,
+            "Name": "Opéra-Comique",
+            "Latitude": 48.871389,
+            "Longitude": 2.338611,
+            "place_name": "Opéra-Comique",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_39",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "97",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Le théâtre de l’Opéra-Comique, qui, par une bouderie incompréhensible de l'architecte, tourne le dos au boulevard des Italiens."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.338611,
+                48.871389
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 324,
+            "Name": "Opéra-Comique",
+            "Latitude": 48.871389,
+            "Longitude": 2.338611,
+            "place_name": "Opéra-Comique",
+            "uid": "Guide_1855_bpt6k134268q_27",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "186",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "La salle de l’Opéra-Comique actuelle, construite il y a quelques années avec beaucoup d'élégance sur l’emplacement de l’ancien Théâtre-Italien, a offert la première cette innovation heureuse des loges dites à salons. Derrière les places de la loge proprement dite se trouvê une espèce de petit réduit mystérieusement éclairé, avec divan, glaces et tapis, où les spectateurs peuvent se tenir pendant l’entr’acte et causer dans une sorte d'intimité. On ne saurait trop encourager cette mode toute italienne des loges à salons, qu’il serait si désirable de voir appliquer aux autres théâtres."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.338611,
+                48.871389
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 325,
+            "Name": "Opéra-Comique",
+            "Latitude": 48.871389,
+            "Longitude": 2.338611,
+            "place_name": "Opéra-Comique",
+            "uid": "Guide_1855_bpt6k134268q_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "39-40",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Deux pas encore, et vous êtes sur le boulevard Italien, qu’on nomme aussi le boulevard de Gand. Ce Boulevard est le centre de Paris. C’est là que passent, par les beaux jours d'été, les toilettes éclatantes, les frais chapeaux, les fleurs multicolores. Tortoni, le Café de Paris, le Café Riche, échelonnent des siéges pour les dames, des banquettes et des tables mobiles pour les adorateurs du punch glacé, du cigare et de la littérature quotidienne. Cette promenade offre le coup d'œil d’un fleuve d'habits noirs émaillé de robes de soie, qui passe et repasse. \nLes beautés à la mode descendent sémillantes par les rues Laffitte, Lepelletier, Taitbout, du Helder, vomitoires ouverts à propos pour servir de communication entre les nids charmants du quartier Bréda et l'arène du boulevard. L'Opéra est à deux pas dans la rue Lepelletier. L'Opéra-Comique a une entrée sur le boulevard même. Promenez-vous en passant dans le passage l'Opéra, un passage bien déchu aujourd'hui."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.338611,
+                48.871389
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 326,
+            "Name": "Panorama",
+            "Latitude": 48.871111,
+            "Longitude": 2.341667,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.341667,
+                48.871111
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 327,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "Fournel_1865_bpt6k1018901_23",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "185-7",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Le nouvel Opéra s'élève sur une place évidemment trop petite. L'administration à cette fois économisé le terrain, pour regagner une parcelle des trente millions, sans parler des suppléments, que lui coûtera ce palais de la musique et de la danse. Le Grand-Hôtel encombre de sa masse gigantesque les abords étriqués du théâtre. Pendant sa construction, le bruit courut, on s'en souvient, que l’édilité se repentait de l'avoir laissé bâtir, et qu'elle voulait l'abattre. Il n'y avait là rien que de très-vraisemblable et de très-conforme à la tradition.  [ . . . ] Mais cela ne suffit point. Mème en agrandissani la place, l'Opéra resterait sans perspective, puisqu'on s'est avisé trop tard qu'il ne se trouve pas dans celle de la rue de la Paix. Pour lui en créer une et déblayer Ie point de vue, on n'a rien trouvé de mieux que de percer deux nouvelles voies qui vont déboucher en face de lui sur le boulevard, car c’est là évidemment le seul but, la seule explication possible de ces rues, auxquelles on a voulu, par pudeur, attribuer l'intention assez plaisante de mettre en rapport la Bourse et le Théâtre-Français avec l'Opéra. [ . . . ] Pour se rendre compte du prix que coûtera l'Opéra, il convient donc d’ajouter aux trente millions de sa construction, et aux quarante millions des expropriations ordonnées pour lui faire place ou pour les rues aboutissantes, un nombre au moins égal de millions pour le tracé des autres voies dont nous venons de parler.\n      [Note p. 186] Depuis que ceci est écrit, j'ai lu dans quelques journaux qu'en effet on venait de s'aboucher avec les propriétaires du Grand-Hôtel pour leur acheter le droit de démolir l'angle du bâtiment qui masque l'Opéra, et qu'on était arrêté par le prix effrayant qu'ils en demandent. Il est à croire que ce te temps d'arret ne sera pas long"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 328,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "Fournel_1865_bpt6k1018901_22",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "181-2",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Nous ne pouvons juger encore directement son œuvre [de Garnier], qui commence à peine à sortir de terre, et à dessiner ses premières assises à quelques au-dessus du sol; mais, autant qu'il est permis de se prononcer d’après le plan en relief exposé à l’un des derniers Salons, il nous semble que les qualités et les défauts en sont à peu près les mèmes que ceux du nouveau Louvre, c’est-à-dire la richesse des détails poussée jusqu’à l'excès, et leur variété, jusqu'au décousu. Tout en louant la science et l’habileté incontestables dont l’architecte a fait preuve, et qui mettent son œuvre audessus de la plupart des autres monuments du Paris impérial, on y voudrait une plus grande sobriété d’ornementation, des lignes plus simples et plus suivies, une plus puissante unité. Le portique, trop étroit, semble ajouté après coup au corps de l’édifice, au lieu d’en être le point de départ, et il prend un caractère subalterne devant le développement des riches et élégants pavillons qui ornent les façades latérales. M. Ch. Garnier a cru devoir accuser extérieurement les trois grandes divisions du théâtre : l’emplacement des foyers, par un péristyle et une terrasse ; celui de la salle, par une coupole écrasée, qui la couvre sans la dominer; celui de la scène, par un immense fronton triangulaire qui forme le point culminant. Mais cette disposition offre quelque chose d’incohérent et de morcelé qui déroute le regard, et il y a surtout une bizarrerie assez malheureuse dans ce fronton rejeté à l’arrière-plan et précédé d’une coupole, au-dessus de laquelle il plane, par une transformation imprévue de toutes les conditions habituelles de l’art."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 329,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "François_1857_bpt6k6439790m_36",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "77",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_16",
+            "snippet": "THEATRE DE L'OPERA.—R. Lepelletier.— Le plus magnifique théâtre de Paris pour sa décoration intérieure et le luxe avec lequel y sont montés les ouvrages que l'on y représente. Opéras et Ballets. 1,950 places. Parterre, 4 fr."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 330,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "Virmaître_1871_bpt6k5448441v_29",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "90-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Un jour, vers trois heures, plusieurs hommes de cœur se groupèrent et résolurent de réagir contre cet état de choses; en un clin-d'œil, trois mille individus se joignirent à eux, ils étaient précédés d’un drapeau tricolore, sur lequel on lisait, en grosses lettres: ORDRE. La manifestation partit du nouvel Opéra, passa place Vendôme, et reprenant la rue de la Paix, alla place de la Concorde, puis passa rue de Bourgogne, rue de Varennes, et enfin revint à son point de départ, en suivant le boulevard Saint-Michel, le boulevard de Sébastopol et les grands boulevards. \nCette manifestation s'était grossie en route, et le soir la Commune dut voir qu'elle ne possédait pas autant d'adhérents qu'elle le disait."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 331,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "Virmaître_1871_bpt6k5448441v_25",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "229-30",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Des mesures étaient prises pour incendier les deux Opéras; des torpilles, en nombre considérable, ont été découvertes au nouvel Opéra. \nCes engins explosibles étaient probablement reliés par un système souterrain avec d'autres torpilles, qui, depuis, ont été trouvées rue de la Paix et place Vendôme, autour du piédestal de la colonne."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 332,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "Banville_1866_bpt6k205836j_03",
+            "file_name": "Banville_1866_bpt6k205836j_clean.xml",
+            "docAuthor": "Banville, Théodore de",
+            "docTitle": "Les parisiennes de Paris",
+            "docDate": 1866.0,
+            "doc_page_number": "69",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "«.... Inutile donc de te raconter par quelle série de circonstances très-naturelles les grands portraits de Vestris et de mademoiselle Guimard, exécutés pour le ministère, m'ont valu mes entrées dans les coulisses de l'Opéra. Ce que je veux te dire, c'est que, moi aussi, je vais escalader le ciel de mon rêve! Enfin, Edmond, moi qui ne pouvais comprendre l'Amour que serré dans mes bras et endormi sur ma poitrine ; moi qui voulais sentir battre le cœur de mes idoles et qui meurtrissais ma chair contre la pierre et le bronze de ces statues, je l'ai trouvée, Béatrix et Laure, cette conscience visible de mon génie, cette âme de ma pensée que tu me souhaitais et qui m'inspirera mille chefs-d'œuvres. Je t'ai dit qu'elle est descendue du ciel hier même et qu’elle a treize ans : qu'importe? car je me brûlerais la cervelle avant de lui laisser deviner cet amour; elle sera toujours pour moi le céleste démon couronné d'étoiles qui éveille les lyres en marchant sur les nuées frémissantes; divinité vers qui je tendrai mes mains silencieuses!. Devine, car je ne suis pas poète. Depuis que j'ai vu Emmeline, je comprends tout, je sais tout, mes yeux plongent à nu dans l'infini, je n’ai qu'à laisser courir sur la toile mes mains impatientes et à retrouver dans mon souvenir son regard, qui me dit : Travaille et ses mains dans lesquelles, visibles pour moi seul, ondoient les palmes verdoyantes.... » Comme je n’écris pas  un roman, veuillez accepter sans explication que l’atelier d’Abel Servais est précisément contigu au très-riche appartement occupé par mademoiselle Euphrasie Godevin, de l'Opéra, au haut d’une maison-hôtel de la rue Boursault, élevée seulement de trois étages."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 333,
+            "Name": "Opéra",
+            "Latitude": 48.871944,
+            "Longitude": 2.331667,
+            "place_name": "Opéra",
+            "uid": "Banville_1866_bpt6k205836j_02",
+            "file_name": "Banville_1866_bpt6k205836j_clean.xml",
+            "docAuthor": "Banville, Théodore de",
+            "docTitle": "Les parisiennes de Paris",
+            "docDate": 1866.0,
+            "doc_page_number": "65",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "Je suis à l'Opéra; j'y reste. Si vous avez traversé les coulisses de l'Opéra pendant l'hiver de 1853, vous devez vous rappeler la furie d'enthousiasme avec laquelle on y admirait alors la beauté d’une jeune fille de treize ans, la petite Mignon, de son vrai nom Emmeline Bazin, fille de madame Bazin, marchande à la toilette dans la rue de Provence. A la classe, au théâtre, chez les di- recteurs, c'était un engouement passionné pour cette tête virginale et mourante, si raphaélesque sous sa chaude pâleur et sous ses cheveux noirs, plus fins qu’abondants. Les yeux ardents sous des cils démesurés, des lèvres si douces et si tristes, ces petites mains longues et déjà blanches et par-dessus tout l'expression résignée et poétique des traits qui donnait un charme douloureux à tant de grâces enfantines, prenaient et subjuguaient les âmes. Camille Roqueplan a peint d’après Emmeline une tête qui reste un de ses chefs-d’œuvre, et que M. Aguado vient de reproduire tout dernièrement par la photographie. Ce portrait, type de la beauté angélique, semble celui d’une jeune martyre, destinée à être égorgée sous ses roses blanches avant même d’avoir mouillé ses lèvres au bord de la coupe, et explique la séduction irrésistible exercée par Emmeline sur un monde où il se remue pourtant sans relâche tant d’or et tant d'idées, et qui ne perd pas les minutes à s’attendrir."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331667,
+                48.871944
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 334,
+            "Name": "Avenue de l’Opéra",
+            "Latitude": 48.86715,
+            "Longitude": 2.333819,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.333819,
+                48.86715
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 335,
+            "Name": "Rue de la Paix",
+            "Latitude": 48.869131,
+            "Longitude": 2.331128,
+            "place_name": "Rue de la Paix",
+            "uid": "Virmaître_1871_bpt6k5448441v_25",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "229-30",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Des mesures étaient prises pour incendier les deux Opéras; des torpilles, en nombre considérable, ont été découvertes au nouvel Opéra. \nCes engins explosibles étaient probablement reliés par un système souterrain avec d'autres torpilles, qui, depuis, ont été trouvées rue de la Paix et place Vendôme, autour du piédestal de la colonne."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.331128,
+                48.869131
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 336,
+            "Name": "Rue Vivienne",
+            "Latitude": 48.8684,
+            "Longitude": 2.33974,
+            "place_name": "Rue Vivienne",
+            "uid": "Virmaître_1871_bpt6k5448441v_26",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "53",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "De plus, cinq ou six cents gardes mobiles, des francs-tireurs, des soldats isolés appartenant à différentes armes, le corps d'artillerie des mitrailleuses et des officiers en grand nombre montaient la garde au coin des rues Vivienne et Richelieu; les bataillons d'ordre occupaient la partie de la ville comprise entre le boulevard, le marché Saint-Honoré, le Palais-Royal, la Banque, jusqu’au boulevard Bonne Nouvelle, en remontant par le faubourg Montmartre, la gare Saint-Lazare, et en redescendant par le boulevard Malesherbes, le quartier de l'Opéra et le Grand-Hôtel, où était le quartier général."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.33974,
+                48.8684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 337,
+            "Name": "Rue Vivienne",
+            "Latitude": 48.8684,
+            "Longitude": 2.33974,
+            "place_name": "Rue Vivienne",
+            "uid": "Fournier_1860_bpt6k6416873z_14",
+            "file_name": "Fournier_1860_bpt6k6416873z_clean.xml",
+            "docAuthor": "Fournier, Edouard",
+            "docTitle": "Enigmes des rues de Paris",
+            "docDate": 1860.0,
+            "doc_page_number": "223",
+            "cleaner_name": "SG",
+            "date_added": "20200701",
+            "snippet": "Je ne sais que M. Louis Vivien à qui, sous Louis XIV, échut, comme au prévôt de 1772, la double fortune d'être le parrain de deux rues de Paris. L'une est la rue Vivienne, pour laquelle il avait tout droit de parrainage, puisqu'elle était percée sur des terrains dépendants de son fief de la Grange-Batelière!; l’autre est la rue Saint-Marc, qui porte le nom d'une terre dont il était seigneur. La rue Vivienne s'appela d’abord rue Vivien; mais, comme une rue doit avoir un nom féminin, celui-ci prit la terminaison féminine, qu'il a gardée."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.33974,
+                48.8684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 338,
+            "Name": "Rue Saint-Jacques",
+            "Latitude": 48.846667,
+            "Longitude": 2.343333,
+            "place_name": "Rue Saint-Jacques",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_42",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "130-1",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "dans la rue Saint-Jacques, se trouve l'Hôpital militaire du Val-de-Grûce, qui occupe l'abbaye fondée en 1645, par Anne d'Autriche, en l'honneur de la naissance de Louis XIV. Son église possède le plus grand morceau de fresque qu’il y ait en Europe. \nA présent, si l'étranger remonte la rue Saint-Jacques pour aller au jardin des Plantes, il trouvera sur sa route la place de l'Estrapade, où François Ier fit brüler vifs bon nombre de protestants. Néanmoins ce prince protégeait les sciences; c'est lui qui allait dans l’obscure et tortueuse rue Saint-Jean-de-Beauvais visiter en son établissement Robert Estienne, le célèbre et savant imprimeur, et qui, appuyé sur la barre de la presse, exigeait qu'il ne se dérangeàt point de son travail avant d'avoir terminé son épreuve. Dans la même rue logea un peu plus tard Ramus, glorieuse victime de la Saint-Barthélemy, et non loin de là, dans une maison de la rue des Fossés-Saint-Victor, adossée au mur de la ville, habita Ronsard, qui y réunissait les poëtes de la Pléiade, et y reçut quelquefois la visite de Charles IX."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.343333,
+                48.846667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 339,
+            "Name": "Rue Saint-Jacques",
+            "Latitude": 48.846667,
+            "Longitude": 2.343333,
+            "place_name": "Rue Saint-Jacques",
+            "uid": "Hugo_1831_1_bpt6k6497134z_64",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "227-8",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "On voyait tout de suite deux longues rues parallèles, sans rupture, sans perturbation, presque en ligne droite, qui traversaient à la fois les trois villes d’un bout à l’autre, du midi au nord, perpendiculairement à la Seine, les liaient, les mêlaient, infusaient, versaient, transvasaient sans relâche le peuple de l’une dans les murs de l’autre, et des trois n’en faisaient qu'une. La première de ces deux rues allait de la porte Saint-Jacques à la porte Saint-Martin; elle s'appelait rue Saint-Jacques dans l'Université, rue de la Juiverie dans la Cité, rue Saint-Martin dans la Ville; elle passait l’eau deux fois sous le nom de Petit-Pont et de pont Notre-Dame. La seconde, qui s'appelait rue de la Harpe sur la rive gauche, rue de la Barillerie dans l'île, rue Saint-Denis sur la rive droite, pont Saint-Michel sur un bras de la Seine, Pont-au-Change sur l’autre, allait de la porte Saint-Michel dans l'Université à la porte Saint-Denis dans la Ville. Du reste, sous tant de noms divers, ce n'étaient toujours que deux rues, mais les deux rues mères, les deux rues génératrices, les deux artères de Paris. Toutes les autres veines de la triple ville venaient y puiser ou s'y dégorger."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.343333,
+                48.846667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 340,
+            "Name": "Rue Saint-Jacques",
+            "Latitude": 48.846667,
+            "Longitude": 2.343333,
+            "place_name": "Rue Saint-Jacques",
+            "uid": "Hugo_1831_1_bpt6k6497134z_4",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "226-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200616",
+            "snippet": "Vus à vol d'oiseau, ces trois bourgs, la Cité, l'Université, la Ville, présentaient chacun à l'œil un tricot inextricable de rues bizarrement brouillées. Cependant, au premier aspect, on reconnaissait que ces trois fragmens de cité formaient un seul corps. On voyait tout de suite deux longues rues parallèles, sans rupture, sans perturbation, presque en ligne droite, qui traversaient à la fois les trois villes d’un bout à l’autre, du midi au nord, perpendiculairement à la Seine, les liaient, les mêlaient, infusaient, versaient, transvasaient sans relâche le peuple de l'une dans les murs de l’autre, de l’une dans les et des trois n’en faisaient qu'une. La première de ces deux rues allait de la porte Saint-Jacques à la porte Saint-Martin; elle s'appelait rue Saint-Jacques dans l'Université, rue de la Juiverie dans la Cité, rue Saint-Martin dans la Ville; elle passait l’eau deux fois sous le nom de Petit-Pont et de pont Notre-Dame. La seconde, qui s'appelait rue de la Harpe sur la rive gauche, rue de la Barillerie dans l'île, rue Saint-Denis sur la rive droite, pont Saint-Michel sur un bras de la Seine, Pont-au-Change sur l’autre, allait de la porte Saint-Michel dans l'Université à la porte Saint-Denis dans la Ville. Du reste, sous tant de noms divers, ce n'étaient toujours que deux rues, mais les deux rues mères, les deux rues génératrices, les deux artères de Paris. Toutes les autres veines de la triple ville venaient y puiser ou s'y dégorger."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.343333,
+                48.846667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 341,
+            "Name": "Rue Saint-Denis",
+            "Latitude": 48.864167,
+            "Longitude": 2.35,
+            "place_name": "Rue Saint-Denis",
+            "uid": "Landremont_1848_bpt6k56646183_2",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "129-30",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur décrit les événements de février 1848]\nPendant la nuit, d'immenses préparatifs d'attaque avaient été faits par le peuple dans tous les principaux points de la ville. Toutes les rues, depuis le boulevard des Italiens jusqu'à la porte St.-Denis, étaient barrées par des barricades énormes, construites de pavés, de voitures renversées et de sommiers. Tous les arbres des boulevards avaient été coupés, toutes les colonnes renversées, tous les bancs descellés. À partir de la rue Saint-Denis surtout, les préparatifs étaient formidables. Toute la largeur du boulevard avait été fermée par une barrieade solide comme un rempart, une barricade plus haute et plus impénétrable encore. défendait l'entrée de la rue; d'autres barricades s’échelonnaient de distance en distance sur le boulevard jusqu'à la Bastille, et des deux côtés de la porte Saint-Denis jusqu’à la Chapelle et au bord de l’eau. Enfin, de nombreuses barricades fermaient l'entrée des rues adjacentes et donnaient à ce quartier populeux l'aspect d'une immense forteresse. Les troupes, qui avaient pris position avant le jour sur les boulevards et aûx abords des quartiers Saint-Denis et Saint-Martin,  assis- tèrent longtemps, l'arme au bras, aux préparatifs de défense du peuple."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.35,
+                48.864167
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 342,
+            "Name": "Rue Saint-Denis",
+            "Latitude": 48.864167,
+            "Longitude": 2.35,
+            "place_name": "Rue Saint-Denis",
+            "uid": "Hugo_1831_1_bpt6k6497134z_64",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "227-8",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "On voyait tout de suite deux longues rues parallèles, sans rupture, sans perturbation, presque en ligne droite, qui traversaient à la fois les trois villes d’un bout à l’autre, du midi au nord, perpendiculairement à la Seine, les liaient, les mêlaient, infusaient, versaient, transvasaient sans relâche le peuple de l’une dans les murs de l’autre, et des trois n’en faisaient qu'une. La première de ces deux rues allait de la porte Saint-Jacques à la porte Saint-Martin; elle s'appelait rue Saint-Jacques dans l'Université, rue de la Juiverie dans la Cité, rue Saint-Martin dans la Ville; elle passait l’eau deux fois sous le nom de Petit-Pont et de pont Notre-Dame. La seconde, qui s'appelait rue de la Harpe sur la rive gauche, rue de la Barillerie dans l'île, rue Saint-Denis sur la rive droite, pont Saint-Michel sur un bras de la Seine, Pont-au-Change sur l’autre, allait de la porte Saint-Michel dans l'Université à la porte Saint-Denis dans la Ville. Du reste, sous tant de noms divers, ce n'étaient toujours que deux rues, mais les deux rues mères, les deux rues génératrices, les deux artères de Paris. Toutes les autres veines de la triple ville venaient y puiser ou s'y dégorger."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.35,
+                48.864167
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 343,
+            "Name": "Rue du Faubourg Saint-Honoré",
+            "Latitude": 48.869931,
+            "Longitude": 2.318397,
+            "place_name": "Rue du Faubourg Saint-Honoré",
+            "uid": "Virmaître_1871_bpt6k5448441v_38",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "234",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Au nombre des immeubles privés qui ont été incendiés, il faut citer les maisons 9, 11 et 13 du boulevard Sébastopol, une partie du magasin de Pygmalion, le café situé à l'angle de ce boulevard et de la rue de Rivoli, la moitié des maisons de la rue Boissy-d’Anglas, de la place de la Madeleine, toute la croisée de la rue Royale et de la rue Saint-Honoré, les maisons de la rue de Lille. \nLe café Gibé, à l'angle du boulevard Beaumarchais et de la rue Sainte-Antoine, est entièrement détruit. La brasserie voisine à l'enseigne des Phares de la Bastille est également brûlée. \nL’Arsenal, la direction des poudres et salpêtres et la capsulerie de la guerre ont été incendiés. Il n’en reste debout que les gros murs."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.318397,
+                48.869931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 344,
+            "Name": "Rue du Faubourg Saint-Honoré",
+            "Latitude": 48.869931,
+            "Longitude": 2.318397,
+            "place_name": "Rue du Faubourg Saint-Honoré",
+            "uid": "Virmaître_1871_bpt6k5448441v_20",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "216-7",
+            "cleaner_name": "SEL",
+            "date_added": "20200708",
+            "snippet": "Quand tout fut terminé, on put mesurer rapidement la grandeur de nos pertes, sur lesquelles on n'avait jusque-là ni à Paris, ni hors Paris, de données précises. On trouva les Tuileries réduites aux deux premiers étages; le troisième enlevé, ainsi que le dôme; l'intérieur entièrement détruit. L'Hôtel de-Ville n'avait plus que ses murs et l'étage supérieur manquait. Les murs seuls restaient également au palais du Conseil d'État, au palais de la Légion d'honneur. Les galeries du Carrousel avaient perdu aussi l'étage supérieur. Les murs seuls restaient aux deux autres étages, entourant les débris fumants. L'intérieur de la bibliothèque du Louvre était anéanti. Le Palais-de-Justice avait perdu plusieurs corps de bâtiments; la Préfecture de police était détruite. Le théâtré de la Porte-Saint-Martin, les magasins du chemin de fer du Nord, à La Villette, sont entièrement consumés. L’Arsenal, le Théâtre-Lyrique n’ont plus que leurs murs. Des cavernes noires s'ouvrent à l’entrée de la rue du Bac, à presque toutes les entrées des maisons de la rue de Lille, à l'entrée du boulevard du Prince-Eugène, aux angles du boulevard de Sébastopol et de la rue de Rivoli et sur la place de la Bastille. Dans le quartier de la Madeleine, des maisons n’ont plus que la façade extérieure; trois angles de la rue Royale et de la rue Saint-Honoré sont des monceaux de cendres. Le Ministère des finances a perdu même le mur de la façade. L'incendie a découvert trois perspectives d’arcades noircies, d’une tristesse de ruine romaine qui serait récente."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.318397,
+                48.869931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 345,
+            "Name": "Rue du Faubourg Saint-Antoine",
+            "Latitude": 48.850422,
+            "Longitude": 2.381292,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.381292,
+                48.850422
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 346,
+            "Name": "Faubourg Saint-Antoine",
+            "Latitude": 48.8505,
+            "Longitude": 2.3792,
+            "place_name": "Faubourg Saint-Antoine",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_43",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "110",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Boulevards des Filles-du-Calvaire et Saint-Antoine. Après les baraques des saltimbanques et des spectacles forains, commence un nouveau quartier qui s’est élevé comme par enchantement, de 1846 à 1850; il n'offre que de belles et splendides maisons neuves et ne finit qu’à la place de la Bastille : là s'ouvre une autre région, celle des rudes travailleurs du faubourg Saint-Antoine. A l'une des extrémités de la rue du Faubourg s'élève la barrière du Trône, à l’autre se trouvent la place de la Bastille et la colonne de Juillet."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3792,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 347,
+            "Name": "Faubourg Saint-Antoine",
+            "Latitude": 48.8505,
+            "Longitude": 2.3792,
+            "place_name": "Faubourg Saint-Antoine",
+            "uid": "Fournel_1865_bpt6k1018901_20",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "33-5",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Le boulevard Mazas [Diderot] et celui du Prince-Eugène [Voltaire], qui vont se réunir tous deux à la barrière du Trône, commandent ainsi au faubourg Saint-Antoine, que la large rue du même nom coupait déjà par le milieu. Ce boulevard du Prince-Eugène, qui a recueilli tant de malédictions pour le terrible abatis de théâtres qu'il a fait à son premier pas, on se fut bien gardé d'y renoncer, eût-il dû soulever mille fois plus d'anathèmes encore. Il n’en est pas un seul dans Paris qui ait été plus adroïtement conçu, pas un qui ait fait plus de besogne d’un coup. Il troue en plein centre un quartier populeux et remuant, il ouvre et dégage le chemin de Vincennes, où il y a, comme on sait, un très-joli fort, plein de jolis soldats; il met en ræpport la caserne du Château-d’Eau avec les chasseurs de la forteresse; enfin il complète de la manière la plus ingénieuse, après le boulevard Mazas d’une part, aprés les boulevards Bourdon et Beaumarchais de autre, une combinaison grâce à laquelle on peut prendre à tête et à queue ce formidable faubourg, qui se souvient un peu trop d’avoir renversé la Bastille, et l’investir pour monter à l’assaut de ses barricades. C’est une œuvre d'artiste, et l’auteur a dû s'y mirer avec complaisance.\nLe point de départ du boulevard du Prince-Eugène s’appuie sur le flanc gauche d’une caserne, placée là à l'intersection de toutes ces grandes voies, comme le temple du genius loci. Sur le flanc droit de la même caserne s’appuiera le point de départ du boulevard Magenta: c’est le vieux mythe d’Antée qui reprenait des forces en touchant la terre. Le boulevard Magenta continue celui du boulevard Prince-Eugène en ligne droite, et, croisant celui de Strasbourg, il coupe par le milieu cauires quartiers inquiétants, entre les boulevards intérieurs et les boulevards extérieurs. Ainsi seront dominés et tenus en échec les faubourgs Saint-Denis, Saint-Martin et Poissonnière, et s’établira une communication directe entre la gare de l'Est et la fameuse caserne, centre où tout aboutit, et autour duquel rayonnent toutes les voies, comme jadis aulour du forum."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3792,
+                48.8505
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 348,
+            "Name": "Place des Vosges",
+            "Latitude": 48.8556,
+            "Longitude": 2.3655,
+            "place_name": "Place des Vosges",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_43",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "111-12",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Commencée en 1565, cette place fut achevée en 1612. Richelieu y occupa l'hôtel qui porte le n° 21. De là il pouvait quelquefois reposer ses yeux sur la demeure de Marion Delorme, qui habitait aussi la place Royale. Vingt-sept ans après, on y érigea la statue équestre de Louis XIII. Cette place est entoure d’antiques bâtiments décorés d’arcades assez sombres; mais sa véritable décoration, dit un écrivain, c’est le souvenir de ses fêtes, de ses carrousels, de ses duels; c’est le square agréable qu'on y a ménagé pour la délectation des enfants du quartier et qui est fort susceptible de s’embellir à peu de frais. Il ne faut pour cela qu’un massif d’arbres de plus et une statue de moins."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3655,
+                48.8556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 349,
+            "Name": "Place des Vosges",
+            "Latitude": 48.8556,
+            "Longitude": 2.3655,
+            "place_name": "Place des Vosges",
+            "uid": "LaGournerie_1854_bpt6k6394057f_54",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "86-7",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Ce furent également les Anglais qui donnèrent, par de somptueux agrandissements, un aspect royal au palais des Tournelles. Ce palais embrassait dans son enceinte la place Royale actuelle, avec tout l'espace environnant jusqu'aux boulevards et à la rue Saint-Antoine. Bati par un chancelier de France vers la fin du XIIe siècle, il n'avait pas tardé à devenir propriété royale. Lorsque Charles VI était las, dans sa folie, de l'hôtel Saint-Paul, on lui faisait passer la rue Saint-Antoine et chercher aux Tournelles des objets moins familiers à sa tristesse. Le duc de Bedfort, régent du royaume pour les Anglais, y fixa ensuite sa demeure et y multiplia les cours, les galeries, les préaux, les chapelles. À partir de cette époque l'hôtel Saint-Paul fut abandonné, et nos rois, jusqu’à François II, s’établirent aux Tournelles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3655,
+                48.8556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 350,
+            "Name": "Place des Vosges",
+            "Latitude": 48.8556,
+            "Longitude": 2.3655,
+            "place_name": "Place des Vosges",
+            "uid": "LaGournerie_1854_bpt6k6394057f_09",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "119",
+            "cleaner_name": "SG",
+            "date_added": "20200613",
+            "snippet": "On chercherait vainement dans ces constructions, il est vrai, l'élégance de dessin et d'ornementation des monuments de la Renaissance. Les trente-cinq pavillons uniformes de la place Royale, avec leurs toits aigus et leur marqueterie de briques rouges et de pierres blanehes, manquent d'élancement et de grandeur; la galerie du rez-de-chaussée rappelle par son peu d’élévation les charniers des monastères; mais enfin depuis trente ans l’art semblait mort ; aussi chacun salua-t-il son réveil avec d'autant plus d’admiration, qu'il était impossible d’ailleurs de méconnaitre dans ses œuvres de vastes proportions d'ensemble. [ . . . ] La place Royale est triste; mais la régularité et la majesté de ses grandes lignes ne laissent pas que d’être imposantes."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3655,
+                48.8556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 351,
+            "Name": "Place des Vosges",
+            "Latitude": 48.8556,
+            "Longitude": 2.3655,
+            "place_name": "Place des Vosges",
+            "uid": "Guide_1855_bpt6k134268q_13",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "206-7",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Place Royale, près du boulevard Beaumarchais, un des plus belles de Paris, construite par l’ordre de Henri IV. La Place Royale fut pendant un siècle le rendez-vous de la mode et du beau monde. C’est dans un des hôtels qui bordent cette place que naquit Marie de Rabutin de Chantal, marquise de Sévigné, en 1626. Elle a au centre un® statue de Louis XIII. Des tilleuls, des marronniers et quatre fontaines ornent cette place, qui, en 1848, prit le nom de place des Vosges, que la première Révolution lui avait donné. C’est là que, dans les sanglantes journées de juin 1848, un jeune sous-lientenant, traqué par les insurgés, se fit tuer plutôt que de rendre son épée. ll s'appelait Muller."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3655,
+                48.8556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 352,
+            "Name": "Place des Vosges",
+            "Latitude": 48.8556,
+            "Longitude": 2.3655,
+            "place_name": "Place des Vosges",
+            "uid": "Virmaître_1871_bpt6k5448441v_28",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "24-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Plusieurs jours avant l'entrée des Prussiens à Paris, quelques bataillons de la garde nationale allèrent en armes chercher les canons remisés au parc de l'avenue de Wagram et au Champ-de-Mars pour, disaient-ils, les soustraire aux Prussiens ou empêcher que le gouvernement ne les livrât en vertu de la convention, cette raison était plausible et pouvait être prise au sérieux, car chacun sait que la plupart des canons de sept étaient dus à l'initiative privée et avaient été fondus avec le produit de souscriptions. \nMais était-ce bien là le motif qui fut le mobile d'un si grand empressement à enlever ces canons ? Tout porte à croire que le Comité centrai, dont on entendit parler sérieusement ce jour-là pour la première fois, profitant du trouble occasionné par l’entrée des Prussiens, avait résolu de s'emparer des canons pour appuyer son prochain mouvement. \nLes canons, une fois enlevés, furent ornés de fleurs d’immortelles, entourés et voilés de crêpes et conduits, musique en tête, suivis d’une foule énorme, place des Vosges, aux buttes Montmartre, aux buttes Chaumont, et enfin barrière d'Italie. \nToutes ces pièces réunies formaient un parc d'artillerie vraiment formidable. \nIl y avait plus de 400 canons de sept et au moins 150 mitrailleuses."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3655,
+                48.8556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 353,
+            "Name": "Avenue des Champs-Elysées",
+            "Latitude": 48.86988,
+            "Longitude": 2.307499,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.307499,
+                48.86988
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 354,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_45",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "85-6",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Cette vaste place, longtemps nue et aride, est une des plus belles de l’'Europe: elle a 243 mètres de long sur 169 de large; c’est l’ancienne place de la Révolution. \nObélisque de Lougsor. — Au centre s'élève l'obélisque du Louqsor, formé d’une seule et énorme pierre de granit rose, pesant 250,000 kilogrammes, et de 24 mètres de hauteur. Rapporté d'Égypte, il a été érigé sous le règne de Louis-Philippe, par M. Lebas. Il est élevé sur un piédestal de beau granit français, parfaitement poli; les hiéroglyphes multipliés sur les quatre faces présentent les noms et prénoms de Sésostris, le plus grand roi d'Egypte, et contiennent ses louanges et le récit de ses exploits. Deux bassins à eau jaillissante sont des deux côtés : ils sont ornés de grandes figures et de riches attributs. La place est traversée, dans le sens de sa longueur, par une large chaussée, qui coupe régulièrement de beaux compartiments d’asphalte, ils sont bordés de trottoirs, au bord desquels se dressent vingt candélaäbres éclairés au gaz. A l'ouverture des chaussées et aux angles, vingt piédestaux supportent vingt colonnes rostrales lampadaires en fonte, hautes de 8 mètres, surmontées d’un globe à pointe, et coupées à demi-hauteur par des proues de navire formant deux lanternes éclairées au gaz. Sur les huit pavillons qui s’élèvent aux angles sont assises les huit statues emblématiques, en pierre, représentant les principales villes de France: Lyon, Bordeaux, Nantes, Brest, Marseille, Strasbourg, Lille et Rouen. Deux lions, fièrement posés sur leurs piédestaux, aux extrémités des Tuileries, semblent garder l'entrée de la place."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 355,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "LaGournerie_1854_bpt6k6394057f_55",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "181",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Enfin la place de la Concorde, cette place qui porta successivement le nom de Louis XV, le nom de Louis XVI, et à laquelle la Révolution a donné celui de la Concorde, sans prendre garde qu’il rappellerait à jamais les dernières paroles de pardon et d'oubli du roi martyr, cette place, vaste désert jeté entre les plus riches perspectives de la capitale, se peuplait de candélabres, de balustres, de statues, de jets d’eau que dominait l’obélisque de Louqsor. Elégant débris du passé, glorieux souvenir de la mystérieuse Égypte, ne dirait-on pas que cet obélisque est là, sur la terre du régicide et au centre de toutes les merveilles du jour, comme le muet témoin de la grandeur des vieux siècles et le vivant symbole des mystères d’expiation que porte en lui le sang du juste?"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 356,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Janin_1843_bpt6k102791c_08",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "188",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "si la poussière vous prend, si la soif vous arrête, n’avez-vous pas pour vous reposer, tout au bout du chemin, les deux fontaines jaillissantes de la place Louis XV? C’est tout un fleuve qui tombe et se précipite dans ces bassins de marbre et d’or. Ne dirait-on pas encore les jets d’eau de Versailles? Quel plus merveilleux fouillis de naïades au sein nu, de monstres marins aux gueules béantes et jaillissantes, de caprices de bronze et de marbre! Du haut de ces bassins renversés, glisse en silence l'ombre effilée de FObélisque; l’eau claire jaillit comme une rosée bienfaisante en gouttelettes sonores; le bitume aux deux couleurs étend sous vos pieds son fin tapis; les lustres jettent au loin les clartés d’une fête. L’arbre se perd dans l’ombre, ombre lui-même; le soleil se couche entre les deux bras de l’Arc-de-Triomphe, qui l’endort comme la nourrice endort son enfant."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 357,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Guide_1855_bpt6k134268q_29",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "202-3",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Place de la Concorde, entre les Champs-Élysées et les Tuileries. — Cette belle place fut commencée en 1754. On y plaça la statue de Louis XV. Le roi était à cheval, et quatre figures allégoriques, la Force, la Prudence, la Justice et la Paix étaient placées autour du piédestal. Un satirique du temps fit à ce sujet le distique suivant:\n         O la belle statue! o le beau piédestal! \n         Les vertus sont à pied, le vice est à cheval. \nCette place n’était pas encore achevée lorsqu'elle recut, en 1770, une sinistre inauguration par la catastrophe arrivée pendant les fêtes du mariage du Dauphin et de Marie-Antoinette. Cent trente-deux personnes y furent écrasées par la foule. La Révolution lui donna son nom. La statue de Louis XV fut abattue, et la guillotine se dressa pendant deux ans au milieu de cette place et abatit plus de quinze cents têtes. C'est là que furent exécutés Louis XVI, Marie-Antoinette, les Girondins, Charlotte Orday, madame Roland, Barnave, Hébert, Danton et Robespierre. En 1800, le ministre de l’intérieur, Lucien Onaparte, posa sur cette place la première pierre d’une Colonne projetée à la gloire des armées françaises. On dressa le modèle en charpente de ce monument, mais il ne fut jamais exécuté. La place prit alors le nom de la Concorde. \nLa Restauration lui rendit celui de place Louis XV, et prescrivit l'érection d’une statue à Louis XVI, qui fut renversée avant d'être complétement terminée, par la révolution de 1830. Sous le règne de Louis-Philippe, cette place fut très-embellie. On y éleva huit pavillons surmontés de figures colossales réprésentant les huit premières villes de France, et on dressa au milieu l’obélisque de Louqsor. De nouveaux travaux de terrassement y furent exécutés en 1853. Cette place a 248 mètres de long sur 169 de large."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 358,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Guide_1855_bpt6k134268q_28",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "38-9",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Voici la place de la Concorde, au milieu de laquelle s'élève l'Obélisque de Louqsor. Si vous aimez l'art grec, les colonnades, les frontons, les feuilles d’acanthe, les plinthes, soyez satisfait. D'un côté, vous apercevez le Palais du Corps législatif, qui fait face à ce temple athénien transformé en église de la Madeleine. Voici le Garde-Meuble, le Ministère de la Marine, l'Hôtel de Crillon. Par la rue Royale, vous arrivez sur le boulevard de la Madeleine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 359,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "François_1857_bpt6k6439790m_38",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "55",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_16",
+            "snippet": "OBÉLISQUE. — Pl. de la Concorde. —  Monolithe en granit rose, transporté à Paris des ruines de Thèbes en Egypte. Cet antique monument, qui est couvert d’hiéroglyphes, a 22 mètres 83 centimètres de hauteur et pèse 250,000 kilogr. Son piédestal, en pierre de Luber, est également d'un seul bloc, de 4 mètres de haut sur 4 mètre 70 centimètres de large. On à gravé en creux sur ce dernier les opérations auxquelles ont donné lieu le transport et l'érection de l’Obélisque."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 360,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Virmaître_1871_bpt6k5448441v_29",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "90-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Un jour, vers trois heures, plusieurs hommes de cœur se groupèrent et résolurent de réagir contre cet état de choses; en un clin-d'œil, trois mille individus se joignirent à eux, ils étaient précédés d’un drapeau tricolore, sur lequel on lisait, en grosses lettres: ORDRE. La manifestation partit du nouvel Opéra, passa place Vendôme, et reprenant la rue de la Paix, alla place de la Concorde, puis passa rue de Bourgogne, rue de Varennes, et enfin revint à son point de départ, en suivant le boulevard Saint-Michel, le boulevard de Sébastopol et les grands boulevards. \nCette manifestation s'était grossie en route, et le soir la Commune dut voir qu'elle ne possédait pas autant d'adhérents qu'elle le disait."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 361,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Landremont_1848_bpt6k56646183_3",
+            "file_name": "Landremont_1848_bpt6k56646183_clean.xml",
+            "docAuthor": "Landremont, F",
+            "docTitle": "Récit de la révolution à Paris",
+            "docDate": 1848.0,
+            "doc_page_number": "82-4",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "[l'auteur décrit les événements de février 1848]\nÀ la place de la Bastille, une centaine de jeunes gens, complétement inoffensifs, se trouvaient réunis près de la Colonne de juillet, en chantant la Marseillaise, lorsqu'un grand nombre d'agents de police envahirent la place, tombèrent sur l’attroupement sans aucune sommation et frappèrent indignement les jeunes gens à coups de canne et de bâtons ferrés; plusieurs d'entre eux tombèrent brisés de coups et assommés comme des animaux. \nLes mêmes actes de brutalité eurent lieu, peu de temps après, sur la place de la Concorde, La foule, repoussée des abords de la chambre des députés, et grossie de moment en moment, sillonnait la place et les aboutissants des Champs-Élysées en faisant retentir l'air des cris de Vive la Réforme, à bas Guizot, qui étaient devenus comme le signal de ralliement, le drapeau du mouvement. La foule était sans armes, calme jusque dans son enthousiasme, et se bornait à protester par la parole, lorsque les gardes municipaux, auxquels semblait seul confié le soin de maintenir l'ordre, se ruèrent tout à coup sur les groupes inoffensifs, les poussèrent avec leurs chevaux et les frappèrent à coup de sabre. On eût dit que l'autorité qui faisait mouvoir cette force publique, voulait à tout prix exaspérer le peuple et provoquer l'effusion du sang.\nPressés de toutes parts par les gardes municipaux, un grand nombre de jeunes gens se jetérent vers les Champs-Élysées et se mirent en devoir de s'y retrancher pour se mettre à l'abri des coups des municipaux. Les barraques et les chaises qui se trouvaient sur la promenade, leur servirent à dresser des espêces de barricades. La troupe, qui était restée jusque-là l'arme au bras, recui l'ordre de détruire les barricades. Le peuple n'ayant pas d'armes ne pouvait pas résister longtemps, surtout dans un poste ouvert comme celui des Champs-Élysées. Les barricades furent enlevées ; mais les soldats, s'étant repliés peu d’instants aprèsvers leur première position, le peuple revint sur ses pas, repris les barricades et y mit le feu. Ge ne fut que vers le- soir que la troupe occupa définitive ment les Champs-Élysées. Un corps de garde, occupé par six hommes de la ligne, se trouvait en face du Panorama de la bataïlle d'Eylau; une cinquaniaine d'hommes du peuple, exaspérès par la conduite des gardes municipaux, assaillirent le poste et l’attaquérent à coup de pierres. Les soldats, brusquement aliaqués, n’eurent que TT EUR SSSR  — 85 — le temps de se réfugier dans l’intérieur et de fermer la grille. Un ouvrier passa à l'instant par dessus la grille, monta courageusement le\nlong du mur ct grimpa sur le toit. D'autres le suivirent par la même voie et pénéirèrent bientôt par une des fenêtres du corps de garde. Soit qu'ils n'eussent pas le temps de faire usage de leurs armes, soit qu'ils ne voulussent pas recourir à cette extrémité, les soldats déposèrent leurs armes et le poste fut occupé par le peuple, qui essaya immédiatement d'y mettre le feu."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 362,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Banville_1866_bpt6k205836j_05",
+            "file_name": "Banville_1866_bpt6k205836j_clean.xml",
+            "docAuthor": "Banville, Théodore de",
+            "docTitle": "Les parisiennes de Paris",
+            "docDate": 1866.0,
+            "doc_page_number": "209",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "En 1813, une année avant la naissance de sa fille Minette, qui a laissé, elle, une véritable réputation, Adolphina était une femme de seize ans à peu près, mais à qui tout le monde en aurait donné vingt-deux, tant sa tète était flétrie et déflorée par les habitudes les plus’ grossières. Magnifiquement proportionnée, mais d’une taille colossale, dont les statues de villes posées sûr la place de la Concorde peuvent donner une idée avec leurs muscles de taureau et leurs membres athlétiques, cette amazone de bas étage eût été belle, si l’idée de beauté pouvait s'allier avec le manque complet d'intelligence et d'idéal."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 363,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Balleydier_1849_bpt6k105490w_31",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "91-2",
+            "cleaner_name": "SL",
+            "date_added": "20200616",
+            "snippet": "Remarquez en effet ce luxe de monuments qui l'encadrent : ici les Tuileries, là les Champs-Élysées et l'arc de l'Étoile; de ce .\ncôté la Madeleine, le Garde-Meuble; de celui-là le palais Bourbon... Trouve-t-on quelque part un si merveilleux ensemble, le soir\nsurtont, lorsque au bruit des cascades jaillissantes de ces fontaines montimentales, l'œil ravi se porte avec admiration sur les huit\npavillons qui sont placés autour de la place, et qui servent de piédestal aux huit principales villes de la France : Lyon, Marseille, Bordeaux, Rouen, Nantes, Lille, Toulouse et Strasbourg. Peut-on rien voir de plus beau que ces vingt colonnes rostrales si richement ornées, qui supportent des lanternes surmontées elles-mêmes par des globes d'or? [ . . . ]\nAujourd’hui l’obélisque de Luxor a pris la place de l'échafaud de 1793. Ce monolithe remarquable, haut de vingt-quatre mètres, est posé sur un piédestal d’un bloc de granit de quatre mètres de hauteur. Il domine la promenade des Champs-Élysées, et semble correspondre avec l'arc de l'Étoile"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 364,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Asti_1843_bpt6k6471672z_06",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "303-6",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "En sortant du jardin, nous nous trouvâmes sur la place de la Concorde, terminée depuis peu de temps, et qui passe pour être une des plus belles de l'Europe.  \nL’étendue de cette place et sa magnificence, venant frapper tout à coup les yeux de ma compagne, qui s’y trouvait pour la première fois, lui arrachèrent un geste de surprise.  Je lui fis remarquer la belle position de cette place; à notre droite la colonnade de la Madeleine, à gauche celle de la chambre des députés, et devant nous la longue allée des Champs-Elysées, tracée dans l'alignement et précisément de la largeur de celle que nous venions de parcourir, semble prolonger cette dernière jusqu’à l'Arc de triomphe de l'Étoile. Nous allâmes ensuite nous arrêter devant l'obélisque de Luxor d'une seule pièce de granit rose, qui s'élève au milieu de la place ; nous considérâmes sa hauteur, qui est de 72 pieds, et jugeâmes par là, combien il aura coûté de peines et d'argent pour être transporté en France et mis en place. Les hiéroglyphes, traçant les noms et les exploits de Rhamsès ou Sésostris, nous retinrent quelque temps. Lassé d'admirer ce bel plutôt, craignant qu'il ornement, ou ne restât pas assez de temps pour faire la longue promenade que je me proposais, je conseillais à ma compagne de quitter l’obélisque pour faire le tour des deux vastes bassins qui le flanquent. L'eau y jaillit avec abondance, et retombe tout de suite après, en formant une espèce de dôme, qui, joint aux petits jets qui s'élèvent du bassin, produit un effet charmant. Malgré cela, nous ne nous y arrêtâmes que très-peu de temps; une pluie fine, et presque imperceptible, qui se détachait des bassins, et que le vent répandait à quelque distance, fut cause que nous nous en allâmes plus tôt que nous n’aurions voulu. Avant de quitter cette place, voyant que ma Turinaise cependant, admirait la quantité des riches colonnes rostrales supportant des lanternes, que l'on y voit avec ordre, je lui dis: « — Tout ce que vous admirez là n'est rien si on le compare à l'effet que toutes ces lanternes produisent le soir, lorsque, brillantes de leur gaz allumé, répandent le jour sur la place, lorsque les deux allées éclairées de même par deux rangées de lanternes, présentent aux yeux éblouis de l'observateur l’effet de deux traînées de feu qui se perdent dans le lointain »."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 365,
+            "Name": "Place de la Concorde",
+            "Latitude": 48.8656,
+            "Longitude": 2.3212,
+            "place_name": "Place de la Concorde",
+            "uid": "Amigues_1871_bpt6k54697084_01",
+            "file_name": "Amigues_1871_bpt6k54697084_clean.xml",
+            "docAuthor": "Amigues, Jules",
+            "docTitle": "La question de la capitale",
+            "docDate": 1871.0,
+            "doc_page_number": "12",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "Tous les quinze ou dix-huit ans, la tête de pont de la place de la Concorde est occupée et enlevée par quelques milliers d'hommes que mènent ou poussent une centaine d’intrigants ou de rhéteurs. «La Chambre est envahie » selon la tradition sacramentelle et le gouvernement est changé, au nom du peuple français, par une poignée de Parisiens qui sont presque tous venus de la province. \nCe phénomène, tant de fois répété, implique et emporte avec lui la nécessité politique de décapitaliser Paris — quant à sa faculté d'initiative révolutionnaire— et de supprimer ainsi cette cause permanente de spasmes intermittents, que Fourier eût appelée « le centralisme passionne »."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3212,
+                48.8656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 366,
+            "Name": "Place de l'Étoile",
+            "Latitude": 48.873889,
+            "Longitude": 2.294722,
+            "place_name": "Place de l'Étoile",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_46",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "23",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "quelle idée doit concevoir de Paris l'étranger qui arrive par la route de Neuilly, passe sous l’arc de l'Étoile, plus grand à lui seul que les ares de Titus, de Constantin et de Septime Sévère, et dont les parois gigantesques sont encore trop étroites pour les noms glorieux que la victoire y a burinés; descend cette longue avenue des Champs-Élysées, bordée d'arbres, de lampadaires et de maisons semblables à des palais; traverse la place de la Concorde, où l'obélisque en granit rose de Rhamsès s'étonne de voir filer près de lui les coupés parisiens\n[citant Théophile Gautier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.294722,
+                48.873889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 367,
+            "Name": "Place de l'Étoile",
+            "Latitude": 48.873889,
+            "Longitude": 2.294722,
+            "place_name": "Place de l'Étoile",
+            "uid": "Fournel_1865_bpt6k1018901_24",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "42",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Les alentours du rond-point de l’Étoile, l'avenue de Saint-Cloud, le quartier Beaujon, défient toute description : il est prudent de faire son testament avant de s’aventurer dans cet inextricable dédale tout hérissé de ravins, de contreforts, d’échelles et d’escaliers à pic."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.294722,
+                48.873889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 368,
+            "Name": "Place de l'Étoile",
+            "Latitude": 48.873889,
+            "Longitude": 2.294722,
+            "place_name": "Place de l'Étoile",
+            "uid": "Guide_1855_bpt6k134268q_30",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "35-6",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "S'il est au monde un spectacle digne d'attirer l'attention de l'étranger, c’est la vue de ce grandiose panorama qui commence à l'Arc de l'Étoile et qui finit à la Bastille. Qu'il regarde d’abord la porte triomphale de Paris, cette arche monumentale qui n'a pas couté moins de 9 millions 723,402 fr. 62 cent. \nLes deux groupes, du côté de Paris, représentent le Départ et Le Triomphe. Le Départ pour l'Armée est une magnifique composition; il y a dans ces têtes de pierre de l'élan et de l'enthousiasme : le Triomphe représente l'Empereur couronné par la Victoire, et ayant à ses pieds une ville vaincue. Au-dessus de lui est la Renommée; à ses côtés la muse de l'Histoire. \nLes deux groupes, du côté de Neuilly, sont : la Résistance et la Paix. La Résistance nous offre un jeune homme tenant un coutelas à la main : il est entre son père et sa femme qui porte sur son sein un enfant mort. Dans l’autre groupe, la Paix, nous voyons le taureau sauter au milieu des moissons pendant que la femme du soldat laboureur allaite son enfant plein de vie. Au-dessus des groupes, la frise, puis les bas-reliefs, œuvre remarquable. Ces bas reliefs représentent les funérailles de Marceau, la bataille d'Aboukir. la prise d'Alexandrie, le passage du pont d’Arcole, la bataille de Jemmapes et celle d’Austerlitz. Sur les murs de ce grandiose édifice sont inscrits les noms de tous les généraux de la République et de l'Empire. Arrachons-nous à la vue de ce monument qui semble bien la porte d'une ville gigantesque."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.294722,
+                48.873889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 369,
+            "Name": "Place de l'Étoile",
+            "Latitude": 48.873889,
+            "Longitude": 2.294722,
+            "place_name": "Place de l'Étoile",
+            "uid": "Virmaître_1871_bpt6k5448441v_32",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "100-1",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Une fois le cortége organisé, vers onze heures environ, les membres de la Commune et du Comité central, le tout précédé d’un orchestre, se mit en route: vingt mille personnes au moins et soixante bannières.\nComme le cortége se rendait à Neuilly, il eût été plus simple du Louvre de prendre par les Champs-Élysées, mais ce n’était pas là ce qu'avaient rêvé les meneurs. « On voulait promener le cortége, le faire voir ». Il prit par la rue de Rivoli, la Bastille, les boulevards, et enfin par où il aurait dû commencer, les Champs-Élysées. \nUne fois arrivé à l’Arc-de-Triomphe, la manifestation fut reçue par une pluie d’obus. Les troupes de Versailles n'avaient pas été averties, et d'ailleurs les bastions fédérés n’avaient pas cessé le feu."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.294722,
+                48.873889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 370,
+            "Name": "Place de l'Étoile",
+            "Latitude": 48.873889,
+            "Longitude": 2.294722,
+            "place_name": "Place de l'Étoile",
+            "uid": "Bonneville_1830_bpt6k5530903c_02",
+            "file_name": "Bonneville_1830_bpt6k5530903c_clean.xml",
+            "docAuthor": "Bonneville, A. S. M.",
+            "docTitle": "Essai sur quelques monuments nationaux et d'utilité publique",
+            "docDate": 1830.0,
+            "doc_page_number": "6-May",
+            "cleaner_name": "SL",
+            "date_added": "20200624",
+            "snippet": "Les arts, détournés de leur véritable but, ont servi trop souvent à flatter la vanité, les passions, la fausse gloire des prétendus grands hommes, à soutenir d’absurdes prétentions de célébrité, ou rappeler les douleurs, plutôt feintes que vraies, de quelques familles privilégiées; faut-il démontrer que depuis quinze ans ils n’ont servi qu’à l’'exhumation des êtres dont on voudrait oublier l'existence ? que les travaux demandés aux artistes les plus distingués ne devaient reproduire que des images, des noms ou des faits capables  d'attrister la patrie par des souvenirs pénibles et souvent injurieux? Peu de jours encore d’asservissement, et Paris aurait vu surgir sur un brillant piédestal les traits d’un roi fainéant, flétri par la mollesse et la débauche, sans doute pour rappeler à la France que la vie entière dece prince ne fut employée qu’à dissiper outrageusement les trésors de l'Etat. La peinture décorait les voûtes de Sainte-Geneviève, l'architecture relevait la Sorbonne et la Madeleine, tandis que l'Arc triomphal de la barrière de l'Étoile demeurait abandonné! Cet état de choses convient-il à notre situation actuelle ? Rendus comme nous à la liberté, les arts doivent partager l'élan de notre glorieuse révolution ; il faut qu’ils ne descendent plus à à la flatterie; il faut qu'un grand peuple ait aussi part à leurs inspirations : tel est aujourd'hui le vœu de la France, tel est le vœu du monarque citoyen qui marche à la tête de notre régénération politique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.294722,
+                48.873889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 371,
+            "Name": "Place de l'Étoile",
+            "Latitude": 48.873889,
+            "Longitude": 2.294722,
+            "place_name": "Place de l'Étoile",
+            "uid": "Balleydier_1849_bpt6k105490w_13",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "103-4",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "Maintenant chapeau bas, cher voyageur, nous sommes devant le magnifique jalon de granit à qui Napoléon a confié le soin d'indiquer aux races futures les fabuleux exploits des armées françaises; nous sommes devant l’Arc-de-Triomphe, le plus grand qui existe au monde. La hauteur totale de ce monument mesure 51 mètres de hauteur sur 46 mètres de largeur, et a a 25 mètres d'épaisseur. Commencé en 1806, terminé er 1832, l'Arc-de-l'Etoile est l’un des édifices les plus remarquables de Paris: ses deux faces principales sont tournées vers les Champs-Elysées et Neuilly. Celles des côtés regardent le Roule et Passy. Ces faces sont ornées de trophées emblématiques ; celle de droite, en regard des Tuileries, représente le Départ, en 1792; le trophée de la face gauche représente le Triomphe de 1810; sur le côté qui fait face au pont de Neuilly, on a donné le groupe de la Résistance, dû au ciseau de M. Etex; le même artiste a sculpté le trophée de gauche représentant la Paix. \nEntre l'imposte du grand arc et l'entablement, se voient quatre bas-reliefs représentant, l’un les funérailles du général Marceau, l'autre la bataille d'Aboukir, le troisième le passage du pont d’Arcole, le quatrième la prise d'Alexandrie. La face latérale de l'arc regardant le midi, est ornée d’un bas-relief représentant la bataille d’Austerlitz. Sur la face latérale qui regarde le nord, un autre bas-relief représente la bataille de Jemmmapes. \nLes quatre Renommées qu'on admire dans les quatre tympans Est et Ouest, sont dues à M. Pradier. Sur des boucliers placés dans la hauteur de l’attique, on lit, au nombre de trente, les noms de nos victoires commençant par Valmy pour arriver à Ligny. Sous les voûtes du grand arc, on lit encore les noms de quatre-vingt-seize autres victoires. Les massifs des arcades générales offrent les noms de trois cent-quatre-vingt-quatre généraux, au-dessous desquels on lit ceux de nos différents corps d'armée. \nDans l’intérieur: du monument, sont de vastes salles et de fort beaux escaliers qui conduisent à une plate-forme d'où l'on découvre le magnifique panorama de Paris et de ses environs; plus là magnifique arène de l'Hypodrome, le spectacle géant de Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.294722,
+                48.873889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 372,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_48",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "87",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "A quelques pas est la place Vendôme, vaste carré aux angles coupés, décoré de somptueux hôtels. \nColonne de la grande armée. — Au centre de la place s'élève la colonne de la grande armée, haute de 73 mètres, surmontée de la statue de l’empereur et revêtue de 425 plaques de bronze, dont la matière a été fournie par les canons conquis sur l'ennemi à Ulm et à Austerlitz. Ces plaques forment un bas-relief qui représente l’immortelle campagne de 1805."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 373,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "Fournel_1865_bpt6k1018901_25",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "13-Dec",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Aujourd’hui, lorsque M. Prudhomme, propriétaire, électeur, expert juré et capitaine de la garde nationale, monte au sommet de la colonne Vendôme, escorté de sa famille, et qu’il promène ses regards majestueux sur Paris, il voit sous ses pieds s’aligner à l’équerre, s’allonger au cordeau, une villé auguste et majestueuse comme lui. Les étroites et bizarres ruelles de la vieille cité sont devenues de larges artères, croisées à angles droits, le long desquelles une population correcte circule au pas d'ordonnance, sous le regard paternel et satisfait des sergents de ville. Il entrevoit dans le lointain des colonnades grecques et romaines, des gares solennelles, des halles classiques, de modernes églises gothiques, qui rappellent le moyen âge comme l'auteur d’Afonso rappelait Chateaubriand; la Bourse, qui ressemble à la Madeleine, et la Madeleine, qui ressemble à la Bourse; des auberges qui singent des palais, des palais qu’on prendrait pour des auberges, des cafés suisses, mauresques, renaissance, turcs etet chinois, et, couronnant le tout, des casernes monumentales, qui sont comme les phares de cette mer d'édifices, et les signes particuliers de la haute civilisation à laquelle nous sommes parvenus. Partout s’épanouit dans sa fleur ce beau style municipal et administratif, destiné à faire l'admiration des chefs de bureau. Partout flamboïe sobrement et réglementairement une architecture égalitaire de stuc et de plâtre, où rien ne dépasse le niveau, où pas une pierre ne fait angle et ne sort du cadre : un de ces idéals d'architecture tel qu’en peut rêver un préfet de police dans ses songes les plus désordonnés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 374,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "François_1857_bpt6k6439790m_41",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "21",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_17",
+            "snippet": "COLONNE VENDOME. — PI. Vendôme. — Cet élégant et noble monument, construit en 1806, sur le modèle de là colonne Trajane à Rome, avec le bronze de 1,200 canons pris à l’ennemi pendant la campagne de 1805, est dédié à la gloire de la grande armée, dont il porte également le nom, et dont les exploits sont retracés sur les bas-reliefs en spirale qui l’accompagnent dans toute sa hauteur. Il a 43 m. d'élévation le sur 4 de diamètre. Un escalier à vis de 176 marches règne dans son intérieur, et conduit sur le sommet, du haut duquel on découvre tout Paris."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 375,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "Virmaître_1871_bpt6k5448441v_35",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "215-6",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Les francs-tireurs de la Commune en uniforme de chasseurs à pied qui étaient chargés de surveiller les incendiaires et d'aider à l'exécution des ordres suprêmes du Comité de salut public; ces francs-tireurs, campés place Vendôme, ont d’abord occupé les Tuileries dans la soirée du 23, puis l'Oratoire protestant, rue Saint-Honoré, et enfin l’Hôtel-de-Ville, où lés accompagna Bergeret, qui jusque-là s'était tenu au Louvre, d'où il transmettait ses ordres aux pétroleuses et aux francs-tireurs de mettre le feu à cette partie de Paris.\nIl est parfaitement avéré, dit un journal, qu’ils ont arrêté tous les secours envoyés au Palais-Royal, fusillé les pompiers et arrêté les passants."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 376,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "Virmaître_1871_bpt6k5448441v_34",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "187",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Le lendemain, mardi, on emporta les barricades situées entre les boulevards et la place de la Concorde, et cette place Vendôme qui avait été le quartier général de l’armée insurgée. On tourna par le boulevard de Clichy les positions des gardes nationaux aux Batignolles et à Montmartre."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 377,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "Virmaître_1871_bpt6k5448441v_33",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "123-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Nous n’aurons pas, hélas! que des actes ridicules à enregistrer; l’odieux va bien vite entrer en scène.\nLA COMMUNE DE PARIS \nConsidérant que la colonne impériale de la place Vendôme est un monument de barbarie, un symbole de force brute et de fausse gloire, une affirmation du militarisme, une négation du droit international, une insulte permanente du vainqueur aux vainçus, un attentat perpétuel à l'un des trois grands principes de da République française, la fraternité, \nDécrète: \nArticle unique. La colonne de la place Vendôme sera démolie.\nC’est au « citoyen Courbet » qu’on doit cette proposition.\nAussitôt le décret rendu, et malgré les protestations unanimes des Parisiens, on commença les préparatifs de démolition. \nPourquoi démolir la colonne? se demandait-on de toutes parts. Pour en faire des pièces de deux sous, répondait le Père Duchêne, de belles pièces à l’effigé de la Commune, pour payer ces « bons bougres de patriotes. » C'était une piètre raison pour détruire un monument historique, un monument appartenant à la France, scellée du sang de tous ses enfants. Le plâtre de la colonne avait été gâché avec des larmes, soit; mais elle était construite de douze cents canons pris sur les Prussiens dans les journées d'Iéna et d’Auerstadt, c'était la gloire de la France, sa gloire passée. En 1814, les alliés n'ont pas osé y toucher, ils ont été plus Français que les misérables de la Commune. \nLes ouvriers chargés de cette triste besogne y allaient lentement; les journaux communeux réclamaient l'exécution du décret. Le 8 mai fut fixé comme limite extrême pour la chute de la colonne; mais le 8 mai, les travaux n'étaient pas terminés. \nL'œuvre de destruction était difficile à accomplir, la scie qui agissait à la hauteur du fût était empêchée dans son action par le poids même de la colonne, « et le Corse aux cheveux plats » vit encore une fois couler la sueur du peuple. \nEnfin, le 16 mai, à six heures du soir, la colonne tomba en présence de plus de vingt mille personnes, massées dans la rue de La Paix et dans les rues adjacentes. \nDe vives appréhensions animaient la foule anxieuse au moment où la colonne, ébranlée sur sa base, s'est inclinée dans l'axe de la rue de la Paix.\nL'énorme masse de bronze s'est abattue avec un bruit sourd sur les fascines accumulées pour amortir sa chute, sans même que la statue qui la surmontait fût détachée de son socle; les pieds seuls furent écornés.\nUne immense clameur s'éleva aussitôt, et quelques gardes nationaux escaladèrent le piédestal agitant des drapeaux rouges qu'ils plantèrent. \nPréalablement le drapeau tricolore avait été fixé au sommet de la statue, afin qu'il tombât avec la colonne."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 378,
+            "Name": "Place Vendôme",
+            "Latitude": 48.8675,
+            "Longitude": 2.329444,
+            "place_name": "Place Vendôme",
+            "uid": "Balleydier_1849_bpt6k105490w_12",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "90",
+            "cleaner_name": "SL",
+            "date_added": "20200612",
+            "snippet": "La statue qui décorait jadis le centre de cette place, de figure octogone, représentait Louis XIV, brisé le 48 août 1792 par lé rage populaire, poussée à l’état de vandalisme. La place Vendôme prit alors le nom de place des Piques. Plus tard, en 1806, Napoléon voulant y rappeler éternellement lés exploits de la grande armée, fit ériger en son honneur une colonne monumentale en bronze, fourni par douze cents canons pris sur l’ennemi. Après cinq années de travaux, ce monument fut inauguré le jour de la fête de l'empereur, le 15 août 1810. La colonne, couronnée par une statue du grand homme coiffé du petit chapeau et revêtu de la redingote historique, mesure une élévation de quarante-cinq mètres, le socle compris. On parvient à son extrémité supérieure par un escalier en vis de 176 marches pratiquées dans le noyau de pierre de taille du monument; cet escalier conduit à une galerie qui fait le tour du chapiteau, et d’où l’on découvre une vue magnifique."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.329444,
+                48.8675
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 379,
+            "Name": "Madeleine",
+            "Latitude": 48.87,
+            "Longitude": 2.324444,
+            "place_name": "Madeleine",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_49",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "87",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Napoléon voulait en faire le temple de la Gloire, et, dans ce but, il en fit commencer la construction sur les plans de l'architecte Vignon; mais la Restauration, et plus tard le gouvernement de 1830, rendirent la Madeleine à sa destination primitive. C’est aujourd'hui un magnifique temple catholique, rappelant, par sa structure, le Parthénon. On peut y admirer de riches peintures murales."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.324444,
+                48.87
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 380,
+            "Name": "Madeleine",
+            "Latitude": 48.87,
+            "Longitude": 2.324444,
+            "place_name": "Madeleine",
+            "uid": "LaGournerie_1854_bpt6k6394057f_57",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "271-2",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "un dernier pas était [ . . . ] à faire pour rendre l’art complétement païen, et ce pas on l'a fait à la Madeleine. \nSur l'emplacement qu’occupe aujourd'hui ce Parthénon parisien existait, dès le XIIIe siècle, une chapelle destinée aux habitants de la Ville-l'Évêque. L'évêque de Paris possédait en effet en ce lieu un séjour, des granges, un port, des dimes ; et une bourgade n'avait pas tardé à se former, comme toujours, sous la sauvegarde de l'Église. Charles VII rebâtit cette chapelle et y établit en 1491 la confrérie de Sainte-Marie-Madeleine, à laquelle il s'affilia ainsi que la reine. \nDeux fois, dans la suite, la chapelle devenant trop exiguë pour le nombre croissant des habitants, elle dut être reprise à neuf. La dernière fois (c'était sous Louis XV), le quartier de la Ville-l'Évêque venait de recevoir de splendides embellissements par l'ouverture des boulevards, de la rue Royale et de la place que nous nommons aujourd’hui place de la Concorde. On résolut de faire entrer la Madeleine dans ce vaste système de grandes perspectives. Elle dut done s'élever en face de la rue Royale et de la Seine, et dans des proportions en rapport avec l'étendue de l'espace qui s’ouvrait devant elle. La première pierre du nouvel édifice fut posée le 13 avril 1764. Les plans en avaient été tracés par Constant d'Ivry ; modifiés dans la suite par Couture, ils le furent plus encore par Vignon sous l'Empire."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.324444,
+                48.87
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 381,
+            "Name": "Madeleine",
+            "Latitude": 48.87,
+            "Longitude": 2.324444,
+            "place_name": "Madeleine",
+            "uid": "LaGournerie_1854_bpt6k6394057f_56",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "171",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "L'architecture du temps de l'Empire se distingue en général par une certaine perfection technique, mais en même temps par une imitation de plus en plus servile des types anciens. Qu'il s'agisse d’un monument civil ou d'un monument religieux, de la Bourse ou de la Madeleine, c'est toujours le même style, noble et froid, harmonieux et académique. L'idée de la maison de Dieu n’inspirera rien de plus à l'artiste que celle d’un bureau de change. L'un et l’autre formeront un temple entouré de colonnes. du galbe le plus pur, comme le sanctuaire de Minerve à Athènes. Par la même raison le palais Législatif aura pour façade un portique qui rappellera plus ou moins le Panthéon d’Agrippa."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.324444,
+                48.87
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 382,
+            "Name": "rue du Caire",
+            "Latitude": 48.867623,
+            "Longitude": 2.350439,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.350439,
+                48.867623
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 383,
+            "Name": "Cour des Miracles",
+            "Latitude": 48.867704,
+            "Longitude": 2.348525,
+            "place_name": "Cour des Miracles",
+            "uid": "Janin_1843_bpt6k102791c_01",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Janin, Jules",
+            "docTitle": "L'été à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "17",
+            "cleaner_name": "SG",
+            "date_added": "20200710",
+            "snippet": "horrible nation, dont les noms divérs étaient horribles tout autant que la langue qu’elle parlait: culs-de-jatte, bossus, boiteux ; manchots, béquillards, coquillards, cagots, lépreux avec leurs plaies; beuglements, clapissements; hurlements; fourmilière d’ordures vivantes, la Cour des Miracles pour tout dire. La Gour des Miracles, ce pandémonium. cette hideuse verrue, cet égout, ce ramassis de toutes les vermines que l'Église, l'Université, la Cité, les juifs, les Espagnols, les mahométans, les chrétiens, pouvaient engendrer sur la paille pourrie. Là, chaque province, chaque peuple, chaque misère, chaque vice, avait à coup sûr son représentant abominable. En un mot, telle était la décoration, tels étaient les acteurs; maisons de boue, comédiens de fange. Et de grands esprits contemporains ont voulu nous démontrer que c’était là le beau Paris! Ils sé sont moqués agréablement de cette ville bien pavée, bien gardée, bien éclairée, bien lavée chaque matin. Stupides Parisiens de 1845 et années précédentes, qui préfèrent une belle garde municipale aux estafiers de Clopin-Trouillefou, roi de Thune, successeur du grand Coesre; ingrats citadins qui dorment d’un sommeil plus tranquille sous M. le préfet de police Delessert, que sous la surveillance de Mathias Hungadi Spicali, duc d’Égypte et de Bohême! O justice! pour un honnête pompier qui attend l'incendie, tout prêt à se jeter au beau milieu du feu, ce Paris de bourgeois donnerait sans hésiter Guillaume Rousseau, empereur de Galilée, et ses archisuppôts! Le pittoresque! lorsqu'on a dit le pittoresque, on a tout dit."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.348525,
+                48.867704
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 384,
+            "Name": "Cour des Miracles",
+            "Latitude": 48.867704,
+            "Longitude": 2.348525,
+            "place_name": "Cour des Miracles",
+            "uid": "Hugo_1831_1_bpt6k6497134z_66",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "153-4",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "Il était en effet dans cette redoutable Cour des Miracles où jamais honnête homme m'avait pénétré à pareille heure; cercle magique où les officiers du Châtelet et les sergens de la prevôté qui s'y aventuraient disparaissaient en miettes; cité des voleurs, hideuse verrue à la face de Paris; égout d’où s'échappait chaque matin,  et où revenait croupir chaque nuit ce ruisseau de vices, de mendicité et de vagabondage toujours débordé dans les rues des capitales; ruche monstrueuse où rentraient le soir avec leur butin tous les frélons de l'ordre social; hôpital menteur où le bohémien, le moine défroqué, l’écolier perdu, les vauriens de toutes les nations, espagnols, italiens, allemands, de toutes les religions, juifs, chrétiens, mahométans, idolâtres, couverts de plaies fardées, mendians le jour, se transfiguraient la nuit en brigands; immense vestiaire, en un mot, où s'habillaient et se déshabillaient à cette époque tous les acteurs de cette comédie éternelle que le vol, la prostitution et le meurtre jouent sur le pavé de Paris. \nC'était une vaste place, irrégulière et mal pavée, comme toutes les places de Paris alors. Des feux autour desquels fourmillaient des groupes étranges, y brillaient çà et là. Tout cela allait, venait, criait. On entendait des rires aigus, des vagissemens d’enfans, des voix de femmes. Les mains, les têtes de cette foule, le fond lumineux, y découpaient mille gestes bizarres. Par momens, sur le sol, où tremblait la clarté des feux, mêlée à de grandes ombres indéfinies, on pouvait voir passer un chien qui ressemblait à un homme, un homme qui ressemblait à un chien. Les limites des races et des espèces semblaient s'effacer dans cette cité comme dans un pandaemonium. Hommes, femmes, bêtes, âge, sexe, santé, maladies, tout semblait être en commun parmi ce peuple; tout allait ensemble, mêlé, confondu, superposé; chacun y participait de tout."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.348525,
+                48.867704
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 385,
+            "Name": "Hôpital des Quinze-Vingts",
+            "Latitude": 48.851248,
+            "Longitude": 2.372213,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.372213,
+                48.851248
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 386,
+            "Name": "Cimetière du Père-Lachaise",
+            "Latitude": 48.8614,
+            "Longitude": 2.3933,
+            "place_name": "Cimetière du Père-Lachaise",
+            "uid": "Balleydier_1849_bpt6k105490w_26",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "154-6",
+            "cleaner_name": "SL",
+            "date_added": "20200615",
+            "snippet": "Puisque nous sommes sur un terrain funèbre, avançons, nous trouverons bientôt au Père Lachaise de frais ombrages, des arbres verts chargés de feuilles, de petits jardins pleins de fleurs, et nous verrons sous les feuilles de ces arbres, au milieu des fleurs de ces jardins, des croix blanches, des inscriptions pieuses, des colonnes de marbre brisées à leur base comme la vie des jeunes filles étiolées à leur printemps; nous y verrons de jeunes femmes désolées et pleureuses sur des tombes récemment fermées. Nous trouverons sur la pierre sépulcrale, au pied de la croix rédemptrice, le rayon d'espérance qui brille sur le tombeau des élus. Il nous faudrait huit jours pour explorer en détail les merveilles de cette immense Nécropole. Contentons-nous d'offrir l'hommage de notre admiration aux tombes les plus illustres. Commençons par le tombeau d'Héloïse et d’Abeilard, le plus visité, le mieux entouré de fleurs, et toujours couvert de couronnes d'immortelles....l'amour ne meure point. \nVoici le tombeau de Cuvier, le grand naturaliste, celui de M. Baillif de Crussolle, plus loin celui de l'ingénieur Monge. Voici les mausolées de la maréchale Lefebvre, des maréchaux Davoust, Masséna, Suchet; ceux de la comtesse Demidoff, du général Foy, du grand astronome Laplace, du généreux Desèze, l’illustre défenseur de Louis XVT; celui de Casimir Périer, etc., etc."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3933,
+                48.8614
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 387,
+            "Name": "Butte Montmartre",
+            "Latitude": 48.8862,
+            "Longitude": 2.3431,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3431,
+                48.8862
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 388,
+            "Name": "Montfaucon",
+            "Latitude": 48.8778,
+            "Longitude": 2.368,
+            "place_name": "Montfaucon",
+            "uid": "François_1857_bpt6k6439790m_44",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "73",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_17",
+            "snippet": "Barrière de Pantin. À peu de distance de cette barrière est la butte de Montfaucon, sur laquelle s'élevait autrefois le fameux gibet dit Fourches de Montfaucon, hideux emblème de la haute justice du roi. Seize piliers en pierre, debout sur une plate-forme en maçonnerie longue de 44 mètres et large de 10, supportaient, à la moitié de leur hauteur et à leur sommet, de solides poutres transversales, desquelles pendaient, des chaines de fer de 4 mètre 50 cent. de longueur, auxquelles on suspendait les corps des suppliciés, qui séchaient ainsi pendant des années au vent et au soleil. De longues échelles, perpétuellement dressées le long des piliers, servaient à monter les patients au gibet, et une fosse creusée au-dessous recevait les débris humains que la décomposition en détachait peu à peu. Dans les temps de trouble, il n'était pas rare de voir cinquante à soixante cadavres s’y balancer à la fois. En 1278, Pierre de Brosse, médecin et favori de Philippe-le-Hardy; en 1315, Enguerrand de Marigny, premier ministre et coadjuteur du royaume sous Philippe-le-Bel; 1484, Olivier-le-Dain, ministre et barbier de Louis XI; en 1524, Samblançay, surintendant des finances, condamné sans avoir été ni entendu ni défendu, furent pendus aux Fourches de Montfaucon. On remarqua qu’en moins de deux siècles, neuf surintendants des finances et trésoriers du royaume eurent la même fin. Les piliers furent détruits et la fosse comblée l'époque de la Révolution. Plus tard, ce sinistre emplacement devint le siége d'une voirie, qui, depuis quelques années, a été transférée dans la forêt de Bondy."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.368,
+                48.8778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 389,
+            "Name": "Montfaucon",
+            "Latitude": 48.8778,
+            "Longitude": 2.368,
+            "place_name": "Montfaucon",
+            "uid": "Lefeuve_1854_bpt6k6438988x_02",
+            "file_name": "Lefeuve_1854_bpt6k6438988x_clean.xml",
+            "docAuthor": "Lefeuve, Alf.",
+            "docTitle": "Annuaire des environs de Paris: La Villette",
+            "docDate": 1854.0,
+            "doc_page_number": "17-8",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "Nous aurions désiré nous étendre sur un sujet qui se rattache tant à la salubrité de Paris et à la richesse de nos campagnes; le temps et l’espace nous manquant, et n'osant d’ailleurs traiter une question si bien exposée et approfondie par M. Mille, ingénieur des ponts-et-chaussées (Mémoire sur le service des vidanges de la ville de Paris), nous nous contenterons de quelques mots, priant nos lecteurs, pour plus amples détails, d’aller visiter l'établissement curieux que nous signalons à leur attention.\nLe moyen âge avait fait du charnier de Montfaucon la voirie de la ville de Paris. L'encombrement des matières amena un état de lieux intolérable.\nL'infection, chassée par les vents régnants, descendait des lacs et des séchoirs, et s’abattait sur les quartiers du nord et du nord-est. On essaya, sous Louis XV, d'y porter remède en repoussant la voirie plus loin; l'extension de la population rendit encore les bassins insuffisants. Alors, cependant, l’industrie des engrais commença. Le procédé Bridel montra le bénéfice qu'on pouvait tirer des matières. La ville toucha un revenu qui s’éleva jusqu’au chiffre de 500,000 francs. Mais les plaintes arrivaient. On ne voulait pas encore courir les risques du libre écoule-\nment. On eut foi dans la science qui proposait de tout refouler à 10 kilom. de Paris, et l’on autorisa le Dépotoir en 1845 ; le service commençale 1° août 1849.\nLa solution mécanique a certainement réalisé tous les avantages de salubrité et d'économie qu’elle promettait. Aujourd’hui, à Paris, Montfaucon est oublié, et même à La Villette, il est peu d'usines moins inoffensives que le Dépotoir.\nLes voiries furent créées d'abord dans le seul intérêt de la salubrité. Le procédé de fabrication de poudrette fut une découverte. La poudrette, livrée aujourd’hui à 40 fr. le mètre cube, n’a guère de débouché que dans les départements de Seine, Seine-et-Oise et Seine-et-Marne, qui viennent la prendre à Bondy, et tandis qu’il y a de véritables montagnes d'engrais à Montfaucon et à Bondy, le centre de la France est dans un dénûment complet.\nLa ville a fondé deux établissements : l’un à La Villette, l’autre à Bondy. Le propriétaire y à gagné, car les prix de vidange, qui étaient encore tout récemment de 9 fr., sont aujourd’hui à 7 fr.\nEn 1850, M. Carlier, alors préfet de police, fit faire à la question de la désinfection un grand pas : il se confia dans la puissance des agents chimiques, prescrivit la désinfection des fosses, autorisa le versement des liquides dans les ruisseaux."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.368,
+                48.8778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 390,
+            "Name": "Montfaucon",
+            "Latitude": 48.8778,
+            "Longitude": 2.368,
+            "place_name": "Montfaucon",
+            "uid": "Lefeuve_1854_bpt6k6438988x_01",
+            "file_name": "Lefeuve_1854_bpt6k6438988x_clean.xml",
+            "docAuthor": "Lefeuve, Alf.",
+            "docTitle": "Annuaire des environs de Paris: La Villette",
+            "docDate": 1854.0,
+            "doc_page_number": "8",
+            "cleaner_name": "SG",
+            "date_added": "20200619",
+            "snippet": "Montfaucon, nom terrible! était une butte située près de l’extrémité de Paris, Belleville, à côté de la butte sur le territoire de Saint-Chaumont. Le gibet de Montfaucon élait debout au sommet de la butte; de longues échelles, perpétuellement dressées sur la plate-forme, faisaient exhibition des suppliciés. A ces fourches patibulaires pendaient quelquefois cinquante ou soixante cadavres. C'était un lieu de supplice depuis le XIIIe siècle. Cet odieux emplacement a longtemps porté la peine des souvenirs qu'il réveille, en servant de voirie et en recevant les vidanges de Paris; aussi son nom seul représente-t-il, même encore aujourd'hui, pour les personnes qui ignorent les grands changements survenus depuis dix ans, l’idée d'un vaste réceptacle d’immondices de toute nature. Cependant La Villette n’a plus aucunement à se plaindre d’un aussi fâcheux voisinage, et cela, grâce à la sollicitude de l'administration; Montfaucon est débarrassé maintenant, par l’abattoir aux chevaux, de la voirie où se faisaient les opérations d'équarrissage; le bassin qui contenait les vidanges de Paris, remplacé par le dépotoir, est vidé et en partie comblé ; les terrains rendus libres, traversés par une belle voie, vont incessamment donner à Belleville un nouveau quartier qui remplacera, non sans avantage pour La Villette, le voisinage incommode qu’elle supportait et dont les inconvénients rejaillissaient injustement sur elle."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.368,
+                48.8778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 391,
+            "Name": "Montfaucon",
+            "Latitude": 48.8778,
+            "Longitude": 2.368,
+            "place_name": "Montfaucon",
+            "uid": "Hugo_1831_1_bpt6k6497134z_68",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "341",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "Il y avait dans Paris assez bon nombre de ces cellules à prier Dieu et à faire pénitence ; elles étaient presque toutes occupées. Il est vrai que le clergé ne souciait pas de les laisser vides, ce qui impliquait tiédeur dans les croyans, et qu'on y mettait des lépreux quand on n'avait pas de pénitens. Outre la logette de la Grève, il y en avait une à Montfaucon, une au Charnier des Innocens; u ne autre je ne sais plus où, au logis Clichon, je crois; d’autres encore à beaucoup d’endroits où l’on en retrouve la trace dans les traditions, à défaut des monumens."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.368,
+                48.8778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 392,
+            "Name": "Montfaucon",
+            "Latitude": 48.8778,
+            "Longitude": 2.368,
+            "place_name": "Montfaucon",
+            "uid": "Hugo_1831_1_bpt6k6497134z_67",
+            "file_name": "Hugo_1831_1_bpt6k6497134z_clean.xml",
+            "docAuthor": "Hugo, Victor",
+            "docTitle": "Notre-Dame de Paris",
+            "docDate": 1831.0,
+            "doc_page_number": "251",
+            "cleaner_name": "SEL",
+            "date_added": "20200624",
+            "snippet": "Entre la Courtille et Saint-Laurent, votre œil avait déjà remarqué au couronnement d’une hauteur accroupie sur des plaines désertes, une espèce d’édifice qui ressemblait de loin à une colonnade en ruine debout sur un soubassement déchaussé. Ce n’était ni un Parthénon, ni un temple de Jupiter Olympien; c'était Montfaucon."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.368,
+                48.8778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 393,
+            "Name": "Butte Chaumont",
+            "Latitude": 48.8809,
+            "Longitude": 2.3828,
+            "place_name": "Butte Chaumont",
+            "uid": "Fournel_1865_bpt6k1018901_05",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "Fournel, Victor",
+            "docTitle": "Paris nouveau et Paris futur",
+            "docDate": 1865.0,
+            "doc_page_number": "83-4",
+            "cleaner_name": "SG",
+            "date_added": "20200713",
+            "snippet": "Déjà des légions d'ouvriers sont installées aux buttes Chaumont et sur les carrières du Centre, comblées et nivelées, pour y installer à grands frais une promenade pittoresque et grandiose. Un tel projet devait sourire à l'imagination titanique de M. le préfet de la Seine, qui serait bien aise, d’ailleurs, de se mesurer de près avec la mémoire de la reine Sémiramis, et de lui rendre des points en fait de jardins susvendus. Il est évident que le souvenir de Babylone et des sept merveilles du monde, chantées sur tous les tons par les poëtes-badauds de l'antiquité, n’a pas été sans influence sur les embellissements de Paris, après loutefois certaines pensées stratégiques que nous avons essayé d'indiquer plus haut, — et qu’on a le noble émulation de détrôner les anciens, — ne fût-ce que pour venger la civilisation moderne du mépris systématique des archéologues, et pour leur montrer qu’on peut vaincre aisément ces prétendus prodiges, admirés jadis par des peuples enfants!\nNote: Un journal de province s'est attiré un communiqué pour avoir évalué à une trentaine de millions les frais d'établissement de cette dernière promenade [de Chaumont] : ils ne paraissent pas devoir dépasser le quart de cette somme, dit le communiqué, — d'où l'on peut conclure hardiment qu’ils en atteindront au moins la moitié."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3828,
+                48.8809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 394,
+            "Name": "Butte Chaumont",
+            "Latitude": 48.8809,
+            "Longitude": 2.3828,
+            "place_name": "Butte Chaumont",
+            "uid": "Virmaître_1871_bpt6k5448441v_39",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "167",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "L'artillerie ne manquait ni à l’une ni à l’autre armée. Les canons de Montmartre avaient été transportés en partie à Neuilly, en partie dans les forts; les hauteurs de Montmartre, Belleville, La Villette, La Chapelle, les buttes Chaumont et Charonne étaient autant de citadelles dans l’intérieur de l'enceinte, comme une ligne de forts pouvant répondre aux forts du Nord-Est, dans le cas où, comme le bruit en courut, les Prussiens devraient remettre ceux-ci à l'armée de Versailles."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3828,
+                48.8809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 395,
+            "Name": "Butte Chaumont",
+            "Latitude": 48.8809,
+            "Longitude": 2.3828,
+            "place_name": "Butte Chaumont",
+            "uid": "Virmaître_1871_bpt6k5448441v_28",
+            "file_name": "Virmaître_1871_bpt6k5448441v_clean.xml",
+            "docAuthor": "Virmaître, Charles",
+            "docTitle": "La Commune à Paris",
+            "docDate": 1871.0,
+            "doc_page_number": "24-5",
+            "cleaner_name": "SEL",
+            "date_added": "20200709",
+            "snippet": "Plusieurs jours avant l'entrée des Prussiens à Paris, quelques bataillons de la garde nationale allèrent en armes chercher les canons remisés au parc de l'avenue de Wagram et au Champ-de-Mars pour, disaient-ils, les soustraire aux Prussiens ou empêcher que le gouvernement ne les livrât en vertu de la convention, cette raison était plausible et pouvait être prise au sérieux, car chacun sait que la plupart des canons de sept étaient dus à l'initiative privée et avaient été fondus avec le produit de souscriptions. \nMais était-ce bien là le motif qui fut le mobile d'un si grand empressement à enlever ces canons ? Tout porte à croire que le Comité centrai, dont on entendit parler sérieusement ce jour-là pour la première fois, profitant du trouble occasionné par l’entrée des Prussiens, avait résolu de s'emparer des canons pour appuyer son prochain mouvement. \nLes canons, une fois enlevés, furent ornés de fleurs d’immortelles, entourés et voilés de crêpes et conduits, musique en tête, suivis d’une foule énorme, place des Vosges, aux buttes Montmartre, aux buttes Chaumont, et enfin barrière d'Italie. \nToutes ces pièces réunies formaient un parc d'artillerie vraiment formidable. \nIl y avait plus de 400 canons de sept et au moins 150 mitrailleuses."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3828,
+                48.8809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 396,
+            "Name": "château de Vincennes",
+            "Latitude": 48.8426,
+            "Longitude": 2.4355,
+            "place_name": "château de Vincennes",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_50",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "147-8",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Le château de Vincennes est aujourd’hui une forteresse, une caserne, un arsenal et surtout une école de tir. C’est là que se font les expériences qui se rattachent au perfectionnement des armes à feu. Vincennes à donné son nom aux meilleurs tireurs de l’armée, aux bataillons de chasseurs à pied, que l’Europe nous envie et dont la formation est due à l’initiative du duc d'Orléans, fils du roi Louis-Philippe. \nLe bois de Vincennes, qui a une étendue de 7,380 hectares, est une des plus agréables promenades des environs de Paris. Au centre se trouve un rond-point auquel neuf routes viennent aboutir, et qui est orné d'un obélisque que terminent un globe et une aiguille dorée, Ce bois était autrefois très-giboyeux; aujourd'hui on y rencontre à peine quelques timides lapins, mais en revanche beaucoup de militaires de toutes armes, qui y promènent leurs loisirs en révant au pays... ou à la payse."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.4355,
+                48.8426
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 397,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "Paris_et_environs_1855_bpt6k6378614f_51",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Paris et ses environs: Guide méthodique et raisonnée",
+            "docDate": 1855.0,
+            "doc_page_number": "122-3",
+            "cleaner_name": "SG",
+            "date_added": "2020_07_17",
+            "snippet": "Voulant élever un palais pour les vieux soldats, Louis XIV posa, en 1670, la première pierre de l'hôtel des Invalides; chef-d'œuvre de Mansart, qui sut imprimer à l'édifice un caractère à la fois religieux et militaire, bien conforme à sa destination. Ce magnifique palais occupe une superficie d'environ 7 myriamètres carrés. Mansart mit plus de trente années à l’achèvement du dôme; la pointe de l'aiguille qui le surmonte est à 105 mètres du sol. \nL'hôtel des Invalides est à lui seul plus peuplé que bien des petites villes de province; il peut, par les établissements qu'il renferme, former une ville à part. On y remarque une bibliothèque de 20,000 volumes, un musée contenant les modèles en relief des principales places fortes de l'empire; et dans l’église, les drapeaux conquis par nos armées, la chaire de marbre blanc, les tombeaux de Turenne et de Vauban, et un magnifique maître-autel, couvert d'un dais soutenu par quatre colonnes dorées. \nTombeau de Napoléon.—C'est le 15 décembre 1840 que les cendres de Napoléon furent apportées par le duc de Joinville sous le dôme des Invalides, où le proscrit de Sainte-Hélène repose dans un magnifique tombeau, aujourd’hui achevé par l’art et la main d’un grand architecte, Visconti, et d’un grand sculpteur, Pradier, qui virent la pierre, le marbre et le granit lui-même se prêter à tous les caprices de leur génie. Douze Victoires, taillées d'un seul jet dans le granit et ne faisant qu'un avec les piliers massifs qui portent le temple même, veillent éternellement sur la tombe de porphyre qui contient les restes du grand capitaine."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 398,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "LaGournerie_1854_bpt6k6394057f_58",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "La Gournerie, Eugène de",
+            "docTitle": "Histoire de Paris et de ses monuments",
+            "docDate": 1854.0,
+            "doc_page_number": "259-61",
+            "cleaner_name": "SG",
+            "date_added": "20200708",
+            "snippet": "Cette majestueuse esplanade, cette ligne de fossés bordée de canons enlevés dans les combats et qui ne tonnent plus que pour annoncer les fêtes de la patrie, cette façade de 200 mètres, ces grandes statues de Louis XIV et de Napoléon, cette vasté cour entourée d’une double rangée d’arcades,  cette église toute de marbre et d'or dont la voûte disparait sous les plis flottants des drapeaux pris à l’ennemi, ce dôme doré enfin qui domine la ville entière, tout cet ensemble de richesse et de gloire exalte l'imagination et nourrit l'enthousiasme. \nL'église des Invalides est formée de deux parties complétement distinctes : la nef et ses collatéraux, qui sont de l'architecture de Libéral Bruant; et le dôme, qui fut construit par Mansard et d'Orbay. Au point de jonction de ces deux parties s'élève le maitre-autel, couronné d’un baldaquin de bronze doré que soutiennent six colonnes torses. Du côté de la nef, l'ordonnance de l'église se compose, suivant l’invariable usage du xvu' siècle, d'arceaux décorés de pilastres. Au-dessus de ces arceaux règne une longue suite de tribunes. Cette nef a son entrée au nord; celle du dôme est au sud: elle s'annonce sur le boulevard par deux ordres de colonnes doriques et ioniques superposées, au-dessus desquelles s'élève un fronton aux armes de France. A droite et à gauche de ce portique sont les statues en marbre de Charlemagne et de saint Louis. \nLe dôme des Invalides jouit depuis deux siècles d'une réputation méritée. Il n’est pas de provincial ni d’étranger, approchant de Paris, qui ne cherche à distinguer dans l’espace, au reflet du jour sur les lames dorées, cette coupole si grande par elle-même, et si grande surtout par les gloires qu'elle abrite. Élévation, dignité, force, tels sont les caractères dominants de son architecture. Moins élégante que la coupole de Sainte-Geneviève, elle a peut-être plus de majesté. [ . . . ]\nSous le dôme on ne voyait naguère que les tombeaux de Vauban et de Turenne. Dans peu de jours on y verra, au centre d'une crypte imposante,  la tombe de Napoléon; elle sera accompagnée de statues de victoires et de bas reliefs héroïques; près d'elle chacun pourra contempler l'épée d'Austerhitz, le manteau du sacre, etc., etc. Et au-dessus de cette tombe l'œil continuera d'apercevoir les vieilles peintures de Lafosse, ces peintures qui survivent à tout et qui disent tout. Elles nous montrent la gloire des cieux s'ouvrant devant saint Louis, et Jésus-Christ entouré des anges et des saints."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 399,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "Guide_1855_bpt6k134268q_34",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": null,
+            "docTitle": "Guide général dans Paris",
+            "docDate": 1855.0,
+            "doc_page_number": "71-2",
+            "cleaner_name": "SG",
+            "date_added": "20200711",
+            "snippet": "Cet hôtel, qui comprend vingt-trois cours et une masse de bâtiments énormes, présente sur l’esplanade une façade imposante de plus de 600 pieds de longueur, qui regarde le septentrion et compte quatre étages avec 130 fenêtres. \nLa cour d'honneur qu'entourent deux étages d'arcdes, est d’un aspect majestueux. Sa longueur est de 590 pieds sur une largeur de 192. \nEn avant de l'hôtel s'élève une esplanade de 102 toises de longueur, flanquée de fossés s’ouvrant par une vaste grille et armée de canons pacifiques, habitués à tonner pour toutes les gloires. \nAux deux côtés de l’esplanade sont rangés, sous une allée de tilleuls, de petits jardinets cultivés par les plus ingambes des vétérans. La plupart de ces jardinets sont décorés d’une statue qui représente invariablement les traits de Napoléon. \nL'Hôtel des Invalides contient aujourd'hui 6,000 habitants; il peut en recevoir jusqu’à 10,000. \nUne visite à l'Hôtel des Invalides est un des devoirs que s'impose tout étranger qui passe seulement huit jours à Paris. Il voit les dortoirs, le réfectoire, la bibliothèque, l’église pavoisée de drapeaux enlevés à toutes les nations, les tombeaux des généraux et des maréchaux enterrés sous les dalles, et enfin le monument funéraire de Napoléon."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 400,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "François_1857_bpt6k6439790m_45",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "39-40",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_17",
+            "snippet": "HOTEL DES INVALIDES. — Construit par Louis XIV pour les vieux soldats. Commence en 1670 et terminé en 1674, sur les dessins de Libéral Bruant, sauf la chapelle et le dôme, élevés par Mansard dans les premières années du XVIIIe siècle, ce vaste et imposant édifice, qui occupe une superficie de 38,000 mètres, près de 4 hectares, se distingue surtout par la male sévérité de son architecture. La facade, de 200 m. d’étendue, qui se développe à l'extrémité du jardin cultivé par les vieux soldats, et que l'on aperçoit de la Seine, est d’un noble aspect et présente un caractère d'unité que l'on retrouve dans les cours intérieures comme dans tout le reste des bâtiments. Il faut visiter la cour d'honneur, qui n'a pas moins de 130 mètres de long sur 64 de large, les réfectoires, avec leurs peintures à fresque, les dortoirs avec les couchettes des pensionnaires, et les cuisines, où l'on voit ces deux célèbres marmites qui peu vent contenir 600 kilog. de viande. On doit encore moins oublier un petit musée très-intéressant offrant le plau en relief de toutes les places fortes de la France, et la bibliothèque, riche de 48,000 volumes, où l'on conserve quelques manuscrits de Sully et de Colbert. \nLa chapelle des Invalides et le dôme si connu qui la couronne, méritent une mention spéciale. Vu de la place Vauban, située at midi de l'édifice, le portique principal, avec sa somptueuse architecture, est du plus élégant et du plus admirable aspect. La flèche qui surmonte la coupole s'élève à 108 mètres au-dessus du sol. Dans l'intérieur de l’église, on remarquera les peintures de Jouvenet, des frères Boullogne, de Lafosse et de Coypel, ainsi que les sculptures de Michel Corneille et de Girardon: on paiera un tribut de respect aux cendres du grand Turenne,  et, sous le dôme, on descendra dans la crypte funèbre, ouvrage de Visconti, où re posent les restes de Napoléon. L'entrée de cette crypte est publique le lundi, de midi à 3 h., le jeudi, on y est admis avec passe-ports de midi à 3h.\nL'Hôtel des Invalides contient environ 5,000 hommes; il en contiendrait aisément 9 à 10,000. On peut le visiter tous les jours de 10 à 4 heures. Pour la galerie des plans en relief, ouverte seulement du 1er au 15 juin, avec permission demandée au Ministre de la Guerre."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 401,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "Balleydier_1849_bpt6k105490w_22",
+            "file_name": "Balleydier_1849_bpt6k105490w_clean.xml",
+            "docAuthor": "Balleydier, Alphonse",
+            "docTitle": "Visite rendue par l'Angleterre à la France",
+            "docDate": 1849.0,
+            "doc_page_number": "191-3",
+            "cleaner_name": "SL",
+            "date_added": "20200613",
+            "snippet": "La pensée première d’un hôtel consacré aux braves mutilés au service de la patrie, appartient à Henri IV. Elle fut exécutée sur une vaste échelle par Louis XIV. Les dessins des bâtiments et de la chapelle, qu'il fit bâtir à ce sujet, sont dûs à Libéral Bruant. Le célèbre Mansard revendique avec raison l’honneur de ceux du dôme. \nNous ne connaissons rien de plus majestueux que les jardins, la cour principale, et le portail de l’église de l'Hôtel royal des Invalides. \nQuatre autres cours qui se trouvent à droite et à gauche de la cour royale, ont chacune 46 mètres de longueur et 36 de largeur; la façade principale, gardée par de magnifiques pièces de canon prises à l'ennemi, présente une largeur de 200 mètres, Deux églises se trouvent à l'Hôtel-des-Invalides, et ne sont séparées que par une arcade qui leur sert de communication, On voyait, il y a peu de temps encore, dans la première 960 drapeaux conquis sur les champs de bataille; il n'en reste que quelques-uns. On voit dans la seconde les tombeaux de Vauban, de Turenne, et la chapelle où va s'élever celui qui doit remplacer la tombe de Ste-Hélène.\nL'intérieur de l'église est excessivement remarquable par la magnificence. de son pavé en marbre et en mosaïque, par son dôme soutenu par huit arcadés et formant trois coupoles, par ses riches peintures et par ses chapelles. \nLes bâtiments qui entourent la cour renferment les cuisines et les réfectoires, contigüs aux galeries du rez-de-chaussée. Chacun de-ceux-ci mesure 50 mètres de longueur sur 9 de largeur. Ceux qui regardent la plaine de Grenelle sont réservés aux officiers supérieurs et à quelques officiers subalternes, les autres sont occupés par les sous-officiers et les soldats. Les principales batailles livrées sous le règne de Louis XIV sont peintes sur les murailles. Les dor toirs, les pharmacies, la bibliothèque composée de 20,000 volumes, méritent d'être visitées, ainsi que les petits jardins, cultivées par les mains de nos modernes Cincinnatus."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 402,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "Asti_1843_bpt6k6471672z_12",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "171-2",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "Après ces tristes reflexions, je traversai une belle cour de 32 toises de largeur et de 52 de longueur, magnifique pour ses portiques ouverts en arcades, et j'allai tout droit à l'église, qui est très-simple. Son plus grand ornement ce sont quatre immenses pavillons, ou drapeaux, pris aux Mexicains, et apportés à Paris en 1838: des centaines d'autres enseignes prises en guerre, mais beaucoup plus petites que les premières, décorent tout autour le haut de la nef. Le maitre-autel composé d’un baldaquin, soutenu par six colonnes dorées, se voyait à peine, Des réparations que l’on jugea nécessaires, et auxquelles on travaille depuis quel- que temps, obligèrent les ouvriers à le couvrir d'une toile, et à défendre ainsi le passage dans le dôme, qui contenait l'objet de mes recherches. Je fus donc forcé de faire un tour hors de l'église, car le dôme a une autre entrée particulière vers les boulevards. Je te ferai grâce ici de tout ce que je pourrais dire du portique et de la coupole, de leurs colonnes, de leurs statues, et de leurs peintures, je ne dirai que ce que les intelligents ont déjà dit: « — Cet édifice magnifique, où les artistes du siècle de Louis le Grand ont déployé à l'envie tous leurs talents, est un monument qui rivalise de beauté, quoique sur des proportions moins grandes, avec saint Paul de Londres et saint Pierre de Rome — »."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 403,
+            "Name": "Hôtel des Invalides",
+            "Latitude": 48.8565,
+            "Longitude": 2.3127,
+            "place_name": "Hôtel des Invalides",
+            "uid": "Asti_1843_bpt6k6471672z_04",
+            "file_name": "Asti_1843_bpt6k6471672z_clean.xml",
+            "docAuthor": "Asti, Joseph",
+            "docTitle": "Un voyage à Paris",
+            "docDate": 1843.0,
+            "doc_page_number": "168-70",
+            "cleaner_name": "SL",
+            "date_added": "20200609",
+            "snippet": "L'Hôtel des Invalides, ce dépôt, je dirai ainsi, du courage malheureux, ou de la valeur domptée par la force irrésistible du temps, méritait, sans doute, l'honneur de recevoir la dépouille mortelle du grand Napoléon. Louis XIV qui voulait adoucir les maux et consoler la vieillesse de ceux qui avaient contribué à la gloire de sa patrie, ordonna en 1670 la construction de cet édifice, dont la magnificence atteste dignement la grandeur de ce monarque. La disposition du terrain extérieur planté d'arbres, permet à l'œil du curieux d’admirer toute la beauté de sa façade, qui se développe majestueusement sur une étendue de 612 pieds. Les trois étages, qui s'élèvent au-dessus du rez-de-chaussée, présentent une nombreuse quantité de croisées couronnées de trophées militaires, et l'entrée principale, qui s'ouvre entre deux pilastres ioniques, pareillement ornée de trophées militaires, est surmontée de la statue équestre de Louis XIV. L'inscription gravée sur le piédestal avertit l'étranger de la destination de cet édifice en ces termes: \nLudovicus Magnus, militibus regali munificentia in perpetuum providens, has aedes posuit, an. 1675. \nJe ne m’approchai qu'avec respect de ce noble asile, et, tandis que j'en admirais la majesté, je fus saisi de vénération à la vue de ces vétérans qui, au nombre de 3800, y promènent avec une sorte d’orgueil leurs membres mutilés."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3127,
+                48.8565
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 404,
+            "Name": "École Militaire",
+            "Latitude": 48.8525,
+            "Longitude": 2.3035,
+            "place_name": "École Militaire",
+            "uid": "François_1857_bpt6k6439790m_47",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "23",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_17",
+            "snippet": "ÉCOLE MILITAIRE. — Ce vaste et magnifique monument, l'un des plus remarquables de Paris, s'élève à l'extrémité sud du Champs-de-Mars. Il a été fondé par Louis XV, « pour y élever, dit l'ordonnance royale, 500 gentilshommes dans toutes les sciences nécessaires et convenables à un officier. » Depuis 1792, l'Ecole militaire est devenue une caserne. Elle peut contenir 6,000 hommes et 4,000 chevaux."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3035,
+                48.8525
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 405,
+            "Name": "École Militaire",
+            "Latitude": 48.8525,
+            "Longitude": 2.3035,
+            "place_name": "École Militaire",
+            "uid": "François_1857_bpt6k6439790m_46",
+            "file_name": "confirmed_from_new_clean_07_20.xml",
+            "docAuthor": "François",
+            "docTitle": "Paris et ses environs. Description complète et par ordre alphabétique",
+            "docDate": 1857.0,
+            "doc_page_number": "16",
+            "cleaner_name": "SEL",
+            "date_added": "2020_07_17",
+            "snippet": "CHAMP-DE-MARS. — Vaste quadrilatère de 1,000 mètres de long sur 400 de large, à l'ouest dé Paris, sur la rive gauche de la Seine. En y arrivant de la rive droite par le pont d'léna, on a devant soi L'Ecole militaire. Le Champ-de-Mars sert aux courses de chevaux, aux grandes revues et aux fêtes publiques."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3035,
+                48.8525
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "fid": 406,
+            "Name": "Grenelle",
+            "Latitude": 48.8508,
+            "Longitude": 2.2925,
+            "place_name": null,
+            "uid": null,
+            "file_name": null,
+            "docAuthor": null,
+            "docTitle": null,
+            "docDate": null,
+            "doc_page_number": null,
+            "cleaner_name": null,
+            "date_added": null,
+            "snippet": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.2925,
+                48.8508
+            ]
+        }
+    }
+]
