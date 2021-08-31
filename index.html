@@ -851,6 +851,40 @@
         var cluster_snippets_utm_11 = new L.MarkerClusterGroup({spiderfyOnMaxZoom: true,
 	                                                              showCoverageOnHover: false,
 	                                                              zoomToBoundsOnClick: false});
+cluster_snippets_utm_11.on('clusterclick', function (a) {
+                        
+            var child_markers = a.layer.getAllChildMarkers();
+                    
+            var popupContent = '';
+                    
+            for (var b = 0; b < child_markers.length; b++) {
+                
+                console.log('b', b, child_markers[b]);
+                    
+                popupContent = popupContent +
+
+                    '<tr><td>' + child_markers[b]['feature']['properties']['place_name'] + '</td></tr>' + 
+                    '<tr><td>' + child_markers[b]['feature']['properties']['docAuthor'] + '</td></tr>' + 
+                    '<tr><td>' + child_markers[b]['feature']['properties']['docTitle'] + '</td></tr>' + 
+                    '<tr><td>' + child_markers[b]['feature']['properties']['docDate'] + '</td></tr>' + 
+                    '<tr><td>' + child_markers[b]['feature']['properties']['place_name'] + '</td></tr>' + 
+                    '<tr><td>' + child_markers[b]['feature']['properties']['doc_page_n'] + '</td></tr>' + 
+                    '<tr><td>' + child_markers[b]['feature']['properties']['snippet'] + '</td></tr>' + 
+                    '<tr><td> </td></tr>' + 
+                    '<tr><td> </td></tr>';
+            }
+            
+            popupContent = '<table>' + popupContent + '</table>';
+            
+            console.log(a['latlng']['lat'], a['latlng']['lng']);
+            
+            var popup = L.popup()
+                .setLatLng([a['latlng']['lat'], a['latlng']['lng']])
+                .setContent(popupContent)
+                .openOn(map);
+        });
+
+
 
         cluster_snippets_utm_11.addLayer(layer_snippets_utm_11);
 
