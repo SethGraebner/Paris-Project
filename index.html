@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<!-- Mollie Webb -->
+<!-- molliewebb@wustl.edu -->
+<!-- September 2021 -->
+
+  <head>
+    <title>Paris in the 19th Century</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha384-VzLXTJGPSyTLX6d96AxgkKvE/LRb7ECGyTxuwtpjHnVWVZs2gp5RDjeM/tgBnVdM"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.0/dist/MarkerCluster.css"
+      integrity="sha384-pmjIAcz2bAn0xukfxADbZIb3t8oRT9Sv0rvO+BR5Csr6Dhqq+nZs59P0pPKQJkEV"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster@1.5.0/dist/MarkerCluster.Default.css"
+      integrity="sha384-wgw+aLYNQ7dlhK47ZPK7FRACiq7ROZwgFNg0m04avm4CaXS+Z9Y7nMu8yNjBKYC+"
+      crossorigin="anonymous"
+    />
+
+    <script
+      src="https://unpkg.com/jquery@3.6.0/dist/jquery.min.js"
+      integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha384-RFZC58YeKApoNsIbBxf4z6JJXmh+geBSgkCQXFyh+4tiFSJmJBt+2FbjxW7Ar16M"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://unpkg.com/leaflet.markercluster@1.5.0/dist/leaflet.markercluster.js"
+      integrity="sha384-89yDmbSkL9reFc77m10ZbqLaUMf1sp7FAJs2oAD/rczNnY7I+17yN9KML6tpYpCk"
+      crossorigin="anonymous"
+    ></script>
+
+<!--     <script type="text/javascript" src="osm_roads_edited_reprojected_edited.geojson"></script>
+    <script type="text/javascript" src="osm_roads_edited_wgs84.geojson"></script>
+ -->
+<!-- Added this to create the red circle icons -->
+  <style>
+    /* controls the point icons */
+    .mycluster {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background-color: maroon;
+      text-align: center;
+      font-size: 24px;
+    }
+
+    #map {
+    background: white;
+}
+
+  </style>
+
+  </head>
+
+  <body>
+    <div
+      id="map"
+      style="width: 800px; height: 500px; border: 1px solid #aaa"
+    ></div>
+
+        <script src="data/Seine.js"></script>
+        <script src="data/Roads_edited.js"></script>
+        <script src="data/places_with_text.js"></script>
+<!--         <script type="text/javascript" src="markers.js"></script> -->
+
+<script>
+  // Creates the map object, center, zoom level
+var map = L.map('map', {
+  center: [48.864716, 2.349014],
+  minZoom: 2,
+  maxZoom:20, // added a maxZoom
+  zoom: 12,
+})
+
+// //Creates basemap
+// L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+//   attribution:
+//     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+//   subdomains: ['a', 'b', 'c'],
+// }).addTo(map)
+
+var riverStyle = {
+  "color": "#74A9F5",
+  "fillColor": "#74A9F5"
+}
+
+var river_lyr = new L.GeoJSON(seine, {
+  style: riverStyle
+}).addTo(map)
+
+var roadStyle = {
+    "color": "#FFC300",
+    "weight": 1
+};
+
+var roads_lyr = new L.GeoJSON(roads, {
+  style: roadStyle
+}).addTo(map);
+
+map.fitBounds(roads_lyr.getBounds());
+
+// Creating the clusters and settings, turn off "spidering", etc
+// Also added custom icon creation function
+var markerClusters = new L.MarkerClusterGroup({ 
+    spiderfyOnMaxZoom: false, 
+    showCoverageOnHover: false, 
+    zoomToBoundsOnClick: true,
+    singleMarkerMode: true,
+    maxClusterRadius: 10,
+    iconCreateFunction: function (cluster) {
+        return L.divIcon({ html: "", className: 'mycluster'});
+      }, 
+});
+
+// Loop through all of the points from the "markers" variable
+// which is a JSON list of all of the info from the shapefile
+for (var i = 0; i < markers.length; ++i) {
+  // Creates a string that is HTML, each point has one
+  var popup = 
+    "<b>Name: " + markers[i]['properties']['Name'] + '</b><br><br>' + 
+    markers[i]['properties']['snippet'] + '<br><b>- ' +
+    markers[i]['properties']['docAuthor'] + ', ' +
+    markers[i]['properties']['docTitle'] + ', ' +
+    markers[i]['properties']['docDate'] + ', p.' +
+    markers[i]['properties']['doc_page_n'] + '</b><br><br>'
+
+  // Gets the lat/long from the JSON and drops the symbol and popup there
+  var m = L.marker([markers[i]['properties']['Latitude'], 
+                   markers[i]['properties']['Longitude']]).bindPopup(popup)
+
+  // Associates the clusters with the layer
+  markerClusters.addLayer(m)
+} // End loop through each feature in the JSON
+
+// Sets the action that happens when a cluster is clicked
+markerClusters.on('clusterclick', function(a){
+    // Starts a new string that will hold the HTML for all of the points
+    // in the cluster
+    popUpText = ""
+    // Loops through all of the points and gets the HTML string
+    // adds it to the pop up string
+    for (feat in a.layer.getAllChildMarkers()){
+      popUpText += a.layer.getAllChildMarkers()[feat]._popup._content
+    }
+    // Gets the first instance of the place name
+    var name_first = new RegExp ("^(<b>Name:)(.+?)(<\/b><br><br>)")
+    // Gets all of the other instances of the place name
+    var name_other = new RegExp("(<b>Name:)(.+?)(<\/b><br><br>)", 'g')
+    // Holds the first instance of place name as a variable
+    var name_first_match = popUpText.match(name_first)[0]
+
+    // These next lines remove the non-first instances of the place name
+    popUpText = popUpText.replace(name_first,"REPLACED")
+    popUpText = popUpText.replace(name_other,"")
+    popUpText = popUpText.replace("REPLACED",name_first_match)
+
+    // Adds this new string as the pop up for the cluster
+    var popup = L.popup({maxHeight:100}).setLatLng([a.layer._cLatLng.lat, a.layer._cLatLng.lng]).setContent(popUpText).openOn(map); 
+    })
+
+// Adds the clusters as a layer in the map
+map.addLayer(markerClusters)
+
+</script>
+  </body>
+</html>
