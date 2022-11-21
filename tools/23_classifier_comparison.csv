@@ -1,0 +1,2 @@
+n_try,classifier,good good n,good good pct,good bad n,good bad pct,bad bad n,bad bad pct,bad good n,bad good pct
+0,SVC,180,0.5487804878048781,148,0.45121951219512196,2289,0.9995633187772925,1,0.0004366812227074236

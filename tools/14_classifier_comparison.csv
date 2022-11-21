@@ -1,0 +1,2 @@
+n_try,classifier,good good n,good good pct,good bad n,good bad pct,bad bad n,bad bad pct,bad good n,bad good pct
+0,SGDClassifier,323,0.9847560975609756,5,0.01524390243902439,2283,0.996943231441048,7,0.003056768558951965

@@ -1,0 +1,9 @@
+[
+    {
+        "run": "06",
+        "classifier_name": "SVC",
+        "false positive n": 1,
+        "true positive n": 180,
+        "n true positive to false positive": 180.0
+    }
+]
