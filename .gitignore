@@ -42,4 +42,17 @@ images/
 *.zip
 *.7z
 
+.vscode/*
+.vscode
 
+william_data
+
+.env
+
+*.bin
+*.npy
+*.pkl
+
+classifier_experiments/cvresults.txt
+
+__pycache__/
