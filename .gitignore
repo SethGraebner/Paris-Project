@@ -18,6 +18,9 @@
 # ignore all PDFs
 *.pdf
 
+.DS_Store/*
+.DS_Store
+
 #ignore certain directories in /tools
 tools/get_gallica_pdfs/
 tools/pdfminer.six-develop/

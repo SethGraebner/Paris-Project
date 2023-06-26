@@ -26,7 +26,7 @@ class AbstractDataLoader(ABC):
         self.name = data_path
 
     @abstractmethod
-    def load_and_preprocess_data(self) -> ProcessedData:
+    def load_and_preprocess_data(self) -> ProcessedData | UnprocessedData: # TODO: handle this better, maybe with a different class
         """Load and preprocess text data"""
         pass
 
@@ -259,10 +259,12 @@ class GPTCleanedLoader(OriginalDataLoader):
     '''
     Uses GPT 3.5-turbo to clean the data and remove OCR errors.
     '''
-    def __init__(self, data_path, cleaned_path):
+    def __init__(self, data_path, cleaned_path, verbose=False, inference=False):
         super().__init__(data_path=data_path)
         self.cleaned_path = cleaned_path
         self.name = data_path + '_gptcleaned'
+        self.verbose = verbose # turns on print messages, and the original / cleaned messages are printed
+        self.inference = inference
 
         self.prompt = "Votre travail consiste à transformer cette numérisation OCR défectueuse en une numérisation rectifiée, en corrigeant l'espacement, le formatage et la grammaire et la syntaxe appropriées en français si nécessaire. Renvoie uniquement le texte corrigé, sans nouvelle ligne supplémentaire ni espace blanc divers. N'ajoutez PAS de contenu supplémentaire à votre réponse, sinon vous serez pénalisé." 
         #"Your job is to turn this faulty OCR scan into a rectified one, correcting spacing, formatting, and French-language proper grammar and syntax as necessary. Return only the corrected text, without additional new lines or misc whitespace"
@@ -274,37 +276,53 @@ class GPTCleanedLoader(OriginalDataLoader):
         
         openai.api_key = api_key
         
-    def load_and_preprocess_data(self) -> ProcessedData:
+    def load_and_preprocess_data(self) -> UnprocessedData:
 
         # attempt to load from local
         hash_name = hashlib.md5(self.name.encode('utf-8')).hexdigest()
+        print(hash_name)
         
         if os.path.exists(f'{hash_name}.pkl'):
-            print('loading full data from store...')
+            if self.verbose: 
+                print('loading full data from store...')
             return pickle.load(open(f'{hash_name}.pkl', 'rb'))
         
         # else, load manually
         clean_files = sorted(os.listdir(self.data_path))
-        data: ProcessedData = { 'good': [], 'bad': [] }
+        data: UnprocessedData = { 'good': [], 'bad': [] }
        
 
         for file_name in tqdm(clean_files):
             full_path = os.path.join(self.data_path, file_name)
             filedata: List[CleanedAndLabeledData] = []
 
+
+
             # get cleaned file, which is the file name with a json extension instead of xml
             cleaned_file = os.path.join(self.cleaned_path, file_name).replace('.xml', '.json')
 
+
+            fully_cleaned = True
             if os.path.exists(cleaned_file):
-                print('loading from json')
+                if self.verbose:
+                    print('loading from json')
                 with open(cleaned_file, 'r') as f:
                     filedata = json.load(f)
 
+                
+                for d in filedata:
+                    if d['cleaned'] == -1:
+                        fully_cleaned = False
+                        break
             else:
+                fully_cleaned = False
+
+            if not fully_cleaned:
                 parser = etree.XMLParser(recover=True)
                 tree = etree.parse(full_path, parser)
                 
-                for node in tree.xpath('//snippet'):
+                idx = 0
+                for node in tqdm(tree.xpath('//snippet')):
                     label = None
                     text = node.text
                     if node.get('quality') != None and node.get('quality') == 'good':
@@ -312,31 +330,63 @@ class GPTCleanedLoader(OriginalDataLoader):
                     elif node.get('confirmed') != None and node.get('confirmed') == 'yes':
                         label = Label.good
                     elif node.get('classifier_result') != None and node.get('classifier_result') == 'good':
-                        pass
+                        if self.inference:
+                            label = Label.good
+                        else:
+                            pass
                     else:
                         label = Label.bad
 
                     if label != None:
-                        cleaned = self._call_gpt(text)
-                        print('cleaned res', cleaned)
-                        if cleaned == -1:
-                            raise Exception('GPT call failed')
-                        filedata.append({
-                            'label': label, # type: ignore
-                            'text': text,
-                            'cleaned': cleaned
-                        })
+                        # two cases: either we have attempted a clean at every snippet, or we have none
+                        if len(filedata) > idx: # all attempted
+                            if filedata[idx]['cleaned'] == -1: # but current failed
+                                cleaned = self._call_gpt(text, self.verbose)
+                            
+                                if self.verbose:
+                                    print('cleaned res', cleaned)
 
-                print('saving to json...')
+                                filedata[idx] = { # type: ignore
+                                    'label': label, # type: ignore
+                                    'text': text,
+                                    'cleaned': cleaned
+                                }
+
+                                if idx % 10 == 0: # save every 10
+                                    # write filedata back to json
+                                    with open(cleaned_file, 'w') as f:
+                                        json.dump(filedata, f)
+                            else:
+                                if self.verbose: 
+                                    print('skipping...')
+                        else: # not previously attempted, standard procedure
+                            cleaned = self._call_gpt(text, self.verbose)
+                        
+                            if self.verbose:
+                                print('cleaned res', cleaned)
+                            # if cleaned == -1:
+                            #     raise Exception('GPT call failed')
+                            filedata.append({
+                                'label': label, # type: ignore
+                                'text': text,
+                                'cleaned': cleaned
+                            })
+
+                        idx += 1
+
+                if self.verbose:
+                    print('saving to json...')
                 with open(cleaned_file, 'w') as f:
                     json.dump(filedata, f)
 
 
             for snippet in filedata:
+                if snippet['cleaned'] == -1:
+                    snippet['cleaned'] = snippet['text']
                 if snippet['label'] == Label.good:
-                    data['good'].append(self._tokenize_text(snippet['cleaned']))
+                    data['good'].append(snippet['cleaned'])
                 else:
-                    data['bad'].append(self._tokenize_text(snippet['cleaned']))
+                    data['bad'].append(snippet['cleaned'])
             
             # save data
         print()
@@ -356,7 +406,7 @@ class GPTCleanedLoader(OriginalDataLoader):
         
         return [t for t in clean_text.lower().split(' ') if self._is_t_valid(t)]
     
-    def _call_gpt(self, text: str) -> str | int:
+    def _call_gpt(self, text: str, verbose=False) -> str | int:
         """Call GPT to clean the text"""
 
         model = "gpt-3.5-turbo"
@@ -371,7 +421,8 @@ class GPTCleanedLoader(OriginalDataLoader):
             }
         ]
 
-        print('incoming msg', msgs)
+        if verbose:
+            print('incoming msg', msgs)
 
         try:
             response = openai.ChatCompletion.create(

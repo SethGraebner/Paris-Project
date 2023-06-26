@@ -29,7 +29,7 @@ class AbstractVectorizer(ABC):
         pass
 
     @abstractmethod
-    def vectorize(self, data: ProcessedData) -> Tuple[npt.NDArray[np.float32], npt.NDArray[np.int32]]:
+    def vectorize(self, data: ProcessedData | UnprocessedData) -> Tuple[npt.NDArray[np.float32], npt.NDArray[np.int32]]:
         """Load and preprocess text data"""
         pass
 
@@ -240,22 +240,52 @@ class AdaVectorizer(AbstractVectorizer):
     def get_name(self) -> str:
         return self.vector_path
 
+    def _back_to_string(self, data_list: List[str]) -> str:
+        string = ' '.join(data_list)
+        print(string)
+        return string
+
     def vectorize(self, data: UnprocessedData) -> Tuple[NDArray[float32], NDArray[int32]]:
         """
         params:
-            data: UnprocessedData - List of preprocessed sentences
+            data: UnprocessedData - List of preprocessed sentences FIXME: make this actually unprocessed goofy
         returns:
             X: ndarray
             y: ndarray
+
+        TODO: This is definitely inefficient... optimize
         """
         if os.path.exists(self.get_name()):
             print('loading from memory...')
             return self._load_vectors(self.get_name()), self._get_y(data)
         
         y = self._get_y(data)
-        X = np.array([self._get_embedding(x, model='text-embedding-ada-002') for x in tqdm(data['good'] + data['bad'])])
+
+        # check if temp file exists
+        if os.path.exists('ada_vecs.npy'):
+            X = np.load('ada_vecs.npy')
+            print('loaded from temp file')
+
+            # find how many vectors we've already processed
+            num_vecs = X.shape[0]
+        else: 
+            num_vecs = 0
+            X = np.array([])
+
+        # get the remaining vectors, saving to the temp file every 20 vectors
+        for i in tqdm(range(num_vecs, len(data['good']) + len(data['bad']))):
+            if i % 20 == 0 and i != 0 and X != np.array([]):
+                np.save('ada_vecs.npy', X)
+            if len(X) != 0:
+                # print('booting from temp file', X.shape)
+                X = np.append(X, [self._get_embedding((data['good'] + data['bad'])[i], model='text-embedding-ada-002')], axis=0)
+            else:
+                X = np.array([self._get_embedding((data['good'] + data['bad'])[i], model='text-embedding-ada-002')])
 
         VECTOR_PATH = self.get_name()
+        if X == np.array([]):
+            raise Exception('X is None')
+        
         self._save_vectors(VECTOR_PATH, X)
         print('Saved vectors to', VECTOR_PATH)
 

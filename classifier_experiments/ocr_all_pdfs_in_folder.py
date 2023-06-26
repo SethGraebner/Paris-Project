@@ -10,12 +10,14 @@ from tqdm import tqdm
 import json
 import re
 from google.cloud import vision
-import time
 from google.cloud import storage
+import time
 
-PDFS_PATH = 'william_data/training_pdfs' # replace with your path
-TXT_PATH = 'william_data/ocr_output' # replace with your path
-GCP_BUCKET = 'parisproj'
+DATA_FOLDER = "william_data" # REPLACE WITH YOUR PATH
+
+PDFS_PATH = os.path.join(DATA_FOLDER, 'pdfs')
+TXT_PATH = os.path.join(DATA_FOLDER, 'ocr_output') 
+GCP_BUCKET = 'parisproj' # REPLACE WITH YOUR GCP BUCKET, AND CREATE THE PDFS AND OCR_OUTPUT FOLDERS IN IT
 
 
 def OCR_document(name):
