@@ -25,6 +25,8 @@ See the notebook for detailed results, but in short:
 
 Performance is still gated by data quality. A more serious subproject should be undertaken to collect and label a larger source. Our classifier still overfits, suggesting a data quality issue. An additional gain of this initiative would be ability to more towards stronger classifiers, eg bespoke neural nets. Data quality can also be raised by a more complete pass of re-OCRing or language model correction. The current demos offer a simple way of doing this, but experimentation can continue with other tools (particularly, I'd consider looking at `claude-instant` for the language model).
 
+I'd recommend a three-fold process, if possible. First, improve all existing data with improved OCR / AI pre-processing. Secondly, examine previous labeling quality and collect more data. Thirdly, and if possible, examine other methodologies than just using a basic classifier. I'm not convinced this is actually the best way to approach things: I think there's a chance we can examine this as an unsupervised problem and determine the quality of these excerpts using either foundation models, embedding similarity metrics, or other clustering tools. However, it's also worth continuing with the classifier method - and likely easier if engineering help is scarce.
+
 ## Usage Guide
 
 General usage patterns for each step of the process, approximately in the order of the workflow.
