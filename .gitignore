@@ -18,6 +18,9 @@
 # ignore all PDFs
 *.pdf
 
+.DS_Store/*
+.DS_Store
+
 #ignore certain directories in /tools
 tools/get_gallica_pdfs/
 tools/pdfminer.six-develop/
@@ -42,4 +45,17 @@ images/
 *.zip
 *.7z
 
+.vscode/*
+.vscode
 
+william_data
+
+.env
+
+*.bin
+*.npy
+*.pkl
+
+classifier_experiments/cvresults.txt
+
+__pycache__/
