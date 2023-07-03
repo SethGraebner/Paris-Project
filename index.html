@@ -65,11 +65,16 @@
   </style>
 
   </head>
-
+.wrapper {
+  height: 800px;
+  width: 1080px
+  }
+  
+  
   <body>
     <div
       id="map"
-      style="width: 800px; height: 500px; border: 1px solid #aaa"
+      style="width: 100%; height: 100%; border: 1px solid #aaa"
     ></div>
 
         <script src="data/Seine.js"></script>
@@ -143,6 +148,16 @@ for (var i = 0; i < markers.length; ++i) {
   var m = L.marker([markers[i]['properties']['Latitude'], 
                    markers[i]['properties']['Longitude']]).bindPopup(popup)
 
+
+  //Code added by Doug, 3 July 23, in an attempt to get durable labels for each point
+  
+    var label = L.tooltip()
+        .setLatLng([markers[i]['properties']['Latitude'],
+                    markers[i]['properties']['Longitude']])
+        .setContent(markers[i]['properties']['Name'],
+                    permanent=false)
+        .addTo(map);
+  
   // Associates the clusters with the layer
   markerClusters.addLayer(m)
 } // End loop through each feature in the JSON
