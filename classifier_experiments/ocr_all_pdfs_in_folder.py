@@ -69,6 +69,9 @@ def OCR_document(name):
     
     if operation.done():
         print("done")
+
+    print("Waiting for 45s to assure files are ready...")
+    time.sleep(45)
     
 
 def preprocess(text: str) -> str:
@@ -110,11 +113,11 @@ def read_doc_from_gcs(name: str):
         # names of form res.jsonoutput-x-to-y.json
         # we want to sort by x
         return int(name.split('-')[1])
-
+    
     text = ""
     for blob in sorted(blob_list, key=lambda x: compare_names(x.name)):
         # print(blob)
-        print(blob.name)
+        print(f'Processing {blob.name}')
 
         json_string = blob.download_as_bytes().decode("utf-8")
         responses = json.loads(json_string)['responses']
