@@ -1,8 +1,11 @@
 '''
-    Iteratively scans through folder, uploads to Google Cloud Storage, OCRs the documents, then downloads the OCR'd text.
+    Script to run batches of PDFs through OCR on Google Cloud Platform (GCP) using Cloud Vision. Requires an account on GCP with a project created, Cloud Vision's API enabled, and a storage bucket in Google Cloud Storage, containing folders "PDFS" and "OCR_OUTPUT."
+    
+    Iteratively scans through folder, uploads PDF documents to Google Cloud Storage, OCRs the documents with Cloud Vision, then downloads the OCRed texts as .txt files.
 
-    Checks for existing files at each step to avoid duplicate work. For large-scale operations, consider eliminating the
-    read-back of txt files to the local, and seperating the upload and OCR steps into seperate scripts.
+    Expects to find on local machine a folder, named at "DATA_FOLDER" below, containing subfolders "PDFS" and "OCR_OUTPUT"; this folder must be located in same parent folder of folder containing this script.
+
+    Checks for existing files at each step to avoid duplicate work. For large-scale operations, consider eliminating the read-back of txt files to the local, and seperating the upload and OCR steps into seperate scripts.
 '''
 
 import os
@@ -13,11 +16,11 @@ from google.cloud import vision
 from google.cloud import storage
 import time
 
-DATA_FOLDER = "william_data" # REPLACE WITH YOUR PATH
+DATA_FOLDER = '/2023' # PATH TO FOLDER CONTAINING "PDFS" and "OCR_OUTPUT." MUST BE IN SAME PARENT FOLDER as FOLDER w/ THIS SCRIPT
 
 PDFS_PATH = os.path.join(DATA_FOLDER, 'pdfs')
 TXT_PATH = os.path.join(DATA_FOLDER, 'ocr_output') 
-GCP_BUCKET = 'parisproj' # REPLACE WITH YOUR GCP BUCKET, AND CREATE THE PDFS AND OCR_OUTPUT FOLDERS IN IT
+GCP_BUCKET = 'paris_ocr' # NAME OF "BUCKET" WITHIN THE PROJECT ON GOOGLE CLOUD PLATFORM, WHICH MUST CONTAIN FOLDERS "PDFS" AND "OCR_OUTPUT."
 
 
 def OCR_document(name):
@@ -26,7 +29,7 @@ def OCR_document(name):
     gcs_source_uri = f"gs://{GCP_BUCKET}/pdfs/{filename}"
     gcs_destination_uri = f"gs://{GCP_BUCKET}/ocr_output/{name}.json"
 
-    # check if file already exists, will be of the format filename.jsonoutput-{pages}.json, so match on a file starting with filename
+    # check if file already exists. It will be in the format filename.jsonoutput-{pages}.json, so match on a file starting with filename
     storage_client = storage.Client()
     bucket = storage_client.get_bucket(GCP_BUCKET)
     blobs = bucket.list_blobs(prefix='ocr_output')
@@ -62,7 +65,7 @@ def OCR_document(name):
     operation = client.async_batch_annotate_files(
         requests=[async_request], timeout=50)
 
-    print('Waiting for the operation to finish.')
+    print('Waiting for Cloud Vision to finish OCR operation.')
 
     if operation.running():
         time.sleep(10)
@@ -70,8 +73,6 @@ def OCR_document(name):
     if operation.done():
         print("done")
 
-    print("Waiting for 45s to assure files are ready...")
-    time.sleep(45)
     
 
 def preprocess(text: str) -> str:
@@ -93,7 +94,7 @@ def preprocess(text: str) -> str:
 
 def read_doc_from_gcs(name: str):
     filename = f'{name}.pdf'
-    # first, check if resulting file already exists locally
+    # first, check if a results file already exists locally
     if os.path.exists(f'{TXT_PATH}/{name}.txt'):
         print(f"File {filename} already exists, skipping")
         return
@@ -113,11 +114,11 @@ def read_doc_from_gcs(name: str):
         # names of form res.jsonoutput-x-to-y.json
         # we want to sort by x
         return int(name.split('-')[1])
-    
+
     text = ""
     for blob in sorted(blob_list, key=lambda x: compare_names(x.name)):
         # print(blob)
-        print(f'Processing {blob.name}')
+        print(blob.name)
 
         json_string = blob.download_as_bytes().decode("utf-8")
         responses = json.loads(json_string)['responses']
@@ -128,7 +129,7 @@ def read_doc_from_gcs(name: str):
 
     text = preprocess(text)
 
-    # save text to william_data/ocr_output/{name}.txt
+    # save text to [destination_specified_above]/ocr_output/{name}.txt
     with open(f"../{TXT_PATH}/{name}.txt", "w") as f:
         f.write(text)
 
@@ -160,28 +161,37 @@ def upload_pdf_to_gcs(name):
 
 def __main__():
     '''
-    Iteratively scans through folder, uploads to Google Cloud Storage, OCRs the documents, then downloads the OCR'd text.
+    Iteratively scans through folder, uploads PDF documents to Google Cloud Storage, OCRs the documents using Cloud Vision, then downloads the OCRed texts as .txt files.
 
-    Checks for existing files at each step to avoid duplicate work. For large-scale operations, consider eliminating the
-    read-back of txt files to the local, and seperating the upload and OCR steps into seperate scripts.
+    Checks for existing files at each step to avoid duplicate work. For large-scale operations, consider eliminating the read-back of txt files to the local, and separating the upload and OCR steps into seperate scripts. 
+    
     '''
     for filename in tqdm(os.listdir(f'../{PDFS_PATH}')):
         if filename.endswith('.pdf'):
-            print(f'processing {filename}')
+            print(f'uploading {filename}')
             name = filename.split('.')[0]
 
             if os.path.exists(f'../{TXT_PATH}/{name}.txt'):
                 print(f"File {filename} already done, skipping")
                 continue
 
-            # upload to gcs
+            # upload to GCS
             upload_pdf_to_gcs(name)
 
-            # process from gcs
+            # process on GCS with Cloud Vision
             OCR_document(name)
 
-            # read back to local as txt files
-            read_doc_from_gcs(name)
+    #After sending all files in batch through Cloud Vision, wait 45 seconds after reported completion so we're sure JSONS are present in GCS bucket
+    print("Waiting for 45s to ensure files are ready...")
+    time.sleep(45)
+    
+    #Move results from GCS bucket to local machine as .txt files
+    for filename in tqdm(os.listdir(f'../{PDFS_PATH}')):
+         if filename.endswith('.pdf'):
+                print(f'processing {filename}')
+                name = filename.split('.')[0]
+            
+                read_doc_from_gcs(name)
 
 
 if __name__ == "__main__":
